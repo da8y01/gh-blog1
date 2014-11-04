@@ -1,0 +1,779 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>M101J: MongoDB for Java Developers. Week 1: Introduction.</title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="Miscellaneous posts from easy-eng.net site.">
+    <link rel="canonical" href="/2014/05/07/m101j-week1-introduction.html">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/css/main.css">
+
+</head>
+
+
+    <body>
+
+    <header class="site-header">
+
+  <div class="wrap">
+
+    <a class="site-title" href="http://da8y01.github.io">Easy Engineering - Blog</a>
+
+    <nav class="site-nav">
+      <a href="#" class="menu-icon">
+        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+           viewBox="0 0 18 15" enable-background="new 0 0 18 15" xml:space="preserve">
+          <path fill="#505050" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0
+            h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#505050" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484
+            h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#505050" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0
+            c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+        </svg>
+      </a>
+      <div class="trigger">
+        
+          <a class="page-link" href="/about/">About</a>
+        
+          <a class="page-link" href="/feed.xml"></a>
+        
+          <a class="page-link" href="/index.html"></a>
+        
+          <a class="page-link" href="/index.html.BACKUP"></a>
+        
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+    <div class="page-content">
+      <div class="wrap">
+      <div class="post">
+
+  <header class="post-header">
+    <h1>M101J: MongoDB for Java Developers. Week 1: Introduction.</h1>
+    <p class="meta">May 7, 2014</p>
+  </header>
+
+  <article class="post-content">
+  <h2 id="introduction">INTRODUCTION</h2>
+
+<p>Following are presented the contents and answers to the HomeWorks belonging to <em>Week 1 (Introduction)</em> for “<strong>M101J: MongoDB for Java Developers</strong>” course offered by <a href="https://university.mongodb.com/" target="_blank">https://university.mongodb.com/</a> started at 2014-03-17.</p>
+
+<h2 id="homework-11">HOMEWORK 1.1</h2>
+<p><img src="/assets/hw11_Statement1.png" alt="HW 1.1 statement 1" width="75%" style="display:block; margin-left:auto; margin-right:auto" /></p>
+
+<p><img src="/assets/hw11_Statement2.png" alt="HW 1.1 statement 2" width="75%" style="display:block; margin-left:auto; margin-right:auto" /></p>
+
+<h3 id="answer-homework-11">ANSWER HOMEWORK 1.1:</h3>
+<p>Simply it was about verifying the correct MongoDB installation, example data import and basic query execution over those imported data.
+First, <code>mongorestore</code>:</p>
+
+<p><img src="/assets/hw11_MongoRestore.png" alt="HW 1.1 mongorestore" width="75%" style="display:block; margin-left:auto; margin-right:auto" /></p>
+
+<table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><code class="language-text" data-lang="text"> 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13</code></pre></div></td><td class="code"><div class="highlight"><pre>$ l
+dump/
+$ /opt/mongodb-linux-i686-2.6.0/bin/mongorestore 
+connected to: 127.0.0.1
+2014-05-07T11:03:39.465-0500 dump/m101/hw1.bson
+2014-05-07T11:03:39.466-0500    going into namespace [m101.hw1]
+1 objects found
+2014-05-07T11:03:39.514-0500    Creating index: { key: { _id: 1 }, ns: &quot;m101.hw1&quot;, name: &quot;_id_&quot; }
+2014-05-07T11:03:39.595-0500 dump/m101/funnynumbers.bson
+2014-05-07T11:03:39.595-0500    going into namespace [m101.funnynumbers]
+100 objects found
+2014-05-07T11:03:39.598-0500    Creating index: { key: { _id: 1 }, ns: &quot;m101.funnynumbers&quot;, name: &quot;_id_&quot; }
+$
+</pre></div>
+</td></tr></table>
+
+<p>Then, some MongoShell checks about the restoration and the result answer:</p>
+
+<p><img src="/assets/hw11_MongoChecks.png" alt="HW 1.1 mongo checks" width="75%" style="display:block; margin-left:auto; margin-right:auto" /></p>
+
+<table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><code class="language-text" data-lang="text"> 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34</code></pre></div></td><td class="code"><div class="highlight"><pre>&gt; show dbs
+admin    (empty)
+blog     0.078GB
+enron    0.953GB
+final7   0.078GB
+local    0.078GB
+school   0.078GB
+test     0.078GB
+weather  0.078GB
+&gt; show dbs
+admin    (empty)
+blog     0.078GB
+enron    0.953GB
+final7   0.078GB
+local    0.078GB
+m101     0.078GB
+school   0.078GB
+test     0.078GB
+weather  0.078GB
+&gt; use m101
+switched to db m101
+&gt; show tables
+funnynumbers
+hw1
+system.indexes
+&gt; db.hw1.count()
+1
+&gt; db.hw1.findOne()
+{
+    &quot;_id&quot; : ObjectId(&quot;50773061bf44c220307d8514&quot;),
+    &quot;answer&quot; : 42,
+    &quot;question&quot; : &quot;The Ultimate Question of Life, The Universe and Everything&quot;
+}
+&gt;
+</pre></div>
+</td></tr></table>
+
+<h2 id="homework-12">HOMEWORK 1.2</h2>
+<p><img src="/assets/hw12_Statement.png" alt="HW 1.2 statement" width="75%" style="display:block; margin-left:auto; margin-right:auto" /></p>
+
+<h3 id="answer-homework-12">ANSWER HOMEWORK 1.2:</h3>
+<p>Simple theoretic question answered having the notion of JSON structure and syntax, see <a href="http://www.json.org/">http://www.json.org/</a> .</p>
+
+<ul>
+  <li>WRONG. The separator between <em>key:value</em> pairs is a <code>,</code> (comma), NOT a <code>;</code> (semi-colon).</li>
+  <li>CORRECT. It’s a valid JSON document, maybe one thing to note is that the value of the <em>quotes</em> key is an array, and still a valid document.</li>
+  <li>CORRECT. The empty document IS a valid document.</li>
+  <li>WRONG. A couple of errors and doubt interpretations here: the value of the <em>boros</em> key IS NOT valid, it’s not a document nor an array, to be a valid document must have <em>key:value</em> pairs separated by <code>,</code> (commas) inside enclosing <code>{</code> and <code>}</code> (curly braces) and it doesn’t, and to be a valid array must be a list of elements separated by <code>,</code> (commas) inside enclosing <code>[</code> and <code>]</code> (square brackets) and it doesn’t; further, the <em>“population”</em> and <em>7999034</em> items ARE NOT key NOR value NOR array elements of anything; so this “document” is all broke and wrong.</li>
+  <li>CORRECT. This is a valid and fairly common nested document mixing both objects and arrays.</li>
+</ul>
+
+<h2 id="homework-13">HOMEWORK 1.3</h2>
+<p><img src="/assets/hw13_Statement1.png" alt="HW 1.3 statement 1" width="75%" style="display:block; margin-left:auto; margin-right:auto" /></p>
+
+<p><img src="/assets/hw13_Statement2.png" alt="HW 1.3 statement 2" width="75%" style="display:block; margin-left:auto; margin-right:auto" /></p>
+
+<h3 id="answer-homework-13">ANSWER HOMEWORK 1.3:</h3>
+<p>Like <em>HW 1.1</em>, it was about verifying the correct MongoDB installation and example data import, furthermore installation and correctness of JDK, Maven, mongo java driver and others.</p>
+
+<p>Whole Maven project was provided by course, with his <code>pom.xml</code> file, packages, classes and others; here is shown the main file <code>Week1Homework3.java</code>:</p>
+
+<table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><code class="language-java" data-lang="java"> 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56</code></pre></div></td><td class="code"><div class="highlight"><pre><span class="cm">/*</span>
+<span class="cm"> * Copyright (c) 2008 - 2013 10gen, Inc. &lt;http://10gen.com&gt;</span>
+<span class="cm"> *</span>
+<span class="cm"> * Licensed under the Apache License, Version 2.0 (the &quot;License&quot;);</span>
+<span class="cm"> * you may not use this file except in compliance with the License.</span>
+<span class="cm"> * You may obtain a copy of the License at</span>
+<span class="cm"> * </span>
+<span class="cm"> *   http://www.apache.org/licenses/LICENSE-2.0</span>
+<span class="cm"> *</span>
+<span class="cm"> * Unless required by applicable law or agreed to in writing, software</span>
+<span class="cm"> * distributed under the License is distributed on an &quot;AS IS&quot; BASIS,</span>
+<span class="cm"> * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.</span>
+<span class="cm"> * See the License for the specific language governing permissions and</span>
+<span class="cm"> * limitations under the License.</span>
+<span class="cm"> *</span>
+<span class="cm"> */</span>
+
+<span class="kn">package</span> <span class="n">com</span><span class="o">.</span><span class="na">tengen</span><span class="o">;</span>
+
+<span class="kn">import</span> <span class="nn">com.mongodb.AggregationOutput</span><span class="o">;</span>
+<span class="kn">import</span> <span class="nn">com.mongodb.BasicDBObject</span><span class="o">;</span>
+<span class="kn">import</span> <span class="nn">com.mongodb.DB</span><span class="o">;</span>
+<span class="kn">import</span> <span class="nn">com.mongodb.DBCollection</span><span class="o">;</span>
+<span class="kn">import</span> <span class="nn">com.mongodb.DBObject</span><span class="o">;</span>
+<span class="kn">import</span> <span class="nn">com.mongodb.MongoClient</span><span class="o">;</span>
+
+<span class="kn">import</span> <span class="nn">java.net.UnknownHostException</span><span class="o">;</span>
+
+<span class="kd">public</span> <span class="kd">class</span> <span class="nc">Week1Homework3</span> <span class="o">{</span>
+    <span class="kd">public</span> <span class="kd">static</span> <span class="kt">void</span> <span class="nf">main</span><span class="o">(</span><span class="n">String</span><span class="o">[]</span> <span class="n">args</span><span class="o">)</span> <span class="kd">throws</span> <span class="n">UnknownHostException</span> <span class="o">{</span>
+        <span class="n">MongoClient</span> <span class="n">client</span> <span class="o">=</span> <span class="k">new</span> <span class="nf">MongoClient</span><span class="o">();</span>
+
+        <span class="n">DB</span> <span class="n">database</span> <span class="o">=</span> <span class="n">client</span><span class="o">.</span><span class="na">getDB</span><span class="o">(</span><span class="s">&quot;m101&quot;</span><span class="o">);</span>
+        <span class="n">DBCollection</span> <span class="n">collection</span> <span class="o">=</span> <span class="n">database</span><span class="o">.</span><span class="na">getCollection</span><span class="o">(</span><span class="s">&quot;funnynumbers&quot;</span><span class="o">);</span>
+
+        <span class="c1">// Not necessary yet to understand this.  It&#39;s just to prove that you</span>
+        <span class="c1">// are able to run a command on a mongod server</span>
+        <span class="n">AggregationOutput</span> <span class="n">output</span> <span class="o">=</span>
+                <span class="n">collection</span><span class="o">.</span><span class="na">aggregate</span><span class="o">(</span>
+                        <span class="k">new</span> <span class="nf">BasicDBObject</span><span class="o">(</span><span class="s">&quot;$group&quot;</span><span class="o">,</span>
+                                <span class="k">new</span> <span class="nf">BasicDBObject</span><span class="o">(</span><span class="s">&quot;_id&quot;</span><span class="o">,</span> <span class="s">&quot;$value&quot;</span><span class="o">)</span>
+                                        <span class="o">.</span><span class="na">append</span><span class="o">(</span><span class="s">&quot;count&quot;</span><span class="o">,</span> <span class="k">new</span> <span class="nf">BasicDBObject</span><span class="o">(</span><span class="s">&quot;$sum&quot;</span><span class="o">,</span> <span class="mi">1</span><span class="o">)))</span>
+                        <span class="o">,</span>
+                        <span class="k">new</span> <span class="nf">BasicDBObject</span><span class="o">(</span><span class="s">&quot;$match&quot;</span><span class="o">,</span> <span class="k">new</span> <span class="nf">BasicDBObject</span><span class="o">(</span><span class="s">&quot;count&quot;</span><span class="o">,</span>
+                                <span class="k">new</span> <span class="nf">BasicDBObject</span><span class="o">(</span><span class="s">&quot;$gt&quot;</span><span class="o">,</span> <span class="mi">2</span><span class="o">))),</span>
+                        <span class="k">new</span> <span class="nf">BasicDBObject</span><span class="o">(</span><span class="s">&quot;$sort&quot;</span><span class="o">,</span> <span class="k">new</span> <span class="nf">BasicDBObject</span><span class="o">(</span><span class="s">&quot;_id&quot;</span><span class="o">,</span> <span class="mi">1</span><span class="o">))</span>
+                <span class="o">);</span>
+
+        <span class="kt">int</span> <span class="n">answer</span> <span class="o">=</span> <span class="mi">0</span><span class="o">;</span>
+        <span class="k">for</span> <span class="o">(</span><span class="n">DBObject</span> <span class="n">doc</span> <span class="o">:</span> <span class="n">output</span><span class="o">.</span><span class="na">results</span><span class="o">())</span> <span class="o">{</span>
+            <span class="n">answer</span> <span class="o">+=</span> <span class="o">(</span><span class="n">Double</span><span class="o">)</span> <span class="n">doc</span><span class="o">.</span><span class="na">get</span><span class="o">(</span><span class="s">&quot;_id&quot;</span><span class="o">);</span>
+        <span class="o">}</span>
+
+        <span class="n">System</span><span class="o">.</span><span class="na">out</span><span class="o">.</span><span class="na">println</span><span class="o">(</span><span class="s">&quot;THE ANSWER IS: &quot;</span> <span class="o">+</span> <span class="n">answer</span><span class="o">);</span>
+    <span class="o">}</span>
+<span class="o">}</span>
+</pre></div>
+</td></tr></table>
+
+<p>Here the compilation and execution of the program, and the answer result obtained:</p>
+
+<p><img src="/assets/hw13_Terminal1.png" alt="HW 1.3 terminal 1" width="75%" style="display:block; margin-left:auto; margin-right:auto" /></p>
+
+<p><img src="/assets/hw13_Terminal2.png" alt="HW 1.3 terminal 2" width="75%" style="display:block; margin-left:auto; margin-right:auto" /></p>
+
+<table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><code class="language-text" data-lang="text"> 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51</code></pre></div></td><td class="code"><div class="highlight"><pre>$ l
+pom.xml  src/  target/
+$ mvn compile exec:java -Dexec.mainClass=com.tengen.Week1Homework3
+[INFO] Scanning for projects...
+[INFO] Searching repository for plugin with prefix: &#39;exec&#39;.
+[INFO] ------------------------------------------------------------------------
+[INFO] Building M101J-week1-homework3
+[INFO]    task-segment: [compile, exec:java]
+[INFO] ------------------------------------------------------------------------
+[INFO] [resources:resources {execution: default-resources}]
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory /src/main/resources
+[INFO] [compiler:compile {execution: default-compile}]
+[INFO] Nothing to compile - all classes are up to date
+[INFO] [exec:java {execution: default-cli}]
+[WARNING] Warning: killAfter is now deprecated. Do you need it ? Please comment on MEXEC-6.
+THE ANSWER IS: 366
+[WARNING] thread Thread[MongoCleaner12877540,5,com.tengen.Week1Homework3] was interrupted but is still alive after waiting at least 15000msecs
+[WARNING] thread Thread[MongoCleaner12877540,5,com.tengen.Week1Homework3] will linger despite being asked to die via interruption
+[WARNING] NOTE: 1 thread(s) did not finish despite being asked to  via interruption. This is not a problem with exec:java, it is a problem with the running code. Although not serious, it should be remedied.
+[WARNING] Couldn&#39;t destroy threadgroup org.codehaus.mojo.exec.ExecJavaMojo$IsolatedThreadGroup[name=com.tengen.Week1Homework3,maxpri=10]
+java.lang.IllegalThreadStateException
+    at java.lang.ThreadGroup.destroy(ThreadGroup.java:775)
+    at org.codehaus.mojo.exec.ExecJavaMojo.execute(ExecJavaMojo.java:328)
+    at org.apache.maven.plugin.DefaultPluginManager.executeMojo(DefaultPluginManager.java:490)
+    at org.apache.maven.lifecycle.DefaultLifecycleExecutor.executeGoals(DefaultLifecycleExecutor.java:694)
+    at org.apache.maven.lifecycle.DefaultLifecycleExecutor.executeStandaloneGoal(DefaultLifecycleExecutor.java:569)
+    at org.apache.maven.lifecycle.DefaultLifecycleExecutor.executeGoal(DefaultLifecycleExecutor.java:539)
+    at org.apache.maven.lifecycle.DefaultLifecycleExecutor.executeGoalAndHandleFailures(DefaultLifecycleExecutor.java:387)
+    at org.apache.maven.lifecycle.DefaultLifecycleExecutor.executeTaskSegments(DefaultLifecycleExecutor.java:348)
+    at org.apache.maven.lifecycle.DefaultLifecycleExecutor.execute(DefaultLifecycleExecutor.java:180)
+    at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:328)
+    at org.apache.maven.DefaultMaven.execute(DefaultMaven.java:138)
+    at org.apache.maven.cli.MavenCli.main(MavenCli.java:362)
+    at org.apache.maven.cli.compat.CompatibleMain.main(CompatibleMain.java:60)
+    at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+    at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+    at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+    at java.lang.reflect.Method.invoke(Method.java:606)
+    at org.codehaus.classworlds.Launcher.launchEnhanced(Launcher.java:315)
+    at org.codehaus.classworlds.Launcher.launch(Launcher.java:255)
+    at org.codehaus.classworlds.Launcher.mainWithExitCode(Launcher.java:430)
+    at org.codehaus.classworlds.Launcher.main(Launcher.java:375)
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESSFUL
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 24 seconds
+[INFO] Finished at: Wed May 07 11:27:35 COT 2014
+[INFO] Final Memory: 17M/41M
+[INFO] ------------------------------------------------------------------------
+$
+</pre></div>
+</td></tr></table>
+
+<h2 id="homework-14">HOMEWORK 1.4</h2>
+<p><img src="/assets/hw14_Statement1.png" alt="HW 1.4 statement 1" width="75%" style="display:block; margin-left:auto; margin-right:auto" /></p>
+
+<p><img src="/assets/hw14_Statement2.png" alt="HW 1.4 statement 2" width="75%" style="display:block; margin-left:auto; margin-right:auto" /></p>
+
+<h3 id="answer-homework-14">ANSWER HOMEWORK 1.4:</h3>
+<p>Like <em>HW’s 1.1 and 1.3</em>, it was about verifying the correctness of MongoDB installation, example data import, JDK, Maven, mongo java driver, furthermore Spark, Freemarker and others.</p>
+
+<p>Whole Maven project was provided by course, with his <code>pom.xml</code> file, packages, classes and others; here is shown the main file <code>Week1Homework4.java</code>:</p>
+
+<table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><code class="language-java" data-lang="java"> 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92</code></pre></div></td><td class="code"><div class="highlight"><pre><span class="cm">/*</span>
+<span class="cm"> * Copyright (c) 2008 - 2013 10gen, Inc. &lt;http://10gen.com&gt;</span>
+<span class="cm"> *</span>
+<span class="cm"> * Licensed under the Apache License, Version 2.0 (the &quot;License&quot;);</span>
+<span class="cm"> * you may not use this file except in compliance with the License.</span>
+<span class="cm"> * You may obtain a copy of the License at</span>
+<span class="cm"> * </span>
+<span class="cm"> *   http://www.apache.org/licenses/LICENSE-2.0</span>
+<span class="cm"> *</span>
+<span class="cm"> * Unless required by applicable law or agreed to in writing, software</span>
+<span class="cm"> * distributed under the License is distributed on an &quot;AS IS&quot; BASIS,</span>
+<span class="cm"> * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.</span>
+<span class="cm"> * See the License for the specific language governing permissions and</span>
+<span class="cm"> * limitations under the License.</span>
+<span class="cm"> *</span>
+<span class="cm"> */</span>
+
+<span class="kn">package</span> <span class="n">com</span><span class="o">.</span><span class="na">tengen</span><span class="o">;</span>
+
+<span class="kn">import</span> <span class="nn">com.mongodb.AggregationOutput</span><span class="o">;</span>
+<span class="kn">import</span> <span class="nn">com.mongodb.BasicDBObject</span><span class="o">;</span>
+<span class="kn">import</span> <span class="nn">com.mongodb.DB</span><span class="o">;</span>
+<span class="kn">import</span> <span class="nn">com.mongodb.DBCollection</span><span class="o">;</span>
+<span class="kn">import</span> <span class="nn">com.mongodb.DBObject</span><span class="o">;</span>
+<span class="kn">import</span> <span class="nn">com.mongodb.MongoClient</span><span class="o">;</span>
+<span class="kn">import</span> <span class="nn">com.mongodb.ServerAddress</span><span class="o">;</span>
+<span class="kn">import</span> <span class="nn">freemarker.template.Configuration</span><span class="o">;</span>
+<span class="kn">import</span> <span class="nn">freemarker.template.Template</span><span class="o">;</span>
+<span class="kn">import</span> <span class="nn">org.slf4j.Logger</span><span class="o">;</span>
+<span class="kn">import</span> <span class="nn">org.slf4j.LoggerFactory</span><span class="o">;</span>
+<span class="kn">import</span> <span class="nn">spark.Request</span><span class="o">;</span>
+<span class="kn">import</span> <span class="nn">spark.Response</span><span class="o">;</span>
+<span class="kn">import</span> <span class="nn">spark.Route</span><span class="o">;</span>
+<span class="kn">import</span> <span class="nn">spark.Spark</span><span class="o">;</span>
+
+<span class="kn">import</span> <span class="nn">java.io.StringWriter</span><span class="o">;</span>
+<span class="kn">import</span> <span class="nn">java.net.UnknownHostException</span><span class="o">;</span>
+<span class="kn">import</span> <span class="nn">java.util.HashMap</span><span class="o">;</span>
+<span class="kn">import</span> <span class="nn">java.util.Map</span><span class="o">;</span>
+
+<span class="kd">public</span> <span class="kd">class</span> <span class="nc">Week1Homework4</span> <span class="o">{</span>
+    <span class="kd">private</span> <span class="kd">static</span> <span class="kd">final</span> <span class="n">Logger</span> <span class="n">logger</span> <span class="o">=</span> <span class="n">LoggerFactory</span><span class="o">.</span><span class="na">getLogger</span><span class="o">(</span><span class="s">&quot;logger&quot;</span><span class="o">);</span>
+
+    <span class="kd">public</span> <span class="kd">static</span> <span class="kt">void</span> <span class="nf">main</span><span class="o">(</span><span class="n">String</span><span class="o">[]</span> <span class="n">args</span><span class="o">)</span> <span class="kd">throws</span> <span class="n">UnknownHostException</span> <span class="o">{</span>
+        <span class="kd">final</span> <span class="n">Configuration</span> <span class="n">configuration</span> <span class="o">=</span> <span class="k">new</span> <span class="nf">Configuration</span><span class="o">();</span>
+        <span class="n">configuration</span><span class="o">.</span><span class="na">setClassForTemplateLoading</span><span class="o">(</span>
+                <span class="n">Week1Homework4</span><span class="o">.</span><span class="na">class</span><span class="o">,</span> <span class="s">&quot;/&quot;</span><span class="o">);</span>
+
+        <span class="n">MongoClient</span> <span class="n">client</span> <span class="o">=</span> <span class="k">new</span> <span class="nf">MongoClient</span><span class="o">(</span><span class="k">new</span> <span class="nf">ServerAddress</span><span class="o">(</span><span class="s">&quot;localhost&quot;</span><span class="o">,</span> <span class="mi">27017</span><span class="o">));</span>
+
+        <span class="n">DB</span> <span class="n">database</span> <span class="o">=</span> <span class="n">client</span><span class="o">.</span><span class="na">getDB</span><span class="o">(</span><span class="s">&quot;m101&quot;</span><span class="o">);</span>
+        <span class="kd">final</span> <span class="n">DBCollection</span> <span class="n">collection</span> <span class="o">=</span> <span class="n">database</span><span class="o">.</span><span class="na">getCollection</span><span class="o">(</span><span class="s">&quot;funnynumbers&quot;</span><span class="o">);</span>
+
+        <span class="n">Spark</span><span class="o">.</span><span class="na">get</span><span class="o">(</span><span class="k">new</span> <span class="nf">Route</span><span class="o">(</span><span class="s">&quot;/&quot;</span><span class="o">)</span> <span class="o">{</span>
+            <span class="nd">@Override</span>
+            <span class="kd">public</span> <span class="n">Object</span> <span class="nf">handle</span><span class="o">(</span><span class="kd">final</span> <span class="n">Request</span> <span class="n">request</span><span class="o">,</span>
+                                 <span class="kd">final</span> <span class="n">Response</span> <span class="n">response</span><span class="o">)</span> <span class="o">{</span>
+                <span class="n">StringWriter</span> <span class="n">writer</span> <span class="o">=</span> <span class="k">new</span> <span class="nf">StringWriter</span><span class="o">();</span>
+                <span class="k">try</span> <span class="o">{</span>
+                    <span class="n">Template</span> <span class="n">helloTemplate</span> <span class="o">=</span> <span class="n">configuration</span><span class="o">.</span><span class="na">getTemplate</span><span class="o">(</span><span class="s">&quot;answer.ftl&quot;</span><span class="o">);</span>
+
+                    <span class="c1">// Not necessary yet to understand this.  It&#39;s just to prove that you</span>
+                    <span class="c1">// are able to run a command on a mongod server</span>
+                    <span class="n">AggregationOutput</span> <span class="n">output</span> <span class="o">=</span>
+                            <span class="n">collection</span><span class="o">.</span><span class="na">aggregate</span><span class="o">(</span>
+                                    <span class="k">new</span> <span class="nf">BasicDBObject</span><span class="o">(</span><span class="s">&quot;$group&quot;</span><span class="o">,</span>
+                                            <span class="k">new</span> <span class="nf">BasicDBObject</span><span class="o">(</span><span class="s">&quot;_id&quot;</span><span class="o">,</span> <span class="s">&quot;$value&quot;</span><span class="o">)</span>
+                                                    <span class="o">.</span><span class="na">append</span><span class="o">(</span><span class="s">&quot;count&quot;</span><span class="o">,</span> <span class="k">new</span> <span class="nf">BasicDBObject</span><span class="o">(</span><span class="s">&quot;$sum&quot;</span><span class="o">,</span> <span class="mi">1</span><span class="o">)))</span>
+                                    <span class="o">,</span>
+                                    <span class="k">new</span> <span class="nf">BasicDBObject</span><span class="o">(</span><span class="s">&quot;$match&quot;</span><span class="o">,</span> <span class="k">new</span> <span class="nf">BasicDBObject</span><span class="o">(</span><span class="s">&quot;count&quot;</span><span class="o">,</span>
+                                            <span class="k">new</span> <span class="nf">BasicDBObject</span><span class="o">(</span><span class="s">&quot;$lte&quot;</span><span class="o">,</span> <span class="mi">2</span><span class="o">))),</span>
+                                    <span class="k">new</span> <span class="nf">BasicDBObject</span><span class="o">(</span><span class="s">&quot;$sort&quot;</span><span class="o">,</span> <span class="k">new</span> <span class="nf">BasicDBObject</span><span class="o">(</span><span class="s">&quot;_id&quot;</span><span class="o">,</span> <span class="mi">1</span><span class="o">))</span>
+                            <span class="o">);</span>
+
+                    <span class="kt">int</span> <span class="n">answer</span> <span class="o">=</span> <span class="mi">0</span><span class="o">;</span>
+                    <span class="k">for</span> <span class="o">(</span><span class="n">DBObject</span> <span class="n">doc</span> <span class="o">:</span> <span class="n">output</span><span class="o">.</span><span class="na">results</span><span class="o">())</span> <span class="o">{</span>
+                        <span class="n">answer</span> <span class="o">+=</span> <span class="o">(</span><span class="n">Double</span><span class="o">)</span> <span class="n">doc</span><span class="o">.</span><span class="na">get</span><span class="o">(</span><span class="s">&quot;_id&quot;</span><span class="o">);</span>
+                    <span class="o">}</span>
+
+                    <span class="n">Map</span><span class="o">&lt;</span><span class="n">String</span><span class="o">,</span> <span class="n">String</span><span class="o">&gt;</span> <span class="n">answerMap</span> <span class="o">=</span> <span class="k">new</span> <span class="n">HashMap</span><span class="o">&lt;</span><span class="n">String</span><span class="o">,</span> <span class="n">String</span><span class="o">&gt;();</span>
+                    <span class="n">answerMap</span><span class="o">.</span><span class="na">put</span><span class="o">(</span><span class="s">&quot;answer&quot;</span><span class="o">,</span> <span class="n">Integer</span><span class="o">.</span><span class="na">toString</span><span class="o">(</span><span class="n">answer</span><span class="o">));</span>
+
+                    <span class="n">helloTemplate</span><span class="o">.</span><span class="na">process</span><span class="o">(</span><span class="n">answerMap</span><span class="o">,</span> <span class="n">writer</span><span class="o">);</span>
+                <span class="o">}</span> <span class="k">catch</span> <span class="o">(</span><span class="n">Exception</span> <span class="n">e</span><span class="o">)</span> <span class="o">{</span>
+                    <span class="n">logger</span><span class="o">.</span><span class="na">error</span><span class="o">(</span><span class="s">&quot;Failed&quot;</span><span class="o">,</span> <span class="n">e</span><span class="o">);</span>
+                    <span class="n">halt</span><span class="o">(</span><span class="mi">500</span><span class="o">);</span>
+                <span class="o">}</span>
+                <span class="k">return</span> <span class="n">writer</span><span class="o">;</span>
+            <span class="o">}</span>
+        <span class="o">});</span>
+    <span class="o">}</span>
+<span class="o">}</span>
+</pre></div>
+</td></tr></table>
+
+<p>Here the compilation and execution of the program launching the Spark web application:</p>
+
+<p><img src="/assets/hw14_Terminal.png" alt="HW 1.4 terminal" width="75%" style="display:block; margin-left:auto; margin-right:auto" /></p>
+
+<table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><code class="language-text" data-lang="text"> 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29</code></pre></div></td><td class="code"><div class="highlight"><pre>$ l
+pom.xml  src/  target/
+$ mvn compile exec:java -Dexec.mainClass=com.tengen.Week1Homework4
+[INFO] Scanning for projects...
+[INFO] Searching repository for plugin with prefix: &#39;exec&#39;.
+[INFO] ------------------------------------------------------------------------
+[INFO] Building M101J
+[INFO]    task-segment: [compile, exec:java]
+[INFO] ------------------------------------------------------------------------
+[INFO] [resources:resources {execution: default-resources}]
+[INFO] Using &#39;UTF-8&#39; encoding to copy filtered resources.
+[INFO] Copying 1 resource
+[INFO] snapshot spark:spark:0.9.9.4-SNAPSHOT: checking for updates from Spark repository
+Downloading: http://www.sparkjava.com/nexus/content/repositories/spark//org/slf4j/slf4j-simple/1.6.4/slf4j-simple-1.6.4.pom
+[INFO] Unable to find resource &#39;org.slf4j:slf4j-simple:pom:1.6.4&#39; in repository Spark repository (http://www.sparkjava.com/nexus/content/repositories/spark/)
+Downloading: http://repo1.maven.org/maven2/org/slf4j/slf4j-simple/1.6.4/slf4j-simple-1.6.4.pom
+1K downloaded  (slf4j-simple-1.6.4.pom)
+Downloading: http://www.sparkjava.com/nexus/content/repositories/spark//org/slf4j/slf4j-simple/1.6.4/slf4j-simple-1.6.4.jar
+[INFO] Unable to find resource &#39;org.slf4j:slf4j-simple:jar:1.6.4&#39; in repository Spark repository (http://www.sparkjava.com/nexus/content/repositories/spark/)
+Downloading: http://repo1.maven.org/maven2/org/slf4j/slf4j-simple/1.6.4/slf4j-simple-1.6.4.jar
+7K downloaded  (slf4j-simple-1.6.4.jar)
+[INFO] [compiler:compile {execution: default-compile}]
+[INFO] Nothing to compile - all classes are up to date
+[INFO] [exec:java {execution: default-cli}]
+[WARNING] Warning: killAfter is now deprecated. Do you need it ? Please comment on MEXEC-6.
+== Spark has ignited ...
+&gt;&gt; Listening on 0.0.0.0:4567
+636 [Thread-2] INFO org.eclipse.jetty.util.log - jetty-7.3.0.v20110203
+710 [Thread-2] INFO org.eclipse.jetty.util.log - Started SocketConnector@0.0.0.0:4567
+</pre></div>
+</td></tr></table>
+
+<p>Finally, the result obtained browsing to the recently launched Spark web application:</p>
+
+<p><img src="/assets/hw14_Browser.png" alt="HW 1.4 browser" width="75%" style="display:block; margin-left:auto; margin-right:auto" /></p>
+
+<h2 id="progress">PROGRESS</h2>
+<p><img src="/assets/progress.png" alt="Progress week 1" width="75%" style="display:block; margin-left:auto; margin-right:auto" /></p>
+
+<h2 id="references">REFERENCES</h2>
+<ul>
+  <li><a href="https://university.mongodb.com/" target="_blank">https://university.mongodb.com/</a></li>
+  <li><a href="http://api.mongodb.org/" target="_blank">http://api.mongodb.org/</a></li>
+  <li><a href="http://www.mongodb.com/" target="_blank">http://www.mongodb.com/</a></li>
+  <li><a href="http://hao-deng.blogspot.com/search/label/Mongodb" target="_blank">http://hao-deng.blogspot.com/search/label/Mongodb</a></li>
+  <li><a href="http://ankurthetechie.blogspot.com/2013/09/final-exam-answers-with-explanation-for.html" target="_blank">http://ankurthetechie.blogspot.com/2013/09/final-exam-answers-with-explanation-for.html</a></li>
+  <li><a href="http://techinote.com/mongodb-final-exam/" target="_blank">http://techinote.com/mongodb-final-exam/</a></li>
+</ul>
+
+
+  </article>
+
+</div>
+      </div>
+    </div>
+
+    <footer class="site-footer">
+
+  <div class="wrap">
+
+    <h2 class="footer-heading">Easy Engineering - Blog</h2>
+
+    <div class="footer-col-1 column">
+      <ul>
+        <li>Easy Engineering - Blog</li>
+        <li><a href="mailto:blog@easy-eng.net">blog@easy-eng.net</a></li>
+      </ul>
+    </div>
+
+    <div class="footer-col-2 column">
+      <ul>
+        <li>
+          <a href="https://github.com/">
+            <span class="icon github">
+              <svg version="1.1" class="github-icon-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                 viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
+                <path fill-rule="evenodd" clip-rule="evenodd" fill="#C2C2C2" d="M7.999,0.431c-4.285,0-7.76,3.474-7.76,7.761
+                c0,3.428,2.223,6.337,5.307,7.363c0.388,0.071,0.53-0.168,0.53-0.374c0-0.184-0.007-0.672-0.01-1.32
+                c-2.159,0.469-2.614-1.04-2.614-1.04c-0.353-0.896-0.862-1.135-0.862-1.135c-0.705-0.481,0.053-0.472,0.053-0.472
+                c0.779,0.055,1.189,0.8,1.189,0.8c0.692,1.186,1.816,0.843,2.258,0.645c0.071-0.502,0.271-0.843,0.493-1.037
+                C4.86,11.425,3.049,10.76,3.049,7.786c0-0.847,0.302-1.54,0.799-2.082C3.768,5.507,3.501,4.718,3.924,3.65
+                c0,0,0.652-0.209,2.134,0.796C6.677,4.273,7.34,4.187,8,4.184c0.659,0.003,1.323,0.089,1.943,0.261
+                c1.482-1.004,2.132-0.796,2.132-0.796c0.423,1.068,0.157,1.857,0.077,2.054c0.497,0.542,0.798,1.235,0.798,2.082
+                c0,2.981-1.814,3.637-3.543,3.829c0.279,0.24,0.527,0.713,0.527,1.437c0,1.037-0.01,1.874-0.01,2.129
+                c0,0.208,0.14,0.449,0.534,0.373c3.081-1.028,5.302-3.935,5.302-7.362C15.76,3.906,12.285,0.431,7.999,0.431z"/>
+              </svg>
+            </span>
+            <span class="username"></span>
+          </a>
+        </li>
+        <li>
+          <a href="https://twitter.com/">
+            <span class="icon twitter">
+              <svg version="1.1" class="twitter-icon-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                 viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
+                <path fill="#C2C2C2" d="M15.969,3.058c-0.586,0.26-1.217,0.436-1.878,0.515c0.675-0.405,1.194-1.045,1.438-1.809
+                c-0.632,0.375-1.332,0.647-2.076,0.793c-0.596-0.636-1.446-1.033-2.387-1.033c-1.806,0-3.27,1.464-3.27,3.27
+                c0,0.256,0.029,0.506,0.085,0.745C5.163,5.404,2.753,4.102,1.14,2.124C0.859,2.607,0.698,3.168,0.698,3.767
+                c0,1.134,0.577,2.135,1.455,2.722C1.616,6.472,1.112,6.325,0.671,6.08c0,0.014,0,0.027,0,0.041c0,1.584,1.127,2.906,2.623,3.206
+                C3.02,9.402,2.731,9.442,2.433,9.442c-0.211,0-0.416-0.021-0.615-0.059c0.416,1.299,1.624,2.245,3.055,2.271
+                c-1.119,0.877-2.529,1.4-4.061,1.4c-0.264,0-0.524-0.015-0.78-0.046c1.447,0.928,3.166,1.469,5.013,1.469
+                c6.015,0,9.304-4.983,9.304-9.304c0-0.142-0.003-0.283-0.009-0.423C14.976,4.29,15.531,3.714,15.969,3.058z"/>
+              </svg>
+            </span>
+            <span class="username"></span>
+          </a>
+        </li>
+      </ul>
+    </div>
+
+    <div class="footer-col-3 column">
+      <p class="text">Miscellaneous posts from easy-eng.net site.</p>
+    </div>
+
+  </div>
+
+</footer>
+
+
+    </body>
+</html>
