@@ -265,7 +265,7 @@ Ojalá no le hubiera hecho esa promesa.
 
 Le he dicho que estar desnudo y bajar resbalando por una barandilla erizada de hojas de afeitar.
 
-A lo mejor este año quedará claro si me hago siciólogo o sigo en la carretera.
+A lo mejor este año quedará claro si me hago sociólogo o sigo en la carretera.
 
 La esfera astral no es un lugar donde se puedan tener inhibiciones burguesas.
 
@@ -577,7 +577,7 @@ Sus oraciones marmóreas han sido trabajadas para proteger de las críticas.
 
 Una dicción meticulosa puede hacer que los amantes de la buena escritura elogien cosas como fantasías opiáceas de prostitución infantil en los arrabales de Londres o investigaciones filosóficas sobre la naturaleza del adulterio llevadas a cabo por alejandrinos corruptos y cosmopolitas.
 
-Los párrafos barrocos de antítesis queilibradas reverberan a causa de los ecos internos, las simetrías y los paralelismos.
+Los párrafos barrocos de antítesis equilibradas reverberan a causa de los ecos internos, las simetrías y los paralelismos.
 
 La muerte es un juego de palabras y el crímen es un pretexto para el disfraz ornamental.
 
@@ -855,7 +855,7 @@ Ha sido asombrosamente imprecisa al hablar de su familia.
 Cuando ha llegado el momento de pagar la cuenta, he montado mi número habitual de búsqueda frenética de la cartera.
 En pleno ataque de pánico, he empezado a vaciar todos los bolsillos sobre la mesa.
 
-Entonces se ha quedado terriblmente cortada.
+Entonces se ha quedado terriblemente cortada.
 
 He oído mi voz. Rezumaba tanta insinceridad como la de un presentador de televisión.
 
@@ -1009,7 +1009,7 @@ Cuando entré en la peluquería su cara se iluminó durante un instante, pero cu
 Me habría sentido mejor si me hubieran encomendado la tarea de romper lentamente las alas de un polluelo.
 
 Ella se sentó con pesadez y giró la cara en un intento inútil de ocultarnos que estaba llorando en silencio.
-Supongo que tendría que haberla tocada para reconfortarla, pero no pude hacerlo.
+Supongo que tendría que haberla tocado para reconfortarla, pero no pude hacerlo.
 
 -Ahora que han averiguado que yo era un espía entre ellos, ella y yo tenemos que escapar.
 

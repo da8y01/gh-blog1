@@ -415,7 +415,7 @@ Estaba con las manos en los bolsillos y espiaba las caras que lo rodeaban.
 
 su rostro lucía una media sonrisa despectiva, pero su mirada era angustiosa.
 
-El río sin entusiasmo y dijo una lisura.
+Él río sin entusiasmo y dijo una lisura.
 
 Hubo algunas risas desganadas, corteses.
 
@@ -583,7 +583,7 @@ Era bien fregado, sabía hacer reír a la gente.
 
 Y era hasta respondón.
 
-con su cara larga y mirndo sabe Dios qué cosa, soñando con los ojos abiertos.
+con su cara larga y mirando sabe Dios qué cosa, soñando con los ojos abiertos.
 
 Lo ha demolido la muerte de su yunta. Los blanquiñosos son pura pinta, cara de hombre y alma de mujer, les falta temple; éste se ha quedado enfermo, es el que más ha sentido la muerte.
 
@@ -651,7 +651,7 @@ Examinó sus facciones inmóviles, trató de recordar; inútil, el rostro se con
 
 Ahora, veía en la penumbra sus ojos, no muy grandes, pero sí brillantes e incisivos. Él no se movía ni hablaba, pero en su rigidez y en su silencio había algo indócil que disgustó.
 
-su rostro no había variado, se mostravba severp y tranquilo.
+su rostro no había variado, se mostraba severo y tranquilo.
 
 Su voz correspondía exactamente a sus ojos. Las palabras eran respetuosas y las pronunciaba despacio, articulándolas con cierta sensualidad, pero el tono dejaba entrever una secreta arrogancia.
 
