@@ -3,8 +3,464 @@
   <channel>
     <title>Easy Engineering - Blog</title>
     <description>Miscellaneous posts from easy-eng.net site.</description>
-    <link></link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <link>/gh-blog</link>
+    <atom:link href="/gh-blog/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>CriptoPunks: La libertad y el futuro de internet - Julian Assange con Jacob Appelbaum, Andy Müller-Maguhn y Jérémie Zimmermann</title>
+        <description>&lt;div style=&quot;text-align:center&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/Criptopunks_front.jpg&quot; alt=&quot;Criptopunks (portada)&quot; title=&quot;Criptopunks (portada)&quot; width=&quot;40%&quot; /&gt;
+&lt;img src=&quot;/gh-blog/assets/Criptopunks_back.jpg&quot; alt=&quot;Criptopunks (contra-portada)&quot; title=&quot;Criptopunks (contra-portada)&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;autor&quot;&gt;AUTOR&lt;/h2&gt;
+&lt;p&gt;JULIAN ASSANGE, es periodista, editor en jefe de WikiLeaks. Su trabajo se orienta por el lema criptopunk: “Privacidad para los pobres, transparencia para los poderosos”. En 2010, WikiLeaks reveló el sistemático abuso del secreto por los militares y el gobierno estadounidenses. Estas publicaciones -&lt;em&gt;Asesinato colateral&lt;/em&gt;, los &lt;em&gt;Diarios de la guerra de Afganistan&lt;/em&gt; y &lt;em&gt;Cablegate&lt;/em&gt;- tuvieron como respuesta una campaña para destruir WikiLeaks. En Estados Unidos hay un proceso en curso donde penden acusaciones de espionaje y terrorismo. Assange se encuentra desde junio de 2012 asilado en la Embajada de Ecuador en Londres esperando un salvoconducto que le permita evitar ser extraditado a Estados Unidos. De adolescente, fue uno de los primeros investigadores en materia de seguridad informática y de redes; es autor de numerosos proyectos de &lt;em&gt;software&lt;/em&gt;, como el sistema Rubberhose de cifrado y el código original de WikiLeaks. Es coautor, junto con Sulette Dreyfus, de &lt;em&gt;Underground&lt;/em&gt;, la historia del movimiento &lt;em&gt;hacker&lt;/em&gt; internacional.&lt;/p&gt;
+
+&lt;h2 id=&quot;sinopsis&quot;&gt;SINOPSIS&lt;/h2&gt;
+&lt;p&gt;La infraestructura de internet dirige gran parte del tráfico desde y hacia América Latina a través de cables de fibra óptica que físicamente atraviesan las fronteras de Estados Unidos. El Gobierno de Estados Unidos no ha mostrado escrúpulos en transgredir su propia ley al interceptar estas líneas para espiar a sus propios ciudadanos. Y no existen las leyes que impidan espiar a ciudadanos extranjeros. Cada día, cientos de millones de mensajes de toda América Latina son devorados por las agencias de espionaje de Estados Unidos y almacenados para siempre en depósitos del tamaño de ciudades.&lt;/p&gt;
+
+&lt;p&gt;El mundo debe ser conciente del riesgo que la vigilancia – significa para América Latina y para el antiguo Tercer Mundo. No sólo es un problema para la democracia o para la gobernabilidad, sino que es un problema geopolítico. El control de toda una población por parte de poderes internacionales naturalmente amenaza la soberanía.&lt;/p&gt;
+
+&lt;p&gt;Internet, nuestro mayor instrumento de emancipación, ha sido transformado en la más peligrosa herramienta del totalitarismo que hayamos visto.&lt;/p&gt;
+
+&lt;p&gt;Julian Assange, &lt;em&gt;Prefacio para América Latina&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;resumen-por-captulos&quot;&gt;RESUMEN POR CAPÍTULOS&lt;/h2&gt;
+
+&lt;h3 id=&quot;qu-es-un-criptopunk&quot;&gt;¿Qué es un criptopunk?&lt;/h3&gt;
+&lt;p&gt;Definición del rol del término históricamente, y ascepción etimológica.&lt;/p&gt;
+
+&lt;h3 id=&quot;ms-all-del-libertarismo-prefacio-para-amrica-latina&quot;&gt;Más allá del libertarismo: prefacio para América Latina&lt;/h3&gt;
+&lt;p&gt;Se recalcan las experiencias vividas que han llevado a comprender la dinámica del orden internacional, del antiguo Tercer Mundo y la vigilancia, de las consideraciones geográficas y de recursos como los oleoductos petroleros y los canales de fibra óptica, del hardware criptográfico violado comercializado, de la comunidad de Inteligencia de EU, de la opción del software criptográfico abierto, de la gran carrera armamentista actual, del caso de África y China, de la lucha de los criptopunks, del poder de la croptografía como solución para las libertades individuales y la soberanía de los Estados, y del mensaje entre líneas durante el texto.&lt;/p&gt;
+
+&lt;h3 id=&quot;introduccin-un-llamamiento-a-las-armas-criptogrficas&quot;&gt;Introducción: un llamamiento a las armas criptográficas&lt;/h3&gt;
+&lt;p&gt;Se lanza una alarma de la amenaza para la civilización humana como distopía moderna de vigilancia que representa Internet bajo el poder coercitivo de los Estados, de que se conoce al enemigo, de la violencia estatal, del espacio platónico que es Internet, del apoderamiento del Estado de este espacio platónico desde el mundo físico, de la propiedad física del universo que es la codificación y su materialización en la criptografía, del carácter pasivo-agresivo de la criptografía, de la proyección de la criptografía al mundo físico para redefinir el Estado.&lt;/p&gt;
+
+&lt;h3 id=&quot;participantes-de-la-discusin&quot;&gt;Participantes de la discusión&lt;/h3&gt;
+&lt;p&gt;Se presenta a los cuatro participantes de la discusión.&lt;/p&gt;
+
+&lt;h3 id=&quot;nota-sobre-los-varios-intentos-por-reprimir-a-wikileaks-y-a-las-personas-vinculadas-al-proyecto&quot;&gt;Nota sobre los varios intentos por reprimir a Wikileaks y a las personas vinculadas al proyecto&lt;/h3&gt;
+&lt;p&gt;Como preliminares y contextualización se mencionan los esfuerzos de divulgación del proyecto WikiLeaks y sus correspondientes respuestas y contramedidas por parte de los organismos estatales contra las organizaciones/entidades/fundaciones/personal/colaboradores/allegados y demás, al proyecto WikiLeaks en discusión. De la poderosa coalición para procesar a WikiLeaks y sus arbitrariedades, de las iniciativas de asesinato extrajudicial contra Julian Assange y la conformación de grupos operativos de hostigamiento secretos y públicos, de la persecusión a los portales y proveedores que presentaban información de WikiLeaks, de la advertencia de la administración Obama acerca de la falta que representa acceder contenidos de WikiLeaks para empleados, instituciones e individuos, de la persecusión/hostigamiento/censura de actividades financieras de manera arbitraria para WikiLeaks y personas presuntamente asociadas, de los acosos desmedidos e injustificados a personas allegadas al proyecto, y del decomiso y solicitudes arbitrarias de material a proveedores, servicios y empresas.&lt;/p&gt;
+
+&lt;h3 id=&quot;una-mayor-comunicacin-versus-una-mayor-vigilancia&quot;&gt;Una mayor comunicación &lt;em&gt;versus&lt;/em&gt; una mayor vigilancia&lt;/h3&gt;
+&lt;p&gt;Diálogo; Julian pretende exponer desde una perspectiva neutral la dicotomía comunicación vs. vigilancia, Andy sugiere verlo desde la perspectiva del poderoso, entonces Julian menciona el caso de la revolución egipcia y Mubarak que expone la paradoja vigilancia-control de los poderosos vs. la comunicación masiva para lograr un concenso rápido, pero cómo es un juego de todo-nada/ganar-perder, de la analogía con la construcción de carreteras y el Panóptico perfecto, entonces Julian habla de cómo la técnica es de la que se derivan concensos y sistemas de sociedades como con los molinos y el feudalismo, o en la actualidad la fabricación de semiconductores y otros componentes de la infraestructura de internet, y las interacciones comerciales extremadamente complejas que reflejan/evidencian la &lt;strong&gt;economía moderna neoliberal globalizada&lt;/strong&gt;, entonces Andy trae a colación el caso de la imprenta alemana, que por estar prohibida en algunas partes ayudó a diseminarse por todo el país cuando era necesario trasladarla de jurisdicción, Julian alude al caso de un sistema como lo fue Usenet, entonces Jérémie acota una diferencia con respecto al molino y la imprenta para la tecnología, y es el control, muchas veces el control ya viene incorporado o la tecnología misma está pensada para no ser entendida, como es el caso del software propietario, entonces Andy plantea el caso de la máquina de propósito único frente a la de propósito general mencionada por Jérémie, al final Jacob reflexiona en que las personas en el poder enfocan la tecnología para sus fines, como es la guerra, sin tener el conocimiento suficiente y simplemente acomodando los fenómenos a su perspectiva.&lt;/p&gt;
+
+&lt;h3 id=&quot;la-militarizacin-del-espacio-ciberntico&quot;&gt;La militarización del espacio cibernético&lt;/h3&gt;
+&lt;p&gt;Julian habla de que debido a las interceptaciones el Internet ahora está militarizado, entonces Jacob refuerza esta concepción/perspectiva/doctrina con la naturaleza de competencias del tipo Ciber-Defensa y SPAWAR donde la ideología es beligerante y guerrerista para los participantes e involucrados, ya sean militares o civiles, y se nota un adoctrinamiento hacia esta ideología, Andy menciona los bajos costos actuales de las interceptaciones comparados con los costos militares físicos, Jacob expone los casos militares y polémicos de interceptación masiva en EUA con AT&amp;amp;T y NSA, Jérémie agrega el caso de la Libia de Gadafi, finalmente Julian menciona que lo que antes era una fantasía ahora es realidad, y que ya las técnicas de interceptación son asequibles, y que el próximo paso será la comprensión y respuesta ante lo interceptado, y que ya hay tecnologías que están automatizando estos procesos.&lt;/p&gt;
+
+&lt;h3 id=&quot;combatir-la-vigilancia-total-con-las-leyes-del-hombre&quot;&gt;Combatir la vigilancia total con las leyes del hombre&lt;/h3&gt;
+&lt;p&gt;Jérémie asume que la tecnología implica vigilancia y dice que puede haber usos legítimos y que esto sería una cuestión de política pública, y menciona las iniciativas y movimientos con respecto a la retención de datos estatal, Julian interviene con un enfoque realista (pesimista) arguyendo que una vez montada la vigilancia no se podrá regular, más adelante plantean la analogía con las armas nucleares y su regulación, hablan también de la “inteligencia económica”, se habla de la alternativa de no perder y conservar las propiedades de “inteligencia económica” pero sin la vigilancia masiva, al final se menciona el caso de China construyendo la infraestructura de Sudáfrica y quedándose con la ganancia que son los datos.&lt;/p&gt;
+
+&lt;h3 id=&quot;espionaje-por-parte-del-sector-privado&quot;&gt;Espionaje por parte del sector privado&lt;/h3&gt;
+&lt;p&gt;Hablan acerca de la vigilancia, control, recopilación masiva de datos, etc. por parte de corporaciones del sector privado como extensiones de la vigilancia estatal, todo esto amparado en leyes, actas, resoluciones gubernamentales del tipo: Patriot Act, Stored Communications Act, oficios, emplazamientos, NSL, etc., y de la inexistente responsabilidad ética en pro de atractivos comerciales y ser parte de la cultura de control con sus retribuciones.&lt;/p&gt;
+
+&lt;h3 id=&quot;resistiendo-la-vigilancia-total-con-las-leyes-de-la-fsica&quot;&gt;Resistiendo la vigilancia total con las leyes de la física&lt;/h3&gt;
+&lt;p&gt;Se plantean alternativas de solución tanto para individuos como para sociedad: descentralización, auto-hosting, codificación, proveedores confiables, políticas públicas, etc., se debe desarrollar la solución con ambos enfoques/perspectivas en paralelo, se plantea el software libre como base para una sociedad on-line libre “controlando siempre a la máquina y no permitir que la máquina controle”, se requiere una potente criptografía, herramientas, leyes y demás, se acota la criptografía y la codificación como la propiedad física del universo en favor de la privacidad y también como la herramienta para sustentar el lema de “democracia, asegurada y cargada”, se postula que la criptografía puede resolver gran parte del problema de la interceptación, que es lo que representa una amenaza para la civilización mundial, los casos individuales realmente no son un peligro, se observa que desde el punto de vista de una sociedad totalitaria inevitable, las únicas personas/comunidades libres serán las que hayan asimilado la criptografía, y otros casos como &lt;em&gt;neoludistas ermitaños&lt;/em&gt;, tribus tradicionales, o sectores aislados/marginados de la economía moderna; también se menciona desde un punto de vista mercantil el nicho poco explotado que representa la privacidad, se menciona el escenario del poder industrial como una de las razones para impedir la prohibición de la criptografía, se menciona que dado que los entes que tienen capacidad de interceptación no tienen motivación para restringir sus actividades, es responsabilidad del individuo tomar medidas para salvaguardar su propia privacidad, se hace la comparación/analogía con el lavado de manos/gérmenes/antisepcia, al final se plantea la cuestión de cuál de las dos formas de pensamiento/acción tomará la gente: de cautela, contención, actuación políticamente correcta, auto-censura y exclusión como actores políticos del mundo; ó, dominar pequeños aspectos técnicos para estar protegido, y tener libertad de expresión y comunicación.&lt;/p&gt;
+
+&lt;h3 id=&quot;internet-y-poltica&quot;&gt;Internet y política&lt;/h3&gt;
+&lt;p&gt;Jérémie acota la importancia de los hackers, los movimientos y concensos, y el Internet para la influencia política global con el aporte técnico y organizativo para contrarrestar iniciativas como SOPA y PIPA; Jérémie acota tres elementos imbricados en esta compleja maquinaria global: régimenes autoritarios con sus poderes, herramientas y tecnología, y relato político; de los movimientos y concensos para contrarrestar, desacelerar y aumentar el costo político de las iniciativas estatales de censura y regulación; Andy introduce un cuarto elemento importante: sistemas descentralizados; de la importancia de que “la cultura es compartir”, de que no se trata de “vanguardia política” sino de canalizar las capacidades de expresión existentes sin las estructuras centralizadas convencionales, y sin necesidad de afiliarse a un partido o ideología particular.&lt;/p&gt;
+
+&lt;h3 id=&quot;internet-y-economa&quot;&gt;Internet y economía&lt;/h3&gt;
+&lt;p&gt;Julian toca el tema de las tres libertades básicas, los tres principales ingredientes de un Estado y el caso de Hezbollah como Estado, de la relación/imbricación existente entre las tres libertades, los tres componentes del Estado, y entre ellos mutuamente, de la relevancia/influencia de la arquitectura: del Estado, de las leyes, de la tecnología y de los sistemas financieros. Empiezan a conversar acerca de las divisas electrónicas como las monedas chaumianas, de la retórica de los Padres Fundadores y la cautela al respecto, del caso de e-Gold, del anonimato del creador de BitCoin, de BitCoin, del comportamiento del mundo con y sin internet, de las tendencias del mundo previo a internet, del dicho “you put your money where your mouth is”, “donde pones tu dinero es donde ubicas tu poder”, de la política adaptada a la sociedad y no al revés, de buenas políticas públicas, y de la interrelación entre economía-comunicación.&lt;/p&gt;
+
+&lt;h3 id=&quot;censura&quot;&gt;Censura&lt;/h3&gt;
+&lt;p&gt;Julian continúa pidiéndole a Jacob que hable de las detenciones/hostigamiento sufridos en los aeropuertos de EU, entonces Julian después acota la visión de la censura en China que tienen los chinos y sus verdaderas preocupaciones y la percepción generalizada de esta censura estatal; se habla de la censura en Occidente, del caso/ejemplo de la gran enciclopedia soviética, del caso del billonario Nadhmi Auchi, de modificar y borrar la historia, se menciona la autocensura previa a la publicación y la censura pospublicación, de las capas y el modelo de pirámide de la censura, de las OPG (como podría serlo WikiLeaks), de la polémica de si la censura es la solución, de si taparse los ojos es la solución en lugar de encarar los problemas, se postula que un régimen censor capaz de eliminar porciones de historia significa incapacidad/impotencia para enfrentar un problema, al final la curiosa anotación de que los filtros de contenido deberían aplicarse en el usuario y dispositivo final, es decir, en el cerebro de cada individuo, y no que el gobierno lo haga en nombre de las personas.&lt;/p&gt;
+
+&lt;h3 id=&quot;privacidad-para-el-dbil-transparencia-para-el-poderoso&quot;&gt;Privacidad para el débil, transparencia para el poderoso&lt;/h3&gt;
+&lt;p&gt;Julian plantea el tema de revelar todos los archivos de un gobierno, menciona los casos de Túnez y la Stasi alemana, y de como existen escenarios “legítimos” donde los archivos estatales deben ser secretos.&lt;/p&gt;
+
+&lt;h3 id=&quot;ratas-en-la-pera&quot;&gt;Ratas en la Ópera&lt;/h3&gt;
+&lt;p&gt;Julian propone analizar un hipotético escenario utópico potencial, cada uno de los oradores expresa su aporte, se tocan temas ya vislumbrados y discutidos, del rol y visión de los criptopunks en cuanto a no sólo quejarse de los problemas sino aportar soluciones y herramientas para una nueva democracia, del poder/rol/deber de cualquier persona para construir alternativas apoyados en la facilidad de internet, de la relevancia del software/hardware libre/abierto, de las diferentes formas de generar/construir alternativas como los “hacker spaces” o las impresoras 3D, del lema de Gandhi “debes ser el cambio que quieres ver en el mundo” y de la cita de “A Softer World” “encarnar el problema que quieres ver en el mundo”, de lo que es y la escencia del CCC, del porqué pudo haber surgido en Alemania y su corazón está en Alemania, de factores de Alemania como país que pudieron haber influenciado esto, de tendencias e idiosincracia alemana actual debido a su historia, de la suerte de conciencia común alejada de identidades nacionales, de la situación evolutiva actual por superar, de la experiencia positiva que es el presente diálogo simplemente al plantear interrogantes, contrastar ideas y ver el balance; al final Julian hace un recuento de esta visión utópica por la que preguntaba anteriormente, de los fundamentos para construir amplia variedad de sistemas políticos ya que la utopía sería una distopía si sólo existiese la utopía por los ideales de diversidad de la utopía, sin embargo al final Julian plantea la muy plausible posibilidad del escenario distópico/totalitario/homogenizado/universalizado del estado de vigilancia transnacional y el estado de guerra perpetuo, y cuenta la anécdota de las ratas inteligentes coladas en la ópera de Sydney, que a su vez es una mirada desde un ángulo positivo a la trayectoria negativa distópica, en la que sólo una élite tecnológica será libre: los criptopunks.&lt;/p&gt;
+
+&lt;h2 id=&quot;citas&quot;&gt;CITAS&lt;/h2&gt;
+&lt;p&gt;… para que los grupos poderosos rindieran cuentas ante el pueblo.&lt;/p&gt;
+
+&lt;p&gt;He visto a países pequeños ser amedrentados y dominados por países más grandes o plagados de empresas extranjeras que los hacen tomar decisiones en detrimento propio.&lt;/p&gt;
+
+&lt;p&gt;Estas experiencias me han formado como criptopunk.&lt;/p&gt;
+
+&lt;p&gt;En los últimos años se ha visto el debilitamiento de las viejas hegemonías.&lt;/p&gt;
+
+&lt;p&gt;Mientras que América Latina ha empezado a transitar un período muy esperado de soberanía e independencia tras siglos de dominio imperial.&lt;/p&gt;
+
+&lt;p&gt;Cuando el sol se pone sobre las democracias occidentales, estos avances constituyen la esperanza de nuestro mundo.&lt;/p&gt;
+
+&lt;p&gt;La duradera lucha latinoamericana por la autodeterminación es importante porque marca el camino para que el resto del mundo avance hacia la libertad y la dignidad.&lt;/p&gt;
+
+&lt;p&gt;El mundo debe ser consciente del riesgo que la vigilancia significa para América Latina y para el antiguo Tercer Mundo.&lt;/p&gt;
+
+&lt;p&gt;El control de toda una población por parte poderes internacionales naturalmente amenaza la soberanía.&lt;/p&gt;
+
+&lt;p&gt;Sabemos que los antiguos poderes coloniales usarán cualquier ventaja para impedir la consagración de la independencia de todo el continente.&lt;/p&gt;
+
+&lt;p&gt;Con el control de los cables de fibra óptica, por donde pasan los gigantes flujos de datos que conectan a la civilización mundial, ocurre lo mismo que con los oleoductos. Este es el nuevo juego: controlar la comunicación de miles de millones de personas y organizaciones.&lt;/p&gt;
+
+&lt;p&gt;Tiene connotaciones de control social y represión.&lt;/p&gt;
+
+&lt;p&gt;… arriesgando su privacidad y los derechos humanos.&lt;/p&gt;
+
+&lt;p&gt;Los aspectos geográficos relativos a la infraestructura de internet por lo tanto tienen consecuencias para la independencia y soberanía de América Latina.&lt;/p&gt;
+
+&lt;p&gt;… anuncian una nueva era de programas altamente complejos con finalidad destructiva concebidos por Estados poderosos para atacar a Estados más débiles.&lt;/p&gt;
+
+&lt;p&gt;Los criptopunks originales, mis camaradas, eran mayormente libertarios. Nosotros buscábamos proteger la libertad individual de la tiranía estatal y la criptografía era nuestra arma secreta.&lt;/p&gt;
+
+&lt;p&gt;La criptografía no solo puede proteger las libertades de los individuos, sino la soberanía y la independencia de países enteros, la solidaridad entre grupos con una causa común, y el proyecto de una emancipación global. Puede ser usada no solo para luchar contra la tiranía del Estado sobre el individuo, sino contra la tiranía del imperio sobre la colonia.&lt;/p&gt;
+
+&lt;p&gt;Internet es una amenaza para la civilización humana.&lt;/p&gt;
+
+&lt;p&gt;distopía posmoderna de vigilancia&lt;/p&gt;
+
+&lt;p&gt;Vimos que la fusión entre las estructuras estatales existentes e internet creaba la posibilidad de cambiar la naturaleza de los Estados.&lt;/p&gt;
+
+&lt;p&gt;Primero, recordemos que los Estados son sistemas a través de los cuales fluyen fuerzas coercitivas.&lt;/p&gt;
+
+&lt;p&gt;aplicación de violencia estatal&lt;/p&gt;
+
+&lt;p&gt;En este espacio etéreo, este espacio aparentemente platónico de flujo de ideas e información.&lt;/p&gt;
+
+&lt;p&gt;La naturaleza platónica de internet, los flujos de ideas e información, está envilecida por sus orígenes físicos.&lt;/p&gt;
+
+&lt;p&gt;El Estado, cual ejército en torno a un pozo petrolero, o un agente aduanero exigiendo sobornos en la frontera, pronto aprendería a apuntalar su dominio del espacio físico para conseguir el control de nuestro espacio platónico.&lt;/p&gt;
+
+&lt;p&gt;La codificación es parte del universo.&lt;/p&gt;
+
+&lt;p&gt;Es más fácil encriptar información que desencriptarla.&lt;/p&gt;
+
+&lt;p&gt;Y de esta manera declarar nuestra independencia.&lt;/p&gt;
+
+&lt;p&gt;De esta manera, las personas pueden enfrentar su voluntad a la de una superpotencia totalmente movilizada y ganar.&lt;/p&gt;
+
+&lt;p&gt;La criptografía es la forma más acabada de acción directa no violenta.&lt;/p&gt;
+
+&lt;p&gt;Recordemos que los Estados son los sistemas que determinan dónde y cómo se aplica consistentemente la fuerza coercitiva.&lt;/p&gt;
+
+&lt;p&gt;Si no lo hacemos, la universalidad de internet convertirá a la humanidad en una enorme red de vigilancia y control en masa.&lt;/p&gt;
+
+&lt;p&gt;“privacidad para los pobres, transparencia para los poderosos”&lt;/p&gt;
+
+&lt;p&gt;Este directamente socava las libertades económicas de los individuos.&lt;/p&gt;
+
+&lt;p&gt;–sorteando efectivamente las protecciones de la Cuarta Enmienda frente al registro e incautación arbitrarios–.&lt;/p&gt;
+
+&lt;p&gt;Ese es el meollo de este tipo de tareas de inteligencia, frenar un proceso entorpeciendo la capacidad de la gente para comprenderlo. Declarar ciertas cosas como confidenciales significa limitar la cantidad de personas que tienen el conocimiento y por lo tanto la capacidad para afectar el proceso.&lt;/p&gt;
+
+&lt;p&gt;mercado neoliberal&lt;/p&gt;
+
+&lt;p&gt;economía moderna neoliberal globalizada&lt;/p&gt;
+
+&lt;p&gt;De modo que realmente se encuentra en la cima de la pirámide de todo el sistema neoliberal.&lt;/p&gt;
+
+&lt;p&gt;“La red interpreta la censura como daño y la elude”
+Como sabemos hoy, esa afirmación condensaba una interpretación técnica con una visión optimista del impacto, una suerte de expresión de deseo y un tipo de profecía autocumplida.&lt;/p&gt;
+
+&lt;p&gt;Si alguna persona comete algún acto de censura es ignorada, no hace mucha diferencia. El mensaje se propaga de cualquier modo entre las personas que no son censores.&lt;/p&gt;
+
+&lt;p&gt;Y parte de esto no tiene que ver con si son o no computadoras de propósito único, sino si podemos o no verificar que hacen lo que dicen que hacen, y si podemos o no comprender cuán bien lo hacen.&lt;/p&gt;
+
+&lt;p&gt;… incluso si no entienden la escencia del mismo.&lt;/p&gt;
+
+&lt;p&gt;Entonces cuando no tenemos control de nuestra tecnología, tales personas desearán usarla para sus propios fines, específicamente para la guerra.&lt;/p&gt;
+
+&lt;p&gt;… y personas por lo demás sensatas sugieren que, mientras Estados Unidos está en guerra, tales tácticas de algún modo evitarán los conflictos bélicos. Ese tal vez sea un argumento razonable para un país que no esté invadiendo activamente otras naciones, pero resulta poco creíble en el contexto de una nación involucrada en múltiples invasiones en curso.&lt;/p&gt;
+
+&lt;p&gt;Todos vivimos bajo la ley marcial en lo que a nuestras comunicaciones respecta, sólo que no podemos ver los tanques, pero están allí. En ese sentido, internet, que se suponía que era un espacio civil, se ha convertido en un espacio militarizado.&lt;/p&gt;
+
+&lt;p&gt;La manera más sencilla de describir estos dos aspectos de la industria son con un enfoque “táctico” y otro “estratégico”.&lt;/p&gt;
+
+&lt;p&gt;… en respuesta al alto volúmen de litigios tras el escándalo de escuchas telefónicas…&lt;/p&gt;
+
+&lt;p&gt;La eficiencia en la comprensión y en la respuesta ante lo interceptado y lo almacenado es lo que va a constituir el próximo gran salto.&lt;/p&gt;
+
+&lt;p&gt;Podríamos admitir que, para lo que se denomina vigilancia táctica existem algunos usos legítimos.&lt;/p&gt;
+
+&lt;p&gt;Esta es una cuestión de política pública.&lt;/p&gt;
+
+&lt;p&gt;Las autoridades necesitan actuar conforme a la ley. Si no lo hacen entonces ¿de qué sirven?&lt;/p&gt;
+
+&lt;p&gt;La interceptación estratégica se basa en interceptar a &lt;em&gt;todos&lt;/em&gt; sin importar su inocencia o culpabilidad. Debemos recordar que llevar a cabo tal operación de inteligencia es un elemento medular del &lt;em&gt;establishment&lt;/em&gt;. Siempre faltará voluntad política para poner al descubierto el espionaje estatal.&lt;/p&gt;
+
+&lt;p&gt;Una vez que tienes montada la vigilancia, dada su complejidad y que está diseñada para operar en secreto, ¿no es cierto acaso que no puede ser regulada mediante políticas?&lt;/p&gt;
+
+&lt;p&gt;Simplemente no va a suceder.&lt;/p&gt;
+
+&lt;p&gt;Es imposible.&lt;/p&gt;
+
+&lt;p&gt;… y no hay voluntad política para otorgar este tipo de acceso.&lt;/p&gt;
+
+&lt;p&gt;La impunidad está incorporada. Viene incluída. Es peligrosa de fábrica.&lt;/p&gt;
+
+&lt;p&gt;De modo que, aunque enmarquemos adecuedamente la conducta de las fuerzas regulares, habrá otras capaces de usar esas tecnologías.&lt;/p&gt;
+
+&lt;p&gt;El tema es, no obstante, que la tecnología para interceptar metadatos es la misma tecnología usada para interceptar los contenidos.&lt;/p&gt;
+
+&lt;p&gt;Cuando hablamos sobre sistemas armamentísticos lo que se regula es la tecnología y no el uso que se hace con las armas.&lt;/p&gt;
+
+&lt;p&gt;Facebook hace un negocio de desdibujar la línea que divide lo privado, los amigos y lo público.&lt;/p&gt;
+
+&lt;p&gt;Incluso se desdibuja la línea que separa a los Gobiernos de las corporaciones.&lt;/p&gt;
+
+&lt;p&gt;De modo que también se borronea la frontera entre el Gobierno y el sector privado.&lt;/p&gt;
+
+&lt;p&gt;Hay un caso abierto en la justicia sobre el derecho del Gobierno a mantener sus tácticas en secreto, no sólo del público sino de los registros judiciales.&lt;/p&gt;
+
+&lt;p&gt;Y aquí es donde se desdibuja el límite que separa al Estado de la corporación. Probablemente este sea el elemento más importante a tener en cuenta, que la NSA y Google conforman una sociedad de ciberseguridad por motivos de defensa nacional estadounidense.&lt;/p&gt;
+
+&lt;p&gt;… sobre lo que lamentable no puedo hablar porque no vivo realmente en un país libre…&lt;/p&gt;
+
+&lt;p&gt;… y estas han devenido en policías secretas privatizadas. Y –en el caso de Facebook– hemos democratizado la vigilancia.&lt;/p&gt;
+
+&lt;p&gt;Solíamos decir que en Facebook el usuario no es realmente el cliente. El usuario de Facebook en realidad es el producto, y el verdadero cliente son las compañías publicitarias.&lt;/p&gt;
+
+&lt;p&gt;Creo que el &lt;em&gt;software&lt;/em&gt; libre es una de las bases de una sociedad en línea libre, para poder controlar siempre a la máquina y no permitir que la máquina te controle a ti.&lt;/p&gt;
+
+&lt;p&gt;“Democracia, asegurada y cargada”. Así es como te aseguras que no haya regímenes totalitarios: la gente está armada y si se cabrea lo suficiente simplemente saca sus armas y retoma el control por la fuerza.&lt;/p&gt;
+
+&lt;p&gt;La fuerza de casi toda la autoridad moderna proviene del ejercicio de la violencia o de la amenaza del ejercicio de violencia. Hay que reconocer que con la criptografía no hay suficiente violencia que pueda resolver un problema matemático.&lt;/p&gt;
+
+&lt;p&gt;“democracia asegurada y cargada”&lt;/p&gt;
+
+&lt;p&gt;es una forma muy intelectual de hacerlo&lt;/p&gt;
+
+&lt;p&gt;Pero eso no se refiere a una vigilancia masiva sino a la interceptación de las computadoras de determinadas personas.&lt;/p&gt;
+
+&lt;p&gt;Pero la criptografía puede resolver gran parte del problema de la interceptación, y el problema de la interceptación a gran escala es lo que constituye una amenaza para la civilización mundial, la indivivual no es un peligro.&lt;/p&gt;
+
+&lt;p&gt;Si lo analizas desde un punto de vista mercantil, estoy convencido de que existe un nicho de mercado en materia de privacidad que no ha sido muy explotado…&lt;/p&gt;
+
+&lt;p&gt;Es por eso que el poder industrial es una de las razones que está impidiendo la prohibición de la criptografía.&lt;/p&gt;
+
+&lt;p&gt;Pienso que la única defensa efectiva contra la inminente distopía de control es tomar uno mismo medidas para salvaguardar su propia privacidad, porque quienes cuentan con la capacidad de interceptarlo todo no tienen motivación para restringir sus actividades.&lt;/p&gt;
+
+&lt;p&gt;Es necesario instalar el miedo en la gente para que comprenda el problema antes de que se genere suficiente demanda para resolverlo.&lt;/p&gt;
+
+&lt;p&gt;Si la gente no piensa de la segunda manera entonces tendremos una universalización de lo políticamente correcto e incluso cuando se comuniquen con sus amigos más cercanos aplicarán la auto-censura y dejarán de ser actores políticos del mundo.&lt;/p&gt;
+
+&lt;p&gt;agresivas legislaciones sobre derechos de autor que básicamente le dan a Hollywood el poder de ordenarle a cualquier compañía de internet que restrinja el acceso y censure contenidos en línea.&lt;/p&gt;
+
+&lt;p&gt;lo que sucito una fuerte presión de los usuarios sobre sus representantes públicos.&lt;/p&gt;
+
+&lt;p&gt;individuos barbudos y hediondos.&lt;/p&gt;
+
+&lt;p&gt;este monstruoso acuerdo global que ha sido diseñado a nuestras espaldas para evadir la democracia misma.&lt;/p&gt;
+
+&lt;p&gt;aunque no debes facilitarle la tarea a tu oponente porque este sacará ventaja.&lt;/p&gt;
+
+&lt;p&gt;Los desacelera.&lt;/p&gt;
+
+&lt;p&gt;Se trata de aumentar el costo político de tomar esas malas decisiones para quienes las toman.&lt;/p&gt;
+
+&lt;p&gt;“Sabes, lo bueno de los Gobiernos es que nunca son singulares, siempre son plurales”.&lt;/p&gt;
+
+&lt;p&gt;Y pienso que el próximo paso obviamente tendrá que ser que podamos disponer de nuestro propio dinero.&lt;/p&gt;
+
+&lt;p&gt;La cultura es para compartir.&lt;/p&gt;
+
+&lt;p&gt;Compartir conocimiento es aquello a lo que nos referimos cuando hablamos de evitar la censura, o de atravesar el relato político para construir un mejor sistema democrático y una mejor sociedad.&lt;/p&gt;
+
+&lt;p&gt;–y eso, nuevamente, es acción política descentralizada. Es un movimiento de política descentralizada del que hemos sido testigos.&lt;/p&gt;
+
+&lt;p&gt;No se trata de una vanguardia política sino de canalizar esta nueva capacidad de expresión que todos tenemos en nuestras manos a través del sistema político, de compartir nuestras ideas, de participar del conocimiento común sin pertenecer a un partido político, o a una empresa de medios, o a la estructura centralizada que sea que era necesaria en el pasado para poder expresarte.&lt;/p&gt;
+
+&lt;p&gt;los tres principales ingredientes de un Estado –tiene el control de las fuerzas armadas dentro de una región determinada, tiene el control de la infraestructura de comunicaciones y tiene el control de la estructura financiera. Y podemos pensar esto en función de las tres libertades básicas. [desplazamiento, pensamiento y comunicación, interacción económica]&lt;/p&gt;
+
+&lt;p&gt;Lo que significa que incluso los pagos de ciudadanos rusos entre comercios rusos serán procesados por centros de cómputos estadounidenses.&lt;/p&gt;
+
+&lt;p&gt;Pero en realidad es la arquitectura del Estado, la arquitectura de las leyes y la arquitectura de la tecnología las que le permiten hacer eso, al igual que la arquitectura de los sistemas financieros.&lt;/p&gt;
+
+&lt;p&gt;Lo que los criptopunks quisieron hacer fue crear sistemas que permitiesen compensarnos mutuamente de forma verdaderamente libre y que no se puedan interferir.&lt;/p&gt;
+
+&lt;p&gt;En el modelo de Estado en tanto mafia.&lt;/p&gt;
+
+&lt;p&gt;No te lo tomes como algo personal.&lt;/p&gt;
+
+&lt;p&gt;pero en particular en lo referente a la retórica de los Padres Fundadores.&lt;/p&gt;
+
+&lt;p&gt;La retórica de los Padres Fundadores está en un franco proceso de disolución de hace diez años a la fecha.&lt;/p&gt;
+
+&lt;p&gt;No debemos olvidar que gran parte de la percepción de la retórica de los Padres Fundadores es una mitología y debemos ser cuidadosos en cuanto a idolatrarlos.&lt;/p&gt;
+
+&lt;p&gt;Existe una razón por la que la persona que creó la otra moneda electrónica, bitcoin, lo hizo de una forma anónima. No te conviene ser la persona que inventó la primera divisa electrónica realmente exitosa.&lt;/p&gt;
+
+&lt;p&gt;la libertad de comunicación, la libertad de movimiento y la libertad de interacción económica.&lt;/p&gt;
+
+&lt;p&gt;Así es como la criptografía fue adoptada. Solía estar clasificada como tráfico de armas, y algunos de nosotros como tratantes de armas, pero una vez que estuvo presente en buscadores y empezó a ser usada para operaciones bancarias a través de internet, surgió un &lt;em&gt;lobby&lt;/em&gt; lo suficientemente poderoso como para impedir que se prohíba –aunque concedo que existen nuevas iniciativas en ese sentido.&lt;/p&gt;
+
+&lt;p&gt;Es un error sugerir que es diferente con internet que sin internet.&lt;/p&gt;
+
+&lt;p&gt;Por eso pienso que es muy importante observar las tendencias del mundo previo a internet para ver hacia dónde vamos.&lt;/p&gt;
+
+&lt;p&gt;Donde pones tu dinero es donde ubicas tu poder.&lt;/p&gt;
+
+&lt;p&gt;Tal vez queremos un capitalismo socialmente limitado.&lt;/p&gt;
+
+&lt;p&gt;“you put your money where your mouth is”&lt;/p&gt;
+
+&lt;p&gt;Entonces sólo lo están usando para la transferencia de riquezas industriales realmente productivas a industrias que no son productivas.&lt;/p&gt;
+
+&lt;p&gt;pero mi punto es que la política debe adaptarse a la sociedad, y no al revés.&lt;/p&gt;
+
+&lt;p&gt;Esa no es la forma de hacer buenas políticas públicas. Una buena política pública observa el mundo y se adapta a él para poder corregir lo que está mal y posibilitar lo que está bien.&lt;/p&gt;
+
+&lt;p&gt;Lo que estoy diciendo es que no se puede separar la economía de la comunicación.&lt;/p&gt;
+
+&lt;p&gt;Eso es lo más peligroso que les ocurre a los Gobiernos estos días –cuando las ideas de la gente son mejores que sus políticas–.&lt;/p&gt;
+
+&lt;p&gt;porque la respuesta correcta es simplemente no ceder ante este tipo de presiones sólo porque el Gobierno afirma tener la capacidad de hacerlo.&lt;/p&gt;
+
+&lt;p&gt;No sólo se modifica la historia, sino que deja de haber existido. Es el dicho de Orwell: “Quien controla el pasado, controla el futuro, y quien controla el presente, controla el pasado”.&lt;/p&gt;
+
+&lt;p&gt;Se puede pensar en la censura como una pirámide.&lt;/p&gt;
+
+&lt;p&gt;Necesitamos construir un sistema de espionaje y censura en masa para reprimir una sola actividad.&lt;/p&gt;
+
+&lt;p&gt;Unas viejas barracas del ejército fueron ocupadas en los setenta por una comunidad anarquista.&lt;/p&gt;
+
+&lt;p&gt;Todos estos son problemas globales a los que la comunidad está enfrentándose hoy en día y todavía tenemos una herramienta global en nuestras manos que permite una mejor comunicación, una mejor divulgación del conocimiento, una mejor participación en los procesos poĺíticos y democráticos.&lt;/p&gt;
+
+&lt;p&gt;El estado de seguridad nacional puede devorarse a sí mismo.&lt;/p&gt;
+
+&lt;p&gt;¿existe tal cosa como la información con efecto negativo? Y desde el punto de vista de la sociedad, ¿queremos una internet censurada porque es mejor para la sociedad o no?&lt;/p&gt;
+
+&lt;p&gt;Las personas con hijos se preguntarán: “Bueno, ¿no es mejor que la sociedad filtre lo malo para aferrarse a lo bueno?” o “¿no está limitando eso nuestra capacidad para dar cuenta de problemas, de atenderlos, resolverlos y controlarlos?”&lt;/p&gt;
+
+&lt;p&gt;Pienso que la censura nunca es la solución.&lt;/p&gt;
+
+&lt;p&gt;como si tapar los ojos a quien estuviera mirando resolviera el problema.&lt;/p&gt;
+
+&lt;p&gt;Este es un claro ejemplo en el que borrar la historia resulta perjudicial. Resulta que con internet nos enteramos la epidemia de abuso infantil que hay en la sociedad.&lt;/p&gt;
+
+&lt;p&gt;La Policía abusa de personas regularmente en muchos países. Posiblemente haya más policías abusivos que abusadores de niños en internet.&lt;/p&gt;
+
+&lt;p&gt;¿Acaso debemos censurar internet porque sabemos que algunos policías son malvados? ¿Acaso debemos impedir que la Policía realice un buen trabajo de control?&lt;/p&gt;
+
+&lt;p&gt;crear un régimen censor que sea capaz de eliminar porciones de historia significa que no podemos atender el problema porque no podemos ver cuál es el problema.&lt;/p&gt;
+
+&lt;p&gt;Y el problema en este momento es que mucha gente favorecerá la solución fácil obviamente porque resulta muy incómodo mirar lo que realmente ocurre en la sociedad. Pienso que tienes chances de manejar un problema político si no tratas de generar una política que lo ignore o lo haga invisible.&lt;/p&gt;
+
+&lt;p&gt;De hecho, que nosotros hayamos producido más de un millón de palabras en información y las hayamos publicado es una consecuencia de la enorme explosión de material secreto que existe.&lt;/p&gt;
+
+&lt;p&gt;Hay cincunstancias en las que esto podría verse como legítimo. No estoy diciendo que es legítimo como política: estoy diciendo que es políticamente inevitable.&lt;/p&gt;
+
+&lt;p&gt;Cuando la información táctica es usada para la aplicación de la ley (y no para inteligencia) con frecuencia forma parte de la recolección de evidencia.&lt;/p&gt;
+
+&lt;p&gt;Estamos empezando a ver que en tanto ciudadanos de la red tenemos el poder en la toma decisiones políticas.&lt;/p&gt;
+
+&lt;p&gt;… establece que las represalías contra denunciantes ahora constituyen ofensas criminales.&lt;/p&gt;
+
+&lt;p&gt;No opinábamos que uno debía simplemente quejarse por el estado de control en aumento, sino que podemos y de hecho debemos construir las herramientas de una nueva democracia.&lt;/p&gt;
+
+&lt;p&gt;La tecnología y la ciencia no son neutrales.&lt;/p&gt;
+
+&lt;p&gt;“Debes ser el cambio que quieres ver en el mundo”&lt;/p&gt;
+
+&lt;p&gt;“Encarnar el problema que quieres ver en el mundo”&lt;/p&gt;
+
+&lt;p&gt;Alemania ha hecho lo peor que un país le puede hacer a otro, entonces tal vez es algo inmune a hacer lo mismo de nuevo, como empezar una guerra contra otros países.&lt;/p&gt;
+
+&lt;p&gt;Vemos la censura en internet, esta lucha de los Gobiernos contra las nuevas tecnologías, como una forma de situación evolutiva que debemos superar.&lt;/p&gt;
+
+&lt;p&gt;Estamos en camino a identificar soluciones y no sólo problemas, y eso es algo positivo.&lt;/p&gt;
+
+&lt;p&gt;Encuentro positivo que podamos sentarnos aquí todos juntos y no vengamos con las mejores respuestas de inmediato, sólo planteamos interrogantes, y contrastamos nuestras diferentes ideas y vemos cuál es el balance. Ese es el proceso que debe continuar, y ese es el motivo por el cual necesitamos una internet libre.&lt;/p&gt;
+
+&lt;p&gt;–no digo educación formal, sino altamente educada en su comprensión de cómo funciona la civilización humana a nivel político, industrial, científico y psicológico–&lt;/p&gt;
+
+&lt;p&gt;Esa trayectoria positiva implicaría el autoconocimiento de la civilización humana ya que el pasado no puede ser destruído.&lt;/p&gt;
+
+&lt;p&gt;Con esos fundamentos, uno puede construir una amplia variedad de sistemas políticos. La utopía sería una situación distópica si existiese solo una utopía. Creo que los ideales utópicos significan la diversidad de sistemas y modelos de interacción.&lt;/p&gt;
+
+&lt;p&gt;Pienso que eso sólo puede producir un clima muy asfixiante.&lt;/p&gt;
+
+&lt;p&gt;Entonces sólo una élite tecnológica rebelde será libre, como esas ingeniosas ratas que corretean por la Ópera.&lt;/p&gt;
+
+&lt;h2 id=&quot;trminos&quot;&gt;TÉRMINOS&lt;/h2&gt;
+&lt;p&gt;plutócratas, plutocracia, hegemonía, soberanía, escrúpulos, transgredir, subversivo, oneroso, distopía, &lt;strong&gt;coercitivo&lt;/strong&gt;, platónico, envilecida, envilecer, coraje, perspicacia, solidaridad, meollo, &lt;strong&gt;panóptico&lt;/strong&gt;, &lt;em&gt;neoliberal&lt;/em&gt;, sensatas, sensato, sensatez, &lt;em&gt;retórica&lt;/em&gt;, proscribir, &lt;em&gt;anarquía&lt;/em&gt;, corrupción, espionaje, estatal, impunidad, &lt;strong&gt;emplazamiento&lt;/strong&gt;, inocuo, resquicio, &lt;strong&gt;neoludista&lt;/strong&gt;, &lt;strong&gt;neoludismo&lt;/strong&gt;, imbricado, eufemismo, falacia, insume, insumir, &lt;strong&gt;mecenazgo&lt;/strong&gt;, aberración, represalia, &lt;em&gt;palaciego&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;referencias&quot;&gt;REFERENCIAS&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.amazon.com/Cypherpunks-Freedom-Future-Internet-Assange/dp/B00DO8YU56/ref=sr_1_2?s=books&amp;amp;ie=UTF8&amp;amp;qid=1423366524&amp;amp;sr=1-2&amp;amp;keywords=cypherpunks&quot; target=&quot;_blank&quot;&gt;http://www.amazon.com/Cypherpunks-Freedom-Future-Internet-Assange/dp/B00DO8YU56/ref=sr_1_2?s=books&amp;amp;ie=UTF8&amp;amp;qid=1423366524&amp;amp;sr=1-2&amp;amp;keywords=cypherpunks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.amazon.com/Criptopunks-Cryptopunks-Libertad-Internet-Spanish/dp/9871307675/ref=sr_1_1?s=books&amp;amp;ie=UTF8&amp;amp;qid=1423366246&amp;amp;sr=1-1&amp;amp;keywords=criptopunks&quot; target=&quot;_blank&quot;&gt;http://www.amazon.com/Criptopunks-Cryptopunks-Libertad-Internet-Spanish/dp/9871307675/ref=sr_1_1?s=books&amp;amp;ie=UTF8&amp;amp;qid=1423366246&amp;amp;sr=1-1&amp;amp;keywords=criptopunks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Cypherpunks_(book)&quot; target=&quot;_blank&quot;&gt;http://en.wikipedia.org/wiki/Cypherpunks_(book)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://es.wikipedia.org/wiki/Cypherpunks:_La_libertad_y_el_futuro_de_internet&quot; target=&quot;_blank&quot;&gt;http://es.wikipedia.org/wiki/Cypherpunks:_La_libertad_y_el_futuro_de_internet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Tue, 03 Feb 2015 06:38:35 -0500</pubDate>
+        <link>/gh-blog/2015/02/03/criptopunks.html</link>
+        <guid isPermaLink="true">/gh-blog/2015/02/03/criptopunks.html</guid>
+      </item>
+    
+      <item>
+        <title>crypto-013, exam 1, question 7</title>
+        <description>&lt;h2 id=&quot;question-7&quot;&gt;Question 7&lt;/h2&gt;
+&lt;p&gt;Suppose you are told that the one time pad encryption of the message “attack at dawn” is 6c73d5240a948c86981bc294814d (the plaintext letters are encoded as 8-bit ASCII and the given ciphertext is written in hex). What would be the one time pad encryption of the message “attack at dusk” under the same OTP key?&lt;/p&gt;
+
+&lt;h3 id=&quot;code&quot;&gt;Code&lt;/h3&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;lineno&quot;&gt; 1&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pt&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;#39;attack at dawn&amp;#39;&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 2&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;#39;plain text: &amp;#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;pt&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 3&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pt_hex&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pt&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;encode&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;hex&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 4&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;#39;plain text (hexa): &amp;#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;pt_hex&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;, length: &amp;#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;str&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;len&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;pt_hex&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 5&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pt1&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;#39;attack at dusk&amp;#39;&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 6&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;#39;plain text modified: &amp;#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;pt1&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 7&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pt1_hex&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pt1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;encode&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;hex&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 8&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;#39;plain text modified (hexa): &amp;#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;pt1_hex&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;, length: &amp;#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;str&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;len&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;pt1_hex&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 9&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt;10&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ct&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;#39;6c73d5240a948c86981bc294814d&amp;#39;&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;11&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;#39;ciphered text (hexa): &amp;#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ct&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;, length: &amp;#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;str&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;len&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ct&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;12&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt;13&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pt_hex_xor_ct&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;hex&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;int&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;pt_hex&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;16&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;^&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;int&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ct&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;16&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;14&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;key_hex&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;#39;0&amp;#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;pt_hex_xor_ct&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;15&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;#39;key (hexa): &amp;#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;key_hex&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;, length: &amp;#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;str&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;len&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;key_hex&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;16&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt;17&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ct_1&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;hex&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;int&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;key_hex&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;16&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;^&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;int&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;pt1_hex&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;16&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;18&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ct_1_fmt&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ct_1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;19&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;#39;ciphered text modified (hexa): &amp;#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ct_1_fmt&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;, length: &amp;#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;str&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;len&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ct_1_fmt&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://class.coursera.org/crypto-013&quot; target=&quot;_blank&quot;&gt;https://class.coursera.org/crypto-013&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.google.com/&quot; target=&quot;_blank&quot;&gt;https://www.google.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Wed, 21 Jan 2015 11:24:15 -0500</pubDate>
+        <link>/gh-blog/2015/01/21/crypto013-exam1-question7.html</link>
+        <guid isPermaLink="true">/gh-blog/2015/01/21/crypto013-exam1-question7.html</guid>
+      </item>
+    
+      <item>
+        <title>A simple ruby twitter client</title>
+        <description>&lt;h2 id=&quot;install-the-gem&quot;&gt;Install the gem&lt;/h2&gt;
+&lt;p&gt;Proceed to install the required &lt;em&gt;gem&lt;/em&gt; with &lt;code&gt;gem install twitter&lt;/code&gt; as indicated at &lt;a href=&quot;https://github.com/sferik/twitter&quot; target=&quot;_blank&quot;&gt;https://github.com/sferik/twitter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-code&quot;&gt;Sample code&lt;/h2&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;lineno&quot;&gt; 1&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;require&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;twitter&amp;quot;&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# include lib/gem&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 2&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt; 3&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# set the configuration object with the application and access tokens provided by registering an app on twitter site&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 4&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;config&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 5&lt;/span&gt;   &lt;span class=&quot;ss&quot;&gt;consumer_key&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;YOUR_consumerkey&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt; 6&lt;/span&gt;   &lt;span class=&quot;ss&quot;&gt;consumer_secret&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;YOUR_consumersecret&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt; 7&lt;/span&gt;   &lt;span class=&quot;ss&quot;&gt;access_token&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;YOUR_accesstoken&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt; 8&lt;/span&gt;   &lt;span class=&quot;ss&quot;&gt;access_token_secret&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;YOUR_accesstokensecret&amp;#39;&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 9&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;10&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;client&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Twitter&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;::&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;REST&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;::&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Client&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;new&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;config&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# instantiate the working object&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;11&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt;12&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;client&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;update&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tweet from simple ruby client.&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# execute a status update (a tweet)&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;13&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# perform as many other operations you want with the client object, read the gem page (see &amp;quot;references&amp;quot;) ...&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/sferik/twitter&quot; target=&quot;_blank&quot;&gt;https://github.com/sferik/twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Sun, 02 Nov 2014 13:14:44 -0500</pubDate>
+        <link>/gh-blog/2014/11/02/a-simple-ruby-twitter-client.html</link>
+        <guid isPermaLink="true">/gh-blog/2014/11/02/a-simple-ruby-twitter-client.html</guid>
+      </item>
     
       <item>
         <title>M101J: MongoDB for Java Developers. Week 1: Introduction.</title>
@@ -13,15 +469,15 @@
 &lt;p&gt;Following are presented the contents and answers to the HomeWorks belonging to &lt;em&gt;Week 1 (Introduction)&lt;/em&gt; for “&lt;strong&gt;M101J: MongoDB for Java Developers&lt;/strong&gt;” course offered by &lt;a href=&quot;https://university.mongodb.com/&quot; target=&quot;_blank&quot;&gt;https://university.mongodb.com/&lt;/a&gt; started at 2014-03-17.&lt;/p&gt;
 
 &lt;h2 id=&quot;homework-11&quot;&gt;HOMEWORK 1.1&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/hw11_Statement1.png&quot; alt=&quot;HW 1.1 statement 1&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/hw11_Statement1.png&quot; alt=&quot;HW 1.1 statement 1&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/hw11_Statement2.png&quot; alt=&quot;HW 1.1 statement 2&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/hw11_Statement2.png&quot; alt=&quot;HW 1.1 statement 2&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;answer-homework-11&quot;&gt;ANSWER HOMEWORK 1.1:&lt;/h3&gt;
 &lt;p&gt;Simply it was about verifying the correct MongoDB installation, example data import and basic query execution over those imported data.
 First, &lt;code&gt;mongorestore&lt;/code&gt;:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/hw11_MongoRestore.png&quot; alt=&quot;HW 1.1 mongorestore&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/hw11_MongoRestore.png&quot; alt=&quot;HW 1.1 mongorestore&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
 
 &lt;table class=&quot;highlighttable&quot;&gt;&lt;tr&gt;&lt;td class=&quot;linenos&quot;&gt;&lt;div class=&quot;linenodiv&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt; 1
  2
@@ -53,7 +509,7 @@ $
 
 &lt;p&gt;Then, some MongoShell checks about the restoration and the result answer:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/hw11_MongoChecks.png&quot; alt=&quot;HW 1.1 mongo checks&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/hw11_MongoChecks.png&quot; alt=&quot;HW 1.1 mongo checks&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
 
 &lt;table class=&quot;highlighttable&quot;&gt;&lt;tr&gt;&lt;td class=&quot;linenos&quot;&gt;&lt;div class=&quot;linenodiv&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt; 1
  2
@@ -126,7 +582,7 @@ system.indexes
 &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 
 &lt;h2 id=&quot;homework-12&quot;&gt;HOMEWORK 1.2&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/hw12_Statement.png&quot; alt=&quot;HW 1.2 statement&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/hw12_Statement.png&quot; alt=&quot;HW 1.2 statement&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;answer-homework-12&quot;&gt;ANSWER HOMEWORK 1.2:&lt;/h3&gt;
 &lt;p&gt;Simple theoretic question answered having the notion of JSON structure and syntax, see &lt;a href=&quot;http://www.json.org/&quot;&gt;http://www.json.org/&lt;/a&gt; .&lt;/p&gt;
@@ -140,9 +596,9 @@ system.indexes
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;homework-13&quot;&gt;HOMEWORK 1.3&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/hw13_Statement1.png&quot; alt=&quot;HW 1.3 statement 1&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/hw13_Statement1.png&quot; alt=&quot;HW 1.3 statement 1&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/hw13_Statement2.png&quot; alt=&quot;HW 1.3 statement 2&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/hw13_Statement2.png&quot; alt=&quot;HW 1.3 statement 2&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;answer-homework-13&quot;&gt;ANSWER HOMEWORK 1.3:&lt;/h3&gt;
 &lt;p&gt;Like &lt;em&gt;HW 1.1&lt;/em&gt;, it was about verifying the correct MongoDB installation and example data import, furthermore installation and correctness of JDK, Maven, mongo java driver and others.&lt;/p&gt;
@@ -265,9 +721,9 @@ system.indexes
 
 &lt;p&gt;Here the compilation and execution of the program, and the answer result obtained:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/hw13_Terminal1.png&quot; alt=&quot;HW 1.3 terminal 1&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/hw13_Terminal1.png&quot; alt=&quot;HW 1.3 terminal 1&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/hw13_Terminal2.png&quot; alt=&quot;HW 1.3 terminal 2&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/hw13_Terminal2.png&quot; alt=&quot;HW 1.3 terminal 2&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
 
 &lt;table class=&quot;highlighttable&quot;&gt;&lt;tr&gt;&lt;td class=&quot;linenos&quot;&gt;&lt;div class=&quot;linenodiv&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt; 1
  2
@@ -374,9 +830,9 @@ $
 &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 
 &lt;h2 id=&quot;homework-14&quot;&gt;HOMEWORK 1.4&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/hw14_Statement1.png&quot; alt=&quot;HW 1.4 statement 1&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/hw14_Statement1.png&quot; alt=&quot;HW 1.4 statement 1&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/hw14_Statement2.png&quot; alt=&quot;HW 1.4 statement 2&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/hw14_Statement2.png&quot; alt=&quot;HW 1.4 statement 2&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;answer-homework-14&quot;&gt;ANSWER HOMEWORK 1.4:&lt;/h3&gt;
 &lt;p&gt;Like &lt;em&gt;HW’s 1.1 and 1.3&lt;/em&gt;, it was about verifying the correctness of MongoDB installation, example data import, JDK, Maven, mongo java driver, furthermore Spark, Freemarker and others.&lt;/p&gt;
@@ -571,7 +1027,7 @@ $
 
 &lt;p&gt;Here the compilation and execution of the program launching the Spark web application:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/hw14_Terminal.png&quot; alt=&quot;HW 1.4 terminal&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/hw14_Terminal.png&quot; alt=&quot;HW 1.4 terminal&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
 
 &lt;table class=&quot;highlighttable&quot;&gt;&lt;tr&gt;&lt;td class=&quot;linenos&quot;&gt;&lt;div class=&quot;linenodiv&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt; 1
  2
@@ -635,10 +1091,10 @@ Downloading: http://repo1.maven.org/maven2/org/slf4j/slf4j-simple/1.6.4/slf4j-si
 
 &lt;p&gt;Finally, the result obtained browsing to the recently launched Spark web application:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/hw14_Browser.png&quot; alt=&quot;HW 1.4 browser&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/hw14_Browser.png&quot; alt=&quot;HW 1.4 browser&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;progress&quot;&gt;PROGRESS&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/progress.png&quot; alt=&quot;Progress week 1&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/progress.png&quot; alt=&quot;Progress week 1&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;references&quot;&gt;REFERENCES&lt;/h2&gt;
 &lt;ul&gt;
@@ -652,15 +1108,15 @@ Downloading: http://repo1.maven.org/maven2/org/slf4j/slf4j-simple/1.6.4/slf4j-si
 
 </description>
         <pubDate>Wed, 07 May 2014 15:23:30 -0500</pubDate>
-        <link>/2014/05/07/m101j-week1-introduction.html</link>
-        <guid isPermaLink="true">/2014/05/07/m101j-week1-introduction.html</guid>
+        <link>/gh-blog/2014/05/07/m101j-week1-introduction.html</link>
+        <guid isPermaLink="true">/gh-blog/2014/05/07/m101j-week1-introduction.html</guid>
       </item>
     
       <item>
         <title>Software - Rudy Rucker</title>
         <description>&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/assets/Software.jpg&quot; alt=&quot;Software&quot; title=&quot;Software&quot; width=&quot;50%&quot; /&gt;
-&lt;img src=&quot;/assets/Software_MartinezRoca.jpg&quot; alt=&quot;Software (martinez roca)&quot; title=&quot;Software (martinez roca)&quot; width=&quot;35%&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/Software.jpg&quot; alt=&quot;Software&quot; title=&quot;Software&quot; width=&quot;50%&quot; /&gt;
+&lt;img src=&quot;/gh-blog/assets/Software_MartinezRoca.jpg&quot; alt=&quot;Software (martinez roca)&quot; title=&quot;Software (martinez roca)&quot; width=&quot;35%&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;h2 id=&quot;sinposis&quot;&gt;SINPOSIS&lt;/h2&gt;
@@ -749,7 +1205,7 @@ Downloading: http://repo1.maven.org/maven2/org/slf4j/slf4j-simple/1.6.4/slf4j-si
 &lt;h3 id=&quot;section-27&quot;&gt;28&lt;/h3&gt;
 &lt;p&gt;En el sedan rojo Sta-Hi y Wendy alcanzan al camión del S.H. en Daytona que estaba estrellado y medio volcado y rodeado de policía con Action Jackson a la cabeza, Sta-Hi y Wendy logran cruzar la línea de seguridad, dicen que hay un cerebro robot gigantesco de un gran autónomo en ese camión; finalmente Sta-Hi y Wendy se marchan de la escena hacia la playa donde descorchan una botella de vino blanco.&lt;/p&gt;
 
-&lt;h2 id=&quot;quotes&quot;&gt;QUOTES&lt;/h2&gt;
+&lt;h2 id=&quot;citas&quot;&gt;CITAS&lt;/h2&gt;
 &lt;p&gt;… lo consideró un buen augurio y adelantó en una hora su ración vespertina de jerez.&lt;/p&gt;
 
 &lt;p&gt;… todavía deslumbrado por el sol del atardecer.&lt;/p&gt;
@@ -1079,15 +1535,15 @@ Downloading: http://repo1.maven.org/maven2/org/slf4j/slf4j-simple/1.6.4/slf4j-si
 
 </description>
         <pubDate>Sat, 29 Mar 2014 13:44:34 -0500</pubDate>
-        <link>/2014/03/29/software.html</link>
-        <guid isPermaLink="true">/2014/03/29/software.html</guid>
+        <link>/gh-blog/2014/03/29/software.html</link>
+        <guid isPermaLink="true">/gh-blog/2014/03/29/software.html</guid>
       </item>
     
       <item>
         <title>El fin de Alice - A. M. Homes</title>
         <description>&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/assets/ElFinDeAlice_front.jpg&quot; alt=&quot;El fin de Alice (portada)&quot; title=&quot;El fin de Alice (portada)&quot; width=&quot;40%&quot; /&gt;
-&lt;img src=&quot;/assets/ElFinDeAlice_back.jpg&quot; alt=&quot;El fin de Alice (contra-portada)&quot; title=&quot;El fin de Alice (contra-portada)&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/ElFinDeAlice_front.jpg&quot; alt=&quot;El fin de Alice (portada)&quot; title=&quot;El fin de Alice (portada)&quot; width=&quot;40%&quot; /&gt;
+&lt;img src=&quot;/gh-blog/assets/ElFinDeAlice_back.jpg&quot; alt=&quot;El fin de Alice (contra-portada)&quot; title=&quot;El fin de Alice (contra-portada)&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;h2 id=&quot;autora&quot;&gt;AUTORA&lt;/h2&gt;
@@ -1098,20 +1554,20 @@ Downloading: http://repo1.maven.org/maven2/org/slf4j/slf4j-simple/1.6.4/slf4j-si
 
 &lt;p&gt;Al comienzo, el recluso y su corresponsal no muestran todas sus cartas, en un juego de fingimientos y medias verdades. Pero poco a poco, entre mentiras, trampas y trampantojos, irá surgiendo la atroz verdad del prisionero, que se presenta como un doliente Humbert Humbert, desolada y triste víctima de sus deseos, y también la verdad de su joven corresponsal y cómplice, que ya mira con los ojos perversos de un adulto el territorio de la infancia, pero está ella misma perdida en la desolación del pasaje a la madurez, en la soledad de una tierra de nadie de la sexualidad y de la vida.&lt;/p&gt;
 
-&lt;h2 id=&quot;reviews&quot;&gt;REVIEWS&lt;/h2&gt;
-&lt;p&gt;«La novela de A. M. Homes ha recibido los más encendidos elogios y las más enconadas críticas. Algunos críticos se han manifestado profundamente escandalizados… Pero “El fin de Alice” cumple con el papel asignado desde siempre a la mejor literatura: suscita arduas cuestiones de orden moral y nos hace pensar en lo Otro» (Margot Livesey, Times Literary Supplement).&lt;/p&gt;
+&lt;h2 id=&quot;reseas&quot;&gt;RESEÑAS&lt;/h2&gt;
+&lt;p&gt;“La novela de A. M. Homes ha recibido los más encendidos elogios y las más enconadas críticas. Algunos críticos se han manifestado profundamente escandalizados… Pero “El fin de Alice” cumple con el papel asignado desde siempre a la mejor literatura: suscita arduas cuestiones de orden moral y nos hace pensar en lo Otro” (Margot Livesey, Times Literary Supplement).&lt;/p&gt;
 
-&lt;p&gt;«Desde el epígrafe de Lewis Carroll, hasta el siniestro ritmo de la frase final, la autora nos conduce seducidos por un terrorífico laberinto de espejos que nos devuelven grotescas imágenes de nosotros mismos y de los protagonistas de su libro… La mejor novela que he leído este año: desgarradora, perturbadora, emocionante, todo lo que una novela debería ser» (Elizabeth Young, The Independent).&lt;/p&gt;
+&lt;p&gt;“Desde el epígrafe de Lewis Carroll, hasta el siniestro ritmo de la frase final, la autora nos conduce seducidos por un terrorífico laberinto de espejos que nos devuelven grotescas imágenes de nosotros mismos y de los protagonistas de su libro… La mejor novela que he leído este año: desgarradora, perturbadora, emocionante, todo lo que una novela debería ser” (Elizabeth Young, The Independent).&lt;/p&gt;
 
-&lt;p&gt;«A. M. Homes no es una autora para timoratos. Narrado por un pedófilo y asesino, el libro escandaliza, fascina, repele y excita al mismo tiempo y, en una escena inolvidable, construye para las bañeras una mitología tan atroz como la que urdió Hitchcock en “Psicosis” para las duchas» (Vanity Fair).&lt;/p&gt;
+&lt;p&gt;“A. M. Homes no es una autora para timoratos. Narrado por un pedófilo y asesino, el libro escandaliza, fascina, repele y excita al mismo tiempo y, en una escena inolvidable, construye para las bañeras una mitología tan atroz como la que urdió Hitchcock en “Psicosis” para las duchas” (Vanity Fair).&lt;/p&gt;
 
-&lt;p&gt;«Un provocativo ejercicio de sexualidad transgresora… Un inteligente y escalofriante tour de force efectuado por una escritora de enorme talento» (Catherine Texier, Newsday).&lt;/p&gt;
+&lt;p&gt;“Un provocativo ejercicio de sexualidad transgresora… Un inteligente y escalofriante tour de force efectuado por una escritora de enorme talento” (Catherine Texier, Newsday).&lt;/p&gt;
 
-&lt;p&gt;«Cada año, hay un libro que se convierte en la comidilla de los medios, una combinación de literatura y procacidad. Pero el último candidato es mucho más que eso. “El fin de Alice” es desde luego escandalosa, pero también es una novela catártica, que destruye nuestras certezas más obvias, la obra maestra de una verdadera artista de las palabras» (Brian Masters, Vogue).&lt;/p&gt;
+&lt;p&gt;“Cada año, hay un libro que se convierte en la comidilla de los medios, una combinación de literatura y procacidad. Pero el último candidato es mucho más que eso. “El fin de Alice” es desde luego escandalosa, pero también es una novela catártica, que destruye nuestras certezas más obvias, la obra maestra de una verdadera artista de las palabras” (Brian Masters, Vogue).&lt;/p&gt;
 
-&lt;p&gt;«Una “Lolita” para la era grunge» (James Wolcott, Wall Street Journal).&lt;/p&gt;
+&lt;p&gt;“Una “Lolita” para la era grunge” (James Wolcott, Wall Street Journal).&lt;/p&gt;
 
-&lt;p&gt;«Su protagonista, inteligente y culto, es un cruce entre Humbert Humbert de “Lolita” y Hannibal Lecter de “El silencio de los corderos”» (Marisa Rusconi, L’Espresso).&lt;/p&gt;
+&lt;p&gt;“Su protagonista, inteligente y culto, es un cruce entre Humbert Humbert de ‘Lolita’ y Hannibal Lecter de ‘El silencio de los corderos’” (Marisa Rusconi, L’Espresso).&lt;/p&gt;
 
 &lt;h2 id=&quot;sinopsis&quot;&gt;SINOPSIS&lt;/h2&gt;
 
@@ -1165,13 +1621,13 @@ En la sala del comité se describe la sala y el jurado, describen su estancia en
 
 &lt;h3 id=&quot;section-15&quot;&gt;16&lt;/h3&gt;
 &lt;p&gt;Es el siguiente día, Frazier ha vuelto a su celda, no hay desayuno, Henry pasa, intercambian palabras, los guardas llegan por Chappy, lo conducen a la sala del comité para una segunda tanda, va algo dopado, retoman el repaso de los hechos en el incidente del lago y la barca; en la cabaña Chappy empaca y tiene la intención de irse cuando se lo indiquen, al cuarto día Gwendolyn va a pedirle el favor de que las transporte al aeropuerto por una complicación de la abuela (apoplejía), en el camino los pasajeros discuten un poco, en el aeropuerto Alice hace su berrinche, Alice se va en carro con Chappy a New York, se encuentran en el hospital de New York, visitan a la abuela, van al hotel, al siguiente día Chappy está afuera todo el día, en la noche regresa, conduce hacia el norte del estado, se registra en un motel, le recomiendan un restaurante, en la sala de comité se analizan las fotos, le presentan fotos para que reconozca a Alice, en el restaurante después de hacer su pedido se encuentra con que Alice está allí, que lo ha seguido en el carro como polizón, AAlice presiona/inquiere/exhorta a Chappy para que haga cosas lujuriosas con ella en la mesa del restaurante, salen del restaurante y se dirigen a la habitación del motel en medio de la tempestad; en la habitación Alice se encierra en el baño, él se preocupa, resulta que Alice está menstruando, él intenta explicarle, pero Alice no entiende y está inconsolable, acusa a Chappy, le echa la culpa, le dice que la ha cortado; en la sala le siguen presentando fotos de ella al frente, se moja en los pantalones, Alice coge su cuchillo de caza, lo esgrime hacia él, lo amenaza, Chappy intenta explicarle y consolarla inútilmente, le preguntan insistentemente si reconoce a Alice, él asiente, Alice sigue gritando y acusando, él le arrebata el cuchillo, ella se acerca, se increpan, hasta que finalmente Chappy apuñala a Alice, después él sale de la habitación en medio de la tormenta, en la mañana él sigue afuera, la mujer de la limpieza lo encuentra; en la sala, los miembros del comité deciden simplemente continuar con la lectura del documento que describe la escena, las múltiples pruebas que lo condenan, su reacción ante la detención, etc.
-Al final él ddice que esa es toda la historia, que ha contado todo el cuento, que haga lo que quiera con él; le permiten pasar y quedar libre, se alegra de verle, y dice que la ha extrañado y que la ha pensado constantemente.&lt;/p&gt;
+Al final él dice que esa es toda la historia, que ha contado todo el cuento, que haga lo que quiera con él; le permiten pasar y quedar libre, se alegra de verle, y dice que la ha extrañado y que la ha pensado constantemente.&lt;/p&gt;
 
-&lt;h2 id=&quot;quotes&quot;&gt;QUOTES&lt;/h2&gt;
+&lt;h2 id=&quot;citas&quot;&gt;CITAS&lt;/h2&gt;
 &lt;p&gt;castigado por satisfacer sus apetitos.&lt;/p&gt;
 
 &lt;p&gt;Entre los de mi género, lo que más me disgusta es la relucatancia a explorar, e incluso a reconocer, una atracción distinta a la propia.
-Nosotros -como los «sanos»- actuamos como si nuestro palacio de placer fuese superior, como si no existieran otros.
+Nosotros -como los “sanos”- actuamos como si nuestro palacio de placer fuese superior, como si no existieran otros.
 Esta falta de aprecio por un mundo de actividades más vasto me causa una tristeza que casi, maldita sea, lo estropea todo.
 ¿Por qué no festejar la gama completa?&lt;/p&gt;
 
@@ -1180,7 +1636,7 @@ Esta falta de aprecio por un mundo de actividades más vasto me causa una triste
 &lt;p&gt;porque su sintaxis, articulación y comprensión son todavía el lenguaje rebuscado y exiguo de la juventud.&lt;/p&gt;
 
 &lt;p&gt;Ir con ella a la cabaña y explicarle las maniobras, sugirerle que acaso la repugnancia que le inspiran, el acceso de náusea, es su propia estructura interna agarrotada por el nacimiento de un deseo hasta entonces ignorado.
-Le sugeriría también que el impulso de «arrojar», de verter tan nutritiva y rica pitanza como los tres o cuatro emparedados de mantequilla de cacahuates y jalea que ha ingerido debajo del olmo y junto a la canoa tan sólo una hora antes, no es tanto una señal de aversión como un síntoma de atracción, de hacer espacio para una posibilidad más amplia.&lt;/p&gt;
+Le sugeriría también que el impulso de “arrojar”, de verter tan nutritiva y rica pitanza como los tres o cuatro emparedados de mantequilla de cacahuates y jalea que ha ingerido debajo del olmo y junto a la canoa tan sólo una hora antes, no es tanto una señal de aversión como un síntoma de atracción, de hacer espacio para una posibilidad más amplia.&lt;/p&gt;
 
 &lt;p&gt;-¿Muy hecho o con la yema para untar? -Para untar -digo, eterno optimismo.&lt;/p&gt;
 
@@ -1218,7 +1674,7 @@ El padre se empeña, se concentra en quitarle la alfombra de debajo de los pies,
 
 &lt;p&gt;Se mete pedazos de su cuerpo en la boca como si quisiera devorarse vivo.&lt;/p&gt;
 
-&lt;p&gt;«Luz de estrella, mi centella, la primera que ahora veo, ojalá pudiera, ojalá pudiese, obtener lo que deseo.»&lt;/p&gt;
+&lt;p&gt;“Luz de estrella, mi centella, la primera que ahora veo, ojalá pudiera, ojalá pudiese, obtener lo que deseo.”&lt;/p&gt;
 
 &lt;p&gt;Yo la asesiné. Creedme.&lt;/p&gt;
 
@@ -1331,7 +1787,7 @@ Hago un ruido, un grito, un chillido.
 No hay un mundo real para el sonido que hago, pero es amplio y fuerte y desde el fondo de este pozo, una garganta abierta.&lt;/p&gt;
 
 &lt;h2 id=&quot;trminos&quot;&gt;TÉRMINOS&lt;/h2&gt;
-&lt;p&gt;zafio, exiguo, espeluznante, mendicante, carcaj, aljaba, vaho, empapuzar, abrevadero, napia, exhortar, horadar, espetar, hirsuto, adminículo, abside, mejunje, ágape, zascandilear, linóleo, majo, postilla, cutícula, atrabiliario, atrabilis, senilidad, anafiláctico, anafilaxia, turgencia, turgente, barullo, conmoción, gorgorito, feble, parangón, asperjar, tórrido, renquear, renco, zoisia, apoteósis, estrépito, despotricar, ingente, voluta, cofia, pícaro, fuelle, ensalmo, lascivo, lascivia, lozano, perorata, supino, interludio, insulso, cutí, cogitación, cogitar, prolijidad, prolijo, exarcerbar, soso, mamparo, liento, parloteo, parlotear, bemol, ajado, ajar, nínfula, ninfa, horma, desparpajo, alijo, alijar, presidir, ímpetu, transfigurar, transfigurado, escotillón, leotardo, refocilar, cavilación, cavilar, arrebol, resuello, calistenia, carmín, mejorana, caústico, pertrechos, tumescencia, berrear, sibilante, catre, jocoso, gorjeo, jocundo, jarana, perdigonado, perdigón, proscenio, tramoya, aupar, prolífico, prolijo, adrede, tesela, desportillado, desportillar, portillo, encorsetar, encorsetado, corsé, borbotear, deambular, apogeo, efluvio, lacre, libido, fragor, pletismógrafo, ínfimo, histerectemia, histerectomía, darjeeling, parchís, parqués, cencerro, paladeo, paladear, beato, santino, idilio, dicción, alarde, pringue, avezado, avezar, bruces, desdeñar, desdén, flirtear, dádiva, concubina, pavonear, musitan, musitar, apear, desconsiderado, desconsideración, famélico, birlar, rezongar, horcajadas, despatarrado, despatarrar, hurgar, trivialidad, trivial, celada, quilla, escabullir, porche, farfullar, bastidor, desbarajuste, embalaje, sinuosidad, santiamén, cilicio, hucha, bicúspide, apoplejía, receloso, recelo, recelar, tiovivo, farra, beicon, merceditas, atavío, surgir, surge, histérico, histeria, horror, éxtasis, tono, sórdido, evidente, conducta, picor, escozor, arrebato, arrebatamiento, tranquillo, profuso, reluctancia, renuencia, vid, visillo, zafar, autoestop, precoz, holgazán, simpático, bollera, desperado, desperar, alhajas, liar, petate, rijoso, empalmar, insinuar, persuasión, persuadir, lisiado, lisiar, repiqueteo, repiquetear, escindir.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;zafio&lt;/em&gt;&lt;/strong&gt;, &lt;strong&gt;exiguo&lt;/strong&gt;, espeluznante, &lt;strong&gt;&lt;em&gt;mendicante&lt;/em&gt;&lt;/strong&gt;, carcaj, aljaba, vaho, empapuzar, abrevadero, napia, exhortar, horadar, espetar, hirsuto, adminículo, abside, &lt;em&gt;mejunje&lt;/em&gt;, ágape, &lt;strong&gt;zascandilear&lt;/strong&gt;, linóleo, &lt;em&gt;majo&lt;/em&gt;, &lt;em&gt;postilla&lt;/em&gt;, cutícula, &lt;strong&gt;atrabiliario&lt;/strong&gt;, &lt;strong&gt;atrabilis&lt;/strong&gt;, senilidad, anafiláctico, anafilaxia, &lt;strong&gt;turgencia&lt;/strong&gt;, &lt;strong&gt;turgente&lt;/strong&gt;, &lt;em&gt;barullo&lt;/em&gt;, conmoción, gorgorito, feble, &lt;em&gt;parangón&lt;/em&gt;, asperjar, &lt;em&gt;tórrido&lt;/em&gt;, renquear, renco, zoisia, apoteósis, estrépito, &lt;strong&gt;despotricar&lt;/strong&gt;, &lt;strong&gt;ingente&lt;/strong&gt;, voluta, cofia, pícaro, fuelle, ensalmo, lascivo, lascivia, lozano, &lt;strong&gt;perorata&lt;/strong&gt;, supino, interludio, &lt;em&gt;insulso&lt;/em&gt;, cutí, cogitación, cogitar, prolijidad, prolijo, exarcerbar, soso, mamparo, liento, parloteo, parlotear, bemol, ajado, ajar, nínfula, ninfa, horma, &lt;strong&gt;desparpajo&lt;/strong&gt;, alijo, alijar, presidir, ímpetu, transfigurar, transfigurado, escotillón, leotardo, refocilar, cavilación, cavilar, &lt;em&gt;arrebol&lt;/em&gt;, resuello, &lt;strong&gt;&lt;em&gt;calistenia&lt;/em&gt;&lt;/strong&gt;, &lt;em&gt;carmín&lt;/em&gt;, mejorana, caústico, &lt;em&gt;pertrechos&lt;/em&gt;, &lt;strong&gt;tumescencia&lt;/strong&gt;, berrear, sibilante, catre, jocoso, gorjeo, jocundo, jarana, perdigonado, perdigón, proscenio, tramoya, aupar, prolífico, prolijo, adrede, tesela, desportillado, desportillar, portillo, encorsetar, encorsetado, corsé, borbotear, deambular, apogeo, efluvio, lacre, libido, &lt;em&gt;fragor&lt;/em&gt;, pletismógrafo, ínfimo, &lt;em&gt;histerectemia&lt;/em&gt;, &lt;em&gt;histerectomía&lt;/em&gt;, darjeeling, parchís, parqués, &lt;em&gt;cencerro&lt;/em&gt;, paladeo, paladear, beato, santino, idilio, dicción, alarde, pringue, avezado, avezar, bruces, desdeñar, desdén, flirtear, dádiva, concubina, pavonear, musitan, musitar, apear, desconsiderado, desconsideración, famélico, birlar, rezongar, horcajadas, despatarrado, despatarrar, hurgar, trivialidad, trivial, celada, quilla, escabullir, porche, farfullar, bastidor, desbarajuste, embalaje, sinuosidad, &lt;em&gt;santiamén&lt;/em&gt;, cilicio, hucha, bicúspide, apoplejía, receloso, recelo, recelar, tiovivo, farra, beicon, merceditas, atavío, surgir, surge, histérico, histeria, horror, éxtasis, tono, sórdido, evidente, conducta, picor, escozor, arrebato, arrebatamiento, tranquillo, profuso, reluctancia, renuencia, vid, visillo, zafar, &lt;strong&gt;&lt;em&gt;autoestop&lt;/em&gt;&lt;/strong&gt;, precoz, holgazán, simpático, bollera, desperado, desperar, alhajas, liar, petate, rijoso, empalmar, insinuar, persuasión, persuadir, lisiado, lisiar, repiqueteo, repiquetear, escindir.&lt;/p&gt;
 
 &lt;h2 id=&quot;referencias&quot;&gt;REFERENCIAS&lt;/h2&gt;
 &lt;ul&gt;
@@ -1342,15 +1798,15 @@ No hay un mundo real para el sonido que hago, pero es amplio y fuerte y desde el
 
 </description>
         <pubDate>Wed, 19 Mar 2014 13:44:34 -0500</pubDate>
-        <link>/2014/03/19/el-fin-de-alice.html</link>
-        <guid isPermaLink="true">/2014/03/19/el-fin-de-alice.html</guid>
+        <link>/gh-blog/2014/03/19/el-fin-de-alice.html</link>
+        <guid isPermaLink="true">/gh-blog/2014/03/19/el-fin-de-alice.html</guid>
       </item>
     
       <item>
         <title>Satán me quiere - Robert Irwin</title>
         <description>&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/assets/SatanMeQuiere_front.jpg&quot; alt=&quot;Satán me quiere (portada)&quot; title=&quot;Satán me quiere (portada)&quot; width=&quot;40%&quot; /&gt;
-&lt;img src=&quot;/assets/SatanMeQuiere_back.jpg&quot; alt=&quot;Satán me quiere (contra-portada)&quot; title=&quot;Satán me quiere (contra-portada)&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/SatanMeQuiere_front.jpg&quot; alt=&quot;Satán me quiere (portada)&quot; title=&quot;Satán me quiere (portada)&quot; width=&quot;40%&quot; /&gt;
+&lt;img src=&quot;/gh-blog/assets/SatanMeQuiere_back.jpg&quot; alt=&quot;Satán me quiere (contra-portada)&quot; title=&quot;Satán me quiere (contra-portada)&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;h2 id=&quot;autor&quot;&gt;AUTOR&lt;/h2&gt;
@@ -1361,12 +1817,12 @@ No hay un mundo real para el sonido que hago, pero es amplio y fuerte y desde el
 
 &lt;p&gt;Sally intenta que Peter deje la sociedad, consciente de que se encuentran en manos de una secta satánica. Sin embargo, Peter renunciará a la relación con su novia en favor de la secta. En los días que siguen a esta ruptura, Cosmic es expulsado y Peter, ascendido hasta un cargo muy importante; todo parece apuntar a que Peter se convertirá en uno de los líderes. No obstante, y para sorpresa de todos, el destino de Peter y sus compañeros será mucho más extraño de lo que cualquiera hubiera podido aventurar.&lt;/p&gt;
 
-&lt;p&gt;Irwin ha llevado a cabo en esta novela un repaso irónico de las actitudes y vicios de los años sesenta, la parodia de la juventud hippy, del «Swinging London» y la psicodelia.&lt;/p&gt;
+&lt;p&gt;Irwin ha llevado a cabo en esta novela un repaso irónico de las actitudes y vicios de los años sesenta, la parodia de la juventud hippy, del “Swinging London” y la psicodelia.&lt;/p&gt;
 
-&lt;h2 id=&quot;reviews&quot;&gt;REVIEWS&lt;/h2&gt;
-&lt;p&gt;«Una pura delicia. Alcanza momentos inolvidables; la recreación de los años sesenta en Londres son desternillantes.» The Guardian&lt;/p&gt;
+&lt;h2 id=&quot;reseas&quot;&gt;RESEÑAS&lt;/h2&gt;
+&lt;p&gt;“Una pura delicia. Alcanza momentos inolvidables; la recreación de los años sesenta en Londres son desternillantes.” The Guardian&lt;/p&gt;
 
-&lt;p&gt;«Magistral, Irwin se ha superado. Una novela para todos los públicos.» Time Out&lt;/p&gt;
+&lt;p&gt;“Magistral, Irwin se ha superado. Una novela para todos los públicos.” Time Out&lt;/p&gt;
 
 &lt;h2 id=&quot;sinopsis&quot;&gt;SINOPSIS&lt;/h2&gt;
 &lt;p&gt;Viernes, 12 de mayo de 1967&lt;/p&gt;
@@ -1585,7 +2041,7 @@ No hay un mundo real para el sonido que hago, pero es amplio y fuerte y desde el
 
 &lt;p&gt;Después del funeral de Maud Peter retoma los diarios para escribir a grosso modo lo que ha acontecido; Maud avisó a su padre el Maestro Robert Kelley su situación, el Maestro persuade a la policía que ya pululaba el lugar, también el padre de Peter llega, hablan y no lo vuelve a ver, Sally ha muerto, Cosmic le recuerda a Peter el juramento de follar con ella muerta, Peter se niega, Cosmic lo reprocha; Peter y Maud reciben atención de la logia debido al embarazo de Maud, Peter y Maud se casan, Peter recibe la herencia de Julian y se vuelve un trabajador, Maud recibe su propia peluquería que cede con el nacimiento del pequeño Robert, Peter se siente orgulloso de la carrera política de Robert, Maud reserva todo su amor para Peter; Cosmic también se vendió se volvió también un trabajador; de que su ideología se perdió y se impusieron los otros convencionales, del encuentro a la entrada del cementerio con los evangelizadores sexuales, de las últimas palabras de Maud.&lt;/p&gt;
 
-&lt;h2 id=&quot;quotes&quot;&gt;QUOTES&lt;/h2&gt;
+&lt;h2 id=&quot;citas&quot;&gt;CITAS&lt;/h2&gt;
 &lt;p&gt;Cuando los agentes verdaderos se administran a los pacientes adecuados se producen efectos extraños y admirables.&lt;/p&gt;
 
 &lt;p&gt;Es una pura sensación de misterio, de tal manera que incluso lo que es misterioso resulta misterioso.&lt;/p&gt;
@@ -1596,7 +2052,7 @@ No hay un mundo real para el sonido que hago, pero es amplio y fuerte y desde el
 
 &lt;p&gt;Le he dicho que estar desnudo y bajar resbalando por una barandilla erizada de hojas de afeitar.&lt;/p&gt;
 
-&lt;p&gt;A lo mejor este año quedará claro si me hago siciólogo o sigo en la carretera.&lt;/p&gt;
+&lt;p&gt;A lo mejor este año quedará claro si me hago sociólogo o sigo en la carretera.&lt;/p&gt;
 
 &lt;p&gt;La esfera astral no es un lugar donde se puedan tener inhibiciones burguesas.&lt;/p&gt;
 
@@ -1908,7 +2364,7 @@ No hay un mundo real para el sonido que hago, pero es amplio y fuerte y desde el
 
 &lt;p&gt;Una dicción meticulosa puede hacer que los amantes de la buena escritura elogien cosas como fantasías opiáceas de prostitución infantil en los arrabales de Londres o investigaciones filosóficas sobre la naturaleza del adulterio llevadas a cabo por alejandrinos corruptos y cosmopolitas.&lt;/p&gt;
 
-&lt;p&gt;Los párrafos barrocos de antítesis queilibradas reverberan a causa de los ecos internos, las simetrías y los paralelismos.&lt;/p&gt;
+&lt;p&gt;Los párrafos barrocos de antítesis equilibradas reverberan a causa de los ecos internos, las simetrías y los paralelismos.&lt;/p&gt;
 
 &lt;p&gt;La muerte es un juego de palabras y el crímen es un pretexto para el disfraz ornamental.&lt;/p&gt;
 
@@ -2186,7 +2642,7 @@ Tenía buen apetito, y el movimiento de su mandíbula robusta al masticar le dab
 &lt;p&gt;Cuando ha llegado el momento de pagar la cuenta, he montado mi número habitual de búsqueda frenética de la cartera.
 En pleno ataque de pánico, he empezado a vaciar todos los bolsillos sobre la mesa.&lt;/p&gt;
 
-&lt;p&gt;Entonces se ha quedado terriblmente cortada.&lt;/p&gt;
+&lt;p&gt;Entonces se ha quedado terriblemente cortada.&lt;/p&gt;
 
 &lt;p&gt;He oído mi voz. Rezumaba tanta insinceridad como la de un presentador de televisión.&lt;/p&gt;
 
@@ -2243,7 +2699,7 @@ Muestra una falta asombrosa de curiosidad.&lt;/p&gt;
 &lt;p&gt;Las larvas, o medio almas de los muertos que no tienen bastante fuerza de voluntad para separase de la existencia terrestre, sueñan en esta sala y en el resto de la casa.&lt;/p&gt;
 
 &lt;p&gt;Al parecer, extrae su poder de las fantasías sexuales y las imágenes masturbatorias.
-Es especialmente peligroso repetir una fantasía masturbatoria, porque la segunda vez que uno se imagina a la mujer escasa de ropa o al tío cachas de turno, en esa imagen hay algo de Qlippoth, y a la larga esas imágenes fantásticas -con sus curvas, sus mohines, sus balanceos y sus señas incitantes- se convierten por completo en escalvas del Qlippoth.&lt;/p&gt;
+Es especialmente peligroso repetir una fantasía masturbatoria, porque la segunda vez que uno se imagina a la mujer escasa de ropa o al tío cachas de turno, en esa imagen hay algo de Qlippoth, y a la larga esas imágenes fantásticas -con sus curvas, sus mohines, sus balanceos y sus señas incitantes- se convierten por completo en esclavas del Qlippoth.&lt;/p&gt;
 
 &lt;p&gt;Mi deseo de leerlo debe estar causado, supongo, por algún acontecimiento futuro.
 También me parece posible que yo haga cosas que no respondan a ninguna razón o motivo.
@@ -2340,7 +2796,7 @@ De modo que se trata de un candidato perfecto para cualquier culto en busca de a
 Me habría sentido mejor si me hubieran encomendado la tarea de romper lentamente las alas de un polluelo.&lt;/p&gt;
 
 &lt;p&gt;Ella se sentó con pesadez y giró la cara en un intento inútil de ocultarnos que estaba llorando en silencio.
-Supongo que tendría que haberla tocada para reconfortarla, pero no pude hacerlo.&lt;/p&gt;
+Supongo que tendría que haberla tocado para reconfortarla, pero no pude hacerlo.&lt;/p&gt;
 
 &lt;p&gt;-Ahora que han averiguado que yo era un espía entre ellos, ella y yo tenemos que escapar.&lt;/p&gt;
 
@@ -2636,13 +3092,13 @@ Espero que sea pronto.&lt;/p&gt;
 
 </description>
         <pubDate>Fri, 06 Dec 2013 13:44:34 -0500</pubDate>
-        <link>/2013/12/06/satan-me-quiere.html</link>
-        <guid isPermaLink="true">/2013/12/06/satan-me-quiere.html</guid>
+        <link>/gh-blog/2013/12/06/satan-me-quiere.html</link>
+        <guid isPermaLink="true">/gh-blog/2013/12/06/satan-me-quiere.html</guid>
       </item>
     
       <item>
         <title>La ciudad y los perros - Mario Vargas Llosa</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/LaCiudadYLosPerros.jpg&quot; alt=&quot;La ciudad y los perros&quot; title=&quot;La ciudad y los perros&quot; width=&quot;40%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LaCiudadYLosPerros.jpg&quot; alt=&quot;La ciudad y los perros&quot; title=&quot;La ciudad y los perros&quot; width=&quot;40%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;sinopsis&quot;&gt;SINOPSIS&lt;/h2&gt;
 
@@ -2829,10 +3285,10 @@ Espero que sea pronto.&lt;/p&gt;
 
 &lt;p&gt;El Jaguar hablando con el flaco Higueras le cuenta cómo fue su reencuentro con Teresa, y de que se casaron.&lt;/p&gt;
 
-&lt;h2 id=&quot;quotes&quot;&gt;QUOTES&lt;/h2&gt;
+&lt;h2 id=&quot;citas&quot;&gt;CITAS&lt;/h2&gt;
 &lt;p&gt;Confusamente, deseó perder la voluntad y la imaginación y ejecutar el plan como una máquina ciega. Pasaba días enteros abandonado a una rutina que decidía por él, empujado dulcemente a acciones que apenas notaba; ahora era distinto, se había impuesto lo de esta noche, sentía una lucidez insólita.&lt;/p&gt;
 
-&lt;p&gt;Un movimiento próximo e inesperado devolvió a su cuerpo, como un puñetazo, el miedo que empezada a vencer.&lt;/p&gt;
+&lt;p&gt;Un movimiento próximo e inesperado devolvió a su cuerpo, como un puñetazo, el miedo que empezaba a vencer.&lt;/p&gt;
 
 &lt;p&gt;El cansancio adormecía poco a poco sus miembros, embotaba sus sentidos.&lt;/p&gt;
 
@@ -3032,7 +3488,7 @@ Espero que sea pronto.&lt;/p&gt;
 
 &lt;p&gt;su rostro lucía una media sonrisa despectiva, pero su mirada era angustiosa.&lt;/p&gt;
 
-&lt;p&gt;El río sin entusiasmo y dijo una lisura.&lt;/p&gt;
+&lt;p&gt;Él río sin entusiasmo y dijo una lisura.&lt;/p&gt;
 
 &lt;p&gt;Hubo algunas risas desganadas, corteses.&lt;/p&gt;
 
@@ -3044,7 +3500,7 @@ Espero que sea pronto.&lt;/p&gt;
 
 &lt;p&gt;El sentía su corazón palpitando con escándalo.&lt;/p&gt;
 
-&lt;p&gt;Entonces comprendío: «ella está de su lado, es su cómplice». Decidió ser cauteloso, ya no podía fiarse de su madre. Estaba solo.&lt;/p&gt;
+&lt;p&gt;Entonces comprendió: “ella está de su lado, es su cómplice”. Decidió ser cauteloso, ya no podía fiarse de su madre. Estaba solo.&lt;/p&gt;
 
 &lt;p&gt;Él había sumido la cabeza entre los brazos: sus ojos exploraban un minúsculo universo en tinieblas. Sus oídos percibían una bulliciosa excitación: cuerpos que se estiran o recogen, risas ahogadas, el resuello frenético de otro.&lt;/p&gt;
 
@@ -3060,7 +3516,7 @@ Espero que sea pronto.&lt;/p&gt;
 
 &lt;p&gt;Estaba sorprendido: debería sentirse excitado o aterrado, algún trastorno físico debía recordarle la delación. Creía que los criminales, después de cometer un asesinato, se hundían en un vértigo y quedaban como hipnotizados. Él sólo tenía indeferencia.&lt;/p&gt;
 
-&lt;p&gt;«No puedo fiarme de nadie, pensó. ¿Por qué todos son mis enemigos?»&lt;/p&gt;
+&lt;p&gt;“No puedo fiarme de nadie, pensó. ¿Por qué todos son mis enemigos?”&lt;/p&gt;
 
 &lt;p&gt;Un leve temblor en las manos: fue la única reacción de su cuerpo al empujar los batientes de la cuadra y verlo, de pie junto al ropero.&lt;/p&gt;
 
@@ -3068,7 +3524,7 @@ Espero que sea pronto.&lt;/p&gt;
 
 &lt;p&gt;Negro que ladra no muerde.&lt;/p&gt;
 
-&lt;p&gt;Pensó: «en el fondo, todos ellos son amigos. Se insultan y se pelean de la boca para afuera, pero en el fondo se divierten juntos. Sólo a mi me miran como a un extraño.»&lt;/p&gt;
+&lt;p&gt;Pensó: “en el fondo, todos ellos son amigos. Se insultan y se pelean de la boca para afuera, pero en el fondo se divierten juntos. Sólo a mi me miran como a un extraño.”&lt;/p&gt;
 
 &lt;p&gt;sólo en la última comenzó a sentir que la modorra invadía su cuerpo y surgió la tentación de soltar el lapicero y pensar en cosas vagas.&lt;/p&gt;
 
@@ -3200,7 +3656,7 @@ Espero que sea pronto.&lt;/p&gt;
 
 &lt;p&gt;Y era hasta respondón.&lt;/p&gt;
 
-&lt;p&gt;con su cara larga y mirndo sabe Dios qué cosa, soñando con los ojos abiertos.&lt;/p&gt;
+&lt;p&gt;con su cara larga y mirando sabe Dios qué cosa, soñando con los ojos abiertos.&lt;/p&gt;
 
 &lt;p&gt;Lo ha demolido la muerte de su yunta. Los blanquiñosos son pura pinta, cara de hombre y alma de mujer, les falta temple; éste se ha quedado enfermo, es el que más ha sentido la muerte.&lt;/p&gt;
 
@@ -3218,11 +3674,11 @@ Espero que sea pronto.&lt;/p&gt;
 
 &lt;p&gt;me sentía enfermo de miedo.&lt;/p&gt;
 
-&lt;p&gt;«Todo parece un cementerio, nos dijo. No hay ni gatos.»&lt;/p&gt;
+&lt;p&gt;“Todo parece un cementerio, nos dijo. No hay ni gatos.”&lt;/p&gt;
 
 &lt;p&gt;como él lo mira con indiferencia, se encoge de hombros y cierra la puerta.&lt;/p&gt;
 
-&lt;p&gt;Nunca le había visto esos atques de rabia, qué manera de temblarle la cara, qué palabrotas, lo quemo todo, los mato a todos, una noche incendiaremos el edificio de los oficiales, quisiera despanzurrar al coronel y ponerme sus tripas de corbata.&lt;/p&gt;
+&lt;p&gt;Nunca le había visto esos ataques de rabia, qué manera de temblarle la cara, qué palabrotas, lo quemo todo, los mato a todos, una noche incendiaremos el edificio de los oficiales, quisiera despanzurrar al coronel y ponerme sus tripas de corbata.&lt;/p&gt;
 
 &lt;p&gt;Debe estar enfermo, ésas no son maneras de persona sana, enfermo de la cabeza, loco perdido.&lt;/p&gt;
 
@@ -3262,15 +3718,15 @@ Espero que sea pronto.&lt;/p&gt;
 
 &lt;p&gt;Algo así debe ser cuando uno se casa.&lt;/p&gt;
 
-&lt;p&gt;«Le dije, eres lo más maricón que he visto nunca; cuando las cosas se ponen feas calumnias a los compañeros.»&lt;/p&gt;
+&lt;p&gt;“Le dije, eres lo más maricón que he visto nunca; cuando las cosas se ponen feas calumnias a los compañeros.”&lt;/p&gt;
 
 &lt;p&gt;Examinó sus facciones inmóviles, trató de recordar; inútil, el rostro se confundía con otros, aunque le era vagamente familiar, no por sus rasgos, sino por la expresión anticipadamente madura: tenía las mandíbulas apretadas, el ceño grave, el mentón hendido.&lt;/p&gt;
 
 &lt;p&gt;Ahora, veía en la penumbra sus ojos, no muy grandes, pero sí brillantes e incisivos. Él no se movía ni hablaba, pero en su rigidez y en su silencio había algo indócil que disgustó.&lt;/p&gt;
 
-&lt;p&gt;su rostro no había variado, se mostravba severp y tranquilo.&lt;/p&gt;
+&lt;p&gt;su rostro no había variado, se mostraba severo y tranquilo.&lt;/p&gt;
 
-&lt;p&gt;Su voz correspondía exactamente a sus ojos. Laas palabras eran respetuosas y las pronunciaba despacio, articulándolas con cierta sensualidad, pero el tono dejaba entrever una secreta arrogancia.&lt;/p&gt;
+&lt;p&gt;Su voz correspondía exactamente a sus ojos. Las palabras eran respetuosas y las pronunciaba despacio, articulándolas con cierta sensualidad, pero el tono dejaba entrever una secreta arrogancia.&lt;/p&gt;
 
 &lt;p&gt;Lo observó detenidamente, pero en vano; permanecía quieto y mudo. No parecía sorprendido ni atemorizado.&lt;/p&gt;
 
@@ -3296,7 +3752,7 @@ Espero que sea pronto.&lt;/p&gt;
 
 &lt;p&gt;Me dió cólera y me le fui encima.&lt;/p&gt;
 
-&lt;p&gt;«no se desesperen, maldita sea».&lt;/p&gt;
+&lt;p&gt;“no se desesperen, maldita sea”.&lt;/p&gt;
 
 &lt;p&gt;No sé qué les puede importar mi vida.&lt;/p&gt;
 
@@ -3324,7 +3780,7 @@ Espero que sea pronto.&lt;/p&gt;
 
 &lt;p&gt;Hasta algunas semanas atrás, nunca había recordado el pasado, ocupaba su tiempo libre en hacer planes para el futuro. Sus objetivos se habían realizado hasta ahora.&lt;/p&gt;
 
-&lt;p&gt;«El orden y la disciplina consituyen la justicia -recitó, con una sonrisa ácida en los labios-, y son los instrumentos indispensables de una vida colectiva racional. El orden y la disciplina se obtienen adecuando la realidad a las leyes.»&lt;/p&gt;
+&lt;p&gt;“El orden y la disciplina consituyen la justicia -recitó, con una sonrisa ácida en los labios-, y son los instrumentos indispensables de una vida colectiva racional. El orden y la disciplina se obtienen adecuando la realidad a las leyes.”&lt;/p&gt;
 
 &lt;p&gt;Imponer la disciplina había sido hasta ahora, tan fácil como obedecerla.&lt;/p&gt;
 
@@ -3332,7 +3788,7 @@ Espero que sea pronto.&lt;/p&gt;
 
 &lt;p&gt;Hizo un gesto de hastío.&lt;/p&gt;
 
-&lt;p&gt;«Lo que me haría bien esta noche, pensó, es una buena borrachera.»&lt;/p&gt;
+&lt;p&gt;“Lo que me haría bien esta noche, pensó, es una buena borrachera.”&lt;/p&gt;
 
 &lt;p&gt;Caminaba con las manos cogidas a la espalda.&lt;/p&gt;
 
@@ -3346,7 +3802,7 @@ Espero que sea pronto.&lt;/p&gt;
 
 &lt;p&gt;-Yo les enseñé a ser hombres a todos ésos -dijo el Jaguar-. ¿Crees que me importan? Por mí, pueden irse a la mierda todos. No me interesa lo que piensen. Y tú tampoco. Lárgate.&lt;/p&gt;
 
-&lt;p&gt;«Quien con mocosos se acuesta…»&lt;/p&gt;
+&lt;p&gt;“Quien con mocosos se acuesta…”&lt;/p&gt;
 
 &lt;p&gt;quedó inmóvil, con la mirada perdida.&lt;/p&gt;
 
@@ -3378,7 +3834,7 @@ Espero que sea pronto.&lt;/p&gt;
 
 &lt;p&gt;Seguía intranquilo.&lt;/p&gt;
 
-&lt;p&gt;«Bien, dijo el coronel. Muy bien. La Patria necesita técnicos. Hace usted bien, es una profesión útil. Le deseo mucha suerte.»&lt;/p&gt;
+&lt;p&gt;“Bien, dijo el coronel. Muy bien. La Patria necesita técnicos. Hace usted bien, es una profesión útil. Le deseo mucha suerte.”&lt;/p&gt;
 
 &lt;p&gt;Caminaba de vuelta a su casa, ensimismado, aturdido.&lt;/p&gt;
 
@@ -3392,7 +3848,7 @@ Espero que sea pronto.&lt;/p&gt;
 
 &lt;p&gt;Nuevamente, tenía la copa de pisco en la mano y la movía con inteligencia.&lt;/p&gt;
 
-&lt;p&gt;«me gusta ver cómo se suicida la gente. Cásese no más, y el próximo lunes está usted aquí, a las ocho en punto.»&lt;/p&gt;
+&lt;p&gt;“me gusta ver cómo se suicida la gente. Cásese no más, y el próximo lunes está usted aquí, a las ocho en punto.”&lt;/p&gt;
 
 &lt;p&gt;Pasé un mal rato.&lt;/p&gt;
 
@@ -3405,7 +3861,7 @@ Espero que sea pronto.&lt;/p&gt;
 &lt;p&gt;No tengo ni un cobre.&lt;/p&gt;
 
 &lt;h2 id=&quot;trminos&quot;&gt;TÉRMINOS&lt;/h2&gt;
-&lt;p&gt;cadete, hediondez, tibio, desmesurado, litera, serenidad, sereno, murmullo, bulla, bullicio, &lt;em&gt;batiente&lt;/em&gt;, ansiedad, &lt;em&gt;timba&lt;/em&gt;, sumergido, sumergir, eludiendo, eludir, &lt;em&gt;vicuña&lt;/em&gt;, encolerizar, &lt;em&gt;impávido&lt;/em&gt;, &lt;em&gt;mimeógrafo&lt;/em&gt;, dormitar, &lt;em&gt;estribillo&lt;/em&gt;, &lt;em&gt;embotar&lt;/em&gt;, lecho, hostil, soledad, &lt;em&gt;disipar&lt;/em&gt;, &lt;em&gt;fulgor&lt;/em&gt;, baranda, oscurecer, frágil, &lt;em&gt;patético&lt;/em&gt;, escruta, &lt;em&gt;tarado&lt;/em&gt;, yergue, erguir, &lt;em&gt;prócer&lt;/em&gt;, &lt;em&gt;epónimo&lt;/em&gt;, &lt;em&gt;sosegado&lt;/em&gt;, &lt;em&gt;sosegar&lt;/em&gt;, &lt;em&gt;febril&lt;/em&gt;, desvariar, umbral, despreciar, &lt;em&gt;porfiado&lt;/em&gt;, &lt;em&gt;porfiar&lt;/em&gt;, fregado, fregar, &lt;em&gt;cojudo&lt;/em&gt;, &lt;em&gt;apacible&lt;/em&gt;, &lt;em&gt;asentir&lt;/em&gt;, &lt;em&gt;frenético&lt;/em&gt;, &lt;em&gt;frenesí&lt;/em&gt;, erigir, &lt;em&gt;insolente&lt;/em&gt;, &lt;em&gt;insolencia&lt;/em&gt;, agazapado, agazapar, estrépito, &lt;em&gt;rampar&lt;/em&gt;, &lt;em&gt;rampante&lt;/em&gt;, &lt;em&gt;manducar&lt;/em&gt;, &lt;em&gt;pichula&lt;/em&gt;, &lt;em&gt;pánfilo&lt;/em&gt;, constipar, &lt;em&gt;respingado&lt;/em&gt;, &lt;em&gt;respingar&lt;/em&gt;, zafar, &lt;em&gt;caracho&lt;/em&gt;, desdibujado, percibir, &lt;em&gt;conmoción&lt;/em&gt;, blasfemia, apaciguar, audaz, audacia, &lt;em&gt;adusto&lt;/em&gt;, palidecer, cristina, ñizca, pizca, &lt;em&gt;melifluo&lt;/em&gt;, cadencia, &lt;em&gt;garúa&lt;/em&gt;, biombo, escuálido, cohibido, cohibir, &lt;em&gt;guargüero&lt;/em&gt;, tapia, &lt;em&gt;chacra&lt;/em&gt;, zurcido, zurcir, dócil, docilidad, &lt;em&gt;andanada&lt;/em&gt;, &lt;em&gt;fundillo&lt;/em&gt;, pelambre, &lt;em&gt;arcada&lt;/em&gt;, colérico, pómulo, mentón, &lt;em&gt;mueca&lt;/em&gt;, &lt;em&gt;insinuar&lt;/em&gt;, &lt;em&gt;insinuación&lt;/em&gt;, enervado, enervar, represalia, ensañamiento, avidez, &lt;em&gt;solícito&lt;/em&gt;, júbilo, angustia, casual, escarapela, lívido, ánimo, &lt;em&gt;chancón&lt;/em&gt;, &lt;em&gt;empollón&lt;/em&gt;, redil, aturdir, aturdido, &lt;em&gt;euforia&lt;/em&gt;, &lt;em&gt;eufórico&lt;/em&gt;, geranios, estremecer, anhelar, anhelante, fervor, polémica, &lt;em&gt;algazara&lt;/em&gt;, &lt;em&gt;calado&lt;/em&gt;, extenuante, &lt;em&gt;pugilato&lt;/em&gt;, perpetuo, ultraje, &lt;em&gt;cataplasma&lt;/em&gt;, &lt;em&gt;carcoso&lt;/em&gt;, &lt;em&gt;calistenia&lt;/em&gt;, &lt;em&gt;zuza&lt;/em&gt;, &lt;em&gt;cogote&lt;/em&gt;, &lt;em&gt;aspaviento&lt;/em&gt;, &lt;em&gt;lisura&lt;/em&gt;, &lt;em&gt;implacable&lt;/em&gt;, buhardilla, &lt;em&gt;abatimiento&lt;/em&gt;, &lt;em&gt;abatir&lt;/em&gt;, atormentar, delatar, &lt;em&gt;balbucear&lt;/em&gt;, &lt;em&gt;vociferar&lt;/em&gt;, vertiginoso, cómodo, &lt;em&gt;escrúpulo&lt;/em&gt;, &lt;em&gt;beato&lt;/em&gt;, &lt;em&gt;beatífico&lt;/em&gt;, &lt;em&gt;hurgar&lt;/em&gt;, raquítico, &lt;em&gt;vehemencia&lt;/em&gt;, &lt;em&gt;aséptico&lt;/em&gt;, &lt;em&gt;asepsia&lt;/em&gt;, &lt;em&gt;séptico&lt;/em&gt;, &lt;em&gt;acicalado&lt;/em&gt;, &lt;em&gt;acicalar&lt;/em&gt;, &lt;em&gt;resignación&lt;/em&gt;, &lt;em&gt;resignar&lt;/em&gt;, desenvuelto, &lt;em&gt;ademanes&lt;/em&gt;, &lt;em&gt;ademán&lt;/em&gt;, &lt;em&gt;absurdo&lt;/em&gt;, &lt;em&gt;solemne&lt;/em&gt;, sollozo, clamar, &lt;em&gt;ventrudo&lt;/em&gt;, &lt;em&gt;zambo&lt;/em&gt;, &lt;em&gt;esbelto&lt;/em&gt;, &lt;em&gt;cholifacio&lt;/em&gt;, chisporrotear, &lt;em&gt;simpático&lt;/em&gt;, &lt;em&gt;locuaz&lt;/em&gt;, &lt;em&gt;locuacidad&lt;/em&gt;, &lt;em&gt;obstinado&lt;/em&gt;, perpetuo, penumbra, &lt;em&gt;rencor&lt;/em&gt;, &lt;em&gt;cínico&lt;/em&gt;, &lt;em&gt;cinismo&lt;/em&gt;, &lt;em&gt;impúdico&lt;/em&gt;, &lt;em&gt;procaz&lt;/em&gt;, efímero, &lt;em&gt;melancólico&lt;/em&gt;, fogoso, &lt;em&gt;despectivo&lt;/em&gt;, &lt;em&gt;aludido&lt;/em&gt;, &lt;em&gt;aludir&lt;/em&gt;, &lt;em&gt;ralo&lt;/em&gt;, moral, maligno, ambular, jovial, superfluo, &lt;em&gt;cauteloso&lt;/em&gt;, &lt;em&gt;cautela&lt;/em&gt;, &lt;em&gt;paulatino&lt;/em&gt;, &lt;em&gt;sometimiento&lt;/em&gt;, &lt;em&gt;someter&lt;/em&gt;, &lt;em&gt;tumefacto&lt;/em&gt;, &lt;em&gt;tumefacción&lt;/em&gt;, estruendo, &lt;em&gt;exacerbado&lt;/em&gt;, &lt;em&gt;exacerbar&lt;/em&gt;, liviano, gracioso, &lt;em&gt;acezar&lt;/em&gt;, &lt;em&gt;jadear&lt;/em&gt;, &lt;em&gt;tísico&lt;/em&gt;, lánguido, &lt;em&gt;altanero&lt;/em&gt;, &lt;em&gt;altanería&lt;/em&gt;, &lt;em&gt;soberbio&lt;/em&gt;, &lt;em&gt;soberbia&lt;/em&gt;, &lt;em&gt;altivo&lt;/em&gt;, resuello, lóbrego, siniestro, &lt;em&gt;indiferencia&lt;/em&gt;, &lt;em&gt;indiferente&lt;/em&gt;, laxo, &lt;em&gt;modorra&lt;/em&gt;, &lt;em&gt;algarabía&lt;/em&gt;, &lt;em&gt;fragor&lt;/em&gt;, adular, turbación, turbar, &lt;em&gt;obsecuente&lt;/em&gt;, &lt;em&gt;sibilino&lt;/em&gt;, &lt;em&gt;sibila&lt;/em&gt;, pugna, pugnar, &lt;em&gt;mustio&lt;/em&gt;, &lt;em&gt;calato&lt;/em&gt;, anacrónico, &lt;em&gt;huachafa&lt;/em&gt;, &lt;em&gt;agobiado&lt;/em&gt;, &lt;em&gt;agobiante&lt;/em&gt;, &lt;em&gt;agobiar&lt;/em&gt;, anegado, anegar, &lt;em&gt;desdeñar&lt;/em&gt;, &lt;em&gt;desdén&lt;/em&gt;, gesto, &lt;em&gt;treta&lt;/em&gt;, &lt;em&gt;energúmeno&lt;/em&gt;, &lt;em&gt;letargo&lt;/em&gt;, &lt;em&gt;crisma&lt;/em&gt;, &lt;em&gt;malea&lt;/em&gt;, &lt;em&gt;malear&lt;/em&gt;, &lt;em&gt;eriácia&lt;/em&gt; (159), &lt;em&gt;escindido&lt;/em&gt;, &lt;em&gt;escindir&lt;/em&gt;, acequia, acequiar, &lt;em&gt;sinuoso&lt;/em&gt;, &lt;em&gt;mandil&lt;/em&gt;, &lt;em&gt;vermuth&lt;/em&gt;, recelo, recelar, &lt;em&gt;zozobra&lt;/em&gt;, &lt;em&gt;abrumado&lt;/em&gt;, &lt;em&gt;abrumar&lt;/em&gt;, &lt;em&gt;aliciente&lt;/em&gt;, rosquetón, &lt;em&gt;sonso&lt;/em&gt;, &lt;em&gt;tirria&lt;/em&gt;, &lt;em&gt;zumbara&lt;/em&gt;, &lt;em&gt;zumbar&lt;/em&gt;, &lt;em&gt;macetado&lt;/em&gt;, &lt;em&gt;macetar&lt;/em&gt;, &lt;em&gt;fatiga&lt;/em&gt;, &lt;em&gt;fatigar&lt;/em&gt;, &lt;em&gt;mezquino&lt;/em&gt;, &lt;em&gt;acentuar&lt;/em&gt;, enderezar, lúgubre, &lt;em&gt;exasperar&lt;/em&gt;, &lt;em&gt;contrito&lt;/em&gt;, &lt;em&gt;contrición&lt;/em&gt;, &lt;em&gt;emancipado&lt;/em&gt;, &lt;em&gt;emancipar&lt;/em&gt;, lacónico, &lt;em&gt;fofo&lt;/em&gt;, &lt;em&gt;inmarcesible&lt;/em&gt;, &lt;em&gt;chueco&lt;/em&gt;, &lt;em&gt;torcido&lt;/em&gt;, &lt;em&gt;estevado&lt;/em&gt;, &lt;em&gt;esteva&lt;/em&gt;, malicioso, &lt;em&gt;galantería&lt;/em&gt;, tortuoso, celosía, &lt;em&gt;gallardo&lt;/em&gt;, &lt;em&gt;gallardía&lt;/em&gt;, &lt;em&gt;exangüe&lt;/em&gt;, &lt;em&gt;desconcertado&lt;/em&gt;, &lt;em&gt;desconcertar&lt;/em&gt;, &lt;em&gt;pasmo&lt;/em&gt;, &lt;em&gt;pasmar&lt;/em&gt;, &lt;em&gt;perplejo&lt;/em&gt;, &lt;em&gt;pascana&lt;/em&gt;, posada, &lt;em&gt;jarana&lt;/em&gt;, &lt;em&gt;matoneo&lt;/em&gt;, &lt;em&gt;matonear&lt;/em&gt;, mollera, parapeto, &lt;em&gt;impasible&lt;/em&gt;, &lt;em&gt;impasibilidad&lt;/em&gt;, deliberado, &lt;em&gt;zape&lt;/em&gt;, puchero, pesadumbre, meloso, melosería, &lt;em&gt;zalamero&lt;/em&gt;, &lt;em&gt;zalamería&lt;/em&gt;, &lt;em&gt;chivato&lt;/em&gt;, soplón, &lt;em&gt;cachimba&lt;/em&gt;, pipa, tunda, tundir, muelle, &lt;em&gt;vozarrón&lt;/em&gt;, fusilero, &lt;em&gt;engrío&lt;/em&gt;, &lt;em&gt;engreír&lt;/em&gt;, &lt;em&gt;engreído&lt;/em&gt;, &lt;em&gt;severo&lt;/em&gt;, &lt;em&gt;severidad&lt;/em&gt;, tranquilo, tranquilidad, careo, carear, &lt;em&gt;sorna&lt;/em&gt;, abjstrajo, abstraer, &lt;em&gt;grandilocuente&lt;/em&gt;, &lt;em&gt;grandilocuencia&lt;/em&gt;, prudente, cautivante, cautivar, &lt;em&gt;flagrante&lt;/em&gt;, &lt;em&gt;flagrancia&lt;/em&gt;, &lt;em&gt;flagra&lt;/em&gt;, beligerante, beligerancia, fumatélico, &lt;em&gt;bulin&lt;/em&gt;, &lt;em&gt;chingana&lt;/em&gt;, &lt;em&gt;yunta&lt;/em&gt;, &lt;em&gt;chaveta&lt;/em&gt;, &lt;em&gt;cuete&lt;/em&gt;, &lt;em&gt;empacho&lt;/em&gt;, &lt;em&gt;empachar&lt;/em&gt;, &lt;em&gt;inasible&lt;/em&gt;, injurioso, injuriar, injuria, enojoso, enojo, &lt;em&gt;paroxismo&lt;/em&gt;, &lt;em&gt;estentóreo&lt;/em&gt;, pérfido, mordacidad, mordaz, &lt;em&gt;atolondrado&lt;/em&gt;, &lt;em&gt;ascua&lt;/em&gt;, absceso, ígneo, árido, &lt;em&gt;sensato&lt;/em&gt;, &lt;em&gt;hastío&lt;/em&gt;, &lt;em&gt;hastiar&lt;/em&gt;, &lt;em&gt;incumbe&lt;/em&gt;, &lt;em&gt;incumbir&lt;/em&gt;, &lt;em&gt;renguear&lt;/em&gt;, &lt;em&gt;renquear&lt;/em&gt;, &lt;em&gt;renco&lt;/em&gt;, &lt;em&gt;enclenque&lt;/em&gt;, exiliado, exilio, exiliar, &lt;em&gt;ínfula&lt;/em&gt;, &lt;em&gt;huraño&lt;/em&gt;, asediar, exaltado, exaltar, &lt;em&gt;efusivo&lt;/em&gt;, &lt;em&gt;efusividad&lt;/em&gt;, ensimismado, ensimismarse, banal, chato, &lt;em&gt;moscardón&lt;/em&gt;, insólito, &lt;em&gt;chistar&lt;/em&gt;, obsequiosidad, obsequioso, desdoblarse, desdoblar, &lt;em&gt;disimular&lt;/em&gt;, &lt;em&gt;disimulo&lt;/em&gt;, &lt;em&gt;delación&lt;/em&gt;, estratagema, &lt;em&gt;morisqueta&lt;/em&gt;, tergiversar, deplorar, despanzurrar, hendido, hendir, hender, precaución, monótono, monotonía, invadir, zambullir, catástrofe.&lt;/p&gt;
+&lt;p&gt;cadete, hediondez, tibio, desmesurado, litera, serenidad, sereno, murmullo, bulla, bullicio, &lt;em&gt;batiente&lt;/em&gt;, ansiedad, &lt;strong&gt;&lt;em&gt;timba&lt;/em&gt;&lt;/strong&gt;, sumergido, sumergir, eludiendo, eludir, &lt;em&gt;vicuña&lt;/em&gt;, encolerizar, &lt;em&gt;impávido&lt;/em&gt;, &lt;em&gt;mimeógrafo&lt;/em&gt;, dormitar, &lt;em&gt;estribillo&lt;/em&gt;, &lt;em&gt;embotar&lt;/em&gt;, lecho, hostil, soledad, &lt;em&gt;disipar&lt;/em&gt;, &lt;em&gt;fulgor&lt;/em&gt;, baranda, oscurecer, frágil, &lt;em&gt;patético&lt;/em&gt;, escruta, &lt;em&gt;tarado&lt;/em&gt;, yergue, erguir, &lt;em&gt;prócer&lt;/em&gt;, &lt;em&gt;epónimo&lt;/em&gt;, &lt;em&gt;sosegado&lt;/em&gt;, &lt;em&gt;sosegar&lt;/em&gt;, &lt;em&gt;febril&lt;/em&gt;, desvariar, umbral, despreciar, &lt;em&gt;porfiado&lt;/em&gt;, &lt;em&gt;porfiar&lt;/em&gt;, fregado, fregar, &lt;em&gt;cojudo&lt;/em&gt;, &lt;em&gt;apacible&lt;/em&gt;, &lt;em&gt;asentir&lt;/em&gt;, &lt;em&gt;frenético&lt;/em&gt;, &lt;em&gt;frenesí&lt;/em&gt;, erigir, &lt;em&gt;insolente&lt;/em&gt;, &lt;em&gt;insolencia&lt;/em&gt;, agazapado, agazapar, estrépito, &lt;em&gt;rampar&lt;/em&gt;, &lt;em&gt;rampante&lt;/em&gt;, &lt;em&gt;manducar&lt;/em&gt;, &lt;em&gt;pichula&lt;/em&gt;, &lt;em&gt;pánfilo&lt;/em&gt;, constipar, &lt;em&gt;respingado&lt;/em&gt;, &lt;em&gt;respingar&lt;/em&gt;, zafar, &lt;em&gt;caracho&lt;/em&gt;, desdibujado, percibir, &lt;em&gt;conmoción&lt;/em&gt;, blasfemia, apaciguar, audaz, audacia, &lt;em&gt;adusto&lt;/em&gt;, palidecer, cristina, &lt;strong&gt;ñizca&lt;/strong&gt;, pizca, &lt;em&gt;melifluo&lt;/em&gt;, cadencia, &lt;strong&gt;garúa&lt;/strong&gt;, biombo, escuálido, cohibido, cohibir, &lt;em&gt;guargüero&lt;/em&gt;, tapia, &lt;em&gt;chacra&lt;/em&gt;, zurcido, zurcir, dócil, docilidad, &lt;em&gt;andanada&lt;/em&gt;, &lt;em&gt;fundillo&lt;/em&gt;, pelambre, &lt;em&gt;arcada&lt;/em&gt;, colérico, pómulo, mentón, &lt;em&gt;mueca&lt;/em&gt;, &lt;em&gt;insinuar&lt;/em&gt;, &lt;em&gt;insinuación&lt;/em&gt;, enervado, enervar, represalia, ensañamiento, avidez, &lt;em&gt;solícito&lt;/em&gt;, júbilo, angustia, casual, escarapela, lívido, ánimo, &lt;em&gt;chancón&lt;/em&gt;, &lt;em&gt;empollón&lt;/em&gt;, redil, aturdir, aturdido, &lt;em&gt;euforia&lt;/em&gt;, &lt;em&gt;eufórico&lt;/em&gt;, geranios, estremecer, anhelar, anhelante, fervor, polémica, &lt;em&gt;algazara&lt;/em&gt;, &lt;em&gt;calado&lt;/em&gt;, extenuante, &lt;strong&gt;pugilato&lt;/strong&gt;, perpetuo, ultraje, &lt;em&gt;cataplasma&lt;/em&gt;, &lt;em&gt;carcoso&lt;/em&gt;, &lt;strong&gt;calistenia&lt;/strong&gt;, &lt;em&gt;zuza&lt;/em&gt;, &lt;em&gt;cogote&lt;/em&gt;, &lt;strong&gt;&lt;em&gt;aspaviento&lt;/em&gt;&lt;/strong&gt;, &lt;strong&gt;lisura&lt;/strong&gt;, &lt;strong&gt;implacable&lt;/strong&gt;, buhardilla, &lt;em&gt;abatimiento&lt;/em&gt;, &lt;em&gt;abatir&lt;/em&gt;, atormentar, delatar, &lt;strong&gt;balbucear&lt;/strong&gt;, &lt;strong&gt;vociferar&lt;/strong&gt;, vertiginoso, cómodo, &lt;strong&gt;escrúpulo&lt;/strong&gt;, &lt;strong&gt;beato&lt;/strong&gt;, &lt;strong&gt;beatífico&lt;/strong&gt;, &lt;em&gt;hurgar&lt;/em&gt;, raquítico, &lt;strong&gt;vehemencia&lt;/strong&gt;, &lt;em&gt;aséptico&lt;/em&gt;, &lt;em&gt;asepsia&lt;/em&gt;, &lt;em&gt;séptico&lt;/em&gt;, &lt;em&gt;acicalado&lt;/em&gt;, &lt;em&gt;acicalar&lt;/em&gt;, &lt;strong&gt;resignación&lt;/strong&gt;, &lt;strong&gt;resignar&lt;/strong&gt;, desenvuelto, &lt;strong&gt;ademanes&lt;/strong&gt;, &lt;strong&gt;ademán&lt;/strong&gt;, &lt;em&gt;absurdo&lt;/em&gt;, &lt;em&gt;solemne&lt;/em&gt;, sollozo, clamar, &lt;em&gt;ventrudo&lt;/em&gt;, &lt;em&gt;zambo&lt;/em&gt;, &lt;strong&gt;esbelto&lt;/strong&gt;, &lt;em&gt;cholifacio&lt;/em&gt;, chisporrotear, &lt;strong&gt;simpático&lt;/strong&gt;, &lt;strong&gt;locuaz&lt;/strong&gt;, &lt;strong&gt;locuacidad&lt;/strong&gt;, &lt;em&gt;obstinado&lt;/em&gt;, perpetuo, penumbra, &lt;strong&gt;rencor&lt;/strong&gt;, &lt;strong&gt;cínico&lt;/strong&gt;, &lt;strong&gt;cinismo&lt;/strong&gt;, &lt;em&gt;impúdico&lt;/em&gt;, &lt;strong&gt;&lt;em&gt;procaz&lt;/em&gt;&lt;/strong&gt;, efímero, &lt;strong&gt;melancólico&lt;/strong&gt;, fogoso, &lt;em&gt;despectivo&lt;/em&gt;, &lt;strong&gt;aludido&lt;/strong&gt;, &lt;strong&gt;aludir&lt;/strong&gt;, &lt;strong&gt;ralo&lt;/strong&gt;, moral, maligno, ambular, jovial, superfluo, &lt;strong&gt;cauteloso&lt;/strong&gt;, &lt;strong&gt;cautela&lt;/strong&gt;, &lt;strong&gt;paulatino&lt;/strong&gt;, &lt;em&gt;sometimiento&lt;/em&gt;, &lt;em&gt;someter&lt;/em&gt;, &lt;strong&gt;tumefacto&lt;/strong&gt;, &lt;strong&gt;tumefacción&lt;/strong&gt;, estruendo, &lt;strong&gt;exacerbado&lt;/strong&gt;, &lt;strong&gt;exacerbar&lt;/strong&gt;, liviano, gracioso, &lt;strong&gt;acezar&lt;/strong&gt;, &lt;em&gt;jadear&lt;/em&gt;, &lt;strong&gt;tísico&lt;/strong&gt;, lánguido, &lt;strong&gt;altanero&lt;/strong&gt;, &lt;strong&gt;altanería&lt;/strong&gt;, &lt;strong&gt;soberbio&lt;/strong&gt;, &lt;strong&gt;soberbia&lt;/strong&gt;, &lt;strong&gt;altivo&lt;/strong&gt;, resuello, lóbrego, siniestro, &lt;strong&gt;indiferencia&lt;/strong&gt;, &lt;strong&gt;indiferente&lt;/strong&gt;, laxo, &lt;strong&gt;modorra&lt;/strong&gt;, &lt;em&gt;algarabía&lt;/em&gt;, &lt;strong&gt;fragor&lt;/strong&gt;, adular, turbación, turbar, &lt;em&gt;obsecuente&lt;/em&gt;, &lt;strong&gt;sibilino&lt;/strong&gt;, &lt;strong&gt;sibila&lt;/strong&gt;, pugna, pugnar, &lt;strong&gt;&lt;em&gt;mustio&lt;/em&gt;&lt;/strong&gt;, &lt;strong&gt;calato&lt;/strong&gt;, anacrónico, &lt;strong&gt;&lt;em&gt;huachafa&lt;/em&gt;&lt;/strong&gt;, &lt;strong&gt;agobiado&lt;/strong&gt;, &lt;strong&gt;agobiante&lt;/strong&gt;, &lt;strong&gt;agobiar&lt;/strong&gt;, anegado, anegar, &lt;strong&gt;desdeñar&lt;/strong&gt;, &lt;strong&gt;desdén&lt;/strong&gt;, gesto, &lt;strong&gt;treta&lt;/strong&gt;, &lt;strong&gt;&lt;em&gt;energúmeno&lt;/em&gt;&lt;/strong&gt;, &lt;strong&gt;letargo&lt;/strong&gt;, &lt;strong&gt;crisma&lt;/strong&gt;, &lt;em&gt;malea&lt;/em&gt;, &lt;em&gt;malear&lt;/em&gt;, &lt;strong&gt;&lt;em&gt;eriácia&lt;/em&gt;&lt;/strong&gt; (159), &lt;em&gt;escindido&lt;/em&gt;, &lt;em&gt;escindir&lt;/em&gt;, acequia, acequiar, &lt;strong&gt;sinuoso&lt;/strong&gt;, &lt;strong&gt;mandil&lt;/strong&gt;, &lt;strong&gt;vermuth&lt;/strong&gt;, recelo, recelar, &lt;strong&gt;zozobra&lt;/strong&gt;, &lt;strong&gt;abrumado&lt;/strong&gt;, &lt;strong&gt;abrumar&lt;/strong&gt;, &lt;strong&gt;aliciente&lt;/strong&gt;, rosquetón, &lt;strong&gt;&lt;em&gt;sonso&lt;/em&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;em&gt;tirria&lt;/em&gt;&lt;/strong&gt;, &lt;em&gt;zumbara&lt;/em&gt;, &lt;em&gt;zumbar&lt;/em&gt;, &lt;strong&gt;macetado&lt;/strong&gt;, &lt;em&gt;macetar&lt;/em&gt;, &lt;em&gt;fatiga&lt;/em&gt;, &lt;em&gt;fatigar&lt;/em&gt;, &lt;strong&gt;mezquino&lt;/strong&gt;, &lt;em&gt;acentuar&lt;/em&gt;, enderezar, lúgubre, &lt;em&gt;exasperar&lt;/em&gt;, &lt;strong&gt;contrito&lt;/strong&gt;, &lt;strong&gt;contrición&lt;/strong&gt;, &lt;strong&gt;emancipado&lt;/strong&gt;, &lt;strong&gt;emancipar&lt;/strong&gt;, lacónico, &lt;strong&gt;&lt;em&gt;fofo&lt;/em&gt;&lt;/strong&gt;, &lt;em&gt;inmarcesible&lt;/em&gt;, &lt;em&gt;chueco&lt;/em&gt;, &lt;em&gt;torcido&lt;/em&gt;, &lt;strong&gt;estevado&lt;/strong&gt;, &lt;strong&gt;esteva&lt;/strong&gt;, malicioso, &lt;em&gt;galantería&lt;/em&gt;, tortuoso, celosía, &lt;strong&gt;&lt;em&gt;gallardo&lt;/em&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;em&gt;gallardía&lt;/em&gt;&lt;/strong&gt;, &lt;em&gt;exangüe&lt;/em&gt;, &lt;em&gt;desconcertado&lt;/em&gt;, &lt;em&gt;desconcertar&lt;/em&gt;, &lt;em&gt;pasmo&lt;/em&gt;, &lt;em&gt;pasmar&lt;/em&gt;, &lt;em&gt;perplejo&lt;/em&gt;, &lt;strong&gt;&lt;em&gt;pascana&lt;/em&gt;&lt;/strong&gt;, posada, &lt;strong&gt;jarana&lt;/strong&gt;, &lt;em&gt;matoneo&lt;/em&gt;, &lt;em&gt;matonear&lt;/em&gt;, mollera, parapeto, &lt;strong&gt;&lt;em&gt;impasible&lt;/em&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;em&gt;impasibilidad&lt;/em&gt;&lt;/strong&gt;, deliberado, &lt;strong&gt;&lt;em&gt;zape&lt;/em&gt;&lt;/strong&gt;, puchero, pesadumbre, meloso, melosería, &lt;strong&gt;zalamero&lt;/strong&gt;, &lt;strong&gt;zalamería&lt;/strong&gt;, &lt;strong&gt;chivato&lt;/strong&gt;, soplón, &lt;strong&gt;&lt;em&gt;cachimba&lt;/em&gt;&lt;/strong&gt;, pipa, tunda, tundir, muelle, &lt;em&gt;vozarrón&lt;/em&gt;, fusilero, &lt;strong&gt;engrío&lt;/strong&gt;, &lt;strong&gt;engreír&lt;/strong&gt;, &lt;strong&gt;engreído&lt;/strong&gt;, &lt;em&gt;severo&lt;/em&gt;, &lt;em&gt;severidad&lt;/em&gt;, tranquilo, tranquilidad, careo, carear, &lt;strong&gt;&lt;em&gt;sorna&lt;/em&gt;&lt;/strong&gt;, abjstrajo, abstraer, &lt;strong&gt;grandilocuente&lt;/strong&gt;, &lt;strong&gt;grandilocuencia&lt;/strong&gt;, prudente, cautivante, cautivar, &lt;em&gt;flagrante&lt;/em&gt;, &lt;em&gt;flagrancia&lt;/em&gt;, &lt;em&gt;flagra&lt;/em&gt;, beligerante, beligerancia, fumatélico, &lt;strong&gt;&lt;em&gt;bulin&lt;/em&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;em&gt;chingana&lt;/em&gt;&lt;/strong&gt;, &lt;em&gt;yunta&lt;/em&gt;, &lt;strong&gt;chaveta&lt;/strong&gt;, &lt;strong&gt;&lt;em&gt;cuete&lt;/em&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;em&gt;empacho&lt;/em&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;em&gt;empachar&lt;/em&gt;&lt;/strong&gt;, &lt;em&gt;inasible&lt;/em&gt;, injurioso, injuriar, injuria, enojoso, enojo, &lt;strong&gt;paroxismo&lt;/strong&gt;, &lt;em&gt;estentóreo&lt;/em&gt;, pérfido, mordacidad, mordaz, &lt;strong&gt;atolondrado&lt;/strong&gt;, &lt;strong&gt;ascua&lt;/strong&gt;, absceso, ígneo, árido, &lt;em&gt;sensato&lt;/em&gt;, &lt;em&gt;hastío&lt;/em&gt;, &lt;em&gt;hastiar&lt;/em&gt;, &lt;strong&gt;incumbe&lt;/strong&gt;, &lt;strong&gt;incumbir&lt;/strong&gt;, &lt;strong&gt;renguear&lt;/strong&gt;, &lt;strong&gt;renquear&lt;/strong&gt;, &lt;strong&gt;renco&lt;/strong&gt;, &lt;strong&gt;enclenque&lt;/strong&gt;, exiliado, exilio, exiliar, &lt;strong&gt;ínfula&lt;/strong&gt;, &lt;strong&gt;huraño&lt;/strong&gt;, asediar, exaltado, exaltar, &lt;em&gt;efusivo&lt;/em&gt;, &lt;em&gt;efusividad&lt;/em&gt;, ensimismado, ensimismarse, &lt;strong&gt;banal&lt;/strong&gt;, chato, &lt;strong&gt;&lt;em&gt;moscardón&lt;/em&gt;&lt;/strong&gt;, insólito, &lt;strong&gt;chistar&lt;/strong&gt;, obsequiosidad, obsequioso, desdoblarse, desdoblar, &lt;strong&gt;&lt;em&gt;disimular&lt;/em&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;em&gt;disimulo&lt;/em&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;em&gt;delación&lt;/em&gt;&lt;/strong&gt;, estratagema, &lt;strong&gt;&lt;em&gt;morisqueta&lt;/em&gt;&lt;/strong&gt;, tergiversar, deplorar, despanzurrar, hendido, hendir, hender, precaución, monótono, monotonía, invadir, zambullir, catástrofe.&lt;/p&gt;
 
 &lt;h2 id=&quot;referencias&quot;&gt;REFERENCIAS&lt;/h2&gt;
 &lt;ul&gt;
@@ -3416,8 +3872,8 @@ Espero que sea pronto.&lt;/p&gt;
 
 </description>
         <pubDate>Wed, 13 Nov 2013 13:44:34 -0500</pubDate>
-        <link>/2013/11/13/la-ciudad-y-los-perros.html</link>
-        <guid isPermaLink="true">/2013/11/13/la-ciudad-y-los-perros.html</guid>
+        <link>/gh-blog/2013/11/13/la-ciudad-y-los-perros.html</link>
+        <guid isPermaLink="true">/gh-blog/2013/11/13/la-ciudad-y-los-perros.html</guid>
       </item>
     
       <item>
@@ -3428,8 +3884,8 @@ Espero que sea pronto.&lt;/p&gt;
 
 </description>
         <pubDate>Tue, 07 May 2013 13:44:34 -0500</pubDate>
-        <link>/2013/05/07/a-new-blog-has-born.html</link>
-        <guid isPermaLink="true">/2013/05/07/a-new-blog-has-born.html</guid>
+        <link>/gh-blog/2013/05/07/a-new-blog-has-born.html</link>
+        <guid isPermaLink="true">/gh-blog/2013/05/07/a-new-blog-has-born.html</guid>
       </item>
     
   </channel>

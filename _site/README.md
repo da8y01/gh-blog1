@@ -1,4 +1,4 @@
-jekyll-blog-1
+gh-blog
 =============
 
-Jekyll.rb Blog 1
+GitHub pages blog.

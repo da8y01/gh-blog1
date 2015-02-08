@@ -4,10 +4,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>A new blog has born</title>
+    <title>A simple ruby twitter client</title>
     <meta name="viewport" content="width=device-width">
     <meta name="description" content="Miscellaneous posts from easy-eng.net site.">
-    <link rel="canonical" href="/gh-blog/2013/05/07/a-new-blog-has-born.html">
+    <link rel="canonical" href="/gh-blog/2014/11/02/a-simple-ruby-twitter-client.html">
 
     <!-- Custom CSS -->
     <link rel="stylesheet" href="/gh-blog/css/main.css">
@@ -58,14 +58,34 @@
       <div class="post">
 
   <header class="post-header">
-    <h1>A new blog has born</h1>
-    <p class="meta">May 7, 2013</p>
+    <h1>A simple ruby twitter client</h1>
+    <p class="meta">Nov 2, 2014</p>
   </header>
 
   <article class="post-content">
-  <p>This is the first post on this new blog that is using another technology to manage this kind of sites.</p>
+  <h2 id="install-the-gem">Install the gem</h2>
+<p>Proceed to install the required <em>gem</em> with <code>gem install twitter</code> as indicated at <a href="https://github.com/sferik/twitter" target="_blank">https://github.com/sferik/twitter</a>.</p>
 
-<p>Don’t forget to visit the <a href="http://easy-eng.net/" target="_blank">main site</a> that is being builded.</p>
+<h2 id="sample-code">Sample code</h2>
+
+<div class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="lineno"> 1</span> <span class="nb">require</span> <span class="s2">&quot;twitter&quot;</span> <span class="c1"># include lib/gem</span>
+<span class="lineno"> 2</span> 
+<span class="lineno"> 3</span> <span class="c1"># set the configuration object with the application and access tokens provided by registering an app on twitter site</span>
+<span class="lineno"> 4</span> <span class="n">config</span> <span class="o">=</span> <span class="p">{</span>
+<span class="lineno"> 5</span>   <span class="ss">consumer_key</span><span class="p">:</span> <span class="s1">&#39;YOUR_consumerkey&#39;</span><span class="p">,</span> 
+<span class="lineno"> 6</span>   <span class="ss">consumer_secret</span><span class="p">:</span> <span class="s1">&#39;YOUR_consumersecret&#39;</span><span class="p">,</span> 
+<span class="lineno"> 7</span>   <span class="ss">access_token</span><span class="p">:</span> <span class="s1">&#39;YOUR_accesstoken&#39;</span><span class="p">,</span> 
+<span class="lineno"> 8</span>   <span class="ss">access_token_secret</span><span class="p">:</span> <span class="s1">&#39;YOUR_accesstokensecret&#39;</span>
+<span class="lineno"> 9</span> <span class="p">}</span>
+<span class="lineno">10</span> <span class="n">client</span> <span class="o">=</span> <span class="no">Twitter</span><span class="o">::</span><span class="no">REST</span><span class="o">::</span><span class="no">Client</span><span class="o">.</span><span class="n">new</span><span class="p">(</span><span class="n">config</span><span class="p">)</span> <span class="c1"># instantiate the working object</span>
+<span class="lineno">11</span> 
+<span class="lineno">12</span> <span class="n">client</span><span class="o">.</span><span class="n">update</span><span class="p">(</span><span class="s1">&#39;Tweet from simple ruby client.&#39;</span><span class="p">)</span> <span class="c1"># execute a status update (a tweet)</span>
+<span class="lineno">13</span> <span class="c1"># perform as many other operations you want with the client object, read the gem page (see &quot;references&quot;) ...</span></code></pre></div>
+
+<h2 id="references">References</h2>
+<ul>
+  <li><a href="https://github.com/sferik/twitter" target="_blank">https://github.com/sferik/twitter</a></li>
+</ul>
 
 
   </article>
