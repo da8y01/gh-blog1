@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "CriptoPunks: La libertad y el futuro de internet - Julian Assange con Jacob Appelbaum, Andy Müller-Maguhn y Jérémie Zimmermann"
+title:  "Criptopunks: La libertad y el futuro de internet - Julian Assange con Jacob Appelbaum, Andy Müller-Maguhn y Jérémie Zimmermann"
 date:   2015-02-03 11:38:35
 tags: literatura literature review criptopunks cypherpunks libertad futuro internet julian assange crypto
 ---
@@ -193,7 +193,7 @@ La manera más sencilla de describir estos dos aspectos de la industria son con 
 
 La eficiencia en la comprensión y en la respuesta ante lo interceptado y lo almacenado es lo que va a constituir el próximo gran salto.
 
-Podríamos admitir que, para lo que se denomina vigilancia táctica existem algunos usos legítimos.
+Podríamos admitir que, para lo que se denomina vigilancia táctica existen algunos usos legítimos.
 
 Esta es una cuestión de política pública.
 
@@ -259,7 +259,7 @@ Si la gente no piensa de la segunda manera entonces tendremos una universalizaci
 
 agresivas legislaciones sobre derechos de autor que básicamente le dan a Hollywood el poder de ordenarle a cualquier compañía de internet que restrinja el acceso y censure contenidos en línea.
 
-lo que sucito una fuerte presión de los usuarios sobre sus representantes públicos.
+lo que suscitó una fuerte presión de los usuarios sobre sus representantes públicos.
 
 individuos barbudos y hediondos.
 
