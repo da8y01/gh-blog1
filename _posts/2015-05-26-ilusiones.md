@@ -2,7 +2,7 @@
 layout: post
 title:  "Ilusiones - Richard Bach"
 date:   2015-05-26 00:58:52
-tags: literatura literature review ilusiones illusions richard bach
+tags: literatura literature review ilusiones illusions richard bach richardbach "richard bach" novel novela libro book
 ---
 
 

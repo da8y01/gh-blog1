@@ -2,7 +2,7 @@
 layout: post
 title:  "Juan Salvador Gaviota - Richard Bach"
 date:   2015-05-26 19:37:32
-tags: literatura literature review juan salvador gaviota jonathan livingston seagull richard bach
+tags: literatura literature review richard bach richardbach "richard bach" novel novela libro book juansalvadorgaviota juan salvador gaviota "juan salvador gaviota" "jonathan livingston seagull" jonathan livingston seagull jonathanlivingstonseagull
 ---
 
 
