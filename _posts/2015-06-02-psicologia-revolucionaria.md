@@ -6,6 +6,14 @@ tags: literatura literature review samael aun weor samaelaunweor "samael aun weo
 ---
 
 
+
+<div style="text-align:center" markdown="1">
+![Tratado de PSICOLOGÍA REVOLUCIONARIA (portada)][TratadoPsicologiaRevolucionaria_front]{: width="40%"}
+![Tratado de PSICOLOGÍA REVOLUCIONARIA (contra-portada)][TratadoPsicologiaRevolucionaria_back]{: width="40%"}
+</div>
+
+
+
 ## PRÓLOGO
 El autor hace apología a la psicología como una ciencia antiquísima que ha estado desde las viejas Escuelas de los Misterios Arcaicos camuflada con diferentes ropajes según la época/contexto, y que ha estado presente y enlazada con otras disciplinas como la filosofía, ciencia, arte y religión; hace un llamado para que en la educación actual, contemporánea, se tenga en cuenta la importancia de la Revolución de la Conciencia y ésta misma se inculque.
 
@@ -119,3 +127,8 @@ Un sólo momento en que se está bastante consciente, como para dejar de ser má
 
 ## TÉRMINOS
 petate, fatuo, maledicencia, **escollo**, **óbice**, ostensible, pendenciero, insólito, inusitado, 
+
+
+
+[TratadoPsicologiaRevolucionaria_front]: {{ site.baseurl }}/assets/TratadoPsicologiaRevolucionaria_front.jpg "Tratado de PSICOLOGÍA REVOLUCIONARIA (portada)"
+[TratadoPsicologiaRevolucionaria_back]: {{ site.baseurl }}/assets/TratadoPsicologiaRevolucionaria_back.jpg "Tratado de PSICOLOGÍA REVOLUCIONARIA (contra-portada)"
