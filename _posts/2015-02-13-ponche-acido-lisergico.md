@@ -132,6 +132,8 @@ Emprenden el viaje de vuelta al Oeste por la ruta del norte; sin embargo un Gran
 
 
 ## CITAS
+(quién diablos serán esos memos de beatniks)
+
 tiene un aire muy sereno.
 
 Esas cosas duelen, pero sé que lo hiciste a modo de amable sugerencia.
@@ -263,7 +265,7 @@ Pero él seguía interpretando mal sus gestos.
 
 
 ## TÉRMINOS
-sórdido, trifulca, parafernalia, apogeo, juerga, mundano, camelo, roséola, memeces, memez, memo, raído, apostillar, ademán, ante, beatífico, compungido, compungir, bofia, colijo, colegir, palestra, perorar, perorata, inefable, sortilegio, gorjeo, aséptico, inmaculado, beduino, sarraceno, cotarro, caterva, inquina, impetuoso, esquirol, misántropo, dislate, acerbo, secuoyas, galimatías, ***avant-garde***, audaz, *intersubjetividad*, ***hip***, maníaco, mofletudos, moflete, **solaz**, alienado, alienar, escolástico, escolasticismo, burocrático, burocracia, espléndido, intrépido, porfiar, ulular, insensato, insensatez, sensato, sensatez, suscitar, consternación, perplejo, perplejidad, animadversión, aturdir, mustio, hatajo, salmodia, melancólico, melancolia, mandolina, fragor, parlotear, anegar, febril, soslayo, atónito, enfurruñado, enfurruñar, capitular, mascullar, aréolas, eclosión, traste, carcamal, trémulo, babuino, mentecato, lelo, majadero, crisol, acrimonia, famélico, avieso, peristáltico, amaina, amainar, anega, anegar, tunante, exasperar, condolencia, frenético, escorzo, ***satori***, esquirol, ufana, ufanar, indulgencia, adusto, escorar, pretencioso, impasible, pulcro, ápice, escaramuza, calistenia, aforismo, espiroqueta, ***ascética***, bledo, arcén, sibilante, quinina, farfullar, **soma** (pág. 38), bohemio, afrenta, **añublo**, ascético, ardid, torvo, 
+***dandy***, **impasible**, *abalorio*, sórdido, trifulca, parafernalia, apogeo, juerga, mundano, camelo, roséola, memeces, memez, memo, raído, apostillar, ademán, ante, beatífico, compungido, compungir, bofia, colijo, colegir, palestra, perorar, perorata, inefable, sortilegio, gorjeo, aséptico, inmaculado, beduino, sarraceno, cotarro, caterva, inquina, impetuoso, esquirol, misántropo, dislate, acerbo, secuoyas, galimatías, ***avant-garde***, audaz, *intersubjetividad*, ***hip***, maníaco, mofletudos, moflete, **solaz**, alienado, alienar, escolástico, escolasticismo, burocrático, burocracia, espléndido, intrépido, porfiar, ulular, insensato, insensatez, sensato, sensatez, suscitar, consternación, perplejo, perplejidad, animadversión, aturdir, mustio, hatajo, salmodia, melancólico, melancolia, mandolina, fragor, parlotear, anegar, febril, soslayo, atónito, enfurruñado, enfurruñar, capitular, mascullar, aréolas, eclosión, traste, carcamal, trémulo, babuino, mentecato, lelo, majadero, crisol, acrimonia, famélico, avieso, peristáltico, amaina, amainar, anega, anegar, tunante, exasperar, condolencia, frenético, escorzo, ***satori***, esquirol, ufana, ufanar, indulgencia, adusto, escorar, pretencioso, impasible, pulcro, ápice, escaramuza, calistenia, aforismo, espiroqueta, ***ascética***, bledo, arcén, sibilante, quinina, farfullar, **soma** (pág. 38), bohemio, afrenta, **añublo**, ascético, ardid, torvo, 
 
 
 

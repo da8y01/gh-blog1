@@ -57,7 +57,7 @@ Para alcanzar un *cambio radical* comenzando por la Auto-Observación, y extirpa
 Al iniciar la Auto-Observación desde el punto de vista de Muchos hay defectos Psicológicos que son óbice, obstáculo, tropiezo: *Mitomanía*, *Egolatría*, *Paranoia*. La convicción del Yo permanente imposibilita el Trabajo interno/íntimo serio sobre sí mismo ya que se considerará cada pensamiento, sentimiento, deseo, emoción, pasión, afecto como funcionalismos diferentes, inmodificables, de su propia naturaleza, de una forma muy ególatra; un atleta de la Auto-Observación íntima trabaja muy seriamente dentro de sí mismo y se esfuerza por apartar de su Psíquis los diversos elementos indeseables que carga dentro. La Auto-Observación íntima seria provoca una división natural y necesaria en dos: Observador y Observado.
 
 ## 14. PENSAMIENTOS NEGATIVOS
-En el Trabajo de la Auto-Observación de los Yoes se hace ostensible la relación causa-efecto de pensador-pensamiento, se requiere el estado de Alerta Novedad/Alerta Percepción para evitar identificarse con cualquier pensamiento-pensador negativo, el Yo Negativo apela a una rigurosa selección íntima para presentar algo en una falsa luz, sin embargo el *estado* de alerta hace el egaño imposible.
+En el Trabajo de la Auto-Observación de los Yoes se hace ostensible la relación causa-efecto de pensador-pensamiento, se requiere el estado de Alerta Novedad/Alerta Percepción para evitar identificarse con cualquier pensamiento-pensador negativo, el Yo Negativo apela a una rigurosa selección íntima para presentar algo en una falsa luz, sin embargo el *estado* de alerta hace el engaño imposible.
 
 ## 15. LA INDIVIDUALIDAD
 La Auto-Observación de los Yoes evidencia la Multiplicidad Interior; es menester luchar contra la fantasía del Yo superior, de la voluntad propia, del Uno interior ya que provoca estancamiento, degeneramiento, involución, la conciencia de Multiplicidad es necesaria para salir de la etapa psicológica actual y ver lo que necesitamos eliminar para lograr la transformación radical, cualquier cambio íntimo exige la eliminación previa de los Yoes que llevamos dentro, pero para saber qué eliminar es necesario la observación interior. No se debe confundir la Individualidad auténtica con un "Yo Superior", el *Ser* con el Yo, es posible conseguir la Individualidad Sagrada.
@@ -69,10 +69,44 @@ El Trabajo sobre sí mismo debe ser hoy o nunca, no caben las procrastinaciones,
 Al observar la Ley de Recurrencia en nuestra vida se debe comprender el carácter persona-máquina, marioneta controlada, muñeco parlante, mecánico de nuestro comportamiento rutinario/usual; debemos comportarnos conscientemente durante una pequeña parte del día, durante unos breves minutos y apreciar la influencia decisiva que esto tendrá sobre nuestra existencia, la forma en que modifica radicalmente muchas circunstancias desagradables.
 
 ## 18. EL PAN SUPERSUSTANCIAL
+Si una persona iniciara su día conscientemente, es ostensible que experimentara algunos cambios; además si una persona *comprende* el *sueño de la conciencia* mediante el Trabajo diariamente y la reducción a polvareda cósmica de tal o cual Yo obtendrá el Pan Supersustancial entregado por la Gnosis, que también brinda esa ayuda/guía/ideas/modus-operandi para ser asistido por Fuerzas Superiores de la mente.
+
+## 19. EL BUEN DUEÑO DE CASA
+El aislamiento es importante para el Trabajo, estar herméticamente cerrado, algo relacionado con el *silencio*. La *Psicología Revolucionaria* afirma enfáticamente que el <<*Animal Intelectual*>> equivocadamente llamado hombre, es un bípedo mecánico, inconsciente, dormido; y es escaso <<*El Buen Dueño de Casa*>> que nada contra la corriente, que no quiere dejarse devorar por la vida.
+
+## 20. LOS DOS MUNDOS
+
+## 21. OBSERVACIÓN DE SÍ MISMO
+
+## 22. LA CHARLA
+
+## 23. EL MUNDO DE RELACIONES
+
+## 24. LA CANCIÓN PSICOLÓGICA
+
+## 25. RETORNO Y RECURRENCIA
+
+## 26. AUTO-CONCIENCIA INFANTIL
+
+## 27. EL PUBLICANO Y EL FARISEO
+
+## 28. LA VOLUNTAD
+
+## 29. LA DECAPITACIÓN
+
+## 30. EL CENTRO DE GRAVEDAD PERMANENTE
+
+## 31. EL TRABAJO ESOTÉRICO GNÓSTICO
+
+## 32. LA ORACIÓN EN EL TRABAJO
+
+## A NUESTROS LECTORES
 
 
 
 ## CITAS
+<<La vida es una cadena de martirios que lleva el hombre enredada en el Alma...>>
+
 Los *eventos* exteriores jamás serían tan importantes, como el modo de reaccionar ante los mismos.
 
 La mejor arma que un hombre puede usar en la vida, es un *estado* Psicológico correcto.
@@ -126,7 +160,7 @@ Un sólo momento en que se está bastante consciente, como para dejar de ser má
 
 
 ## TÉRMINOS
-petate, fatuo, maledicencia, **escollo**, **óbice**, ostensible, pendenciero, insólito, inusitado, 
+lascivia, petate, fatuo, maledicencia, **escollo**, **óbice**, ostensible, pendenciero, insólito, inusitado, *hierofante*.
 
 
 

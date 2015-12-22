@@ -62,6 +62,16 @@
   <ul class="posts">
     
       <li>
+        <span class="post-date">Dec 21, 2015</span>
+        <a class="post-link" href="/gh-blog/2015/12/21/en-busca-gato-schrodinger.html">En busca del gato de Schrödinger - John Gribbin</a>
+      </li>
+    
+      <li>
+        <span class="post-date">Dec 21, 2015</span>
+        <a class="post-link" href="/gh-blog/2015/12/21/el-vagabundo.html">El Vagabundo - Jalil Gibrán</a>
+      </li>
+    
+      <li>
         <span class="post-date">Dec 14, 2015</span>
         <a class="post-link" href="/gh-blog/2015/12/14/cuentos-relatos-horror.html">Cuentos y relatos de horror</a>
       </li>
