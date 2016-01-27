@@ -75,6 +75,7 @@ Si una persona iniciara su día conscientemente, es ostensible que experimentara
 El aislamiento es importante para el Trabajo, estar herméticamente cerrado, algo relacionado con el *silencio*. La *Psicología Revolucionaria* afirma enfáticamente que el <<*Animal Intelectual*>> equivocadamente llamado hombre, es un bípedo mecánico, inconsciente, dormido; y es escaso <<*El Buen Dueño de Casa*>> que nada contra la corriente, que no quiere dejarse devorar por la vida.
 
 ## 20. LOS DOS MUNDOS
+Se plantean los dos mundos: observar y observarse, externo e interno, exterior e interior, sentidos de percepción externa y *Sentido* de auto-observación interna. Así como para el mundo exterior hay que aprender a caminar, caminar el <<Mundo Interior>> requiere Trabajo Psicológico sobre sí mismo, y además hay que desarrollar el atrofiado *Sentido* de la auto-observación íntima.
 
 ## 21. OBSERVACIÓN DE SÍ MISMO
 
@@ -156,6 +157,8 @@ Si uno de verdad quiere llegar a conocerse a sí mismo, debe empezar por observa
 Ante todo necesitamos comprender que somos personas-máquinas, simples marionetas controladas por agentes secretos, por Yoes ocultos.
 
 Un sólo momento en que se está bastante consciente, como para dejar de ser máquina, si se hace voluntarimente, suele modificar radicalmente muchas circustancias desagradables.
+
+La observación es un medio para modificar las condiciones mecánicas del mundo.
 
 
 
