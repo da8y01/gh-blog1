@@ -77,9 +77,17 @@ Manfred winces. #AccelerandoQuotes
 
 Manfred stretches and yawns #AccelerandoQuotes
 
+She smiles a Mona Lisa smile, at once affectionate and challenging. #AccelerandoQuotes
+
+She frowns, pained. #AccelerandoQuotes
+
+She snorts. #AccelerandoQuotes
+
 Setup completed, she walks round the bed, inspecting him critically from all angles, figuring out where to begin. This isn't just sex, after all: It's a work of art. #AccelerandoQuotes
 
 "Meat and mind, Manny. Meat, and mind. You're not interested in meat, are you? Just mind. #AccelerandoQuotes
+
+She waves a hand dismissively. #AccelerandoQuotes
 
 
 
@@ -107,6 +115,18 @@ twitching. give or cause to give a short, sudden jerking or convulsive movement.
 twitch. a short, sudden jerking or convulsive movement. https://translate.google.com/#en/es/twitch #AccelerandoTerm contracción nerviosa, tic, sacudida, tirón, movimiento.
 
 Bedridden. confined to bed by sickness or old age. https://translate.google.com/#en/es/Bedridden #AccelerandoTerm postrado en cama.
+
+Troubadour. a French medieval lyric poet composing and singing in Provençal in the 11th to 13th centuries, especially on the theme of courtly love. https://translate.google.com/#en/es/Troubadour #AccelerandoTerm trovador.
+
+feral. (especially of an animal) in a wild state, especially after escape from captivity or domestication. https://translate.google.com/#en/es/feral #AccelerandoTerm salvaje.
+
+angst. a feeling of deep anxiety or dread, typically an unfocused one about the human condition or the state of the world in general. https://translate.google.com/#en/es/angst #AccelerandoTerm angustia, ansiedad.
+
+gloating. contemplate or dwell on one's own success or another's misfortune with smugness or malignant pleasure. https://translate.google.com/#en/es/gloating #AccelerandoTerm regodeo, relamerse.
+
+riddance. the action of getting rid of a troublesome or unwanted person or thing. https://translate.google.com/#en/es/riddance #AccelerandoTerm libramiento.
+
+Good riddance. ¡Vete con viento fresco!
 
 
 

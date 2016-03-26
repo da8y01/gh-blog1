@@ -13,7 +13,7 @@ tags: review cuento tale cuentos tales "The Last Question - Isaac Asimov" "The L
 
 
 
-## SINOPSIS
+## SYNOPSIS
 Dos técnicos del Multivac semiborrachos en medio de una disertación y apuesta hacen por primera vez la pregunta de si la entropía puede ser reversada.
 
 Una familia yendo al planeta X-23 genera de nuevo la pregunta al Microvac de su nave.
@@ -28,7 +28,7 @@ Al final del universo y los tiempos AC sólo existe para responder la última pr
 
 
 
-## CITAS
+## QUOTES
 Lupov cocked his head sideways. He had a trick of doing that when he wanted to be contrary...
 
 but then what?
@@ -73,12 +73,12 @@ One by one Man fused with AC, each physical body losing its mental identity in a
 
 
 
-## TÉRMINOS
+## TERMS
 bet, Multivac, weariness, stirred, clumsily, cocked, muttered, insideoutness, giggles, ac, tousling, uplifted, shrilled, howl, frighten, shrug, shook, stir, seamy, pours, stave, ought, clumsy, faint, mighty, throng, roused, reverie, wispy, tendrils, broadened, aloof, stifled.
 
 
 
-## REFERENCIAS
+## REFERENCES
 * [https://en.wikipedia.org/wiki/The_Last_Question][1]{: target="_blank"}
 * [https://es.wikipedia.org/wiki/The_Last_Question][2]{: target="_blank"}
 * [https://en.wikipedia.org/wiki/Isaac_Asimov][3]{: target="_blank"}
