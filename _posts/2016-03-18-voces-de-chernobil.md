@@ -8,7 +8,7 @@ tags: review documental nonfiction non-fiction literature literatura novel novel
 
 
 <div style="text-align:center" markdown="1">
-![VocesChernobil.png][VocesChernobil]{: width="40%"}
+![VocesChernobil][VocesChernobil]{: width="40%"}
 </div>
 
 
