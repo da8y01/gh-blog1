@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Documentos kleer"
+title: "Documentos kleer (agilismo, scrum, estimación, planificación)"
 date: 2016-04-08 21:00:42
 tags: kleer retrospectiva retrospectivas agilidad agilismo ágil agile scrum sprint estimación planificación
 ---
