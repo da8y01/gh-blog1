@@ -21,7 +21,7 @@ tags: review novela novel "Gödel, Escher, Bach. un Eterno y Grácil Bucle - Dou
 Se presenta una sinopsis/resúmen/introducción a cada capítulo del libro.
 
 ### La historia de la traducción de GEB al castellano
-Se cuenta la invitación a la conferencia sobre traducción en Washington, D.C., la expresión "Bueno, es muy simple, ¡todo su libro trata sobre traducción!" del director de biblioteca O.B. Hardison, incian esfuerzos de traducción, la versión anotada de *GEB*; la carta de Mario Usabiaga de Bahía Blanca, Argentina profesor de litaratura traductor de *GEB* al castellano, contactándo al autor Douglas R. Hofstadter a través de la revista *Scientific American* donde éste último escribía una columna, que se expresaba acerca de *GEB* como una "atmósfera de racionalidad mágica" en la que había vivido "demasiado brevemente", la sorpresa de autor y editor con la publicación de la versión traducida de CONACYT por Usabiaga quien no había visto la versión anotada, Usabiaga fallece, los traductores de los diálogos de la Universidad Católica de Chile, el trabajo de revisión de Alejandro López, ejemplos de casos de traducción.
+Se cuenta la invitación a la conferencia sobre traducción en Washington, D.C., la expresión "Bueno, es muy simple, ¡todo su libro trata sobre traducción!" del director de biblioteca O.B. Hardison, incian esfuerzos de traducción, la versión anotada de *GEB*; la carta de Mario Usabiaga de Bahía Blanca, Argentina, profesor de litaratura traductor de *GEB* al castellano, contactándo al autor Douglas R. Hofstadter a través de la revista *Scientific American* donde éste último escribía una columna, que se expresaba acerca de *GEB* como una "atmósfera de racionalidad mágica" en la que había vivido "demasiado brevemente", la sorpresa de autor y editor con la publicación de la versión traducida de CONACYT por Usabiaga quien no había visto la versión anotada, Usabiaga fallece, los traductores de los diálogos de la Universidad Católica de Chile, el trabajo de revisión de Alejandro López, ejemplos de casos de traducción.
 
 ### Palabras de agradecimiento
 Se brindan agradecimientos y reconocimientos, a los padres, la familia, amigos, colabradores, allegados.
@@ -33,6 +33,7 @@ Se brindan agradecimientos y reconocimientos, a los padres, la familia, amigos, 
 Se cuenta la historia de como el rey de Prusia Federico el Grande y J. S. Bach en 1747 se conocen, la conversación con disculpas mutuas, el órgano, los nuevos pianos Silbermann, la petición del rey de una fuga a seis voces, la improvisación de Bach, la carta de Bach al rey con la Ofrenda Musical, mención general a la estructura de la obra. Se mencionan las características fundamentales de canones y fugas, cómo se estructuran, técnicas y variaciones usadas para componerlas. Se habla del "Canon Eternamente Remontante" y del concepto de *Bucles Extraños*. Se habla de M. C. Escher, de los Bucles Extraños de diferentes niveles en sus obras pictóricas, la analogía con los canones y fugas, el infinito, y los diferentes niveles (clases/tipos) de realidades ("mayor realidad", "más imaginario"). Se habla de la *paradoja de Epiménides*, de su versión en teoría de números como el Teorema de la Incompletitud de K. Gödel. Se mencionan algunos puntos históricos del desarrollo del razonamiento lógico, y se mencionan los problemas paradójicos que implica el fenómeno de la autorreferencia. Se habla de teoría de tipos y conjuntos, los fundamentos de la matemática. El interés/esfuerzos de David Hilbert y el Teormeda de Incompletitud de Gödel demoliendo la intención de Hilbert. Se mencionan avances en la computación electrónica y la complejidad de una IA. Se menciona la estructura en forma de contrapunto de Diálogos y Capítulos del libro. Al final el diálogo entre Aquiles, Sr. Tortuga y Zenón, el teorema de que el Movimiento Implica Imposibilidad Inherente ó que el Movimiento Ultrainexiste.
 
 #### Capítulo I: El acertijo MU
+Se introducen los *sistemas formales*, el desafío "¿Puede usted producir MU?", las reglas y ejemplos del juego. Se establecen distinciones en los conceptos de teorema, axioma, reglas de producción, reglas de inferencia, derivación. Se mencionan las características inherentes del sistema formulado, características/patrones de los teoremas (cadenas producibles), diferencias entre el proceso de aprendizaje/comprensión/ejecución de humanos y máquinas. Se mencionan el interior/exterior del sistema, los brincos fuera del sistema, abstraerse afuera del sistema, observar el sistema/proceso mismo, la complejidad de separar interior/exterior del sistema, formular ideas simples para emplearlas en ideas más complejas, y los sistemas formales. Se explican las vías/métodos/técnicas *Mecánica, Inteligente, Ultravía*. Se mencionan teoremidad, verificación, procedimiento de decisión. Al final el diálogo a dos voces entre Aquiles y el Sr. Tortuga acera del juego de distancias infinitas y proposiciones.
 
 #### Capítulo II: Significado y forma en matemática
 
@@ -245,16 +246,38 @@ Mi intención inicial era escribir un ensayo en cuyo centro iba a estar el Teore
 
 Pero al final me di cuenta de que Gödel, Escher y Bach no eran, para mi, sino sombras proyectadas en distintas direcciones por alguna esencia sólida central.
 
+Me pregunto si su belleza esta relacionada con su imposibilidad.
+
 lerdo, da. Dicho comúnmente de una bestia: Pesada y torpe en el andar. Tardo y torpe para comprender o ejecutar algo. Tumor de las caballerías cerca de la rodilla. http://dle.rae.es/?w=lerdo
+
+solamente tratando de hallar a alguien que pusiera atención a mi sólido y aguzado argumento. Pero ellos corren de acá para allá pero no tienen tiempo. Uds. no tienen idea de cuán descorazonador es toparse con negativa tras negativa. Oh, pero perdón por agobiarlos con mis problemas.
 
 Gracias. Verán, mi Maestro, el quinto patriarca, me enseñó que la realidad es una, inmutable e incambiable; toda pluralidad, cambio y movimiento son meras ilusiones de los sentidos. Algunos se han burlado de sus ideas; pero demostraré lo absurdo de sus burlas.
 
 Francamente, sólo he tenido una Gran Idea -únicamente que la exploto en formas diferentes.
 
+Para interrumpir el suspense,
+
+Es necesario optar, y en ello consiste la práctica del juego a través del cual todo sistema formal puede llegar a asemejarse a un arte.
+
+Quiero significar que es *posible* programar una máquina para que realice una tarea rutinaria, de un modo tal que la máquina jamás advierta ni siquiera los hechos más obvios vinculados con lo que está haciendo; en cambio, apercibirse de determinados hechos vinculados con lo que se está haciendo es algo inherente a la conciencia humana.
+
+La diferencia, entonces, reside en que a la máquina le es *posible* actuar sin advertirlo, cosa imposible para el ser humano.
+
+Sin embargo, puede conseguirse que las máquinas sean absolutamente no observadoras, cosa que no es posible con los seres humanos.
+
+Es probable que ello motive la opinión generalizada de que la inobservancia es el rasgo característico de las máquinas.
+
+Hay casos, por cierto, donde únicamente contados individuos tienen la lucidez de percibir un sistema que está gobernando la existencia de muchas personas, un sistema que nunca antes había sido identificado como sistema; a partir de ese momento, esos individuos suelen dedicar su vida a la empresa de convencer al resto de que realmente el sistema está allí, ¡y que es preciso abandonarlo!
+
+A pesar de que perdió todas sus partidas, mostró un estilo;
+
+esto es pensar acerca del sistema.
+
 
 
 ## TÉRMINOS
-retruécano, paráfrasis, holismo, reduccionismo, marrullería, aberrante, **contrafactibilidad**, **autorreferencialidad**, *aporía*, consternación, eludir, paulatino, peculiar, indulgente, zalamero, silogismo, conmoción, proscripción, proscrito, menoscabo, excéntrico, *ineluctable*, estupor, **epítome**, pugna, secular, *lerdo*.
+retruécano, paráfrasis, holismo, reduccionismo, marrullería, aberrante, **contrafactibilidad**, **autorreferencialidad**, *aporía*, consternación, eludir, paulatino, peculiar, indulgente, zalamero, silogismo, conmoción, proscripción, proscrito, menoscabo, excéntrico, *ineluctable*, estupor, **epítome**, pugna, secular, *lerdo*, agobiar, anomalía.
 
 
 
