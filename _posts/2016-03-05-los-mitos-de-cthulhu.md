@@ -98,33 +98,33 @@ Un extraviado enfermo se halla en las ruinas de la antigua ciudad Carcosa.
 ## CITAS
 Por ello he seleccionado *todos* los cuentos de Lovecraft que, pertenecientes a dicho ciclo, fuesen inéditos en castellano.
 
-albricia. albricias (‖ regalo que se da por alguna buena nueva). http://dle.rae.es/?w=albricia #término
+http://dle.rae.es/?w=albricia albricia. albricias (‖ regalo que se da por alguna buena nueva). #término
 
-ánade. pato (‖ ave). Ave con los mismos caracteres genéricos que el pato. http://dle.rae.es/?w=ánade #término
+http://dle.rae.es/?w=ánade ánade. pato (‖ ave). Ave con los mismos caracteres genéricos que el pato. #término
 
-impetrar. Conseguir una gracia que se ha solicitado y pedido con ruegos. Solicitar una gracia con encarecimiento y ahínco. http://dle.rae.es/?w=impetró #término
+http://dle.rae.es/?w=impetró impetrar. Conseguir una gracia que se ha solicitado y pedido con ruegos. Solicitar una gracia con encarecimiento y ahínco. #término
 
-dársena. 1. Parte de un puerto resguardada artificialmente y adecuada para el fondeo y la carga y descarga de embarcaciones. 2. Superficie habilitada para el estacionamiento de vehículos de transporte con fines de carga y descarga, en estaciones, aeropuertos, áreas comerciales, etc. http://dle.rae.es/?w=dársena #término
+http://dle.rae.es/?w=dársena dársena. 1. Parte de un puerto resguardada artificialmente y adecuada para el fondeo y la carga y descarga de embarcaciones. 2. Superficie habilitada para el estacionamiento de vehículos de transporte con fines de carga y descarga, en estaciones, aeropuertos, áreas comerciales, etc. #término
 
-légamo. Cieno, lodo o barro pegajoso. Parte arcillosa de las tierras de labor. http://dle.rae.es/?w=légamo #término
+http://dle.rae.es/?w=légamo légamo. Cieno, lodo o barro pegajoso. Parte arcillosa de las tierras de labor. #término
 
-bermellón. 1. Cinabrio reducido a polvo, que toma color rojo vivo. 2. Dicho de un color: Semejante al del bermellón. 3. De color bermellón. http://dle.rae.es/?w=bermellón #término
+http://dle.rae.es/?w=bermellón bermellón. 1. Cinabrio reducido a polvo, que toma color rojo vivo. 2. Dicho de un color: Semejante al del bermellón. 3. De color bermellón. #término
 
-cerceta. Ave del orden de las palmípedas, parecida al pato, pero de menor tamaño, pico grueso y negruzco, plumaje gris o pardo, salpicado de pequeños lunares más oscuros, con un orden de plumas blancas en las alas, y otro de verdes tornasoladas por la mitad. http://dle.rae.es/?w=cerceta #término
+http://dle.rae.es/?w=cerceta cerceta. Ave del orden de las palmípedas, parecida al pato, pero de menor tamaño, pico grueso y negruzco, plumaje gris o pardo, salpicado de pequeños lunares más oscuros, con un orden de plumas blancas en las alas, y otro de verdes tornasoladas por la mitad. #término
 
-trullo. Ave palmípeda, del tamaño de un pato, de cabeza negra, que nada y se sumerge para coger los peces con que se alimenta. http://dle.rae.es/?w=trullo #término
+http://dle.rae.es/?w=trullo trullo. Ave palmípeda, del tamaño de un pato, de cabeza negra, que nada y se sumerge para coger los peces con que se alimenta. #término
 
-marisma. Terreno bajo y pantanoso que inundan las aguas del mar. http://dle.rae.es/?w=marisma #término
+http://dle.rae.es/?w=marisma marisma. Terreno bajo y pantanoso que inundan las aguas del mar. #término
 
-alud. 1. Gran masa de nieve que se derrumba de los montes con violencia y estrépito. 2. Masa grande de una materia que se desprende por una vertiente, precipitándose por ella. http://dle.rae.es/?w=alud #término
+http://dle.rae.es/?w=alud alud. 1. Gran masa de nieve que se derrumba de los montes con violencia y estrépito. 2. Masa grande de una materia que se desprende por una vertiente, precipitándose por ella. #término
 
-pleamar. 1. Fin o término de la creciente del mar. 2. Tiempo que dura la pleamar. http://dle.rae.es/?w=pleamar #término
+http://dle.rae.es/?w=pleamar pleamar. 1. Fin o término de la creciente del mar. 2. Tiempo que dura la pleamar. #término
 
-connivencia. 1. Disimulo o tolerancia en el superior acerca de las transgresiones que cometen sus subordinados contra las reglas o las leyes bajo las cuales viven. 2. confabulación. http://dle.rae.es/?w=connivencia #término
+http://dle.rae.es/?w=connivencia connivencia. 1. Disimulo o tolerancia en el superior acerca de las transgresiones que cometen sus subordinados contra las reglas o las leyes bajo las cuales viven. 2. confabulación. #término
 
-melopea. 1. melopeya. 2. canturía (‖ canto monótono). 3. Embriaguez, borrachera. http://dle.rae.es/?w=connivencia #término
+http://dle.rae.es/?w=connivencia melopea. 1. melopeya. 2. canturía (‖ canto monótono). 3. Embriaguez, borrachera. #término
 
-melopeya. 1. Arte de producir melodías. 2. Entonación rítmica con que puede recitarse algo en verso o en prosa. http://dle.rae.es/?w=melopeya #término
+http://dle.rae.es/?w=melopeya melopeya. 1. Arte de producir melodías. 2. Entonación rítmica con que puede recitarse algo en verso o en prosa. #término
 
 
 
@@ -149,4 +149,4 @@ albricia, ánade, impetrar, dársena, légamo, cerceta, trullo, marisma, pleamar
 
 
 [LosMitosDeCthulhu_front]: {{ site.baseurl }}/assets/LosMitosDeCthulhu_front.jpg "Los Mitos de Cthulhu"
-[LosMitosDeCthulhu_back]: {{ site.baseurl }}/assets/LosMitosDeCthulhu_back.png "Los Mitos de Cthulhu (contraportada)"
+[LosMitosDeCthulhu_back]: {{ site.baseurl }}/assets/LosMitosDeCthulhu_back.jpg "Los Mitos de Cthulhu (contraportada)"
