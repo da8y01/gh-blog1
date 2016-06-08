@@ -11,3 +11,8 @@ markdown: kramdown
 permalinks: pretty
 
 highlighter: pygments
+
+analytics:
+  provider: google
+  google:
+    tracking_id : 'UA-78997829-1'
