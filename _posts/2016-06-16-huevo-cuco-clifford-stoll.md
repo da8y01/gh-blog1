@@ -14,12 +14,17 @@ tags: review literature literatura "El huevo del cuco - Clifford Stoll" "El huev
 
 
 
+## AUTOR
+Clifford Stoll es astrónomo de formación y experto en seguridad informática por accidente. Desde que capturó al <<hacker de Hannover>> se ha convertido en una gran autoridad en seguridad informática y ha pronunciado más conferencias sobre el tema de lo que está dispuesto a admitir. Ha dado charlas para la CIA y la NSA, además de comparecer ante el senado de los Estados Unidos. Stoll, que actualmente elabora programas informáticos de astrofísica para el Harvard-Smithsonian Center, vive en Cambridge con su esposa, Martha Matthews, y dos gatos por los que finge sentir antipatía.
+
+
 ## CONTRAPORTADA
 Durante varios meses un intruso informático circuló por un laberintino de ordenadores norteamericanos militares y de investigación como un hombre invisible, hasta que Clifford Stoll descubrió sus huellas. Al cabo de más de un año, para delicia de la perpleja CIA, del FBI y de la NSA, Stoll logró atraparlo. Con toda la emoción de una novela de espionaje clásico, este libro asombroso y sin precedentes relata la primera historia verdadera de espionaje informático internacional, como sólo Clifford Stoll podía contarla.
 
 De astrofísico, Clifford Stoll se convirtió en director de sistemas en el Lawrence Berkeley Laboratory, cuando un error de contabilidad de setenta y cinco centavos le hizo advertir la presencia de un usuario no autorizado en su sistema. Sin embargo, en lugar de expulsar al intruso, Stoll le permitió que deambulara por el sistema, al tiempo que grababa minuciosamente cada uno de sus movimientos. Y así empezó un año de acecho de un &lsquo;hacker&rsquo; esquivo y metódico que merodeaba por las redes informáticas nacionales usando numerosas técnicas para acceder sin autorización a los ficheros norteamericanos.
 
 La pista condujo por redes informáticas del mundo entero hasta Hannover, en la Alemania Occidental, pero Stoll no estaba todavía satisfecho, y organizó una operación de busca y captura que le permitió descubrir una red de espionaje en Alemania Federal, vinculada a un misterioso agente de Pittsburgh. Los espías vendían sus secretos a la KGB a cambio de cocaina y decenas de millares de dólares. La red fue por fin desmantelada en marzo de 1989, y los periódicos de todo el país calificaron a Clifford Stoll de auténtico -aunque un tanto inusual- héroe americano.
+
 
 ## SINOPSIS
 
@@ -114,58 +119,91 @@ Cliff piensa y analiza acerca de las "horas laborales" del hacker, deduce una nu
 Cliff consulta Usenet, el hacker se conecta y tiene una sesión larga, Cliff llama a Ron Vivier para el rastreo, se descubre que la conexión está a través del enlace trasatlántico satelital Westar-3 de ITT corroborando que viene del extranjero, de Europa, la sesión del hacker es frustrante, Cliff recibe la llamada de Steve White, experto en comunicaciones trasatlánticas, especialista internacional de Tymnet invitado e informado por Ron Vivier para ocuparse de la localización.
 
 ### Treinta
+Steve White, el especialista internacional de Tymnet localiza la conexión del hacker en Alemania, las legislaciones, Cliff repasa pistas e indicios.
 
 ### Treinta y uno
+El domingo el hacker de nuevo en Berkeley, con ayuda de Steve White es de nuevo rastreado y localizado, de nuevo una sesión infructuosa, Cliff y Steve esperarán la respuesta del Bundespost.
 
 ### Treinta y dos
+Cliff vuelve a comunicarse con el FBI, OSI y CIA para alertar de los nuevos descubrimientos, además consulta Usenet y se comunica con los autores de anuncios interesantes, el Chaos Computer Club alemán emerge de nuevo con algunos integrantes y casos, debido a estas nuevas notificaciones la actividad de las agencias reaviva.
 
 ### Treinta y tres
+Las agencias ahora están más interesadas en el caso y constantemente llaman a Cliff, se achica el rastreo a Bremen.
 
 ### Treinta y cuatro
+Es la época navideña y los co-inquilinos preparan postales astronómicas, las agencias están fascinadas pero no aportan a la investigación, Roy Kerth, jefe de Cliff, decide clausurar inmediatamanete la investigación, el agente del FBI Mike Gibbons logra convencer al jefe de lo contrario y la investigación continuará otro tanto, el último rastreo ya no indica Bremen sino Hannover.
 
 ### Treinta y cinco
+Se necesitaba una orden judicial alemana para que Wolfgang Hoffman y el Bundespost intervinieran las líneas de Datex, y para esto el fiscal alemán necesitaba una solicitud oficial de alto nivel estadounidense para abrir la investigación, de modo que en últimas es en Cliff sobre quien recae la tarea de hacer los contactos para iniciar la maquinaria de cooperación internacional, el FBI es el organismo encargado para estas gestiones, Cliff recibe la tarea de Mike Gibbons del FBI de elaborar una biografía/perfil del sujeto, de otro lado el DOE llama la atención a Cliff, su jefe y departamento por no haber sido informados de las actividades que se habían venido realizando en el laboratorio, sin embargo las notas de Cliff sirven como prueba contra las acusaciones del DOE, al final por una falsa alarma Cliff decide ser más cauteloso y verificar la información que divulga.
 
 ### Treinta y seis
+El año nuevo lo celebran en la verbena de San Francisco, el día de Año Nuevo el hacker irrumpe exitosamente en el ordenador militar Optimus del pentágono extrayendo información acerca de proyectos nucleares en centro europa, Cliff notifica a las agencias, sin embargo la negligencia de las agencias puede desmotivar a Cliff.
 
 ### Treinta y siete
+El hacker pasea e irrumpe exitosamente en la División Espacial, comete el error de salir con la clave caducada, Cliff y Steve lo rastrean con la ayuda de Wolfgang esta vez hasta la Universidad de Karlsruhe, Cliff y Steve hablan de comunicaciones, de RCA y TAT-6, el cable trasatlántico #6, de los cables y los satélites, de la fibra óptica, etc; Cliff se comunica con Mike del FBI, con evasivas éste le dice que tenga paciencia que la investigación va en curso, Cliff notifica a la OSI también; a pesar de la advertencia y las supuestas medidas el hacker nuevamente irrumpe exitosamente en la División Espacial, en Alemania con Wolfgang tratarán de llegar al usuario, así que deberán tratar de sostener la sesión el mayor tiempo posible a pesar de que el hacker está accediendo a ese tipo de información "delicada", Cliff llama a las fuerzas aéreas durante esta sesión, Cliff también deduce que el hacker guarda notas de sus actividades así como él mismo lo hace, al final la localización en Alemania se interrumpe debido a que se requiere la presencia de un técnico en los conmutadores de la centralita de Hannover, finalmente el sargento Thomas cierra el sistema de la División Espacial con la excusa de mantenimiento, desapareciendo el hacker en el vacío.
 
 ### Treinta y ocho
+Wolfgang y el Bundespost alemán tienen la logística lista para un rastreo completo, sin embargo siguen faltando las directrices oficiales norteamericanas, entre tanto Cliff debe cumplir con sus otros deberes, el ordenador acelerador de partículas Bevatron; Fred Wyniken, agente FBI local visita a Cliff sólo en representación de la oficina de Alexandria, Virginia, la situación es desalentadora.
 
 ### Treinta y nueve
+Ann Funk de las fuerzas aéreas notifica que el FBI se retira del caso, el agente local Fred Wyniken confirma esta decisión y le sugiere vías de acción de consuelo a Cliff, Cliff habla con su jefe Roy Kerth quien categóricamente decide continuar con la investigación ya que trabajan es para el DOE y no para el FBI, Cliff también notifica las novedades a Teejay de la CIA quien logra vincular de nuevo al FBI, ahora que los rastreos se estaban haciendo casi completos necesitaban de sesiones largas para que los técnicos de las centralitas de Hannover tuvieran tiempo de efectuar la localización.
 
 ### Cuarenta
+Una mañana de sábado de enero Cliff es despertado por su compañera Martha para la plantación de los tomates, después de la jornada y una irrupción mientras se duchaban se les ocurre coger el problema con sus propias manos dada la ineptitud de los demás organismos, y planean poner un cebo ficticio de un proyecto confidencial al hacker, con el escenario configurado y las alarmas puestas esperan una larga sesión para que los alemanas hagan su trabajo de localización.
 
 ### Cuarenta y uno
+La operación ducha había sido dispuesta por iniciativa propia e independiente sin consultar, de modo que Cliff redacta una propuesta a modo de proyecto científico y se comunica con las agencias obteniendo el resultado esperado: estaban al tanto de su propuesta, ni colaboraban ni se oponían, todos señalaban al otro, y nadie quería responsabilizarse. El hacker conecta y muerde el anzuelo, el Bundespost estrecha la localización hasta 50 posibles líneas en Hannover, es casi seguro que en la próxima sesión ejecuten la localización completa.
 
 ### Cuarenta y dos
+En el último día antes de que los alemanes retiraran el personal técnico de vigilancia para el rastreo el hacker conecta y finalmente ejecutan el rastreo completo averiguando el número de teléfono de la persona con un ordenador que realiza las conexiones desde Hannover, le dicen a Cliff que debe informar al FBI, Cliff, Martha y Claudia celebran con batidos de leche caseros.
 
 ### Cuarenta y tres
+El hacker sigue merodeando e irrumpiendo en redes y ordenadores, el FBI y la CIA están al tanto, en una de las irrupciones pone como clave el nombre de un astronauta alemán.
 
 ### Cuarenta y cuatro
+El hacker continúa merodeando por las redes mientras se espera la coordinación internacional y la maquinaria burocrática, Tymnet envía un mensaje advirtiendo que el caso es grave y que la investigación se ha ampliado y severizado.
 
 ### Cuarenta y cinco
+El 4 de febrero en la base aérea de Bolling se realiza la primera reunión con representantes de las agencias acerca del caso del hacker de Hannover y las políticas de seguridad en general, en conclusión el FBI y el Departamento de Justicia se oponían a seguir observando al hacker, la CIA y NSA no manifestaron claramente su posición, y los militares y el DOE querían que se siguieran controlando las conexiones, Cliff es invitado por Zeke Hanson a dar una conferencia en la NSA, al terminar la conferencia Bob Morris, jefe científico de la NSA lleva a Cliff a conocer al subdirector de la NSA Harvey Daniels para que conozca su historia, esto para ayudarles con el problema de convencer a ciertas entidades de la gravedad y seriedad de la seguridad informática.
 
 ### Cuarenta y seis
+Al regresar a casa después de la reunión de Bolling Cliff tiene una pequeña discusión con la mejor amiga de Martha, roommate de U Laurie, una semana después Mike Gibbons del FBI llama a Cliff para informarle que cerrarán la investigación, después hay inactividad del hacker pero retorna irrumpiendo en el ordenador Petvax, lo protegen, entretanto por mensajes electrónicos se comenta el incidente, Cliff toma medidas informando al personal; al final el día accidentado en el que Martha y Cliff cenarán con Steve White de Tymnet que se encuentra en la ciudad.
 
 ### Cuarenta y siete
+Después de meses de actividad casi nula Cliff nota una conexión del hacker desde Hannover con un usuario diferente y deduce que ha crackeado las claves de las cuentas del ordenador, Cliff se lo comunica al jefe de investigación de la NSA Bob Morris.
 
 ### Cuarenta y ocho
+Cliff da una conferencia para la NSA, y aprovechando la ocasión Teejay de la CIA también lo invita a una visita, pero no era para una conferencia sino simplemente para entregarle un "certificado de agradecimiento", retorna a casa.
 
 ### Cuarenta y nueve
+El 22 de abril Mike Gibbons del FBI comunica a Cliff que debían seguir vigilando al hacker, al parecer la cooperación/comunicación internacional se había reactivado, depronto a finales de abril el LBL recibe una carta para la secretaria ficticia del proyecto cebo SDINET, Cliff comunica a las agencias, el FBI toma especial interés, Cliff trata de deducir lo que la carta indicaba, al final celebra con Martha y Claudia el triunfo de su "plan ducha 35B".
 
 ### Cincuenta
+Mike Gibbons del FBI pide a Cliff que no le informe a nadie de la carta recibida para la secretaria ficticia, demasiado tarde, el hacker sigue merodeando esporádicamente, busca nuevas brechas como la del programa X-preserve, pero en general es su persistencia la que le da los éxitos que logra.
 
 ### Cincuenta y uno
+Es junio, verano, sin embargo Matha estudia tenazmente para su reválida de derecho, el hacker irrumpe esporádicamente, el FBI está atento para actuar en el momento oportuno.
 
 ### Cincuenta y dos
+Steve White de Tymnet informa a Cliff que Wolfgang Hoffman del Bundespost alemán notifica que habrá permanentemente un policía en la casa del hacker para detenerlo en el momento que conecte con Berkeley al ser avisados por Cliff, los sistemas de alarmas y después de ejecutada la rápida localización, sin embargo el hacker no vuelve a conectar y días después Mike Gibbons del FBI instruye a Cliff para que clausure los monitores dado que la orden de detención ya ha sido dada, Wolfgang Hoffman informa que se han practicado registros e incautaciones simultáneas tanto en la empresa local Focus Computer GmbH como en la casa de uno de sus empleados, Cliff arregla y refuerza sus sistemas, cambia la clave de los usuarios y descansa un poco, Cliff poco a poco retorna a su trabajo convencional en el LBL.
 
 ### Cincuenta y tres
+Darren Griffith, joven informático, se une al grupo de LBL para trabajar, es técnicamente versado, enseña y expone cosas a Cliff, el CCC, Cliff trata de analizar y deducir si puede haber o establecer relación entre el CCC y su hacker de Hannover, al final por un cuestionamiento de Darren, Cliff reflexiona acerca de la informática, las redes y la "anarquía creativa".
 
 ### Cincuenta y cuatro
+Nadie brinda información a Cliff, piensa investigar y publicar, la pareja, el edredón y el matrimonio, Cliff publica un artículo científico, pero una revista alemana se adelanta un par de semanas al lanzamiento con un artículo basado en el cuaderno de Cliff pero poco exacto, deciden entonces celebrar una conferencia de prensa, la NSA ruega porque no la mencionen, en la rueda de prensa las preguntas de la TV son fáciles y las de los periódicos duras y complicadas, a pesar del recelo los periódicos trataron la noticia con exactitud, además los periodistas habían hecho algo que Cliff no había podido: descubrir y contactar con el hacker.
 
 ### Cincuenta y cinco
+La prensa llama a Markus Hess, el hacker de Hannover, paranoico como siempre no puede hablar mucho; Martha, Claudia y Cliff reciben al estudiante extranjero Michael Sperber cuyo padre Jochen Sperber resulta ser periodista en el norte de Alemania, y es quien con tenacidad durante cinco meses reconstruye lo ocurrido en el otro extremo. Al principio de los 80's el Bundespost se expande a redes de datos, popularizadas a mediados de la decada, se funda el CCC, Markus Hess se mantiene al margen como hacker autónomo, Hess conocía a Hagbard quién a su vez mantenía contacto con Pengo y Bresinsky, en alguna reunión algunos hackers discutieron del aburrimiento que representaban las actividades ordinarias que realizaban y de "un círculo que hacía negocios con un servicio secreto oriental", así los cinco continuaron entendiéndose por las redes internacionales por diversión pero finalmente por negocios, en un momento Hess infiltra Mitre, las aventuras nocturnas de Hess contaban con el beneplácito de su superior en la compañía donde trabajaba, Pengo contaba con los contactos suficientes para hacer redituable la nueva información y objetivos que estaban hallando, reuniones y acuerdos con agentes de la KGB se dan, cuando la KGB investiga este círculo de hackers por prevención y confiabilidad lo hacen con la ficticia secretaria Barbara Sherwin con el contacto de la inteligencia húngaro o búlgaro Lazlo Balogh quién figuró como el remitente de la carta solicitando documentos y material; posteriormente a pesar de que la policía de Alemania occidental tenía un montón de pruebas en contra de Hess, cuando se ejecuta el registro en su residencia no había nadie, esto junto a un problema con la orden de registro desbarató el caso por robo informático contra Markus Hess, sin embargo la policía federal alemana al seguir investigando acusan a cinco personas por espionaje: Pengo, Hagbard, Peter Carl, Dirk Bresinski y Markus Hess. Se menciona la situación en la que quedaron o están éstos personajes.
 
 ### Cincuenta y seis
+Reflexión final, el rol de los ordenadores y redes, los informáticos y la ética, las medidas y costes, la comunidad, el espionaje.
+
+### *Epílogo*
+En un período bastante ajetreado se terminan los preparativos para la boda y Martha y Cliff se casan, por motivos laborales de Martha se mudan a Boston y Cliff también consigue un buen empleo allá, en el nuevo trabajo Cliff aprende la excitante "astronomía de verdad"; una madrugada Cliff es alertado de cierto ataque informático; en comunicación con el ex-compañero de Berkeley Darren Griffiths y otros organismos como el centro operativo de la red ARPANET observan, analizan, estudian, desmenuzan y desglosan lo que resulta ser el famoso virus/gusano (worm) Robert T. Morris, cuyo principal autor resulta ser el hijo de Bob Morris, el jefazo científico de la NSA, Cliff acude al antiguo apartamento de estudiante, que queda cerca del supuesto autor, finalmente se depura el virus, y por canales alternos se dan los avisos y se toman las medidas y correcciones necesarias, y se trata de dilucidar una forma de calcular los costes de un episodio así; finalmente se reflexiona de la forma en que se componen y construyen las redes, y su importancia, y la amenaza latente.
+
+### *Bibliografía*
+El autor apunta a diferentes recursos bibliográficos, de diferente nivel, enfoque y accesibilidad.
 
 
 

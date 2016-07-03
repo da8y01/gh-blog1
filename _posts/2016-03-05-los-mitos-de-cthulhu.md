@@ -41,17 +41,28 @@ Se cuenta la travesía de un viajero por el río Yann y sus ciudades ribereñas 
 Un extraviado enfermo se halla en las ruinas de la antigua ciudad Carcosa.
 
 #### El signo amarillo, por *Robert W. Chambers*
+Un pintor hecha a perder el lienzo con la pintura de la modelo luego de divagar acerca de un extraño sujeto que lo mira desde el lejano atrio de una iglesia, Tessie, la modelo, cuenta que ese hombre es el cochero del carro fúnebre de sus sueños, el pintor trata de animarla y tranquilizarla.
+
+En la mañana el señor Scott lee el Herald, y Thomas, el botones cuenta su anécdota con el vigilante nocturno de la iglesia; la modelo Tessie llega, le cuenta su noche, trabajan, Scott le cuenta de su sueño similar a ella, la engatuza, se besan, en la noche repasando los acontecimientos Scott piensa en un romance con Tessie, el encuentro con el vigilante nocturno de la iglesia, después de una noche intranquila, al acudir a trabajar al estudio con Tessie, ella le regala el supuesto "signo amarillo".
+
+En un día desastroso y lluvioso leen "El Rey Amarillo", anochece y en un sueño Scott experimenta que el vigilante nocturno de la iglesia viene a arrebatarle el signo amarillo, asesina a Tessie, y Scott asesina al vigilante, Scott es capturado y condenado.
 
 #### Vinum Sabbati, por *Arthur Machen*
+Helen Leicester, hija del mayor general Wyn Leicester, y hermana de Francis, profesional en Derecho, narra la obsesiva aplicación de su hermano al estudio, cómo al verse descompuesta su salud y acudir al doctor Haberden, él incia el tratamiento con la equivocada preparación del viejo Sayce en su anticuada farmacia; las semanas pasan, Francis aparentemente recuperado echa una cana al aire para volverse a enclaustrar en su habitación; los acontecimientos se van desenvolviendo cuando se nota la mancha negra en la mano de Francis, las vsiiones, la visión de la criatura amorfa en la ventana, la mancha negra en el techo de la habitación de Helen, y finalmente el descubrimiento de la criatura como masa oscura corrompida y amorfa en la habitación de Francis, que es apaleada por el doctor Haberden.
+
+El reporte del químico doctor Chambers sobre el análisis del polvo con el que se preparaba el Vino Sabático en los Aquelarres de las Brujas donde se consumían las nupcias Sabáticas; la aclaración personal, la percepción del universo, y el recuento histórico del contexto.
 
 #### El Wendigo, por *Algernon Blackwood*
+El narrador presenta a los cuatro expedicionarios, la cacería de alces, la experiencia que tuvieron, el narrador empalma la historia con una primera noche en la espesura de la selva al norte de Rat Portage, donde sentados alrededor de la fogata el guía líder Hank plantea otra ruta/zona debido a la escasez de alces que hay, a lo que el segundo guía Joseph Défago reacciona con una disimulada reticencia, la conversación se ve velada por el misterio, Hank elude terminar de decir lo que iba a expresar al Doc Cathcart, y al final ya cuando todos duermen en sus tiendas y el cocinero Punk afuera en sus mantas, éste sale a escuchar y olfatear el aire y la oscuridad de la espesura, se alcanza a percibir el espectro de un olor innominado de regiones remotas del bosque deshabitado. A la mañana siguiente las dos expediciones parten por rumbos opuestos, después de una larga jornada, Simpson y Défago, habiendo cruzado el lago en una canoa, llegan al espeso bosque predecesor/al límite del Lago de las "Cincuenta Islas"; ya en la noche Défago muestra pavor al percibir algo, se hace una primera mención al Wendigo; ya estando dentro de la tienda, Simpson percibe ruidos y al guía Défago sollozando entre sueños, al amanecer Défago, de nuevo con comportamientos extraños abandona corriendo la tienda y a su compañero, de modo que un atemorizado Simpson se da a la tarea de rastrearlo siguiendo unas raras huellas de un animal junto con las del compañero, mientras en la memoria se agolpan detalles inquietantes, y las huellas se comportan cada vez de forma más extraña; continuando la búsqueda, las huellas desaparecen, oye el grito de lamento en las alturas, Simpson atemorizado logra retornar al campamento a orillas del Lago de las Cincuenta Islas, para de ahí encontrar la canoa y devolverse por ayuda al campamento inicial de encuentro con los otros quienes lo reciben y a primera hora parten en la piragua a la búsqueda del desaparecido compañero; estando en la noche, y después del alarido de Hank, algo grande pasa por encima, aterriza entre los árboles y se acerca con pesados pasos aterradores, después se revela un irreconocible Défago que dice haber visto y estado con el Wendigo para de nuevo marcharse, Hank empieza a perder el control, pero el doctor Cathcart habiendo recobrado la compostura logra controlarlo; finalmente al retornar al primer campamento se encuentran con un verdadero Défago acabado, demacrado, sin juicio, memoria, ni alma, que poco antes había hecho huir a un aterrado Punk.
 
 #### La maldición que cayó sobre Sarnath, por *H. P. Lovecraft*
+La historia desde tiempos primigenios de la tierra de Mnar y el lago vasto donde seres venidos de la luna erigieron la ciudad de Ib donde se adoraba al ídolo verdemar de Bokrug, el gran saurio acuático; y cómo con el amanecer de la humanidad se construye la ciudad de Sarnath y otras varias, la destrucción de Ib, la maldición, la descripción de Sarnath, y la caída de la maldición en la celebración del milenio de la destrucción de Ib.
 
 
 ### Libro segundo: LOS MITOS
 
 #### Introducción
+Se presentan los relatos pertenecientes a este Libro segundo.
 
 #### El ceremonial, por *H. P. Lovecraft*
 
