@@ -8,12 +8,47 @@ tags: review literature literatura novel novela comic comics historieta historie
 
 
 <div style="text-align:center" markdown="1">
-![PildorasAzules_FrederikPeeters_01][PildorasAzules_FrederikPeeters_01]{: width="40%"}
+![PildorasAzules_FrederikPeeters_front][PildorasAzules_FrederikPeeters_front]{: width="40%"}
 </div>
 
 
 
 ## RECORTES
+<div style="text-align:center" markdown="1">
+![PildorasAzules_FrederikPeeters_Cap1][PildorasAzules_FrederikPeeters_Cap1]{: width="30%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![PildorasAzules_FrederikPeeters_Cap2][PildorasAzules_FrederikPeeters_Cap2]{: width="30%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![PildorasAzules_FrederikPeeters_Cap3][PildorasAzules_FrederikPeeters_Cap3]{: width="30%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![PildorasAzules_FrederikPeeters_Cap4][PildorasAzules_FrederikPeeters_Cap4]{: width="30%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![PildorasAzules_FrederikPeeters_Cap5][PildorasAzules_FrederikPeeters_Cap5]{: width="30%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![PildorasAzules_FrederikPeeters_Cap6][PildorasAzules_FrederikPeeters_Cap6]{: width="30%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![PildorasAzules_FrederikPeeters_Cap7][PildorasAzules_FrederikPeeters_Cap7]{: width="30%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![PildorasAzules_FrederikPeeters_Cap8][PildorasAzules_FrederikPeeters_Cap8]{: width="30%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![PildorasAzules_FrederikPeeters_Cap9][PildorasAzules_FrederikPeeters_Cap9]{: width="30%"}
+</div>
 
 
 
@@ -25,6 +60,7 @@ Es lo que pasa con las cosas que uno considera realmente buenas: quiere convence
 
 
 ## TÉRMINOS
+crisma, .
 
 
 
@@ -45,4 +81,13 @@ Es lo que pasa con las cosas que uno considera realmente buenas: quiere convence
 
 
 
-[PildorasAzules_FrederikPeeters_01]: {{ site.baseurl }}/assets/PildorasAzules_FrederikPeeters_01.png "Píldoras azules - Frederik Peeters"
+[PildorasAzules_FrederikPeeters_front]: {{ site.baseurl }}/assets/PildorasAzules_FrederikPeeters_front.png "Píldoras azules - Frederik Peeters. Portada"
+[PildorasAzules_FrederikPeeters_Cap1]: {{ site.baseurl }}/assets/PildorasAzules_FrederikPeeters_Cap1.png "Píldoras azules - Frederik Peeters. Cap. 1"
+[PildorasAzules_FrederikPeeters_Cap2]: {{ site.baseurl }}/assets/PildorasAzules_FrederikPeeters_Cap2.png "Píldoras azules - Frederik Peeters. Cap. 2"
+[PildorasAzules_FrederikPeeters_Cap3]: {{ site.baseurl }}/assets/PildorasAzules_FrederikPeeters_Cap3.png "Píldoras azules - Frederik Peeters. Cap. 3"
+[PildorasAzules_FrederikPeeters_Cap4]: {{ site.baseurl }}/assets/PildorasAzules_FrederikPeeters_Cap4.png "Píldoras azules - Frederik Peeters. Cap. 4"
+[PildorasAzules_FrederikPeeters_Cap5]: {{ site.baseurl }}/assets/PildorasAzules_FrederikPeeters_Cap5.png "Píldoras azules - Frederik Peeters. Cap. 5"
+[PildorasAzules_FrederikPeeters_Cap6]: {{ site.baseurl }}/assets/PildorasAzules_FrederikPeeters_Cap6.png "Píldoras azules - Frederik Peeters. Cap. 6"
+[PildorasAzules_FrederikPeeters_Cap7]: {{ site.baseurl }}/assets/PildorasAzules_FrederikPeeters_Cap7.png "Píldoras azules - Frederik Peeters. Cap. 7"
+[PildorasAzules_FrederikPeeters_Cap8]: {{ site.baseurl }}/assets/PildorasAzules_FrederikPeeters_Cap8.png "Píldoras azules - Frederik Peeters. Cap. 8"
+[PildorasAzules_FrederikPeeters_Cap9]: {{ site.baseurl }}/assets/PildorasAzules_FrederikPeeters_Cap9.png "Píldoras azules - Frederik Peeters. Cap. 9"
