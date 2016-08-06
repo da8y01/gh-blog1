@@ -49,13 +49,13 @@ En 1998, un jurado compuesto por la argentina Graciela Gliemmo, el colombiano Á
 ### El prisionero
 
 #### Uno
-.
+Se describe la situación actual del prisionero, cómo y por dónde caminan, en un flashback se describe el cinematográfico secuestro a plena luz del día dictando una de sus clases en la Universidad, cómo en plena selva el jefe ordena acampar en ese lugar para pasar la noche, el prisionero recuerda y piensa en su familia, ideologías, causas, motivos, vida.
 
 #### Dos
-.
+Al siguiente día despierta de una patada, caminan, antes de llegar a destino los secuestradores comunican el santo y seña con tiros, llegan, él piensa en *resistir*, recuerda Rocky 1.
 
 #### Tres
-.
+Después de haber llegado a una especie de campamento lo echan a un estrecho hueco que será su prisión, lo alimentan y sacan cinco minutos; recuerda el "arre cabalo" de su hijo Sebastián, el "te amo" de su esposa Sandra, y a su estudiante estrella Pablo y el seminario de Wittgenstein.
 
 
 ### La historia
@@ -108,12 +108,12 @@ En 1998, un jurado compuesto por la argentina Graciela Gliemmo, el colombiano Á
 
 
 ## CITAS
-.
+http://dle.rae.es/?id=C9KlEY2 demiurgo. En la filosofía platónica, divinidad que crea y armoniza el universo. En la filosofía de los gnósticos, alma universal, principio activo del mundo. #término 
 
 
 
 ## TÉRMINOS
-.
+demiurgo.
 
 
 
