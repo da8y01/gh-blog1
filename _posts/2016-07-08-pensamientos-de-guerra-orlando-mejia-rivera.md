@@ -134,9 +134,9 @@ Las palabras son semillas de las cuales nacen las bellotas y los mundos de la lu
 
 De criaturas monstruosas que han confundido la sabuduría con la erudición de la palabrería vana.
 
-http://dle.rae.es/?w=diletante Conocedor de las artes o aficionado a ellas. Que cultiva algún campo del saber, o se interesa por él, como aficionado y no como profesional. Que cultiva una actividad de manera superficial o esporádica.
+http://dle.rae.es/?w=diletante Conocedor de las artes o aficionado a ellas. Que cultiva algún campo del saber, o se interesa por él, como aficionado y no como profesional. Que cultiva una actividad de manera superficial o esporádica. #término
 
-http://dle.rae.es/?w=escueto Descubierto, libre, despejado, desembarazado. Sin adornos o sin ambages, seco, estricto.
+http://dle.rae.es/?w=escueto Descubierto, libre, despejado, desembarazado. Sin adornos o sin ambages, seco, estricto. #término
 
 La felicidad está relacionada con la humildad y el agotamiento de los deseos en el mundo.
 

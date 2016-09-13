@@ -30,7 +30,7 @@ Se brindan agradecimientos y reconocimientos, a los padres, la familia, amigos, 
 ### Parte I: GEB
 
 #### Introducción: Ofrenda músico-lógica
-Se cuenta la historia de como el rey de Prusia Federico el Grande y J. S. Bach en 1747 se conocen, la conversación con disculpas mutuas, el órgano, los nuevos pianos Silbermann, la petición del rey de una fuga a seis voces, la improvisación de Bach, la carta de Bach al rey con la Ofrenda Musical, mención general a la estructura de la obra. Se mencionan las características fundamentales de canones y fugas, cómo se estructuran, técnicas y variaciones usadas para componerlas. Se habla del "Canon Eternamente Remontante" y del concepto de *Bucles Extraños*. Se habla de M. C. Escher, de los Bucles Extraños de diferentes niveles en sus obras pictóricas, la analogía con los canones y fugas, el infinito, y los diferentes niveles (clases/tipos) de realidades ("mayor realidad", "más imaginario"). Se habla de la *paradoja de Epiménides*, de su versión en teoría de números como el Teorema de la Incompletitud de K. Gödel. Se mencionan algunos puntos históricos del desarrollo del razonamiento lógico, y se mencionan los problemas paradójicos que implica el fenómeno de la autorreferencia. Se habla de teoría de tipos y conjuntos, los fundamentos de la matemática. El interés/esfuerzos de David Hilbert y el Teormeda de Incompletitud de Gödel demoliendo la intención de Hilbert. Se mencionan avances en la computación electrónica y la complejidad de una IA. Se menciona la estructura en forma de contrapunto de Diálogos y Capítulos del libro. Al final el diálogo entre Aquiles, Sr. Tortuga y Zenón, el teorema de que el Movimiento Implica Imposibilidad Inherente ó que el Movimiento Ultrainexiste.
+Se cuenta la historia de como el rey de Prusia Federico el Grande y J. S. Bach en 1747 se conocen, la conversación con disculpas mutuas, el órgano, los nuevos pianos Silbermann, la petición del rey de una fuga a seis voces, la improvisación de Bach, la carta de Bach al rey con la Ofrenda Musical, mención general a la estructura de la obra. Se mencionan las características fundamentales de canones y fugas, cómo se estructuran, técnicas y variaciones usadas para componerlas. Se habla del "Canon Eternamente Remontante" y del concepto de *Bucles Extraños*. Se habla de M. C. Escher, de los Bucles Extraños de diferentes niveles en sus obras pictóricas, la analogía con los canones y fugas, el infinito, y los diferentes niveles (clases/tipos) de realidades ("mayor realidad", "más imaginario"). Se habla de la *paradoja de Epiménides*, de su versión en teoría de números como el Teorema de la Incompletitud de K. Gödel. Se mencionan algunos puntos históricos del desarrollo del razonamiento lógico, y se mencionan los problemas paradójicos que implica el fenómeno de la autorreferencia. Se habla de teoría de tipos y conjuntos, los fundamentos de la matemática. El interés/esfuerzos de David Hilbert y el Teorema de Incompletitud de Gödel demoliendo la intención de Hilbert. Se mencionan avances en la computación electrónica y la complejidad de una IA. Se menciona la estructura en forma de contrapunto de Diálogos y Capítulos del libro. Al final el diálogo entre Aquiles, Sr. Tortuga y Zenón, el teorema de que el Movimiento Implica Imposibilidad Inherente ó que el Movimiento Ultrainexiste.
 
 #### Capítulo I: El acertijo MU
 Se introducen los *sistemas formales*, el desafío "¿Puede usted producir MU?", las reglas y ejemplos del juego. Se establecen distinciones en los conceptos de teorema, axioma, reglas de producción, reglas de inferencia, derivación. Se mencionan las características inherentes del sistema formulado, características/patrones de los teoremas (cadenas producibles), diferencias entre el proceso de aprendizaje/comprensión/ejecución de humanos y máquinas. Se mencionan el interior/exterior del sistema, los brincos fuera del sistema, abstraerse afuera del sistema, observar el sistema/proceso mismo, la complejidad de separar interior/exterior del sistema, formular ideas simples para emplearlas en ideas más complejas, y los sistemas formales. Se explican las vías/métodos/técnicas *Mecánica, Inteligente, Ultravía*. Se mencionan teoremidad, verificación, procedimiento de decisión. Al final el diálogo a dos voces entre Aquiles y el Sr. Tortuga acera del juego de distancias infinitas y proposiciones.
@@ -90,21 +90,21 @@ Se introducen los *sistemas formales*, el desafío "¿Puede usted producir MU?",
 
 
 ## CITAS
-retruécano. Der. de retrocar. 1. Juego con las palabras en que se suele producir una repetición. 2. Inversión de los términos de una proposición o cláusula en la siguiente para que el sentido de esta última forme contraste o antítesis con el de la primera, como en ¿Siempre se ha de sentir lo que se dice? ¿Nunca se ha de decir lo que se siente? http://dle.rae.es/?w=retru%C3%A9cano
+http://dle.rae.es/?w=retruécano 1. Juego con las palabras en que se suele producir una repetición. 2. Inversión de los términos de una proposición o cláusula en la siguiente para que el sentido de esta última forme contraste o antítesis con el de la primera, como en ¿Siempre se ha de sentir lo que se dice? ¿Nunca se ha de decir lo que se siente? #término
 
-paráfrasis. 1. Explicación o interpretación amplificativa de un texto para ilustrarlo o hacerlo más claro o inteligible. 2. Traducción en verso en la cual se imita el original, sin verterlo con escrupulosa exactitud. 3. Frase que, imitando en su estructura otra conocida, se formula con palabras diferentes. http://dle.rae.es/?w=par%C3%A1frasis
+http://dle.rae.es/?w=paráfrasis 1. Explicación o interpretación amplificativa de un texto para ilustrarlo o hacerlo más claro o inteligible. 2. Traducción en verso en la cual se imita el original, sin verterlo con escrupulosa exactitud. 3. Frase que, imitando en su estructura otra conocida, se formula con palabras diferentes. #término
 
-holismo. Doctrina que propugna la concepción de cada realidad como un todo distinto de la suma de las partes que lo componen. http://dle.rae.es/?w=holismo
+http://dle.rae.es/?w=holismo Doctrina que propugna la concepción de cada realidad como un todo distinto de la suma de las partes que lo componen. #término
 
-reduccionismo. El reduccionismo es el enfoque filosófico según el cual la reducción es necesaria y suficiente para resolver diversos problemas de conocimiento. https://es.wikipedia.org/wiki/Reduccionismo
+https://es.wikipedia.org/wiki/Reduccionismo El reduccionismo es el enfoque filosófico según el cual la reducción es necesaria y suficiente para resolver diversos problemas de conocimiento. #término
 
-marrullería. Astucia tramposa o de mala intención. http://dle.rae.es/?w=marrullería
+http://dle.rae.es/?w=marrullería Astucia tramposa o de mala intención. #término
 
 A propósito de cómo organizamos inconscientemente nuestros pensamientos a fin de poder imaginar, en todo momento, variantes hipotéticas del mundo real. Acerca, también, de muestras aberrantes de esta facultad, tal como la que caracteriza al Sr. Perezoso, un nuevo personaje, fanático amante de las patatas fritas y feroz impugnador de la contrafactibilidad.
 
-aberrante. Dicho de una cosa: Que se desvía o aparta de lo normal o usual. http://dle.rae.es/?w=aberrante
+http://dle.rae.es/?w=aberrante Dicho de una cosa: Que se desvía o aparta de lo normal o usual. #término
 
-¿El libre albedrío y la noción de conciencia están conectados con el Teordema de Gödel?
+¿El libre albedrío y la noción de conciencia están conectados con el Teorema de Gödel?
 
 "atmósfera de racionalidad mágica"
 
@@ -114,7 +114,7 @@ Era un mensaje de desesperación y un grito de ayuda.
 
 Yo estaba lleno de confusos sentimientos.
 
-aporía. Enunciado que expresa o que contiene una inviabilidad de orden racional. http://dle.rae.es/?w=aporía
+http://dle.rae.es/?w=aporía Enunciado que expresa o que contiene una inviabilidad de orden racional. #término
 
 ¡Me estaba volviendo muy experimentado en este tipo de trabajo!
 
@@ -129,6 +129,8 @@ En cierta forma, este libro es una manifestación de mi fe.
 "pomposas y confusas"
 
 por su tono tan sumiso y zalamero.
+
+http://dle.rae.es/?w=zalamería Demostración de cariño afectada y empalagosa. #término
 
 pero seguía utilizándose *ricercar* para designar un tipo erudito de fuga, tal vez demasiado asuteramente intelectual para el oyente medio.
 
@@ -164,7 +166,7 @@ Lo que encontramos en los inicios de esa historia es el intento de mecanizar los
 
 Aristóteles codificó los silogismos y Euclides codificó la geometría; pero allí quedó el asunto, y tuvieron que pasar muchos siglos para que volviera a registrarse un avance en el estudio del razonamiento axiomático.
 
-silogismo. Argumento que consta de tres proposiciones, la última de las cuales se deduce necesariamente de las otras dos. http://dle.rae.es/?w=silogismo #término
+http://dle.rae.es/?w=silogismo Argumento que consta de tres proposiciones, la última de las cuales se deduce necesariamente de las otras dos. #término
 
 Lewis Carroll, fascinado por esos métodos mecanizados de razonamiento, inventó un gran número de acertijos que podían resolverse con ellos.
 
@@ -190,7 +192,7 @@ Así, el hecho mismo de discurrir acerca de la teoría sería la más descarada 
 
 Por otra parte, el afán de eliminar las paradojas a toda costa, y más aún cuando ello entraña la creación de formalismos sumamente artificiales, obliga a conceder un papel desproporcionado a lo coherente, a lo bien encarrilado, con menoscabo de lo excéntrico y extraño, de eso, en fin, que hace que la vida y la matemática sean cosas tan amenas. Es importante, por supuesto, procurar mantener la coherencia, pero cuando este esfuerzo nos empuja a una teoría insignemente fea, sabemos que algo anda mal.
 
-menoscabar. Disminuir algo, quitándole una parte, acortarlo, reducirlo. Deteriorar y deslustrar algo, quitándole parte de la estimación o lucimiento que antes tenía. Causar mengua o descrédito en la honra o en la fama. http://dle.rae.es/?w=menoscabar #término
+http://dle.rae.es/?w=menoscabar Disminuir algo, quitándole una parte, acortarlo, reducirlo. Deteriorar y deslustrar algo, quitándole parte de la estimación o lucimiento que antes tenía. Causar mengua o descrédito en la honra o en la fama. #término
 
 A esta clase de debates en torno a los fundamentos de la matemática obedeció, en los primeros decenios del presente siglo, el enorme interés por codificar los métodos del razonamiento humano.
 
@@ -212,7 +214,7 @@ Para esto hacía falta una codificación completa de los modos universalmente ac
 
 De hecho, el Teorema de Gödel no tardó en tener en la teoría de la computación un principio paralelo (descubierto por Alan Turing), que revela la existencia de "agujeros" ineluctables hasta en la computadora más potente que pueda imaginarse.
 
-ineluctable. Dicho de una cosa: Contra la cual no puede lucharse. http://dle.rae.es/?w=ineluctable #término
+http://dle.rae.es/?w=ineluctable Dicho de una cosa: Contra la cual no puede lucharse. #término
 
 ... se habría quedado mudo de estupor apenas un siglo después de su muerte -lo mismo por las máquinas nuevas que por sus inesperadas limitaciones.
 
@@ -224,7 +226,7 @@ responder muy flexiblemente a las situaciones; sacar provecho de circunstancias 
 
 Aquí nos topamos con algo que suena a paradoja. Por su naturaleza misma, las computadoras son los animales más inflexibles, los más privados de deseos, los más seguidores de reglas. Pese a su gran rapidez, son el epítome de la inconciencia. ¿Cómo programar entonces la conducta inteligente? Una de la tesis principales del presente libro es que no hay contradicción alguna, y uno de sus principales objetivos es lograr que el lector se anime a afrontar la contradicción sin ningún miedo, a saborearla, a darle vueltas, a desmenuzarla, a revolcarse en ella, para que al terminar la lectura se vea dueño de nuevas ideas sobre el abismo al parecer insalvable entre lo formal y lo informal, lo animado y lo inanimado, lo flexible y lo inflexible.
 
-epítome. Resumen o compendio de una obra extensa, que expone lo fundamental o más preciso de la materia tratada en ella. Resumen de un discurso extenso en unas pocas palabras finales. http://dle.rae.es/?w=epítome #término
+http://dle.rae.es/?w=epítome Resumen o compendio de una obra extensa, que expone lo fundamental o más preciso de la materia tratada en ella. Resumen de un discurso extenso en unas pocas palabras finales. #término
 
 La flexibilidad de la inteligencia es resultado del enorme número de reglas distintas y de niveles distintos de reglas que existen.
 
@@ -234,9 +236,9 @@ Todo cuanto proponen los campeones del Materialismo tiene que derrumbarse frente
 
 El presente libro se propone, entre otras cosas, dar una perspectiva de esa pugna secular.
 
-pugna. Batalla, pelea. Oposición, rivalidad entre personas, naciones, bandos o parcialidades. http://dle.rae.es/?w=pugna
+http://dle.rae.es/?w=pugna Batalla, pelea. Oposición, rivalidad entre personas, naciones, bandos o parcialidades. #término
 
-secular. seglar. Que sucede o se repite cada siglo. Que dura un siglo, o desde hace siglos. Dicho de un sacerdote o del clero: Que vive en el siglo, a distinción del que vive en clausura. http://dle.rae.es/?w=secular #término
+http://dle.rae.es/?w=secular seglar. Que sucede o se repite cada siglo. Que dura un siglo, o desde hace siglos. Dicho de un sacerdote o del clero: Que vive en el siglo, a distinción del que vive en clausura. #término
 
 En cuanto comencé a escribir Diálogos los relacioné de alguna manera con formas musicales.
 
@@ -248,7 +250,7 @@ Pero al final me di cuenta de que Gödel, Escher y Bach no eran, para mi, sino s
 
 Me pregunto si su belleza esta relacionada con su imposibilidad.
 
-lerdo, da. Dicho comúnmente de una bestia: Pesada y torpe en el andar. Tardo y torpe para comprender o ejecutar algo. Tumor de las caballerías cerca de la rodilla. http://dle.rae.es/?w=lerdo
+http://dle.rae.es/?w=lerdo Dicho comúnmente de una bestia: Pesada y torpe en el andar. Tardo y torpe para comprender o ejecutar algo. Tumor de las caballerías cerca de la rodilla. #término
 
 solamente tratando de hallar a alguien que pusiera atención a mi sólido y aguzado argumento. Pero ellos corren de acá para allá pero no tienen tiempo. Uds. no tienen idea de cuán descorazonador es toparse con negativa tras negativa. Oh, pero perdón por agobiarlos con mis problemas.
 
@@ -277,7 +279,7 @@ esto es pensar acerca del sistema.
 
 
 ## TÉRMINOS
-retruécano, paráfrasis, holismo, reduccionismo, marrullería, aberrante, **contrafactibilidad**, **autorreferencialidad**, *aporía*, consternación, eludir, paulatino, peculiar, indulgente, zalamero, silogismo, conmoción, proscripción, proscrito, menoscabo, excéntrico, *ineluctable*, estupor, **epítome**, pugna, secular, *lerdo*, agobiar, anomalía.
+retruécano, paráfrasis, holismo, reduccionismo, marrullería, aberrante, **contrafactibilidad**, **autorreferencialidad**, *aporía*, consternación, eludir, paulatino, peculiar, indulgente, zalamero, **silogismo**, conmoción, proscripción, proscrito, menoscabo, excéntrico, *ineluctable*, estupor, **epítome**, pugna, secular, *lerdo*, agobiar, anomalía.
 
 
 
