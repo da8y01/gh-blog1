@@ -38,7 +38,7 @@ Se da una introducción al objetivo: de entender/encontrar la naturaleza de la r
 * la teoría según la cual el mundo está gobernado por la acumulación de resultados de naturaleza esencialmente aleatoria que se dan a nivel cuántico.
 * Los experimentos demuestran que no existe una realidad subyacente.
 * al mismo tiempo, dichas partículas parecen formar parte de un todo indivisible y cada una acusa lo que acontece a las restantes.
-* QUOTE: La realidad se crea a partir del vacío de la nada en cuanto se observa. #DailyPhysics #DailyQuantum
+* QUOTE: La realidad se crea a partir del vacío de la nada en cuanto se observa. #DailyPhysics #DailyQuantum #DailyMath
 
 
 ## Primera parte. EL CUANTO

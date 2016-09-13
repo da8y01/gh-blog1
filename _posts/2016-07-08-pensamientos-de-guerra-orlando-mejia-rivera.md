@@ -61,22 +61,22 @@ Después de haber llegado a una especie de campamento lo echan a un estrecho hue
 ### La historia
 
 #### Año de 1914
-.
+Presumiblemente el filósofo Wittgenstein como narrador describe cuando parte para la guerra contra los rusos, inicialmente en la Polonia rusa, cambiando posteriormente de roles y locaciones, y extrañando y esperando comunicación (cartas) con su enamorado David. Durante la experiencia reflexiona, este cambio/sacrificio es necesario para su crecimiento y hallazgo personal y vocacional.
 
 
 ### El prisionero
 
 #### Cuatro
-.
+Deshumanizado, sin dignidad, famélico y encorvado, casi sin conciencia sacan al secuestrado de su hueco de encierro para alimentarlo; divaga, piensa en la guerra, y que lo ha tocado.
 
 #### Cinco
-.
+Divaga, fragmentos, una memoria agujereada, voces, imágenes, recuerdos se agolpan atropelladamente.
 
 
 ### La historia
 
 #### Año de 1915
-.
+Ludwig describe la atmósfera decadente de Viena, lo trasladan, hay connatos de enviarlo al frente, reflexiona acerca de la guerra y sus muertos, acerca de la presencia/manifestación de Dios, al final una carta a David escribiendo acerca de su libro y el arte, a punto de partir hacia el frente de guerra.
 
 
 ### El prisionero
@@ -108,7 +108,49 @@ Después de haber llegado a una especie de campamento lo echan a un estrecho hue
 
 
 ## CITAS
-http://dle.rae.es/?id=C9KlEY2 demiurgo. En la filosofía platónica, divinidad que crea y armoniza el universo. En la filosofía de los gnósticos, alma universal, principio activo del mundo. #término 
+todo nuevo conocimiento implica una conversión.
+
+Bertrand no está de acuerdo con la guerra. Pero yo, al contrario de él, la necesito para mi propia guerra, las batallas conmigo mismo son más arduas que las que van a ver mis ojos.
+
+¿Será que la esencia de la mirada artística es contemplar el mundo con ojos felices? ¿descubrir a través de los hechos la alegoría de la sonrisa bondadosa de Dios?
+
+*Sich Selbst nicht verlieren.* No perder el dominio de sí mismo.
+
+Si ha llegado mi hora, ojalá logre tener una buena muerte siendo consciente de mí mismo hasta el final. ¡Que nunca me pierda a mí mismo!. ¡Que Dios me acompañe!
+
+http://dle.rae.es/?id=C9KlEY2 demiurgo. En la filosofía platónica, divinidad que crea y armoniza el universo. En la filosofía de los gnósticos, alma universal, principio activo del mundo. #término
+
+La religiosidad es lograr la armonía en la vida cotidiana del mundo. Saber que nada nos va a suceder porque estamos en manos de Dios.
+
+El hombre es impotente en la carne pero libre en el espíritu.
+
+Orar es pensar en el sentido de la vida y creer en Dios es comprender que la vida tiene un sentido.
+
+Me siento pequeño y le pido a Dios que me acompañe. Las cosas tal como son, eso es Dios. Dios es las cosas tal como son.
+
+Las guerras se pierden cuando el espíritu avejentado de una raza es incapaz de adaptarse a los hechos de un mundo nuevo.
+
+Las palabras son semillas de las cuales nacen las bellotas y los mundos de la luz.
+
+De criaturas monstruosas que han confundido la sabuduría con la erudición de la palabrería vana.
+
+http://dle.rae.es/?w=diletante Conocedor de las artes o aficionado a ellas. Que cultiva algún campo del saber, o se interesa por él, como aficionado y no como profesional. Que cultiva una actividad de manera superficial o esporádica.
+
+http://dle.rae.es/?w=escueto Descubierto, libre, despejado, desembarazado. Sin adornos o sin ambages, seco, estricto.
+
+La felicidad está relacionada con la humildad y el agotamiento de los deseos en el mundo.
+
+Y esta actitud de humildad profunda nos impide desechar los instantes que nos regala la vida.
+
+Nada hemos hecho para merecer algo y por eso todo es un regalo de la vida:
+
+Es *könne ihm nichts besseren passieren*. No podría haberle sucedido nada mejor.
+
+le había enseñado que el próposito de la vida era vivir la vida misma sin ninguna otra expectativa, pero él estaba repleto de sueños y esperanzas en su futuro de hombre
+
+-la muerte es el silencio de Dios-
+
+Estamos flotando en el vacío.
 
 
 
