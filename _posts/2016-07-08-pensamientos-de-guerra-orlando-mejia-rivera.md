@@ -82,28 +82,28 @@ Ludwig describe la atmósfera decadente de Viena, lo trasladan, hay connatos de 
 ### El prisionero
 
 #### Seis
-.
+El prisionero deshumanizado siente una agradable sensación de calidez cuando una cuidandera Adriana lo asea y le demuestra un poco de amabilidad tratándolo como hombre en vez de perro, balbucea unas preguntas, llega *careleche* y lo vuelven a meter al hueco.
 
-#### Seite
-.
+#### Siete
+En el hueco que le sirve de prisión el secuestrado recuerda su primer beso con su prima, el enamoramiento en la universidad de la feminista Sandra que se convirtió en su compañera de vida, otros recuerdos de infancia, respondiéndole y hablando con su estudiante Pablo acerca de Wittgenstein y la sensación de guerra.
 
 
 ### La historia
 
 #### Año de 1916
-.
+Finalmente Ludwig experimenta la guerra verdadera cuando lo envían cerca a la frontera con Rumania y los rusos intentan ganar sus primeras líneas de trincheras; tiene pensamientos de fe, cristianos y de la muerte.
 
 #### Año de 1917
-.
+Ludwig habla acerca de las palabras y las ideas, no le dispara a quemarropa a uno de los enemigos, en carta a David cuenta que su obra está terminada aunque él no esté contento o satisfecho, de cómo le gustaría la vida si sobrevive a esa guerra, en ceremonia especial le entregan medalla de plata al valor.
 
 #### Año de 1918
-.
+Ludwig por carta de la mamá de David se entera de que éste murió en un accidente aéreo; después de haber mecanografiado todo el libro y estar listo para edición la dedicatoria la hace a David.
 
 
 ### El prisionero
 
 #### Ocho
-.
+Tras montañas, flores y colibríes el secuestrado cree ver un letrero rojo, y al intentar palparse, se da cuenta que es un esqueleto.
 
 
 
@@ -118,7 +118,7 @@ Bertrand no está de acuerdo con la guerra. Pero yo, al contrario de él, la nec
 
 Si ha llegado mi hora, ojalá logre tener una buena muerte siendo consciente de mí mismo hasta el final. ¡Que nunca me pierda a mí mismo!. ¡Que Dios me acompañe!
 
-http://dle.rae.es/?id=C9KlEY2 demiurgo. En la filosofía platónica, divinidad que crea y armoniza el universo. En la filosofía de los gnósticos, alma universal, principio activo del mundo. #término
+http://dle.rae.es/?w=demiurgo En la filosofía platónica, divinidad que crea y armoniza el universo. En la filosofía de los gnósticos, alma universal, principio activo del mundo. #término
 
 La religiosidad es lograr la armonía en la vida cotidiana del mundo. Saber que nada nos va a suceder porque estamos en manos de Dios.
 
@@ -152,10 +152,36 @@ le había enseñado que el próposito de la vida era vivir la vida misma sin nin
 
 Estamos flotando en el vacío.
 
+http://dle.rae.es/?w=guiñapo 1. andrajo (‖ pedazo o jirón de tela). 2. Persona que anda con vestido roto y andrajoso. 3. Persona envilecida, degradada. 4. Persona moralmente abatida, o muy débil y enfermiza. 1. Abatido física o moralmente. #término
+
+uno se enamora del alma de una mujer a través de su cuerpo y no al contrario.
+
+"El tiempo es la imagen móvil de la eternidad" *Timeo* de Platón.
+
+De vez en cuando tengo miedo, pero no de la muerte, sino de que muera viendo mi vida en una perspectiva falsa.
+
+Que la proximidad de la muerte traiga luz a mi vida. Que las balas de los rusos le den sentido, en un último momento consciente, a mi vida y a mi obra.
+
+Los hombres nacimos de las lágrimas de Dios y con la muerte retornaremos al fondo de su ojo divino e insondable.
+
+Pensar no es más que entablar un diálogo con uno mismo.
+
+La única vida real es la existencia concreta de todos los millones de individuos que soñamos y sufrimos en el mundo.
+
+De lo que no se puede hablar hay que callar.
+
+"El polvo da flores por insultos".
+
+Independizarse del mundo es lograr que ningún hecho exterior nos toque. Algo muy difícil pero posible.
+
+Sólo puedo tolerar seguir viviendo si asumo que la existencia es una tragedia cuyo modelo repetimos todos los seres humanos y cuyo original se remonta a un principio del cual perdimos la memoria.
+
+"Apretad ¡oh! apretad en el día de la destruccción / el oído atento a la tierra, / y escuchareís, atravesando el sueño / escuchareís / cómo en la muerte / comienza la vida".
+
 
 
 ## TÉRMINOS
-demiurgo.
+**demiurgo**, **diletante**, *escueto*, *guiñapo*.
 
 
 
