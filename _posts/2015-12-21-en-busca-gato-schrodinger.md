@@ -129,6 +129,36 @@ Se empieza haciendo un breve recuento de los aportes y descubrimientos/hallazgos
 <<Toda ciencia es, bien física o bien filatelia.>> ERNEST RUTHERFORD. 1871-1937.
 
 ### 5. Fotones y electrones
+Hay confusión en la comunidad científica a raíz de los estudios de la luz que desvelan unas características/comportamientos explicables únicamente mediante teorías y conceptos de ambas, teoría ondulatoria y corpuscular.
+
+**PARTÍCULAS DE LUZ**: Los aportes de Einstein junto con la prueba experimental aportada por el efecto Compton y el estudio de los rayos X y el acuñamiento del concepto/término fotón revelan la naturaleza corpuscular de la luz, y la dualidad evidenciada en la luz como onda-corpúsculo.
+
+**DUALIDAD PARTÍCULA-ONDA**: Louis de Broglie profundiza en la cuestión del comportamiento del electrón como onda.
+
+* ¿Podía explicar esto la cuantificación de los estados de energía del átomo, suponiendo que cada uno corresponda a una onda electrónica resonante de una frecuencia particular?
+
+**ONDAS DE ELECTRONES**: Se explican los estudios de De Broglie, los efectos de difracción ondulatoria que deberían observarse en los corpúsculos/partículas como los electrones, que para el caso de los experimentos de difracción tendrían las características de una onda con pequeño momento, como "la más ondulatoria de las partículas", otros experimentos realizados y aproximaciones hechas con respecto a la teoría ondulatoria de la materia y coincidencias con De Broglie, comprobación de dualidad onda-partícula de otras partículas como el protón y el neutrón.
+
+* Cuanto más pequeña sea la longitud de onda, mayor será el momento de la partícula correspondiente;
+* la más ondulatoria de las partículas hasta entonces conocida.
+* QUOTE: La realidad se crea a partir del vacío de la nada en cuanto se observa. #DailyPhysics #DailyQuantum #DailyMath
+
+**UNA RUPTURA CON EL PASADO**: La introducción de un cuarto número en el modelo atómico para el electrón denominado "spin" explica el desdoblamiento observado en la espectroscopia atómica.
+
+* Ya no es que el átomo de Bohr con sus órbitas electrónicas resulte una imagen falsa; *todas* las imágenes son falsas y no existe analogía física que permita entender cómo funciona el interior de un átomo. Los átomos se comportan como átomos.
+
+**PAULI Y LA EXCLUSIÓN**: Se describe el Principio de Exclusión de Pauli, las partículas con spin semi-entero denominadas **fermiones** y las reglas que siguen llamadas estadística de Fermi-Dirac, las partículas sin spin o con spin entero denominadas **bosones** y las reglas que siguen llamadas estadística de Bose-Einstein; partículas comunes como (electrón, protón, neutrón) son fermiones, y los bosones son partículas más inexplicables como los fotones.
+
+* En el caso del hidrógeno, el único electrón ocupa el estado de energía más bajo posible en la base de la escalera cuántica. Si se le excita -por una colisión, por ejemplo- puede ascender a otro peldaño más alto, para posteriormente caer otra vez en el estado fundamental, emitiendo un cuanto de radiación en el último proceso.
+* Formuló lo que hoy se conoce como el Principio de Exclusión de Pauli, según el cual dos electrones no pueden tener nunca el mismo conjunto de números cuánticos, proporcionando así una razón para justificar la forma de llenarse las capas de átomos cada vez más pesados.
+* Las reglas que siguen las partículas de espín semientero se llaman estadística de Fermi-Dirac, después de que Enrico Fermi y Paul Dirac las descubrieran en 1925 y 1926. Estas partículas se llaman fermiones. Las reglas seguidas por las partículas de un espín entero constituyen la llamada estadística de Bose-Einstein, por los nombres de los físicos que las descubrieron, y las partículas se llaman bosones.
+* Logró una demostración muy sencilla de la ley implicando partículas sin masa que obedecían una estadística especial
+* Eliminando todo vestigio de la teoría clásica y deduciendo la ley de Planck a partir de una combinación de cuantos de luz -entendidos como partículas relativistas de masa cero- y de métodos estadísticos, Bose consiguió finalmente eliminar los componentes clásicos de la teoría cuántica. La radiación se podía tratar a partir de entonces como un gas cuántico, y la estadística implicaba la contabilidad de partículas, no la de frecuencias de ondas.
+* Los bosones son unas partículas más inexplicables, como los fotones, y la ley del cuerpo negro es un resultado directo de la posibilidad de que todos los fotones aparezcan en el mismo estado de energía.
+* Los fermiones se conservan en las interacciones entre partículas, en el sentido en que es imposible aumentar el número total de electrones en el Universo; por el contrario, los bosones pueden ser fabricados en enormes cantidades, por ejemplo, cada vez que se enciende una luz.
+
+**¿POR DÓNDE SEGUIR?**: Se menciona el panorama actual de la física; muchas teorías, hipótesis, teoremas, principios, en general hallazgos sueltos sin cohesión, sin estructura bien definida.
+
 
 ### 6. Matrices y ondas
 
