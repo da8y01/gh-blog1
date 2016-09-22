@@ -15,10 +15,6 @@ tags: review literature literatura novel novela "El extraño caso del Dr. Jekyll
 
 ## SINOPSIS
 
-### Acerca Stevenson:
-Robert Louis (Balfour) Stevenson (November 13, 1850–December 3, 1894), was a Scottish novelist, poet, and travel writer, and a leading representative of Neo-romanticism in English literature. He was the man who "seemed to pick the right word up on the point of his pen, like a man playing spillikins", as G. K. Chesterton put it. He was also greatly admired by many authors, including Jorge Luis Borges, Ernest Hemingway, Rudyard Kipling and Vladimir Nabokov. Most modernist writers dismissed him, however, because he was popular and did not write within their narrow definition of literature. It is only recently that critics have begun to look beyond Stevenson's popularity and allow him a place in the canon. Source: Wikipedia.
-
-
 ### Capítulo 1. Historia de la puerta
 Se presenta al notario Utterson y al amigo Richard Enfield quien en una de las acostumbradas caminatas, pasando por una calle comercial de Londres, cuenta la historia de cuando un atropellado Hyde choca bruscamente con una niña en la puerta triangular del extraño edificio, y el pago que debe Hyde hacer; Utterson prudenmetente se nota curioso.
 
