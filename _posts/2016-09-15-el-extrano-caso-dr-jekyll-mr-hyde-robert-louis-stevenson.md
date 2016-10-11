@@ -91,6 +91,10 @@ Insensiblemente se relajaron los nervios del notario.
 
 Deja que me vaya por mi oscuro camino.
 
+Era una noche fría y ventosa de marzo, con una hoz de luna que se apoyaba de espaldas, como volcada por el viento, entre una fuga de nubes deshilachadas y diáfanas.
+
+http://dle.rae.es/?id=DdxBdC4 diáfano. 1. Dicho de un cuerpo: Que deja pasar a su través la luz casi en su totalidad. 2. claro (‖ que se percibe bien). 3. Dicho de un espacio: Despejado, o que carece de obstáculos o separaciones. #término 
+
 era un libro de devoción que Jekyll le había comentado que le gustaba, y que llevaba en sus márgenes increíbles blasfemias de su puño y letra.
 
 y particularmente me impresionó la extraña asociación en él de una gran vivacidad muscular con una evidente deficiencia de constitución.
@@ -134,7 +138,7 @@ Sacudido por una rabia tremenda, preso de una furia homicida, animado sólo por 
 
 Incluso creo que, si no hubiera sido por el miedo a morir, ya hace tiempo que se habría arruinado a sí mismo para arrastrarme en su ruina. Pero su amor a la vida era extraordinario.
 
-http://dle.rae.es/?w=abyección 1. Bajeza, envilecimiento extremo. 2. humillación. #término
+http://dle.rae.es/?id=0EapqwB abyección 1. Bajeza, envilecimiento extremo. 2. humillación. #término
 
 http://dle.rae.es/?w=aquiescencia Asenso, consentimiento. #término
 
