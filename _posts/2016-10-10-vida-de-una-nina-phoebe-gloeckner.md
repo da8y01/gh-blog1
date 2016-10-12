@@ -74,12 +74,33 @@ Narra la historia del padrastro queriendo inculcar modales de señoritas a sus h
 ### HISTORIAS ADOLESCENTES
 
 #### El tercer amor de Minnie
+Minnie y Bitsy son dos adolescentes libertinas, por Bitsy, Minnie conoce a Tabatha una dura chica de la calle, Tabatha se enamora de Minnie, Tabatha tiene una dura historia, y Minnie también tenía sus problemas, Tabatha y Minnie empiezan a relacionarse a andar juntas, y Tabatha le muestra diferentes amigos y lugares y gente con diferentes intereses y forma de vida, la cita de Nochevieja cuando Tabatha le tira una piedra a la ventana de Minnie se convierte en una semana de excesos, y así sucesivamente; 18 años después de manera fortuita Tabatha y Minnie se topan en la calle Market, se saludan y charlan.
+
+<div style="text-align:center" markdown="1">
+![VidaNina_PhoebeGloeckner_Pag047_1][VidaNina_PhoebeGloeckner_Pag076_1]{: width="80%"}
+</div>
 
 #### Ella es Mary la menor
+Se cuenta la historia de como Mary se enamora de Richard, el novio de la madre; inquietudes, depresión, desasosiego que tiene y sufre.
 
 #### Aprendizaje vocacional
+Ann a pesar de ser vírgen tiene vocación de convertirse en prostituta, con la amiga salen, exploran la lujuria, Ann pierde su virginidad, Ann sigue haciendo carrera, además era una bailarina bastante buena.
 
 #### La chica de otro mundo
+Historia narrada desde el punto de vista de un chico que se enamora de una enigmática Penny.
+
+<div style="text-align:center" markdown="1">
+![VidaNina_PhoebeGloeckner_Pag094_1][VidaNina_PhoebeGloeckner_Pag094_1]{: width="80%"}
+</div>
+<div style="text-align:center" markdown="1">
+![VidaNina_PhoebeGloeckner_Pag094_2][VidaNina_PhoebeGloeckner_Pag094_2]{: width="40%"}
+</div>
+<div style="text-align:center" markdown="1">
+![VidaNina_PhoebeGloeckner_Pag094_3][VidaNina_PhoebeGloeckner_Pag094_3]{: width="40%"}
+</div>
+<div style="text-align:center" markdown="1">
+![VidaNina_PhoebeGloeckner_Pag096_1][VidaNina_PhoebeGloeckner_Pag096_1]{: width="60%"}
+</div>
 
 
 ### HISTORIAS ADULTAS
@@ -138,7 +159,11 @@ Malo es quien piensa mal.
 
 http://dle.rae.es/?id=8M0MAxV cerner. 1. tr. Separar con el cedazo la harina del salvado, o cualquier otra materia reducida a polvo, de suerte que lo más grueso quede sobre la tela, y lo sutil caiga al sitio destinado para recogerlo. 2. tr. Atalayar, observar, examinar. 3. tr. Depurar, afinar los pensamientos y las acciones. 4. intr. impers. Llover suave y menudo. 5. intr. Dicho de la vid, del olivo, del trigo y de otras plantas: Dejar caer el polen de la flor. 6. prnl. Andar o menearse moviendo el cuerpo a uno y otro lado, como quien cierne. 7. prnl. Dicho de un ave: Mover sus alas, manteniéndose en el aire sin apartarse del sitio en que está. 8. prnl. Dicho de un mal: Amenazar de cerca. #término
 
-http://dle.rae.es/?id=TcKw0OC pomelo. 1. m. toronja.
+http://dle.rae.es/?id=TcKw0OC pomelo. 1. m. toronja. #término
+
+http://dle.rae.es/?id=B8woJee cotilla. 1. f. Ajustador que usaban las mujeres, formado de lienzo o seda y de ballenas. 2. m. y f. coloq. Persona amiga de chismes y cuentos. U. t. c. adj. #término
+
+http://dle.rae.es/?id=B91qr7b cotillero, ra. 1. m. y f. Persona que hacía o vendía cotillas. 2. m. y f. coloq. cotilla (‖ persona amiga de chismes y cuentos). #término
 
 
 
@@ -169,3 +194,8 @@ http://dle.rae.es/?id=TcKw0OC pomelo. 1. m. toronja.
 [VidaNina_PhoebeGloeckner]: {{ site.baseurl }}/assets/VidaNina_PhoebeGloeckner.png "Vida de una Niña - Phoebe Gloeckner"
 [VidaNina_PhoebeGloeckner_Pag028_1]: {{ site.baseurl }}/assets/VidaNina_PhoebeGloeckner_Pag028_1.png "Vida de una Niña - Phoebe Gloeckner. Página 28, 1."
 [VidaNina_PhoebeGloeckner_Pag047_1]: {{ site.baseurl }}/assets/VidaNina_PhoebeGloeckner_Pag047_1.png "Vida de una Niña - Phoebe Gloeckner. Página 47, 1."
+[VidaNina_PhoebeGloeckner_Pag076_1]: {{ site.baseurl }}/assets/VidaNina_PhoebeGloeckner_Pag076_1.png "Vida de una Niña - Phoebe Gloeckner. Página 76, 1."
+[VidaNina_PhoebeGloeckner_Pag094_1]: {{ site.baseurl }}/assets/VidaNina_PhoebeGloeckner_Pag094_1.png "Vida de una Niña - Phoebe Gloeckner. Página 94, 1."
+[VidaNina_PhoebeGloeckner_Pag094_2]: {{ site.baseurl }}/assets/VidaNina_PhoebeGloeckner_Pag094_2.png "Vida de una Niña - Phoebe Gloeckner. Página 94, 2."
+[VidaNina_PhoebeGloeckner_Pag094_3]: {{ site.baseurl }}/assets/VidaNina_PhoebeGloeckner_Pag094_3.png "Vida de una Niña - Phoebe Gloeckner. Página 94, 3."
+[VidaNina_PhoebeGloeckner_Pag096_1]: {{ site.baseurl }}/assets/VidaNina_PhoebeGloeckner_Pag096_1.png "Vida de una Niña - Phoebe Gloeckner. Página 96, 1."
