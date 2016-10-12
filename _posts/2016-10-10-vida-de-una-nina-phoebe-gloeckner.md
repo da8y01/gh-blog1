@@ -56,14 +56,19 @@ En un sofá Pascal propone hablar como adultos con Minnie.
 ### OTRAS HISTORIAS INFANTILES
 
 #### Magda y los hombrecillos del bosque
+Cantando en una caminata por un supuesto bosque Magda se encuentra con tres hombrecillos con los que se visualiza/imagina/supone un futuro, a los tres los odia, y al final corre al regazo de la madre.
 
 #### La broma de la arena del gato
+Las hermanas discuten por las muñecas, la madre llega, reprende a una, y esta por venganza le pone debajo de la almohada a su hermana heces de gato.
 
 #### Cuaqueradas en el colegio cuáquero
+Las chicas planean travesuras contra los chicos, y en su fuerte también se hacen travesuras entre ellas, al final los chicos entran al fuerte de las chicas y riñen, al final dos adultos analizan las situaciones.
 
 #### Fantasía periódica
+Minnie se instruye acerca del cuerpo de la mujer y tiene la idea de estimular su desarrollo durmiendo con la luz encendida.
 
 #### Cosas divertidas que hacer con niñas pequeñas
+Narra la historia del padrastro queriendo inculcar modales de señoritas a sus hijastras, y cómo reacciona ante la negativa de la menor, a la vez que se narran experiencias de ella (la mayor) en su primera relación con el novio de su madre y los juegos/peleas con la hermanita.
 
 
 ### HISTORIAS ADOLESCENTES
