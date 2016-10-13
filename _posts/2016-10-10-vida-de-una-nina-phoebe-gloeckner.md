@@ -93,10 +93,10 @@ Historia narrada desde el punto de vista de un chico que se enamora de una enigm
 ![VidaNina_PhoebeGloeckner_Pag094_1][VidaNina_PhoebeGloeckner_Pag094_1]{: width="80%"}
 </div>
 <div style="text-align:center" markdown="1">
-![VidaNina_PhoebeGloeckner_Pag094_2][VidaNina_PhoebeGloeckner_Pag094_2]{: width="40%"}
+![VidaNina_PhoebeGloeckner_Pag094_2][VidaNina_PhoebeGloeckner_Pag094_2]{: width="30%"}
 </div>
 <div style="text-align:center" markdown="1">
-![VidaNina_PhoebeGloeckner_Pag094_3][VidaNina_PhoebeGloeckner_Pag094_3]{: width="40%"}
+![VidaNina_PhoebeGloeckner_Pag094_3][VidaNina_PhoebeGloeckner_Pag094_3]{: width="30%"}
 </div>
 <div style="text-align:center" markdown="1">
 ![VidaNina_PhoebeGloeckner_Pag096_1][VidaNina_PhoebeGloeckner_Pag096_1]{: width="60%"}
@@ -106,19 +106,39 @@ Historia narrada desde el punto de vista de un chico que se enamora de una enigm
 ### HISTORIAS ADULTAS
 
 #### Una buena amiga de más
+Se describe una amiga de la que se enamoró y después decidieron alejarse, el tono es en forma de cuestionamientos a sí misma, e inquietudes.
+
+<div style="text-align:center" markdown="1">
+![VidaNina_PhoebeGloeckner_Pag100_1][VidaNina_PhoebeGloeckner_Pag100_1]{: width="60%"}
+</div>
 
 #### La historia de Bob Skoda
+Jill, Rick y Sally son una familia, cuando Rick sale a trabajar, Jill queda con el amigo de la familia Bob Skoda para cenar, antes de Jill salir telefonea la tia Sue a decir que la abuelita en Pittsburg se ha enfermado, por lo que Jill tendrá que viajar al día siguiente durante una semana y no tiene con qué canguro dejar a Sally, así que más adelante cuando Jill y Bob Skoda tienen su encuentro deciden que sea Bob quien se encargue de ella; al día siguiente cuando Jill se ha ido, Bob Skoda se queda con Sally, y tienen jugueteos sexuales.
 
 #### Es hora de sufrir
+Se caricaturizan cierto tipo de personajes que usan algún tipo de "sufrimiento" de alguna forma o para algo, al parecer para obtener fármacos.
 
 #### Una noche en Praga
+La madre increpa a Jana, una rebelde sin causa simpatizante de la revolución que saldrá esa noche; al final se encuentran mientras Jana folla con el amigo en los arbustos y la madre está en un restaurante.
 
 #### La triste historia de la mujer visible y su marido invisible
+Con dibujos hiperbólicos y alusiones anatómicas refleja etapas de una mujer solitaria.
 
 
 ### PINTURAS, DIBUJOS Y GRABADOS
 
 #### Una pareja decorativa
+"El deseo gratificado"
+
+<div style="text-align:center" markdown="1">
+![VidaNina_PhoebeGloeckner_Pag131_1][VidaNina_PhoebeGloeckner_Pag131_1]{: width="60%"}
+</div>
+<div style="text-align:center" markdown="1">
+![VidaNina_PhoebeGloeckner_Pag147_1][VidaNina_PhoebeGloeckner_Pag147_1]{: width="60%"}
+</div>
+<div style="text-align:center" markdown="1">
+![VidaNina_PhoebeGloeckner_Pag148_1][VidaNina_PhoebeGloeckner_Pag148_1]{: width="60%"}
+</div>
 
 
 
@@ -165,10 +185,12 @@ http://dle.rae.es/?id=B8woJee cotilla. 1. f. Ajustador que usaban las mujeres, f
 
 http://dle.rae.es/?id=B91qr7b cotillero, ra. 1. m. y f. Persona que hacía o vendía cotillas. 2. m. y f. coloq. cotilla (‖ persona amiga de chismes y cuentos). #término
 
+http://dle.rae.es/?id=B8zW99j cotillear. 1. intr. coloq. chismorrear. #término
+
 
 
 ## TÉRMINOS
-**cuáquero**, *pénfigo*, *escarlatina*, *pomelo*.
+**cuáquero**, *pénfigo*, *escarlatina*, *pomelo*, ***cotilla, cotillero, cotillear***.
 
 
 
@@ -199,3 +221,7 @@ http://dle.rae.es/?id=B91qr7b cotillero, ra. 1. m. y f. Persona que hacía o ven
 [VidaNina_PhoebeGloeckner_Pag094_2]: {{ site.baseurl }}/assets/VidaNina_PhoebeGloeckner_Pag094_2.png "Vida de una Niña - Phoebe Gloeckner. Página 94, 2."
 [VidaNina_PhoebeGloeckner_Pag094_3]: {{ site.baseurl }}/assets/VidaNina_PhoebeGloeckner_Pag094_3.png "Vida de una Niña - Phoebe Gloeckner. Página 94, 3."
 [VidaNina_PhoebeGloeckner_Pag096_1]: {{ site.baseurl }}/assets/VidaNina_PhoebeGloeckner_Pag096_1.png "Vida de una Niña - Phoebe Gloeckner. Página 96, 1."
+[VidaNina_PhoebeGloeckner_Pag100_1]: {{ site.baseurl }}/assets/VidaNina_PhoebeGloeckner_Pag100_1.png "Vida de una Niña - Phoebe Gloeckner. Página 100, 1."
+[VidaNina_PhoebeGloeckner_Pag131_1]: {{ site.baseurl }}/assets/VidaNina_PhoebeGloeckner_Pag131_1.png "Vida de una Niña - Phoebe Gloeckner. Página 131, 1."
+[VidaNina_PhoebeGloeckner_Pag147_1]: {{ site.baseurl }}/assets/VidaNina_PhoebeGloeckner_Pag147_1.png "Vida de una Niña - Phoebe Gloeckner. Página 147, 1."
+[VidaNina_PhoebeGloeckner_Pag148_1]: {{ site.baseurl }}/assets/VidaNina_PhoebeGloeckner_Pag148_1.png "Vida de una Niña - Phoebe Gloeckner. Página 148, 1."
