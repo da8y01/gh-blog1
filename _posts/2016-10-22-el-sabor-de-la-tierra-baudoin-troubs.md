@@ -148,9 +148,9 @@ Después de una experiencia similar en México, intercambiando retratos y dibujo
 ## CITAS
 Con la necesidad de representar la vida desde una perspectiva imparcial, pero con el temor a decantarse por la apología al terrorismo o, al contrario, hacia una mirada cargada de rencor y rechazo.
 
-http://dle.rae.es/?id=9ejdVdR cofia.
+http://dle.rae.es/?id=9ejdVdR cofia #término
 
-http://dle.rae.es/?id=HKQQsZ9 expoliar. 1. tr. Despojar algo o a alguien con violencia o con iniquidad.
+http://dle.rae.es/?id=HKQQsZ9 expoliar 1. tr. Despojar algo o a alguien con violencia o con iniquidad. #término
 
 
 

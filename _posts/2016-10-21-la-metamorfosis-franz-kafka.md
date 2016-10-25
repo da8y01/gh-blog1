@@ -32,42 +32,68 @@ El joven Georg escribe cartas superficiales a su amigo en Rusia, San Petesburgo;
 ### Un médico rural
 
 #### *El nuevo abogado*
+De forma algo sardónica se describe al nuevo abogado contratado de la Magistratura, Bucéfalo, pero no el caballo de Alejandro Magno, que se sumerge en sus libros de derecho.
 
 #### *Un médico rural*
+El médico con dificultades para trasladarse a atender una falsa llamada de la "campanilla nocturna" logra acudir para ver un joven con una infectada herida de hacha; al lograr liberarse de compromisos emprende el viaje de vuelta con varias preocupaciones.
 
 #### *En la galería*
+Se describe un espectáculo circense de una acróbata de pie sobre un caballo dando vueltas, y dos posibles reacciones: un ¡Basta!, o lo que realmente sucede, el espectador hundido como en una honda pesadilla, llora sin darse cuenta. Tiene una sonoridad/tono de crítica.
 
 #### *Un viejo manuscrito*
+Se describe desde la perspectiva de un zapatero que trabaja al frente de la plaza del palacio imperial cómo los nómadas invaden, cómo el emperador atisba, y de un malentendido fundamental, y la cuestión de cómo salvar la patria.
 
 #### *Ante la ley*
+Un campesino llega ante la puerta que es La Ley, el guardián le describe cosas, por días y años el campesino espera e intenta entrar, el guardián se lo impide, al final cuando el hombre está muriendo y ve un resplandor en la puerta, le hace una pregunta al guardián.
 
 #### *Chacales y árabes*
+Un viajero que intenta descansar en la hierba de un oasis tiene una conversación con los feroces chacales que buscan la pureza, un guía árabe alto y blanco los ahuyenta y doma fustigándolos y mostrándoles el cadáver de un camello muerto.
 
 #### *Una vista a la mina*
+Se describen los ingenieros y las impresiones con su visita a la mina.
 
 #### *El pueblo más próximo*
+Una reflexión del abuelo acerca de la efímero de la vida.
 
 #### *Un mensaje imperial*
+Se hace una alegoría al rol del mensajero.
 
 #### *Preocupaciones de una cabeza de familia*
+Un padre de familia fija su atención en el ser/objeto llamado **Odradek**, y las percepciones e interacciones que tienen, y cómo es *Odradek*; en Wikipedia se plantean varias interpretaciones.
+
+<div style="text-align:center" markdown="1">
+![LaMetamorfosis_FranzKafka_odradek][LaMetamorfosis_FranzKafka_odradek]{: width="40%"}
+</div>
 
 #### *Once hijos*
+Se describen los 11 hijos de un padre, y sus variadas, comunes y reconocibles características.
 
 #### *Un fratricidio*
+Narra cómo Schmar apuñala en tres ocasiones (lado y lado del cuello y vientre) a Wese, Pallas observa por su ventana en un segundo piso, la señora Wese espera, se describe la noche y la rutina, y el crímen, y la escena final con el policía llevándose a un Schmar con naúseas, una esposa Wese abrigando el cadáver del marido, y una multitud.
 
 #### *Un sueño*
+Básicamente K sueña con su tumba y un artista que inscrbe un epitafio en la tumba.
 
 #### *Informe para una academia*
+Un hombre simio separado hace ya cinco años de la simiedad rinde informe a los académicos acerca de sus historias, anécdotas y experiencias con el solo propósito de informar.
 
 
 
 ## CITAS
-.
+http://dle.rae.es/?id=4DaHWbo aterir 1. tr. Pasmar de frío. #término
+
+http://dle.rae.es/?id=59oBGFl bártulos 1. m. pl. Enseres que se manejan. #término
+
+http://dle.rae.es/?id=ZshD4yI tisis 1. f. Tuberculosis pulmonar. 2. f. Med. Enfermedad en que hay consunción gradual y lenta, fiebre y ulceración en algún órgano. #término
+
+http://dle.rae.es/?id=RIawx64 ostensible 1. adj. Que puede manifestarse o mostrarse. 2. adj. Claro, manifiesto, patente. #término
+
+http://dle.rae.es/?id=KlM8IWA|KlN65nd huero 1. adj. Vano, vacío y sin sustancia. #término
 
 
 
 ## TÉRMINOS
-.
+***aterir***, **bártulos**, tisis, ostensible, **huero**.
 
 
 
@@ -82,3 +108,4 @@ El joven Georg escribe cartas superficiales a su amigo en Rusia, San Petesburgo;
 
 [LaMetamorfosis_FranzKafka_front]: {{ site.baseurl }}/assets/LaMetamorfosis_FranzKafka_front.jpg "La metamorfosis - Franz Kafka (portada)"
 [LaMetamorfosis_FranzKafka_back]: {{ site.baseurl }}/assets/LaMetamorfosis_FranzKafka_back.jpg "La metamorfosis - Franz Kafka (contra-portada)"
+[LaMetamorfosis_FranzKafka_odradek]: {{ site.baseurl }}/assets/LaMetamorfosis_FranzKafka_odradek.jpg "La metamorfosis - Franz Kafka. Odradek"
