@@ -32,6 +32,10 @@ Después de una experiencia similar en México, intercambiando retratos y dibujo
 </div>
 
 <div style="text-align:center" markdown="1">
+![ElSaborDeLaTierra_BaudoinTroubs_Pag051_1][ElSaborDeLaTierra_BaudoinTroubs_Pag051_1]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
 ![ElSaborDeLaTierra_BaudoinTroubs_Pag059_1][ElSaborDeLaTierra_BaudoinTroubs_Pag059_1]{: width="50%"}
 </div>
 
@@ -176,6 +180,7 @@ cofia, expoliar.
 [ElSaborDeLaTierra_BaudoinTroubs_Pag022_1]: {{ site.baseurl }}/assets/ElSaborDeLaTierra_BaudoinTroubs_Pag022_1.png "El sabor de la tierra - Baudoin, Troubs. Pág 022, 1."
 [ElSaborDeLaTierra_BaudoinTroubs_Pag036_1]: {{ site.baseurl }}/assets/ElSaborDeLaTierra_BaudoinTroubs_Pag036_1.png "El sabor de la tierra - Baudoin, Troubs. Pág 036, 1."
 [ElSaborDeLaTierra_BaudoinTroubs_Pag044_1]: {{ site.baseurl }}/assets/ElSaborDeLaTierra_BaudoinTroubs_Pag044_1.png "El sabor de la tierra - Baudoin, Troubs. Pág 044, 1."
+[ElSaborDeLaTierra_BaudoinTroubs_Pag051_1]: {{ site.baseurl }}/assets/ElSaborDeLaTierra_BaudoinTroubs_Pag051_1.png "El sabor de la tierra - Baudoin, Troubs. Pág 051, 1."
 [ElSaborDeLaTierra_BaudoinTroubs_Pag059_1]: {{ site.baseurl }}/assets/ElSaborDeLaTierra_BaudoinTroubs_Pag059_1.png "El sabor de la tierra - Baudoin, Troubs. Pág 059, 1."
 [ElSaborDeLaTierra_BaudoinTroubs_Pag061_1]: {{ site.baseurl }}/assets/ElSaborDeLaTierra_BaudoinTroubs_Pag061_1.png "El sabor de la tierra - Baudoin, Troubs. Pág 061, 1."
 [ElSaborDeLaTierra_BaudoinTroubs_Pag082_1]: {{ site.baseurl }}/assets/ElSaborDeLaTierra_BaudoinTroubs_Pag082_1.png "El sabor de la tierra - Baudoin, Troubs. Pág 082, 1."
