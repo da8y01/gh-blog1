@@ -8,7 +8,7 @@ tags: 10gen course curso db education freemarker java m101 m101j mongo mongodb n
 
 
 ## Week 1: Introduction
-Following are presented the contents and answers to the HomeWorks belonging to *Week 1 (Introduction)* for "**M101J: MongoDB for Java Developers**" course offered by [https://university.mongodb.com/][1]{: target="_blank"} started at 2014-03-17.
+Following are presented the contents and answers to the HomeWorks belonging to **Week 1 (Introduction)** for "*M101J: MongoDB for Java Developers*" course offered by [https://university.mongodb.com/][1]{: target="_blank"} started at 2014-03-17.
 
 
 ### HOMEWORK 1.1
@@ -77,7 +77,6 @@ system.indexes
 {% endhighlight %}
 
 
-
 ### HOMEWORK 1.2
 ![HW 1.2 statement][hw12_Statement]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
@@ -89,7 +88,6 @@ Simple theoretic question answered having the notion of JSON structure and synta
 * CORRECT. The empty document IS a valid document.
 * WRONG. A couple of errors and doubt interpretations here: the value of the *boros* key IS NOT valid, it's not a document nor an array, to be a valid document must have *key:value* pairs separated by `,` (commas) inside enclosing `{` and `}` (curly braces) and it doesn't, and to be a valid array must be a list of elements separated by `,` (commas) inside enclosing `[` and `]` (square brackets) and it doesn't; further, the *"population"* and *7999034* items ARE NOT key NOR value NOR array elements of anything; so this "document" is all broke and wrong.
 * CORRECT. This is a valid and fairly common nested document mixing both objects and arrays.
-
 
 
 ### HOMEWORK 1.3
@@ -217,7 +215,6 @@ java.lang.IllegalThreadStateException
 [INFO] ------------------------------------------------------------------------
 $
 {% endhighlight %}
-
 
 
 ### HOMEWORK 1.4
@@ -364,7 +361,7 @@ Finally, the result obtained browsing to the recently launched Spark web applica
 
 
 ## Week 2: CRUD
-Following are presented the contents and answers to the HomeWorks belonging to Week 2 (CRUD) for "M101J: MongoDB for Java Developers" course offered by https://university.mongodb.com/ started at 2014-03-17.
+Following are presented the contents and answers to the HomeWorks belonging to **Week 2 (CRUD)** for "*M101J: MongoDB for Java Developers*" course offered by https://university.mongodb.com/ started at 2014-03-17.
 
 
 ### HOMEWORK 2.1
@@ -387,7 +384,7 @@ Following are presented the contents and answers to the HomeWorks belonging to W
 
 
 ## Week 3: Schema Design
-Following are presented the contents and answers to the HomeWorks belonging to Week 3 (Schema Design) for "M101J: MongoDB for Java Developers" course offered by https://university.mongodb.com/ started at 2014-03-17.
+Following are presented the contents and answers to the HomeWorks belonging to **Week 3 (Schema Design)** for "*M101J: MongoDB for Java Developers*" course offered by https://university.mongodb.com/ started at 2014-03-17.
 
 
 ### HOMEWORK 3.1
@@ -410,7 +407,7 @@ Following are presented the contents and answers to the HomeWorks belonging to W
 
 
 ## Week 4: Performance
-Following are presented the contents and answers to the HomeWorks belonging to Week 4 (Performance) for "M101J: MongoDB for Java Developers" course offered by https://university.mongodb.com/ started at 2014-03-17.
+Following are presented the contents and answers to the HomeWorks belonging to **Week 4 (Performance)** for "*M101J: MongoDB for Java Developers*" course offered by https://university.mongodb.com/ started at 2014-03-17.
 
 
 ### HOMEWORK 4.1
@@ -439,7 +436,7 @@ Following are presented the contents and answers to the HomeWorks belonging to W
 
 
 ## Week 5: Aggregation Framework
-Following are presented the contents and answers to the HomeWorks belonging to Week 5 (Aggregation Framework) for "M101J: MongoDB for Java Developers" course offered by https://university.mongodb.com/ started at 2014-03-17.
+Following are presented the contents and answers to the HomeWorks belonging to **Week 5 (Aggregation Framework)** for "*M101J: MongoDB for Java Developers*" course offered by https://university.mongodb.com/ started at 2014-03-17.
 
 
 ### HOMEWORK 5.1
@@ -468,7 +465,7 @@ Following are presented the contents and answers to the HomeWorks belonging to W
 
 
 ## Week 6: Application Engineering
-Following are presented the contents and answers to the HomeWorks belonging to Week 6 (Application Engineering) for "M101J: MongoDB for Java Developers" course offered by https://university.mongodb.com/ started at 2014-03-17.
+Following are presented the contents and answers to the HomeWorks belonging to **Week 6 (Application Engineering)** for "*M101J: MongoDB for Java Developers*" course offered by https://university.mongodb.com/ started at 2014-03-17.
 
 
 ### HOMEWORK 6.1
@@ -503,8 +500,84 @@ Following are presented the contents and answers to the HomeWorks belonging to W
 
 
 
+## Final Exam
+Following are presented the contents and answers to the questions belonging to **Final Exam** for "*M101J: MongoDB for Java Developers*" course offered by https://university.mongodb.com/ started at 2014-03-17.
+
+
+### Final: Question 1
+![M101J Final Question 1][m101j_finalq01]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
+
+### Final: Question 1. Answer:
+![M101J Final Question 1 Answer 1][m101j_finalq01_answer1]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
+```
+$ l
+enron.zip
+$ unzip enron.zip
+Archive:  enron.zip
+   creating: dump/enron/
+  inflating: dump/enron/messages.bson  
+  inflating: dump/enron/messages.metadata.json  
+$ l
+dump/  enron.zip
+$ /opt/mongodb-linux-i686-2.6.0/bin/mongorestore
+connected to: 127.0.0.1
+2014-05-08T14:20:31.377-0500 dump/enron/messages.bson
+2014-05-08T14:20:31.377-0500 	going into namespace [enron.messages]
+2014-05-08T14:20:34.690-0500 		Progress: 67557346/396236668	17%	(bytes)
+2014-05-08T14:20:37.006-0500 		Progress: 106126234/396236668	26%	(bytes)
+2014-05-08T14:20:40.255-0500 		Progress: 139318935/396236668	35%	(bytes)
+2014-05-08T14:20:43.108-0500 		Progress: 188432810/396236668	47%	(bytes)
+2014-05-08T14:20:46.008-0500 		Progress: 227400576/396236668	57%	(bytes)
+2014-05-08T14:20:49.030-0500 		Progress: 282543056/396236668	71%	(bytes)
+2014-05-08T14:20:52.128-0500 		Progress: 332774078/396236668	83%	(bytes)
+2014-05-08T14:20:55.102-0500 		Progress: 372492093/396236668	94%	(bytes)
+120477 objects found
+2014-05-08T14:20:57.348-0500 	Creating index: { key: { _id: 1 }, ns: "enron.messages", name: "_id_" }
+$ l
+dump/  enron.zip
+$
+```
+![M101J Final Question 1 Answer 2][m101j_finalq01_answer2]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
+![M101J Final Question 1 Answer 3][m101j_finalq01_answer3]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
+
+
+### Final: Question 2
+![M101J Final Question 2][m101j_finalq02]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
+
+### Final: Question 2. Answer:
+![M101J Final Question 2 Answer][m101j_finalq02_answer]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
+
+
+### Final: Question 3
+![M101J Final Question 3][m101j_finalq03]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
+
+### Final: Question 3. Answer:
+![M101J Final Question 3 Answer][m101j_finalq03_answer]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
+
+
+### Final: Question 4
+![M101J Final Question 4][m101j_finalq04]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
+
+### Final: Question 4. Answer:
+![M101J Final Question 4 Answer][m101j_finalq04_answer]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
+
+
+### Final: Question 5
+![M101J Final Question 5][m101j_finalq05]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
+
+### Final: Question 5. Answer:
+![M101J Final Question 5 Answer][m101j_finalq05_answer]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
+
+
+
 ## PROGRESS
 ![Progress week 1][progress]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
+
+
+
+## CERTIFICATE
+![M101J download certificate][m101j_downloadcertificate]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
+![M101J certificate][m101j_certificate]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
 
 
@@ -551,9 +624,23 @@ Following are presented the contents and answers to the HomeWorks belonging to W
 [hw65-1]: {{ site.baseurl }}/assets/m101j_hw65-1.png
 [hw65-2]: {{ site.baseurl }}/assets/m101j_hw65-2.png
 [progress]: {{ site.baseurl }}/assets/m101j_progress.png
+[m101j_downloadcertificate]: {{ site.baseurl }}/assets/m101j_downloadcertificate.png
+[m101j_certificate]: {{ site.baseurl }}/assets/m101j_certificate.png
 [hw11_MongoRestore]: {{ site.baseurl }}/assets/m101j_hw11_MongoRestore.png
 [hw11_MongoChecks]: {{ site.baseurl }}/assets/m101j_hw11_MongoChecks.png
 [hw13_Terminal1]: {{ site.baseurl }}/assets/m101j_hw13_Terminal1.png
 [hw13_Terminal2]: {{ site.baseurl }}/assets/m101j_hw13_Terminal2.png
 [hw14_Terminal]: {{ site.baseurl }}/assets/m101j_hw14_Terminal.png
 [hw14_Browser]: {{ site.baseurl }}/assets/m101j_hw14_Browser.png
+[m101j_finalq01]: {{ site.baseurl }}/assets/m101j_finalq01.png
+[m101j_finalq01_answer1]: {{ site.baseurl }}/assets/m101j_finalq01_answer1.png
+[m101j_finalq01_answer2]: {{ site.baseurl }}/assets/m101j_finalq01_answer2.png
+[m101j_finalq01_answer3]: {{ site.baseurl }}/assets/m101j_finalq01_answer3.png
+[m101j_finalq02]: {{ site.baseurl }}/assets/m101j_finalq02.png
+[m101j_finalq02_answer]: {{ site.baseurl }}/assets/m101j_finalq02_answer.png
+[m101j_finalq03]: {{ site.baseurl }}/assets/m101j_finalq03.png
+[m101j_finalq03_answer]: {{ site.baseurl }}/assets/m101j_finalq03_answer.png
+[m101j_finalq04]: {{ site.baseurl }}/assets/m101j_finalq04.png
+[m101j_finalq04_answer]: {{ site.baseurl }}/assets/m101j_finalq04_answer.png
+[m101j_finalq05]: {{ site.baseurl }}/assets/m101j_finalq05.png
+[m101j_finalq05_answer]: {{ site.baseurl }}/assets/m101j_finalq05_answer.png
