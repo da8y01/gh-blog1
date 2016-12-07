@@ -365,6 +365,14 @@ Paco se encuentra con Miguel en el cementerio, Miguel cuenta cómo perdió el co
 </div>
 
 
+### EPÍLOGO
+Robert S Coale escribe de su interés en los españoles republicanos que ayudaron a derrotar al nazismo y el fascismo, y de cómo llega a Paco Roca y su obra.
+
+
+### AGRADECIMIENTOS
+Paco Roca nombra y agradece personas que desempañaron roles importantes en la concepción de la obra.
+
+
 
 ## CITAS
 Me gustan las casas llenas de recuerdos.
