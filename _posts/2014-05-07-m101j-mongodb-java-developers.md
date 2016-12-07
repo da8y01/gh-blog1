@@ -509,7 +509,7 @@ Following are presented the contents and answers to the questions belonging to *
 
 ### Final: Question 1. Answer:
 ![M101J Final Question 1 Answer 1][m101j_finalq01_answer1]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
-```
+{% highlight text linenos=table %}
 $ l
 enron.zip
 $ unzip enron.zip
@@ -536,7 +536,7 @@ connected to: 127.0.0.1
 $ l
 dump/  enron.zip
 $
-```
+{% endhighlight %}
 ![M101J Final Question 1 Answer 2][m101j_finalq01_answer2]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 ![M101J Final Question 1 Answer 3][m101j_finalq01_answer3]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
