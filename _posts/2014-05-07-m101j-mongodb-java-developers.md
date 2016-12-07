@@ -537,8 +537,74 @@ $ l
 dump/  enron.zip
 $
 {% endhighlight %}
-![M101J Final Question 1 Answer 2][m101j_finalq01_answer2]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
+
+![M101J Final Question 1 Answer 2][m101j_finalq01_answer2]{: width="50%" style="display:block; margin-left:auto; margin-right:auto"}
+{% highlight text linenos=table %}
+> show dbs
+admin    (empty)
+blog     0.078GB
+final7   0.078GB
+local    0.078GB
+m101     0.078GB
+school   0.078GB
+test     0.078GB
+weather  0.078GB
+> show dbs
+admin    (empty)
+blog     0.078GB
+enron    0.953GB
+final7   0.078GB
+local    0.078GB
+m101     0.078GB
+school   0.078GB
+test     0.078GB
+weather  0.078GB
+> use enron
+switched to db enron
+> show tables
+messages
+system.indexes
+> db.messages.count()
+120477
+>
+{% endhighlight %}
+
 ![M101J Final Question 1 Answer 3][m101j_finalq01_answer3]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
+{% highlight text linenos=table %}
+$ l
+dump/  enron.zip  final01_00.js
+$ cat final01_00.js
+use enron
+query = {"headers.From":"andrew.fastow@enron.com", "headers.To":"john.lavorato@enron.com"}
+db.messages.find(query).count()
+$ /opt/mongodb-linux-i686-2.6.0/bin/mongo < final01_00.js
+MongoDB shell version: 2.6.0
+connecting to: test
+switched to db enron
+{
+	"headers.From" : "andrew.fastow@enron.com",
+	"headers.To" : "john.lavorato@enron.com"
+}
+1
+bye
+$ l
+dump/  enron.zip  final01_00.js
+$ cat final01_00.js
+use enron
+query = {"headers.From":"andrew.fastow@enron.com", "headers.To":"jeff.skilling@enron.com"}
+db.messages.find(query).count()
+$ /opt/mongodb-linux-i686-2.6.0/bin/mongo < final01_00.js
+MongoDB shell version: 2.6.0
+connecting to: test
+switched to db enron
+{
+	"headers.From" : "andrew.fastow@enron.com",
+	"headers.To" : "jeff.skilling@enron.com"
+}
+3
+bye
+$
+{% endhighlight %}
 
 
 ### Final: Question 2
