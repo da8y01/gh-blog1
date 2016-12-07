@@ -508,7 +508,6 @@ Following are presented the contents and answers to the questions belonging to *
 ![M101J Final Question 1][m101j_finalq01]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
 ### Final: Question 1. Answer:
-![M101J Final Question 1 Answer 1][m101j_finalq01_answer1]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 {% highlight text linenos=table %}
 $ l
 enron.zip
@@ -537,8 +536,8 @@ $ l
 dump/  enron.zip
 $
 {% endhighlight %}
+![M101J Final Question 1 Answer 1][m101j_finalq01_answer1]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
-![M101J Final Question 1 Answer 2][m101j_finalq01_answer2]{: width="50%" style="display:block; margin-left:auto; margin-right:auto"}
 {% highlight text linenos=table %}
 > show dbs
 admin    (empty)
@@ -568,8 +567,8 @@ system.indexes
 120477
 >
 {% endhighlight %}
+![M101J Final Question 1 Answer 2][m101j_finalq01_answer2]{: width="50%" style="display:block; margin-left:auto; margin-right:auto"}
 
-![M101J Final Question 1 Answer 3][m101j_finalq01_answer3]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 {% highlight text linenos=table %}
 $ l
 dump/  enron.zip  final01_00.js
@@ -605,6 +604,7 @@ switched to db enron
 bye
 $
 {% endhighlight %}
+![M101J Final Question 1 Answer 3][m101j_finalq01_answer3]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
 
 ### Final: Question 2
