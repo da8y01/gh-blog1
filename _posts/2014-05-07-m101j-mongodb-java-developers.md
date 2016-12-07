@@ -368,16 +368,19 @@ Following are presented the contents and answers to the HomeWorks belonging to W
 
 
 ### HOMEWORK 2.1
+
 ### ANSWER HOMEWORK 2.1:
 ![HW 2.1][hw21]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
 
 ### HOMEWORK 2.2
+
 ### ANSWER HOMEWORK 2.2:
 ![HW 2.2][hw22]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
 
 ### HOMEWORK 2.3
+
 ### ANSWER HOMEWORK 2.3:
 ![HW 2.3][hw23]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
@@ -388,16 +391,19 @@ Following are presented the contents and answers to the HomeWorks belonging to W
 
 
 ### HOMEWORK 3.1
+
 ### ANSWER HOMEWORK 3.1:
 ![HW 3.1][hw31]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
 
 ### HOMEWORK 3.2
+
 ### ANSWER HOMEWORK 3.2:
 ![HW 3.2][hw32]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
 
 ### HOMEWORK 3.3
+
 ### ANSWER HOMEWORK 3.3:
 ![HW 3.3][hw33]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
@@ -408,21 +414,25 @@ Following are presented the contents and answers to the HomeWorks belonging to W
 
 
 ### HOMEWORK 4.1
+
 ### ANSWER HOMEWORK 4.1:
 ![HW 4.1][hw41]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
 
 ### HOMEWORK 4.2
+
 ### ANSWER HOMEWORK 4.2:
 ![HW 4.2][hw42]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
 
 ### HOMEWORK 4.3
+
 ### ANSWER HOMEWORK 4.3:
 ![HW 4.3][hw43]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
 
 ### HOMEWORK 4.4
+
 ### ANSWER HOMEWORK 4.4:
 ![HW 4.4][hw44]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
@@ -433,21 +443,25 @@ Following are presented the contents and answers to the HomeWorks belonging to W
 
 
 ### HOMEWORK 5.1
+
 ### ANSWER HOMEWORK 5.1:
 ![HW 5.1][hw51]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
 
 ### HOMEWORK 5.2
+
 ### ANSWER HOMEWORK 5.2:
 ![HW 5.2][hw52]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
 
 ### HOMEWORK 5.3
+
 ### ANSWER HOMEWORK 5.3:
 ![HW 5.3][hw53]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
 
 ### HOMEWORK 5.4
+
 ### ANSWER HOMEWORK 5.4:
 ![HW 5.4][hw54]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
@@ -458,26 +472,31 @@ Following are presented the contents and answers to the HomeWorks belonging to W
 
 
 ### HOMEWORK 6.1
+
 ### ANSWER HOMEWORK 6.1:
 ![HW 6.1][hw61]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
 
 ### HOMEWORK 6.2
+
 ### ANSWER HOMEWORK 6.2:
 ![HW 6.2][hw62]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
 
 ### HOMEWORK 6.3
+
 ### ANSWER HOMEWORK 6.3:
 ![HW 6.3][hw63]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
 
 ### HOMEWORK 6.4
+
 ### ANSWER HOMEWORK 6.4:
 ![HW 6.4][hw64]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
 
 ### HOMEWORK 6.5
+
 ### ANSWER HOMEWORK 6.5:
 ![HW 6.5][hw65-1]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 ![HW 6.5][hw65-2]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
