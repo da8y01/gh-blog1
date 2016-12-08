@@ -926,7 +926,7 @@ public void likePost(final String permalink, final int ordinal) {
 
 ### Final: Question 7. Answer:
 ![M101J Final Question 7 Answer 1][m101j_finalq07_answer1_win_import]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
-![M101J Final Question 7 Answer 2][m101j_finalq07_answer2_win_checks]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
+![M101J Final Question 7 Answer 2][m101j_finalq07_answer2_win_check]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 ![M101J Final Question 7 Answer 3][m101j_finalq07_answer3_win_indexes]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
 {% highlight javascript linenos %}
