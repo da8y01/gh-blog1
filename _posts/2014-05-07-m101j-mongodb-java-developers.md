@@ -921,6 +921,50 @@ public void likePost(final String permalink, final int ordinal) {
 ![M101J Final Question 6 Answer][m101j_finalq06]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
 
+### Final: Question 7
+![M101J Final Question 7][m101j_finalq07]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
+
+### Final: Question 7. Answer:
+![M101J Final Question 7 Answer 1][m101j_finalq07_answer1_win_import]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
+![M101J Final Question 7 Answer 2][m101j_finalq07_answer2_win_checks]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
+![M101J Final Question 7 Answer 3][m101j_finalq07_answer3_win_indexes]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
+
+{% highlight javascript linenos %}
+use final7
+counter = 1
+cursor_images = db.images.find(); null;
+while (cursor_images.hasNext()) {
+	current_image = cursor_images.next()
+	if (! db.albums.find({images:current_image._id}).hasNext()) {
+		print('['+counter+++'] Orphan image found in images collection to remove:\n'+JSON.stringify(db.images.findOne(current_image))+'\n')
+		db.images.remove(current_image)
+	}
+}
+{% endhighlight %}
+
+![M101J Final Question 7 Answer 4][m101j_finalq07_answer4_win_output1]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
+![M101J Final Question 7 Answer 5][m101j_finalq07_answer5_win_output2]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
+
+
+### Final: Question 8
+![M101J Final Question 8][m101j_finalq08]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
+
+### Final: Question 8. Answer:
+![M101J Final Question 8 Answer][m101j_finalq08_answer]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
+
+
+### Final: Question 9
+
+### Final: Question 9. Answer:
+![M101J Final Question 9][m101j_finalq09]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
+
+
+### Final: Question 10
+
+### Final: Question 10. Answer:
+![M101J Final Question 8][m101j_finalq10]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
+
+
 
 ## PROGRESS
 ![Progress week 1][progress]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
@@ -1000,3 +1044,13 @@ public void likePost(final String permalink, final int ordinal) {
 [m101j_finalq05_answer]: {{ site.baseurl }}/assets/m101j_finalq05_answer.png
 [m101j_finalq06]: {{ site.baseurl }}/assets/m101j_finalq06.png
 [m101j_finalq06_answer]: {{ site.baseurl }}/assets/m101j_finalq06_answer.png
+[m101j_finalq07]: {{ site.baseurl }}/assets/m101j_finalq07.png
+[m101j_finalq07_answer1_win_import]: {{ site.baseurl }}/assets/m101j_finalq07_answer1_win_import.png
+[m101j_finalq07_answer2_win_checks]: {{ site.baseurl }}/assets/m101j_finalq07_answer2_win_checks.png
+[m101j_finalq07_answer3_win_indexes]: {{ site.baseurl }}/assets/m101j_finalq07_answer3_win_indexes.png
+[m101j_finalq07_answer4_win_output1]: {{ site.baseurl }}/assets/m101j_finalq07_answer4_win_output1.png
+[m101j_finalq07_answer5_win_output2]: {{ site.baseurl }}/assets/m101j_finalq07_answer5_win_output2.png
+[m101j_finalq08]: {{ site.baseurl }}/assets/m101j_finalq08.png
+[m101j_finalq08_answer]: {{ site.baseurl }}/assets/m101j_finalq08_answer.png
+[m101j_finalq09]: {{ site.baseurl }}/assets/m101j_finalq09.png
+[m101j_finalq10]: {{ site.baseurl }}/assets/m101j_finalq10.png
