@@ -442,24 +442,88 @@ Following are presented the contents and answers to the HomeWorks belonging to *
 ### HOMEWORK 5.1
 
 ### ANSWER HOMEWORK 5.1:
+```
+db.posts.aggregate([{"$unwind":"$comments"}, {"$group":{"_id":"$comments.author","comment_count":{"$sum":1}}}, {"$sort":{"comment_count":-1}}, {"$limit":1}])
+```
 ![HW 5.1][hw51]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
 
 ### HOMEWORK 5.2
 
 ### ANSWER HOMEWORK 5.2:
+{% highlight javascript linenos %}
+use test
+
+db.small_zips.aggregate([
+	{"$match":{
+		"state":{"$in":["CA","NY"]}
+	}},
+	{"$group":{
+		"_id":{"city":"$city","state":"$state"},
+		"pop":{"$sum":"$pop"}
+	}},
+	{"$match":{
+		"pop":{"$gt":25000}
+	}},
+	{"$group":{
+		"_id":null,
+		"average_requested":{"$avg":"$pop"}
+	}}
+])
+{% endhighlight %}
 ![HW 5.2][hw52]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
 
 ### HOMEWORK 5.3
 
 ### ANSWER HOMEWORK 5.3:
+{% highlight javascript linenos=table %}
+use test
+
+db.grades.aggregate([
+	{"$unwind":"$scores"},
+	{"$match":{
+		"scores.type":{"$ne":"quiz"}
+	}},
+	{"$group":{
+		"_id":{"student_id":"$student_id", "class_id":"$class_id"},
+		"average_student":{"$avg":"$scores.score"}
+	}},
+	{"$project":{
+		"_id":false,
+		"student_id":"$_id.student_id",
+		"class_id":"$_id.class_id",
+		"average_student":true
+	}},
+	{"$group":{
+		"_id":"$class_id",
+		"average_class":{"$avg":"$average_student"}
+	}},
+	{"$sort":{
+		"average_class":-1
+	}},
+	{"$limit":1}
+])
+{% endhighlight %}
 ![HW 5.3][hw53]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
 
 ### HOMEWORK 5.4
 
 ### ANSWER HOMEWORK 5.4:
+{% highlight javascript linenos %}
+use test
+
+db.zips.aggregate([
+	{"$match":{
+		"city":{"$regex":/^\d+/}
+	}},
+	{"$group":{
+		"_id":null,
+		"sum_rural":{"$sum":"$pop"}
+	}}
+])
+{% endhighlight %}
 ![HW 5.4][hw54]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
 
