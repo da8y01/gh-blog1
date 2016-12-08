@@ -890,7 +890,7 @@ db.messages.findOne(query)
 ### Final: Question 4. Answer:
 ![M101J Final Question 4 Answer 1][m101j_finalq04_answer1_import]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
-![M101J Final Question 4 Answer 2][m101j_finalq04_answer2_count]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
+![M101J Final Question 4 Answer 2][m101j_finalq04_answer2_count]{: width="50%" style="display:block; margin-left:auto; margin-right:auto"}
 
 Code snippet for `public void likePost(final String permalink, final int ordinal)` method:
 {% highlight java linenos %}
@@ -912,13 +912,13 @@ public void likePost(final String permalink, final int ordinal) {
 ### Final: Question 5
 
 ### Final: Question 5. Answer:
-![M101J Final Question 5 Answer][m101j_finalq05_answer]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
+![M101J Final Question 5 Answer][m101j_finalq05]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
 
 ### Final: Question 6
 
 ### Final: Question 6. Answer:
-![M101J Final Question 6 Answer][m101j_finalq06_answer]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
+![M101J Final Question 6 Answer][m101j_finalq06]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
 
 
