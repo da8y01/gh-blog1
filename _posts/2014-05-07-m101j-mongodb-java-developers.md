@@ -1046,7 +1046,7 @@ while (cursor_images.hasNext()) {
 [m101j_finalq06_answer]: {{ site.baseurl }}/assets/m101j_finalq06_answer.png
 [m101j_finalq07]: {{ site.baseurl }}/assets/m101j_finalq07.png
 [m101j_finalq07_answer1_win_import]: {{ site.baseurl }}/assets/m101j_finalq07_answer1_win_import.png
-[m101j_finalq07_answer2_win_checks]: {{ site.baseurl }}/assets/m101j_finalq07_answer2_win_checks.png
+[m101j_finalq07_answer2_win_check]: {{ site.baseurl }}/assets/m101j_finalq07_answer2_win_check.png
 [m101j_finalq07_answer3_win_indexes]: {{ site.baseurl }}/assets/m101j_finalq07_answer3_win_indexes.png
 [m101j_finalq07_answer4_win_output1]: {{ site.baseurl }}/assets/m101j_finalq07_answer4_win_output1.png
 [m101j_finalq07_answer5_win_output2]: {{ site.baseurl }}/assets/m101j_finalq07_answer5_win_output2.png
