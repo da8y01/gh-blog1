@@ -379,6 +379,66 @@ Following are presented the contents and answers to the HomeWorks belonging to *
 ### HOMEWORK 2.3
 
 ### ANSWER HOMEWORK 2.3:
+Code snippet for `public boolean addUser(String username, String password, String email)` method:
+{% highlight java linenos %}
+// validates that username is unique and insert into db
+public boolean addUser(String username, String password, String email) {
+
+    String passwordHash = makePasswordHash(password, Integer.toString(random.nextInt()));
+
+    // XXX WORK HERE
+    // create an object suitable for insertion into the user collection
+    // be sure to add username and hashed password to the document. problem instructions
+    // will tell you the schema that the documents must follow.
+    BasicDBObject doc = new BasicDBObject("_id", username).append("password", passwordHash);
+
+
+
+    if (email != null && !email.equals("")) {
+        // XXX WORK HERE
+        // if there is an email address specified, add it to the document too.
+        doc.append("email", email);
+    }
+
+    try {
+        // XXX WORK HERE
+        // insert the document into the user collection here
+        usersCollection.insert(doc);
+        return true;
+    } catch (MongoException.DuplicateKey e) {
+        System.out.println("Username already in use: " + username);
+        return false;
+    }
+}
+{% endhighlight %}
+
+Code snippet for `public DBObject validateLogin(String username, String password)` method:
+{% highlight java linenos %}
+public DBObject validateLogin(String username, String password) {
+    DBObject user = null;
+
+    // XXX look in the user collection for a user that has this username
+    // assign the result to the user variable.
+    user = usersCollection.findOne(new BasicDBObject("_id",username));
+
+    if (user == null) {
+        System.out.println("User not in database");
+        return null;
+    }
+
+    String hashedAndSalted = user.get("password").toString();
+
+    String salt = hashedAndSalted.split(",")[1];
+
+    if (!hashedAndSalted.equals(makePasswordHash(password, salt))) {
+        System.out.println("Submitted password is not a match");
+        return null;
+    }
+
+    return user;
+}
+{% endhighlight %}
+
 ![HW 2.3][hw23]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
 
@@ -396,12 +456,101 @@ Following are presented the contents and answers to the HomeWorks belonging to *
 ### HOMEWORK 3.2
 
 ### ANSWER HOMEWORK 3.2:
+Code snippet for `public DBObject findByPermalink(String permalink)` method:
+{% highlight java linenos %}
+// Return a single post corresponding to a permalink
+public DBObject findByPermalink(String permalink) {
+
+    DBObject post = null;
+    // XXX HW 3.2,  Work Here
+    post = postsCollection.findOne(new BasicDBObject("permalink",permalink));
+
+
+
+    return post;
+}
+{% endhighlight %}
+
+Code snippet for `public List<DBObject> findByDateDescending(int limit)` method:
+{% highlight java linenos %}
+// Return a list of posts in descending order. Limit determines
+// how many posts are returned.
+public List<DBObject> findByDateDescending(int limit) {
+
+    List<DBObject> posts = new ArrayList<DBObject>();
+    // XXX HW 3.2,  Work Here
+    // Return a list of DBObjects, each one a post from the posts collection
+    DBCursor cursor = postsCollection.find().sort(new BasicDBObject("date",-1)).limit(limit);
+    while (cursor.hasNext()) {
+        posts.add(cursor.next());
+    }
+
+    return posts;
+}
+{% endhighlight %}
+
+Code snippet for `public String addPost(String title, String body, List tags, String username)` method:
+{% highlight java linenos %}
+public String addPost(String title, String body, List tags, String username) {
+
+    System.out.println("inserting blog entry " + title + " " + body);
+
+    String permalink = title.replaceAll("\\s", "_"); // whitespace becomes _
+    permalink = permalink.replaceAll("\\W", ""); // get rid of non alphanumeric
+    permalink = permalink.toLowerCase();
+
+
+    BasicDBObject post = new BasicDBObject();
+    // XXX HW 3.2, Work Here
+    // Remember that a valid post has the following keys:
+    // author, body, permalink, tags, comments, date
+    //
+    // A few hints:
+    // - Don't forget to create an empty list of comments
+    // - for the value of the date key, today's datetime is fine.
+    // - tags are already in list form that implements suitable interface.
+    // - we created the permalink for you above.
+
+    // Build the post object and insert it
+    post.append("author", username).append("title", title).append("body", body).append("permalink", permalink).append("date", new Date()).append("tags", tags).append("comments", new BasicDBList());
+    postsCollection.insert(post);
+
+
+    return permalink;
+}
+{% endhighlight %}
+
 ![HW 3.2][hw32]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
 
 ### HOMEWORK 3.3
 
 ### ANSWER HOMEWORK 3.3:
+Code snippet for `public void addPostComment(final String name, final String email, final String body, final String permalink)` method:
+{% highlight java linenos %}
+// Append a comment to a blog post
+public void addPostComment(final String name, final String email, final String body,
+                           final String permalink) {
+
+    // XXX HW 3.3, Work Here
+    // Hints:
+    // - email is optional and may come in NULL. Check for that.
+    // - best solution uses an update command to the database and a suitable
+    //   operator to append the comment on to any existing list of comments
+    BasicDBObject comment = new BasicDBObject("author",name).append("body",body);
+    if (email != null && !email.equals("")) {
+        // the provided email address
+        comment.append("email", email);
+    }
+    postsCollection.update(
+        new BasicDBObject("permalink",permalink),
+        new BasicDBObject("$push", new BasicDBObject("comments",comment))
+    );
+
+
+}
+{% endhighlight %}
+
 ![HW 3.3][hw33]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
 
@@ -445,6 +594,7 @@ Following are presented the contents and answers to the HomeWorks belonging to *
 {% highlight javascript linenos %}
 db.posts.aggregate([{"$unwind":"$comments"}, {"$group":{"_id":"$comments.author","comment_count":{"$sum":1}}}, {"$sort":{"comment_count":-1}}, {"$limit":1}])
 {% endhighlight %}
+
 ![HW 5.1][hw51]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
 
@@ -471,6 +621,7 @@ db.small_zips.aggregate([
 	}}
 ])
 {% endhighlight %}
+
 ![HW 5.2][hw52]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
 
@@ -505,6 +656,7 @@ db.grades.aggregate([
 	{"$limit":1}
 ])
 {% endhighlight %}
+
 ![HW 5.3][hw53]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
 
@@ -524,6 +676,7 @@ db.zips.aggregate([
 	}}
 ])
 {% endhighlight %}
+
 ![HW 5.4][hw54]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
 
@@ -600,6 +753,7 @@ $ l
 dump/  enron.zip
 $
 {% endhighlight %}
+
 ![M101J Final Question 1 Answer 1][m101j_finalq01_answer1]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
 {% highlight text linenos %}
@@ -631,6 +785,7 @@ system.indexes
 120477
 >
 {% endhighlight %}
+
 ![M101J Final Question 1 Answer 2][m101j_finalq01_answer2]{: width="50%" style="display:block; margin-left:auto; margin-right:auto"}
 
 {% highlight text linenos %}
@@ -668,6 +823,7 @@ switched to db enron
 bye
 $
 {% endhighlight %}
+
 ![M101J Final Question 1 Answer 3][m101j_finalq01_answer3]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
 
@@ -675,6 +831,41 @@ $
 ![M101J Final Question 2][m101j_finalq02]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
 ### Final: Question 2. Answer:
+{% highlight javascript linenos %}
+use enron
+db.messages.aggregate([
+	{$unwind:"$headers.To"},
+	{$group:{
+		_id:{id:"$_id",from:"$headers.From"},
+		tos:{$addToSet:"$headers.To"}
+	}},
+	{$unwind:"$tos"},
+	{$group:{
+		_id:{
+			from:"$_id.from",
+			to:"$tos"
+		},
+		count:{$sum:1}
+	}},
+	{$sort:{
+		count:-1
+	}},
+	{$limit:5}
+])
+{% endhighlight %}
+
+{% highlight javascript linenos %}
+MongoDB shell version: 2.6.0
+connecting to: test
+switched to db enron
+{ "_id" : { "from" : "susan.mara@enron.com", "to" : "jeff.dasovich@enron.com" }, "count" : 750 }
+{ "_id" : { "from" : "soblander@carrfut.com", "to" : "soblander@carrfut.com" }, "count" : 679 }
+{ "_id" : { "from" : "susan.mara@enron.com", "to" : "james.steffes@enron.com" }, "count" : 646 }
+{ "_id" : { "from" : "susan.mara@enron.com", "to" : "richard.shapiro@enron.com" }, "count" : 616 }
+{ "_id" : { "from" : "evelyn.metoyer@enron.com", "to" : "kate.symes@enron.com" }, "count" : 567 }
+bye
+{% endhighlight %}
+
 ![M101J Final Question 2 Answer][m101j_finalq02_answer]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
 
@@ -682,6 +873,14 @@ $
 ![M101J Final Question 3][m101j_finalq03]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
 ### Final: Question 3. Answer:
+{% highlight javascript linenos %}
+// use enron
+query = {"headers.Message-ID":"<8147308.1075851042335.JavaMail.evans@thyme>"}
+change = {$push:{"headers.To":"mrpotatohead@10gen.com"}}
+db.messages.update(query,change)
+db.messages.findOne(query)
+{% endhighlight %}
+
 ![M101J Final Question 3 Answer][m101j_finalq03_answer]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
 
@@ -689,14 +888,37 @@ $
 ![M101J Final Question 4][m101j_finalq04]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
 ### Final: Question 4. Answer:
-![M101J Final Question 4 Answer][m101j_finalq04_answer]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
+![M101J Final Question 4 Answer 1][m101j_finalq04_answer1_import]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
+
+![M101J Final Question 4 Answer 2][m101j_finalq04_answer2_count]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
+
+Code snippet for `public void likePost(final String permalink, final int ordinal)` method:
+{% highlight java linenos %}
+public void likePost(final String permalink, final int ordinal) {
+
+// XXX Final Exam, Please work here
+// Add code to increment the num_likes for the 'ordinal' comment
+// that was clicked on.
+// provided you use num_likes as your key name, no other changes should be required
+// alternatively, you can use whatever you like but will need to make a couple of other
+// changes to templates and post retrieval code.
+    postsCollection.update(new BasicDBObject("permalink",permalink), new BasicDBObject("$inc", new BasicDBObject("comments."+ordinal+".num_likes",1)));
+}
+{% endhighlight %}
+
+![M101J Final Question 4 Answer 3][m101j_finalq04_answer3_validate]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
 
 ### Final: Question 5
-![M101J Final Question 5][m101j_finalq05]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
 ### Final: Question 5. Answer:
 ![M101J Final Question 5 Answer][m101j_finalq05_answer]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
+
+
+### Final: Question 6
+
+### Final: Question 6. Answer:
+![M101J Final Question 6 Answer][m101j_finalq06_answer]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
 
 
@@ -771,6 +993,10 @@ $
 [m101j_finalq03]: {{ site.baseurl }}/assets/m101j_finalq03.png
 [m101j_finalq03_answer]: {{ site.baseurl }}/assets/m101j_finalq03_answer.png
 [m101j_finalq04]: {{ site.baseurl }}/assets/m101j_finalq04.png
-[m101j_finalq04_answer]: {{ site.baseurl }}/assets/m101j_finalq04_answer.png
+[m101j_finalq04_answer1_import]: {{ site.baseurl }}/assets/m101j_finalq04_answer1_import.png
+[m101j_finalq04_answer2_count]: {{ site.baseurl }}/assets/m101j_finalq04_answer2_count.png
+[m101j_finalq04_answer3_validate]: {{ site.baseurl }}/assets/m101j_finalq04_answer3_validate.png
 [m101j_finalq05]: {{ site.baseurl }}/assets/m101j_finalq05.png
 [m101j_finalq05_answer]: {{ site.baseurl }}/assets/m101j_finalq05_answer.png
+[m101j_finalq06]: {{ site.baseurl }}/assets/m101j_finalq06.png
+[m101j_finalq06_answer]: {{ site.baseurl }}/assets/m101j_finalq06_answer.png
