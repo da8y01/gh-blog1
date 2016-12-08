@@ -442,9 +442,9 @@ Following are presented the contents and answers to the HomeWorks belonging to *
 ### HOMEWORK 5.1
 
 ### ANSWER HOMEWORK 5.1:
-```
+{% highlight javascript linenos %}
 db.posts.aggregate([{"$unwind":"$comments"}, {"$group":{"_id":"$comments.author","comment_count":{"$sum":1}}}, {"$sort":{"comment_count":-1}}, {"$limit":1}])
-```
+{% endhighlight %}
 ![HW 5.1][hw51]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
 
@@ -477,7 +477,7 @@ db.small_zips.aggregate([
 ### HOMEWORK 5.3
 
 ### ANSWER HOMEWORK 5.3:
-{% highlight javascript linenos=table %}
+{% highlight javascript linenos %}
 use test
 
 db.grades.aggregate([
@@ -572,7 +572,7 @@ Following are presented the contents and answers to the questions belonging to *
 ![M101J Final Question 1][m101j_finalq01]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
 ### Final: Question 1. Answer:
-{% highlight text linenos=table %}
+{% highlight text linenos %}
 $ l
 enron.zip
 $ unzip enron.zip
@@ -602,7 +602,7 @@ $
 {% endhighlight %}
 ![M101J Final Question 1 Answer 1][m101j_finalq01_answer1]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
-{% highlight text linenos=table %}
+{% highlight text linenos %}
 > show dbs
 admin    (empty)
 blog     0.078GB
@@ -633,7 +633,7 @@ system.indexes
 {% endhighlight %}
 ![M101J Final Question 1 Answer 2][m101j_finalq01_answer2]{: width="50%" style="display:block; margin-left:auto; margin-right:auto"}
 
-{% highlight text linenos=table %}
+{% highlight text linenos %}
 $ l
 dump/  enron.zip  final01_00.js
 $ cat final01_00.js
