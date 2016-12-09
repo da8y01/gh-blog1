@@ -2,7 +2,7 @@
 layout: post
 title: "M101J: MongoDB for Java Developers"
 date:   2014-05-07 20:23:30
-tags: 10gen course curso db education freemarker java m101 m101j mongo mongodb nosql spark university week1
+tags: 10gen course curso db education freemarker java m101 m101j mongo mongodb nosql spark university
 ---
 
 
@@ -967,12 +967,12 @@ while (cursor_images.hasNext()) {
 
 
 ## PROGRESS
-![Progress week 1][progress]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
+![M101J progress][m101j_progress]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
 
 
 ## CERTIFICATE
-![M101J download certificate][m101j_downloadcertificate]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
+![M101J downloadcertificate][m101j_downloadcertificate]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 ![M101J certificate][m101j_certificate]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
 
@@ -1019,7 +1019,7 @@ while (cursor_images.hasNext()) {
 [hw64]: {{ site.baseurl }}/assets/m101j_hw64.png
 [hw65-1]: {{ site.baseurl }}/assets/m101j_hw65-1.png
 [hw65-2]: {{ site.baseurl }}/assets/m101j_hw65-2.png
-[progress]: {{ site.baseurl }}/assets/m101j_progress.png
+[m101j_progress]: {{ site.baseurl }}/assets/m101j_progress.png
 [m101j_downloadcertificate]: {{ site.baseurl }}/assets/m101j_downloadcertificate.png
 [m101j_certificate]: {{ site.baseurl }}/assets/m101j_certificate.png
 [hw11_MongoRestore]: {{ site.baseurl }}/assets/m101j_hw11_MongoRestore.png

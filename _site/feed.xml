@@ -7,6 +7,649 @@
     <atom:link href="/gh-blog/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>M101JS: MongoDB for Node.js Developers</title>
+        <description>&lt;h2 id=&quot;week-1-introduction&quot;&gt;Week 1: Introduction&lt;/h2&gt;
+&lt;p&gt;Following are presented the contents and answers to the HomeWorks belonging to &lt;strong&gt;Week 1 (Introduction)&lt;/strong&gt; for “&lt;em&gt;M101JS: MongoDB for Node.js Developers&lt;/em&gt;” course offered by &lt;a href=&quot;https://university.mongodb.com/&quot; target=&quot;_blank&quot;&gt;https://university.mongodb.com/&lt;/a&gt; started at 2014-03-24.&lt;/p&gt;
+
+&lt;h3 id=&quot;homework-11&quot;&gt;HOMEWORK 1.1&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101js_hw11_Submit.png&quot; alt=&quot;HW 1.1 Submit&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;answer-homework-11&quot;&gt;ANSWER HOMEWORK 1.1:&lt;/h3&gt;
+&lt;p&gt;Simply it was about verifying the correct MongoDB installation, example data import and basic query execution over those imported data.&lt;/p&gt;
+
+&lt;p&gt;First, &lt;code&gt;mongorestore&lt;/code&gt;:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;&lt;span class=&quot;lineno&quot;&gt;1&lt;/span&gt; $ /opt/mongodb-linux-i686-2.6.0/bin/mongorestore
+&lt;span class=&quot;lineno&quot;&gt;2&lt;/span&gt; connected to: 127.0.0.1
+&lt;span class=&quot;lineno&quot;&gt;3&lt;/span&gt; 2014-05-07T07:49:22.176-0500 dump/m101/hw1_1.bson
+&lt;span class=&quot;lineno&quot;&gt;4&lt;/span&gt; 2014-05-07T07:49:22.176-0500 	going into namespace [m101.hw1_1]
+&lt;span class=&quot;lineno&quot;&gt;5&lt;/span&gt; 1 objects found
+&lt;span class=&quot;lineno&quot;&gt;6&lt;/span&gt; 2014-05-07T07:49:22.178-0500 	Creating index: { key: { _id: 1 }, ns: &amp;quot;m101.hw1_1&amp;quot;, name: &amp;quot;_id_&amp;quot; }
+&lt;span class=&quot;lineno&quot;&gt;7&lt;/span&gt; $&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101js_hw11_MongoRestore.png&quot; alt=&quot;HW 1.1 MongoRestore&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Then, some MongoShell checks about the restoration and the result answer:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;&lt;span class=&quot;lineno&quot;&gt; 1&lt;/span&gt; MongoDB shell version: 2.6.0
+&lt;span class=&quot;lineno&quot;&gt; 2&lt;/span&gt; connecting to: test
+&lt;span class=&quot;lineno&quot;&gt; 3&lt;/span&gt; Server has startup warnings:
+&lt;span class=&quot;lineno&quot;&gt; 4&lt;/span&gt; 2014-05-07T07:48:32.639-0500 [initandlisten]
+&lt;span class=&quot;lineno&quot;&gt; 5&lt;/span&gt; 2014-05-07T07:48:32.639-0500 [initandlisten] ** NOTE: This is a 32 bit MongoDB binary.
+&lt;span class=&quot;lineno&quot;&gt; 6&lt;/span&gt; 2014-05-07T07:48:32.639-0500 [initandlisten] **       32 bit builds are limited to less than 2GB of data (or less with --journal).
+&lt;span class=&quot;lineno&quot;&gt; 7&lt;/span&gt; 2014-05-07T07:48:32.639-0500 [initandlisten] **       Note that journaling defaults to off for 32 bit and is currently off.
+&lt;span class=&quot;lineno&quot;&gt; 8&lt;/span&gt; 2014-05-07T07:48:32.639-0500 [initandlisten] **       See http://dochub.mongodb.org/core/32bit
+&lt;span class=&quot;lineno&quot;&gt; 9&lt;/span&gt; 2014-05-07T07:48:32.640-0500 [initandlisten]
+&lt;span class=&quot;lineno&quot;&gt;10&lt;/span&gt; &amp;gt; show dbs
+&lt;span class=&quot;lineno&quot;&gt;11&lt;/span&gt; admin    (empty)
+&lt;span class=&quot;lineno&quot;&gt;12&lt;/span&gt; blog     0.078GB
+&lt;span class=&quot;lineno&quot;&gt;13&lt;/span&gt; enron    0.953GB
+&lt;span class=&quot;lineno&quot;&gt;14&lt;/span&gt; final7   0.078GB
+&lt;span class=&quot;lineno&quot;&gt;15&lt;/span&gt; local    0.078GB
+&lt;span class=&quot;lineno&quot;&gt;16&lt;/span&gt; school   0.078GB
+&lt;span class=&quot;lineno&quot;&gt;17&lt;/span&gt; test     0.078GB
+&lt;span class=&quot;lineno&quot;&gt;18&lt;/span&gt; weather  0.078GB
+&lt;span class=&quot;lineno&quot;&gt;19&lt;/span&gt; &amp;gt; show dbs
+&lt;span class=&quot;lineno&quot;&gt;20&lt;/span&gt; admin    (empty)
+&lt;span class=&quot;lineno&quot;&gt;21&lt;/span&gt; blog     0.078GB
+&lt;span class=&quot;lineno&quot;&gt;22&lt;/span&gt; enron    0.953GB
+&lt;span class=&quot;lineno&quot;&gt;23&lt;/span&gt; final7   0.078GB
+&lt;span class=&quot;lineno&quot;&gt;24&lt;/span&gt; local    0.078GB
+&lt;span class=&quot;lineno&quot;&gt;25&lt;/span&gt; m101     0.078GB
+&lt;span class=&quot;lineno&quot;&gt;26&lt;/span&gt; school   0.078GB
+&lt;span class=&quot;lineno&quot;&gt;27&lt;/span&gt; test     0.078GB
+&lt;span class=&quot;lineno&quot;&gt;28&lt;/span&gt; weather  0.078GB
+&lt;span class=&quot;lineno&quot;&gt;29&lt;/span&gt; &amp;gt; use m101
+&lt;span class=&quot;lineno&quot;&gt;30&lt;/span&gt; switched to db m101
+&lt;span class=&quot;lineno&quot;&gt;31&lt;/span&gt; &amp;gt; show tables
+&lt;span class=&quot;lineno&quot;&gt;32&lt;/span&gt; hw1_1
+&lt;span class=&quot;lineno&quot;&gt;33&lt;/span&gt; system.indexes
+&lt;span class=&quot;lineno&quot;&gt;34&lt;/span&gt; &amp;gt; db.hw1_1.count()
+&lt;span class=&quot;lineno&quot;&gt;35&lt;/span&gt; 1
+&lt;span class=&quot;lineno&quot;&gt;36&lt;/span&gt; &amp;gt; db.hw1_1.findOne()
+&lt;span class=&quot;lineno&quot;&gt;37&lt;/span&gt; {
+&lt;span class=&quot;lineno&quot;&gt;38&lt;/span&gt; 	&amp;quot;_id&amp;quot; : ObjectId(&amp;quot;51e4524ef3651c651a42331c&amp;quot;),
+&lt;span class=&quot;lineno&quot;&gt;39&lt;/span&gt; 	&amp;quot;answer&amp;quot; : &amp;quot;Hello from MongoDB!&amp;quot;
+&lt;span class=&quot;lineno&quot;&gt;40&lt;/span&gt; }
+&lt;span class=&quot;lineno&quot;&gt;41&lt;/span&gt; &amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101js_hw11_MongoChecks.png&quot; alt=&quot;HW 1.1 MongoChecks&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;homework-12&quot;&gt;HOMEWORK 1.2&lt;/h3&gt;
+
+&lt;h3 id=&quot;answer-homework-12&quot;&gt;ANSWER HOMEWORK 1.2:&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101js_hw12_Submit.png&quot; alt=&quot;HW 1.2 Submit&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;homework-13&quot;&gt;HOMEWORK 1.3&lt;/h3&gt;
+
+&lt;h3 id=&quot;answer-homework-13&quot;&gt;ANSWER HOMEWORK 1.3:&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101js_hw13_Submit.png&quot; alt=&quot;HW 1.3 Submit&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;week-2-crud&quot;&gt;Week 2: CRUD&lt;/h2&gt;
+&lt;p&gt;Following are presented the contents and answers to the HomeWorks belonging to &lt;strong&gt;Week 2 (CRUD)&lt;/strong&gt; for “&lt;em&gt;M101J: MongoDB for Node.js Developers&lt;/em&gt;” course offered by https://university.mongodb.com/ started at 2014-03-24.&lt;/p&gt;
+
+&lt;h3 id=&quot;homework-21&quot;&gt;HOMEWORK 2.1&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101js_hw21_Submit.png&quot; alt=&quot;HW 2.1 Submit&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;answer-homework-21&quot;&gt;ANSWER HOMEWORK 2.1:&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101js_hw21_MongoshellChecks.png&quot; alt=&quot;HW 2.1 MongoshellChecks&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;lineno&quot;&gt;1&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;use&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;weather&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;2&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;query&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;Wind Direction&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;$gt&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;180&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;$lt&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;360&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}}&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;3&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;project&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;_id&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;kc&quot;&gt;false&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;State&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;kc&quot;&gt;true&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;4&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;sorting&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;Temperature&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;5&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;db&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;find&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;query&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;project&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;sort&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;sorting&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;limit&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;lineno&quot;&gt; 1&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;MongoDB&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;shell&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;version&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;2.6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 2&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;connecting&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;to&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;test&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 3&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;switched&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;to&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;db&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;weather&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 4&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Wind Direction&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;$gt&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;180&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;$lt&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;360&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 5&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;_id&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;false&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;State&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;true&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 6&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Temperature&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 7&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;State&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;New Mexico&amp;quot;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 8&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;State&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;New Mexico&amp;quot;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 9&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;State&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Vermont&amp;quot;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;10&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;State&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Vermont&amp;quot;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;11&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;State&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Vermont&amp;quot;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;12&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;bye&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101js_hw21_ImportMongoOutput.png&quot; alt=&quot;HW 2.1 ImportMongoOutput&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;homework-22&quot;&gt;HOMEWORK 2.2&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101js_hw22_Submit.png&quot; alt=&quot;HW 2.2 Submit&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;answer-homework-22&quot;&gt;ANSWER HOMEWORK 2.2:&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101js_hw22_Output.png&quot; alt=&quot;HW 2.2 Output&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;
+&lt;img src=&quot;/gh-blog/assets/m101js_hw22_MongoProc.png&quot; alt=&quot;HW 2.2 MongoProc&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;homework-23&quot;&gt;HOMEWORK 2.3&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101js_hw23_Submit.png&quot; alt=&quot;HW 2.3 Submit&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;answer-homework-23&quot;&gt;ANSWER HOMEWORK 2.3:&lt;/h3&gt;
+&lt;p&gt;Code snippet for &lt;code&gt;this.addUser = function(username, password, email, callback)&lt;/code&gt; function:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;lineno&quot;&gt; 1&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;addUser&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;username&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;password&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;email&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;callback&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 2&lt;/span&gt;     &lt;span class=&quot;s2&quot;&gt;&amp;quot;use strict&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 3&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt; 4&lt;/span&gt;     &lt;span class=&quot;c1&quot;&gt;// Generate password hash&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 5&lt;/span&gt;     &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;salt&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;bcrypt&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;genSaltSync&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 6&lt;/span&gt;     &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;password_hash&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;bcrypt&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;hashSync&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;password&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;salt&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 7&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt; 8&lt;/span&gt;     &lt;span class=&quot;c1&quot;&gt;// Create user document&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 9&lt;/span&gt;     &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;user&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;_id&amp;#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;username&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;password&amp;#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;password_hash&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;10&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt;11&lt;/span&gt;     &lt;span class=&quot;c1&quot;&gt;// Add email if set&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;12&lt;/span&gt;     &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;email&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;!=&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;13&lt;/span&gt;         &lt;span class=&quot;nx&quot;&gt;user&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;email&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;email&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;14&lt;/span&gt;     &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;15&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt;16&lt;/span&gt;     &lt;span class=&quot;c1&quot;&gt;// TODO: hw2.3&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;17&lt;/span&gt;     &lt;span class=&quot;nx&quot;&gt;users&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;insert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;user&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;err&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;result&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;18&lt;/span&gt;         &lt;span class=&quot;s2&quot;&gt;&amp;quot;use strict&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;19&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt;20&lt;/span&gt;         &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;!&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;err&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;21&lt;/span&gt;             &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;Inserted new user&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;22&lt;/span&gt;             &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;callback&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kc&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;result&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]);&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;23&lt;/span&gt;         &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;24&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt;25&lt;/span&gt;         &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;callback&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;err&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;26&lt;/span&gt;     &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;27&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Code snippet for &lt;code&gt;this.validateLogin = function(username, password, callback)&lt;/code&gt; function:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;lineno&quot;&gt; 1&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;validateLogin&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;username&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;password&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;callback&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 2&lt;/span&gt;     &lt;span class=&quot;s2&quot;&gt;&amp;quot;use strict&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 3&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt; 4&lt;/span&gt;     &lt;span class=&quot;c1&quot;&gt;// Callback to pass to MongoDB that validates a user document&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 5&lt;/span&gt;     &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;validateUserDoc&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;err&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;user&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 6&lt;/span&gt;         &lt;span class=&quot;s2&quot;&gt;&amp;quot;use strict&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 7&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt; 8&lt;/span&gt;         &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;err&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;callback&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;err&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 9&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt;10&lt;/span&gt;         &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;user&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;11&lt;/span&gt;             &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;bcrypt&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;compareSync&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;password&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;user&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;password&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;12&lt;/span&gt;                 &lt;span class=&quot;nx&quot;&gt;callback&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kc&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;user&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;13&lt;/span&gt;             &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;14&lt;/span&gt;             &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;15&lt;/span&gt;                 &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;invalid_password_error&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Error&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;Invalid password&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;16&lt;/span&gt;                 &lt;span class=&quot;c1&quot;&gt;// Set an extra field so we can distinguish this from a db error&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;17&lt;/span&gt;                 &lt;span class=&quot;nx&quot;&gt;invalid_password_error&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;invalid_password&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;true&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;18&lt;/span&gt;                 &lt;span class=&quot;nx&quot;&gt;callback&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;invalid_password_error&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;19&lt;/span&gt;             &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;20&lt;/span&gt;         &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;21&lt;/span&gt;         &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;22&lt;/span&gt;             &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;no_such_user_error&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Error&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;User: &amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;user&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot; does not exist&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;23&lt;/span&gt;             &lt;span class=&quot;c1&quot;&gt;// Set an extra field so we can distinguish this from a db error&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;24&lt;/span&gt;             &lt;span class=&quot;nx&quot;&gt;no_such_user_error&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;no_such_user&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;true&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;25&lt;/span&gt;             &lt;span class=&quot;nx&quot;&gt;callback&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;no_such_user_error&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;26&lt;/span&gt;         &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;27&lt;/span&gt;     &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;28&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt;29&lt;/span&gt;     &lt;span class=&quot;c1&quot;&gt;// TODO: hw2.3&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;30&lt;/span&gt;     &lt;span class=&quot;nx&quot;&gt;users&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;findOne&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;_id&amp;#39;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;username&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;validateUserDoc&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;31&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101js_hw23_Terminal.png&quot; alt=&quot;HW 2.3 Terminal&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;
+&lt;img src=&quot;/gh-blog/assets/m101js_hw23_MongoProc.png&quot; alt=&quot;HW 2.3 MongoProc&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;week-3-schema-design&quot;&gt;Week 3: Schema Design&lt;/h2&gt;
+&lt;p&gt;Following are presented the contents and answers to the HomeWorks belonging to &lt;strong&gt;Week 3 (Schema Design)&lt;/strong&gt; for “&lt;em&gt;M101J: MongoDB for Node.js Developers&lt;/em&gt;” course offered by https://university.mongodb.com/ started at 2014-03-24.&lt;/p&gt;
+
+&lt;h3 id=&quot;homework-31&quot;&gt;HOMEWORK 3.1&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101js_hw31_Submit.png&quot; alt=&quot;HW 3.1 Submit&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;answer-homework-31&quot;&gt;ANSWER HOMEWORK 3.1:&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101js_hw31_Import.png&quot; alt=&quot;HW 3.1 Import&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;
+&lt;img src=&quot;/gh-blog/assets/m101js_hw31_MongoChecks.png&quot; alt=&quot;HW 3.1 MongoChecks&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;
+&lt;img src=&quot;/gh-blog/assets/m101js_hw31_Output.png&quot; alt=&quot;HW 3.1 Output&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;
+&lt;img src=&quot;/gh-blog/assets/m101js_hw31_MongoVerify.png&quot; alt=&quot;HW 3.1 MongoVerify&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;homework-32&quot;&gt;HOMEWORK 3.2&lt;/h3&gt;
+
+&lt;h3 id=&quot;answer-homework-32&quot;&gt;ANSWER HOMEWORK 3.2:&lt;/h3&gt;
+&lt;p&gt;Code snippet for &lt;code&gt;this.insertEntry = function (title, body, tags, author, callback)&lt;/code&gt; function:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;lineno&quot;&gt; 1&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;insertEntry&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;body&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;tags&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;author&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;callback&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 2&lt;/span&gt;     &lt;span class=&quot;s2&quot;&gt;&amp;quot;use strict&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 3&lt;/span&gt;     &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;inserting blog entry&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;title&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;body&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 4&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt; 5&lt;/span&gt;     &lt;span class=&quot;c1&quot;&gt;// fix up the permalink to not include whitespace&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 6&lt;/span&gt;     &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;permalink&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;replace&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;sr&quot;&gt;/\s/g&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;_&amp;#39;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 7&lt;/span&gt;     &lt;span class=&quot;nx&quot;&gt;permalink&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;permalink&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;replace&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;sr&quot;&gt;/\W/g&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;&amp;#39;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 8&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt; 9&lt;/span&gt;     &lt;span class=&quot;c1&quot;&gt;// Build a new post&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;10&lt;/span&gt;     &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;post&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;title&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;11&lt;/span&gt;             &lt;span class=&quot;s2&quot;&gt;&amp;quot;author&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;author&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;12&lt;/span&gt;             &lt;span class=&quot;s2&quot;&gt;&amp;quot;body&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;body&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;13&lt;/span&gt;             &lt;span class=&quot;s2&quot;&gt;&amp;quot;permalink&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;permalink&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;14&lt;/span&gt;             &lt;span class=&quot;s2&quot;&gt;&amp;quot;tags&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;tags&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;15&lt;/span&gt;             &lt;span class=&quot;s2&quot;&gt;&amp;quot;comments&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[],&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;16&lt;/span&gt;             &lt;span class=&quot;s2&quot;&gt;&amp;quot;date&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Date&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()}&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;17&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt;18&lt;/span&gt;     &lt;span class=&quot;c1&quot;&gt;// now insert the post&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;19&lt;/span&gt;     &lt;span class=&quot;c1&quot;&gt;// hw3.2 TODO&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;20&lt;/span&gt;     &lt;span class=&quot;nx&quot;&gt;posts&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;insert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;post&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;err&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;result&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;21&lt;/span&gt;         &lt;span class=&quot;s2&quot;&gt;&amp;quot;use strict&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;22&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt;23&lt;/span&gt;         &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;err&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;callback&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;err&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;24&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt;25&lt;/span&gt;         &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;Inserted new post&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;26&lt;/span&gt;         &lt;span class=&quot;nx&quot;&gt;callback&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;err&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;permalink&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;27&lt;/span&gt;     &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;28&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;homework-33&quot;&gt;HOMEWORK 3.3&lt;/h3&gt;
+
+&lt;h3 id=&quot;answer-homework-33&quot;&gt;ANSWER HOMEWORK 3.3:&lt;/h3&gt;
+&lt;p&gt;Code snippet for &lt;code&gt;this.addComment = function(permalink, name, email, body, callback)&lt;/code&gt; function:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;lineno&quot;&gt; 1&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;addComment&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;permalink&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;email&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;body&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;callback&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 2&lt;/span&gt;     &lt;span class=&quot;s2&quot;&gt;&amp;quot;use strict&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 3&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt; 4&lt;/span&gt;     &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;comment&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;author&amp;#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;body&amp;#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;body&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 5&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt; 6&lt;/span&gt;     &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;email&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;!=&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 7&lt;/span&gt;         &lt;span class=&quot;nx&quot;&gt;comment&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;email&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;email&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 8&lt;/span&gt;     &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 9&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt;10&lt;/span&gt;     &lt;span class=&quot;c1&quot;&gt;// hw3.3 TODO&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;11&lt;/span&gt;     &lt;span class=&quot;nx&quot;&gt;posts&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;update&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;permalink&amp;#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;permalink&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;},&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;$push&amp;#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;comments&amp;#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;comment&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}},&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;err&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;numModified&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;12&lt;/span&gt;         &lt;span class=&quot;s2&quot;&gt;&amp;quot;use strict&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;13&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt;14&lt;/span&gt;         &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;err&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;callback&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;err&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;15&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt;16&lt;/span&gt;         &lt;span class=&quot;nx&quot;&gt;callback&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;err&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;numModified&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;17&lt;/span&gt;     &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;18&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;week-4-performance&quot;&gt;Week 4: Performance&lt;/h2&gt;
+&lt;p&gt;Following are presented the contents and answers to the HomeWorks belonging to &lt;strong&gt;Week 4 (Performance)&lt;/strong&gt; for “&lt;em&gt;M101J: MongoDB for Java Developers&lt;/em&gt;” course offered by https://university.mongodb.com/ started at 2014-03-17.&lt;/p&gt;
+
+&lt;h3 id=&quot;homework-41&quot;&gt;HOMEWORK 4.1&lt;/h3&gt;
+
+&lt;h3 id=&quot;answer-homework-41&quot;&gt;ANSWER HOMEWORK 4.1:&lt;/h3&gt;
+&lt;p&gt;![HW 4.1][hw41]{: width=”75%” style=”display:block; margin-left:auto; margin-right:auto”}&lt;/p&gt;
+
+&lt;h3 id=&quot;homework-42&quot;&gt;HOMEWORK 4.2&lt;/h3&gt;
+
+&lt;h3 id=&quot;answer-homework-42&quot;&gt;ANSWER HOMEWORK 4.2:&lt;/h3&gt;
+&lt;p&gt;![HW 4.2][hw42]{: width=”75%” style=”display:block; margin-left:auto; margin-right:auto”}&lt;/p&gt;
+
+&lt;h3 id=&quot;homework-43&quot;&gt;HOMEWORK 4.3&lt;/h3&gt;
+
+&lt;h3 id=&quot;answer-homework-43&quot;&gt;ANSWER HOMEWORK 4.3:&lt;/h3&gt;
+&lt;p&gt;![HW 4.3][hw43]{: width=”75%” style=”display:block; margin-left:auto; margin-right:auto”}&lt;/p&gt;
+
+&lt;h3 id=&quot;homework-44&quot;&gt;HOMEWORK 4.4&lt;/h3&gt;
+
+&lt;h3 id=&quot;answer-homework-44&quot;&gt;ANSWER HOMEWORK 4.4:&lt;/h3&gt;
+&lt;p&gt;![HW 4.4][hw44]{: width=”75%” style=”display:block; margin-left:auto; margin-right:auto”}&lt;/p&gt;
+
+&lt;h2 id=&quot;week-5-aggregation-framework&quot;&gt;Week 5: Aggregation Framework&lt;/h2&gt;
+&lt;p&gt;Following are presented the contents and answers to the HomeWorks belonging to &lt;strong&gt;Week 5 (Aggregation Framework)&lt;/strong&gt; for “&lt;em&gt;M101J: MongoDB for Node.js Developers&lt;/em&gt;” course offered by https://university.mongodb.com/ started at 2014-03-17.&lt;/p&gt;
+
+&lt;h3 id=&quot;homework-51&quot;&gt;HOMEWORK 5.1&lt;/h3&gt;
+
+&lt;h3 id=&quot;answer-homework-51&quot;&gt;ANSWER HOMEWORK 5.1:&lt;/h3&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;lineno&quot;&gt; 1&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;db&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;posts&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;aggregate&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;([&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 2&lt;/span&gt; 	&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$unwind&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$comments&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 3&lt;/span&gt; 	&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$group&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 4&lt;/span&gt; 		&lt;span class=&quot;s2&quot;&gt;&amp;quot;_id&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$comments.author&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 5&lt;/span&gt; 		&lt;span class=&quot;s2&quot;&gt;&amp;quot;count&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$sum&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 6&lt;/span&gt; 	&lt;span class=&quot;p&quot;&gt;}},&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 7&lt;/span&gt; 	&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$sort&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 8&lt;/span&gt; 		&lt;span class=&quot;s2&quot;&gt;&amp;quot;count&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:-&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 9&lt;/span&gt; 	&lt;span class=&quot;p&quot;&gt;}},&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;10&lt;/span&gt; 	&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$limit&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;11&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;])&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;homework-52&quot;&gt;HOMEWORK 5.2&lt;/h3&gt;
+
+&lt;h3 id=&quot;answer-homework-52&quot;&gt;ANSWER HOMEWORK 5.2:&lt;/h3&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;lineno&quot;&gt; 1&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;db&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;zips&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;aggregate&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;([&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 2&lt;/span&gt; 	&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$match&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 3&lt;/span&gt; 		&lt;span class=&quot;s2&quot;&gt;&amp;quot;state&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$in&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;CA&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;NY&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]}&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 4&lt;/span&gt; 	&lt;span class=&quot;p&quot;&gt;}},&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 5&lt;/span&gt; 	&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$group&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 6&lt;/span&gt; 		&lt;span class=&quot;s2&quot;&gt;&amp;quot;_id&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 7&lt;/span&gt; 			&lt;span class=&quot;s2&quot;&gt;&amp;quot;city&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$city&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 8&lt;/span&gt; 			&lt;span class=&quot;s2&quot;&gt;&amp;quot;state&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$state&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 9&lt;/span&gt; 		&lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;10&lt;/span&gt; 		&lt;span class=&quot;s2&quot;&gt;&amp;quot;pop&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$sum&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$pop&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;11&lt;/span&gt; 	&lt;span class=&quot;p&quot;&gt;}},&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;12&lt;/span&gt; 	&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$match&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;13&lt;/span&gt; 		&lt;span class=&quot;s2&quot;&gt;&amp;quot;pop&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$gt&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;25000&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;14&lt;/span&gt; 	&lt;span class=&quot;p&quot;&gt;}},&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;15&lt;/span&gt; 	&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$group&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;16&lt;/span&gt; 		&lt;span class=&quot;s2&quot;&gt;&amp;quot;_id&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;kc&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;17&lt;/span&gt; 		&lt;span class=&quot;s2&quot;&gt;&amp;quot;avg_requested&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$avg&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$pop&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;18&lt;/span&gt; 	&lt;span class=&quot;p&quot;&gt;}}&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;19&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;])&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;homework-53&quot;&gt;HOMEWORK 5.3&lt;/h3&gt;
+
+&lt;h3 id=&quot;answer-homework-53&quot;&gt;ANSWER HOMEWORK 5.3:&lt;/h3&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;lineno&quot;&gt; 1&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;db&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;grades&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;aggregate&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;([&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 2&lt;/span&gt; 	&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$unwind&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$scores&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 3&lt;/span&gt; 	&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$match&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 4&lt;/span&gt; 		&lt;span class=&quot;s2&quot;&gt;&amp;quot;scores.type&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$ne&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;quiz&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 5&lt;/span&gt; 	&lt;span class=&quot;p&quot;&gt;}},&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 6&lt;/span&gt; 	&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$group&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 7&lt;/span&gt; 		&lt;span class=&quot;s2&quot;&gt;&amp;quot;_id&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 8&lt;/span&gt; 			&lt;span class=&quot;s2&quot;&gt;&amp;quot;class_id&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$class_id&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 9&lt;/span&gt; 			&lt;span class=&quot;s2&quot;&gt;&amp;quot;student_id&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$student_id&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;10&lt;/span&gt; 		&lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;11&lt;/span&gt; 		&lt;span class=&quot;s2&quot;&gt;&amp;quot;avg_class_student&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$avg&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$scores.score&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;12&lt;/span&gt; 	&lt;span class=&quot;p&quot;&gt;}},&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;13&lt;/span&gt; 	&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$group&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;14&lt;/span&gt; 		&lt;span class=&quot;s2&quot;&gt;&amp;quot;_id&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$_id.class_id&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;15&lt;/span&gt; 		&lt;span class=&quot;s2&quot;&gt;&amp;quot;avg_class&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$avg&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$avg_class_student&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;16&lt;/span&gt; 	&lt;span class=&quot;p&quot;&gt;}},&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;17&lt;/span&gt; 	&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$sort&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;18&lt;/span&gt; 		&lt;span class=&quot;s2&quot;&gt;&amp;quot;avg_class&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:-&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;19&lt;/span&gt; 	&lt;span class=&quot;p&quot;&gt;}},&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;20&lt;/span&gt; 	&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$limit&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;21&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;])&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;homework-54&quot;&gt;HOMEWORK 5.4&lt;/h3&gt;
+
+&lt;h3 id=&quot;answer-homework-54&quot;&gt;ANSWER HOMEWORK 5.4:&lt;/h3&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;lineno&quot;&gt; 1&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;use&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;test&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 2&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;db&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;zips&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;aggregate&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;([&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 3&lt;/span&gt; 	&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$match&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 4&lt;/span&gt; 		&lt;span class=&quot;s2&quot;&gt;&amp;quot;city&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$regex&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;sr&quot;&gt;/^\d/&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 5&lt;/span&gt; 	&lt;span class=&quot;p&quot;&gt;}},&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 6&lt;/span&gt; 	&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$group&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 7&lt;/span&gt; 		&lt;span class=&quot;s2&quot;&gt;&amp;quot;_id&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;kc&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 8&lt;/span&gt; 		&lt;span class=&quot;s2&quot;&gt;&amp;quot;pop_rural&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$sum&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$pop&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 9&lt;/span&gt; 	&lt;span class=&quot;p&quot;&gt;}}&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;10&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;])&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;week-6-application-engineering&quot;&gt;Week 6: Application Engineering&lt;/h2&gt;
+&lt;p&gt;Following are presented the contents and answers to the HomeWorks belonging to &lt;strong&gt;Week 6 (Application Engineering)&lt;/strong&gt; for “&lt;em&gt;M101J: MongoDB for Node.js Developers&lt;/em&gt;” course offered by https://university.mongodb.com/ started at 2014-03-24.&lt;/p&gt;
+
+&lt;h3 id=&quot;homework-61&quot;&gt;HOMEWORK 6.1&lt;/h3&gt;
+
+&lt;h3 id=&quot;answer-homework-61&quot;&gt;ANSWER HOMEWORK 6.1:&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101js_hw61_Submit.png&quot; alt=&quot;HW 6.1 Submit&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;homework-62&quot;&gt;HOMEWORK 6.2&lt;/h3&gt;
+
+&lt;h3 id=&quot;answer-homework-62&quot;&gt;ANSWER HOMEWORK 6.2:&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101js_hw62_Submit.png&quot; alt=&quot;HW 6.2 Submit&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;homework-63&quot;&gt;HOMEWORK 6.3&lt;/h3&gt;
+
+&lt;h3 id=&quot;answer-homework-63&quot;&gt;ANSWER HOMEWORK 6.3:&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101js_hw63_Submit.png&quot; alt=&quot;HW 6.3 Submit&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;homework-64&quot;&gt;HOMEWORK 6.4&lt;/h3&gt;
+
+&lt;h3 id=&quot;answer-homework-64&quot;&gt;ANSWER HOMEWORK 6.4:&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101js_hw64_Submit.png&quot; alt=&quot;HW 6.4 Submit&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;homework-65&quot;&gt;HOMEWORK 6.5&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101js_hw65_Submit.png&quot; alt=&quot;HW 6.5 Submit&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;answer-homework-65&quot;&gt;ANSWER HOMEWORK 6.5:&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101js_hw65_Bash.png&quot; alt=&quot;HW 6.5 Bash&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;
+&lt;img src=&quot;/gh-blog/assets/m101js_hw65_Mongo.png&quot; alt=&quot;HW 6.5 Mongo&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;
+&lt;img src=&quot;/gh-blog/assets/m101js_hw65_Validate.png&quot; alt=&quot;HW 6.5 Validate&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;final-exam&quot;&gt;Final Exam&lt;/h2&gt;
+&lt;p&gt;Following are presented the contents and answers to the questions belonging to &lt;strong&gt;Final Exam&lt;/strong&gt; for “&lt;em&gt;M101J: MongoDB for Java Developers&lt;/em&gt;” course offered by https://university.mongodb.com/ started at 2014-03-17.&lt;/p&gt;
+
+&lt;h3 id=&quot;final-question-1&quot;&gt;Final: Question 1&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101j_finalq01.png&quot; alt=&quot;M101J Final Question 1&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;final-question-1-answer&quot;&gt;Final: Question 1. Answer:&lt;/h3&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;&lt;span class=&quot;lineno&quot;&gt; 1&lt;/span&gt; $ l
+&lt;span class=&quot;lineno&quot;&gt; 2&lt;/span&gt; enron.zip
+&lt;span class=&quot;lineno&quot;&gt; 3&lt;/span&gt; $ unzip enron.zip
+&lt;span class=&quot;lineno&quot;&gt; 4&lt;/span&gt; Archive:  enron.zip
+&lt;span class=&quot;lineno&quot;&gt; 5&lt;/span&gt;    creating: dump/enron/
+&lt;span class=&quot;lineno&quot;&gt; 6&lt;/span&gt;   inflating: dump/enron/messages.bson  
+&lt;span class=&quot;lineno&quot;&gt; 7&lt;/span&gt;   inflating: dump/enron/messages.metadata.json  
+&lt;span class=&quot;lineno&quot;&gt; 8&lt;/span&gt; $ l
+&lt;span class=&quot;lineno&quot;&gt; 9&lt;/span&gt; dump/  enron.zip
+&lt;span class=&quot;lineno&quot;&gt;10&lt;/span&gt; $ /opt/mongodb-linux-i686-2.6.0/bin/mongorestore
+&lt;span class=&quot;lineno&quot;&gt;11&lt;/span&gt; connected to: 127.0.0.1
+&lt;span class=&quot;lineno&quot;&gt;12&lt;/span&gt; 2014-05-08T14:20:31.377-0500 dump/enron/messages.bson
+&lt;span class=&quot;lineno&quot;&gt;13&lt;/span&gt; 2014-05-08T14:20:31.377-0500 	going into namespace [enron.messages]
+&lt;span class=&quot;lineno&quot;&gt;14&lt;/span&gt; 2014-05-08T14:20:34.690-0500 		Progress: 67557346/396236668	17%	(bytes)
+&lt;span class=&quot;lineno&quot;&gt;15&lt;/span&gt; 2014-05-08T14:20:37.006-0500 		Progress: 106126234/396236668	26%	(bytes)
+&lt;span class=&quot;lineno&quot;&gt;16&lt;/span&gt; 2014-05-08T14:20:40.255-0500 		Progress: 139318935/396236668	35%	(bytes)
+&lt;span class=&quot;lineno&quot;&gt;17&lt;/span&gt; 2014-05-08T14:20:43.108-0500 		Progress: 188432810/396236668	47%	(bytes)
+&lt;span class=&quot;lineno&quot;&gt;18&lt;/span&gt; 2014-05-08T14:20:46.008-0500 		Progress: 227400576/396236668	57%	(bytes)
+&lt;span class=&quot;lineno&quot;&gt;19&lt;/span&gt; 2014-05-08T14:20:49.030-0500 		Progress: 282543056/396236668	71%	(bytes)
+&lt;span class=&quot;lineno&quot;&gt;20&lt;/span&gt; 2014-05-08T14:20:52.128-0500 		Progress: 332774078/396236668	83%	(bytes)
+&lt;span class=&quot;lineno&quot;&gt;21&lt;/span&gt; 2014-05-08T14:20:55.102-0500 		Progress: 372492093/396236668	94%	(bytes)
+&lt;span class=&quot;lineno&quot;&gt;22&lt;/span&gt; 120477 objects found
+&lt;span class=&quot;lineno&quot;&gt;23&lt;/span&gt; 2014-05-08T14:20:57.348-0500 	Creating index: { key: { _id: 1 }, ns: &amp;quot;enron.messages&amp;quot;, name: &amp;quot;_id_&amp;quot; }
+&lt;span class=&quot;lineno&quot;&gt;24&lt;/span&gt; $ l
+&lt;span class=&quot;lineno&quot;&gt;25&lt;/span&gt; dump/  enron.zip
+&lt;span class=&quot;lineno&quot;&gt;26&lt;/span&gt; $&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101j_finalq01_answer1.png&quot; alt=&quot;M101J Final Question 1 Answer 1&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;&lt;span class=&quot;lineno&quot;&gt; 1&lt;/span&gt; &amp;gt; show dbs
+&lt;span class=&quot;lineno&quot;&gt; 2&lt;/span&gt; admin    (empty)
+&lt;span class=&quot;lineno&quot;&gt; 3&lt;/span&gt; blog     0.078GB
+&lt;span class=&quot;lineno&quot;&gt; 4&lt;/span&gt; final7   0.078GB
+&lt;span class=&quot;lineno&quot;&gt; 5&lt;/span&gt; local    0.078GB
+&lt;span class=&quot;lineno&quot;&gt; 6&lt;/span&gt; m101     0.078GB
+&lt;span class=&quot;lineno&quot;&gt; 7&lt;/span&gt; school   0.078GB
+&lt;span class=&quot;lineno&quot;&gt; 8&lt;/span&gt; test     0.078GB
+&lt;span class=&quot;lineno&quot;&gt; 9&lt;/span&gt; weather  0.078GB
+&lt;span class=&quot;lineno&quot;&gt;10&lt;/span&gt; &amp;gt; show dbs
+&lt;span class=&quot;lineno&quot;&gt;11&lt;/span&gt; admin    (empty)
+&lt;span class=&quot;lineno&quot;&gt;12&lt;/span&gt; blog     0.078GB
+&lt;span class=&quot;lineno&quot;&gt;13&lt;/span&gt; enron    0.953GB
+&lt;span class=&quot;lineno&quot;&gt;14&lt;/span&gt; final7   0.078GB
+&lt;span class=&quot;lineno&quot;&gt;15&lt;/span&gt; local    0.078GB
+&lt;span class=&quot;lineno&quot;&gt;16&lt;/span&gt; m101     0.078GB
+&lt;span class=&quot;lineno&quot;&gt;17&lt;/span&gt; school   0.078GB
+&lt;span class=&quot;lineno&quot;&gt;18&lt;/span&gt; test     0.078GB
+&lt;span class=&quot;lineno&quot;&gt;19&lt;/span&gt; weather  0.078GB
+&lt;span class=&quot;lineno&quot;&gt;20&lt;/span&gt; &amp;gt; use enron
+&lt;span class=&quot;lineno&quot;&gt;21&lt;/span&gt; switched to db enron
+&lt;span class=&quot;lineno&quot;&gt;22&lt;/span&gt; &amp;gt; show tables
+&lt;span class=&quot;lineno&quot;&gt;23&lt;/span&gt; messages
+&lt;span class=&quot;lineno&quot;&gt;24&lt;/span&gt; system.indexes
+&lt;span class=&quot;lineno&quot;&gt;25&lt;/span&gt; &amp;gt; db.messages.count()
+&lt;span class=&quot;lineno&quot;&gt;26&lt;/span&gt; 120477
+&lt;span class=&quot;lineno&quot;&gt;27&lt;/span&gt; &amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101j_finalq01_answer2.png&quot; alt=&quot;M101J Final Question 1 Answer 2&quot; width=&quot;50%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;&lt;span class=&quot;lineno&quot;&gt; 1&lt;/span&gt; $ l
+&lt;span class=&quot;lineno&quot;&gt; 2&lt;/span&gt; dump/  enron.zip  final01_00.js
+&lt;span class=&quot;lineno&quot;&gt; 3&lt;/span&gt; $ cat final01_00.js
+&lt;span class=&quot;lineno&quot;&gt; 4&lt;/span&gt; use enron
+&lt;span class=&quot;lineno&quot;&gt; 5&lt;/span&gt; query = {&amp;quot;headers.From&amp;quot;:&amp;quot;andrew.fastow@enron.com&amp;quot;, &amp;quot;headers.To&amp;quot;:&amp;quot;john.lavorato@enron.com&amp;quot;}
+&lt;span class=&quot;lineno&quot;&gt; 6&lt;/span&gt; db.messages.find(query).count()
+&lt;span class=&quot;lineno&quot;&gt; 7&lt;/span&gt; $ /opt/mongodb-linux-i686-2.6.0/bin/mongo &amp;lt; final01_00.js
+&lt;span class=&quot;lineno&quot;&gt; 8&lt;/span&gt; MongoDB shell version: 2.6.0
+&lt;span class=&quot;lineno&quot;&gt; 9&lt;/span&gt; connecting to: test
+&lt;span class=&quot;lineno&quot;&gt;10&lt;/span&gt; switched to db enron
+&lt;span class=&quot;lineno&quot;&gt;11&lt;/span&gt; {
+&lt;span class=&quot;lineno&quot;&gt;12&lt;/span&gt; 	&amp;quot;headers.From&amp;quot; : &amp;quot;andrew.fastow@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt;13&lt;/span&gt; 	&amp;quot;headers.To&amp;quot; : &amp;quot;john.lavorato@enron.com&amp;quot;
+&lt;span class=&quot;lineno&quot;&gt;14&lt;/span&gt; }
+&lt;span class=&quot;lineno&quot;&gt;15&lt;/span&gt; 1
+&lt;span class=&quot;lineno&quot;&gt;16&lt;/span&gt; bye
+&lt;span class=&quot;lineno&quot;&gt;17&lt;/span&gt; $ l
+&lt;span class=&quot;lineno&quot;&gt;18&lt;/span&gt; dump/  enron.zip  final01_00.js
+&lt;span class=&quot;lineno&quot;&gt;19&lt;/span&gt; $ cat final01_00.js
+&lt;span class=&quot;lineno&quot;&gt;20&lt;/span&gt; use enron
+&lt;span class=&quot;lineno&quot;&gt;21&lt;/span&gt; query = {&amp;quot;headers.From&amp;quot;:&amp;quot;andrew.fastow@enron.com&amp;quot;, &amp;quot;headers.To&amp;quot;:&amp;quot;jeff.skilling@enron.com&amp;quot;}
+&lt;span class=&quot;lineno&quot;&gt;22&lt;/span&gt; db.messages.find(query).count()
+&lt;span class=&quot;lineno&quot;&gt;23&lt;/span&gt; $ /opt/mongodb-linux-i686-2.6.0/bin/mongo &amp;lt; final01_00.js
+&lt;span class=&quot;lineno&quot;&gt;24&lt;/span&gt; MongoDB shell version: 2.6.0
+&lt;span class=&quot;lineno&quot;&gt;25&lt;/span&gt; connecting to: test
+&lt;span class=&quot;lineno&quot;&gt;26&lt;/span&gt; switched to db enron
+&lt;span class=&quot;lineno&quot;&gt;27&lt;/span&gt; {
+&lt;span class=&quot;lineno&quot;&gt;28&lt;/span&gt; 	&amp;quot;headers.From&amp;quot; : &amp;quot;andrew.fastow@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt;29&lt;/span&gt; 	&amp;quot;headers.To&amp;quot; : &amp;quot;jeff.skilling@enron.com&amp;quot;
+&lt;span class=&quot;lineno&quot;&gt;30&lt;/span&gt; }
+&lt;span class=&quot;lineno&quot;&gt;31&lt;/span&gt; 3
+&lt;span class=&quot;lineno&quot;&gt;32&lt;/span&gt; bye
+&lt;span class=&quot;lineno&quot;&gt;33&lt;/span&gt; $&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101j_finalq01_answer3.png&quot; alt=&quot;M101J Final Question 1 Answer 3&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;final-question-2&quot;&gt;Final: Question 2&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101j_finalq02.png&quot; alt=&quot;M101J Final Question 2&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;final-question-2-answer&quot;&gt;Final: Question 2. Answer:&lt;/h3&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;lineno&quot;&gt; 1&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;use&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;enron&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 2&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;db&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;messages&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;aggregate&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;([&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 3&lt;/span&gt; 	&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;$unwind&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$headers.To&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 4&lt;/span&gt; 	&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;$group&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 5&lt;/span&gt; 		&lt;span class=&quot;nx&quot;&gt;_id&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;id&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$_id&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;from&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$headers.From&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 6&lt;/span&gt; 		&lt;span class=&quot;nx&quot;&gt;tos&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;$addToSet&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$headers.To&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 7&lt;/span&gt; 	&lt;span class=&quot;p&quot;&gt;}},&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 8&lt;/span&gt; 	&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;$unwind&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$tos&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 9&lt;/span&gt; 	&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;$group&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;10&lt;/span&gt; 		&lt;span class=&quot;nx&quot;&gt;_id&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;11&lt;/span&gt; 			&lt;span class=&quot;nx&quot;&gt;from&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$_id.from&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;12&lt;/span&gt; 			&lt;span class=&quot;nx&quot;&gt;to&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$tos&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;13&lt;/span&gt; 		&lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;14&lt;/span&gt; 		&lt;span class=&quot;nx&quot;&gt;count&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;$sum&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;15&lt;/span&gt; 	&lt;span class=&quot;p&quot;&gt;}},&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;16&lt;/span&gt; 	&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;$sort&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;17&lt;/span&gt; 		&lt;span class=&quot;nx&quot;&gt;count&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:-&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;18&lt;/span&gt; 	&lt;span class=&quot;p&quot;&gt;}},&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;19&lt;/span&gt; 	&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;$limit&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;20&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;])&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;lineno&quot;&gt;1&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;MongoDB&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;shell&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;version&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;2.6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;2&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;connecting&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;to&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;test&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;3&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;switched&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;to&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;db&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;enron&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;4&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;_id&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;from&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;susan.mara@enron.com&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;to&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;jeff.dasovich@enron.com&amp;quot;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;count&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;750&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;5&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;_id&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;from&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;soblander@carrfut.com&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;to&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;soblander@carrfut.com&amp;quot;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;count&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;679&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;6&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;_id&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;from&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;susan.mara@enron.com&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;to&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;james.steffes@enron.com&amp;quot;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;count&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;646&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;7&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;_id&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;from&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;susan.mara@enron.com&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;to&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;richard.shapiro@enron.com&amp;quot;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;count&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;616&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;8&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;_id&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;from&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;evelyn.metoyer@enron.com&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;to&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;kate.symes@enron.com&amp;quot;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;count&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;567&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;9&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;bye&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101j_finalq02_answer.png&quot; alt=&quot;M101J Final Question 2 Answer&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;final-question-3&quot;&gt;Final: Question 3&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101j_finalq03.png&quot; alt=&quot;M101J Final Question 3&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;final-question-3-answer&quot;&gt;Final: Question 3. Answer:&lt;/h3&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;lineno&quot;&gt;1&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// use enron&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;2&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;query&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;headers.Message-ID&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&amp;lt;8147308.1075851042335.JavaMail.evans@thyme&amp;gt;&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;3&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;change&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;$push&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;headers.To&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;mrpotatohead@10gen.com&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}}&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;4&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;db&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;messages&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;update&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;query&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;change&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;5&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;db&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;messages&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;findOne&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;query&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101j_finalq03_answer.png&quot; alt=&quot;M101J Final Question 3 Answer&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;final-question-4&quot;&gt;Final: Question 4&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101j_finalq04.png&quot; alt=&quot;M101J Final Question 4&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;final-question-4-answer&quot;&gt;Final: Question 4. Answer:&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101j_finalq04_answer1_import.png&quot; alt=&quot;M101J Final Question 4 Answer 1&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101j_finalq04_answer2_count.png&quot; alt=&quot;M101J Final Question 4 Answer 2&quot; width=&quot;50%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Code snippet for &lt;code&gt;public void likePost(final String permalink, final int ordinal)&lt;/code&gt; method:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-java&quot; data-lang=&quot;java&quot;&gt;&lt;span class=&quot;lineno&quot;&gt; 1&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;likePost&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;final&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;String&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;permalink&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;final&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ordinal&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 2&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt; 3&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// XXX Final Exam, Please work here&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 4&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// Add code to increment the num_likes for the &amp;#39;ordinal&amp;#39; comment&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 5&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// that was clicked on.&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 6&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// provided you use num_likes as your key name, no other changes should be required&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 7&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// alternatively, you can use whatever you like but will need to make a couple of other&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 8&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// changes to templates and post retrieval code.&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 9&lt;/span&gt;     &lt;span class=&quot;n&quot;&gt;postsCollection&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;update&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;BasicDBObject&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;permalink&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;permalink&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;),&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;BasicDBObject&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;$inc&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;BasicDBObject&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;comments.&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ordinal&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;.num_likes&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)));&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;10&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101j_finalq04_answer3_validate.png&quot; alt=&quot;M101J Final Question 4 Answer 3&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;final-question-5&quot;&gt;Final: Question 5&lt;/h3&gt;
+
+&lt;h3 id=&quot;final-question-5-answer&quot;&gt;Final: Question 5. Answer:&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101j_finalq05.png&quot; alt=&quot;M101J Final Question 5 Answer&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;final-question-6&quot;&gt;Final: Question 6&lt;/h3&gt;
+
+&lt;h3 id=&quot;final-question-6-answer&quot;&gt;Final: Question 6. Answer:&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101j_finalq06.png&quot; alt=&quot;M101J Final Question 6 Answer&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;final-question-7&quot;&gt;Final: Question 7&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101j_finalq07.png&quot; alt=&quot;M101J Final Question 7&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;final-question-7-answer&quot;&gt;Final: Question 7. Answer:&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101j_finalq07_answer1_win_import.png&quot; alt=&quot;M101J Final Question 7 Answer 1&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;
+&lt;img src=&quot;/gh-blog/assets/m101j_finalq07_answer2_win_check.png&quot; alt=&quot;M101J Final Question 7 Answer 2&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;
+&lt;img src=&quot;/gh-blog/assets/m101j_finalq07_answer3_win_indexes.png&quot; alt=&quot;M101J Final Question 7 Answer 3&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;lineno&quot;&gt; 1&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;use&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;final7&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 2&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;counter&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 3&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;cursor_images&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;db&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;images&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;find&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 4&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;cursor_images&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;hasNext&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;())&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 5&lt;/span&gt; 	&lt;span class=&quot;nx&quot;&gt;current_image&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;cursor_images&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;next&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 6&lt;/span&gt; 	&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;!&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;db&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;albums&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;find&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;images&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;current_image&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;_id&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;hasNext&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;())&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 7&lt;/span&gt; 		&lt;span class=&quot;nx&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;[&amp;#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;counter&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+++&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;] Orphan image found in images collection to remove:\n&amp;#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;JSON&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;stringify&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;db&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;images&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;findOne&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;current_image&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;\n&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 8&lt;/span&gt; 		&lt;span class=&quot;nx&quot;&gt;db&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;images&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;remove&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;current_image&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 9&lt;/span&gt; 	&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;10&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101j_finalq07_answer4_win_output1.png&quot; alt=&quot;M101J Final Question 7 Answer 4&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;
+&lt;img src=&quot;/gh-blog/assets/m101j_finalq07_answer5_win_output2.png&quot; alt=&quot;M101J Final Question 7 Answer 5&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;final-question-8&quot;&gt;Final: Question 8&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101j_finalq08.png&quot; alt=&quot;M101J Final Question 8&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;final-question-8-answer&quot;&gt;Final: Question 8. Answer:&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101j_finalq08_answer.png&quot; alt=&quot;M101J Final Question 8 Answer&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;final-question-9&quot;&gt;Final: Question 9&lt;/h3&gt;
+
+&lt;h3 id=&quot;final-question-9-answer&quot;&gt;Final: Question 9. Answer:&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101j_finalq09.png&quot; alt=&quot;M101J Final Question 9&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;final-question-10&quot;&gt;Final: Question 10&lt;/h3&gt;
+
+&lt;h3 id=&quot;final-question-10-answer&quot;&gt;Final: Question 10. Answer:&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101j_finalq10.png&quot; alt=&quot;M101J Final Question 8&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;progress&quot;&gt;PROGRESS&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101js_progress.png&quot; alt=&quot;M101JS progress&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;certificate&quot;&gt;CERTIFICATE&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101js_downloadcertificate.png&quot; alt=&quot;M101JS downloadcertificate&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;
+&lt;img src=&quot;/gh-blog/assets/m101js_certificate.png&quot; alt=&quot;M101JS certificate&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;references&quot;&gt;REFERENCES&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://university.mongodb.com/&quot; target=&quot;_blank&quot;&gt;https://university.mongodb.com/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://api.mongodb.org/&quot; target=&quot;_blank&quot;&gt;http://api.mongodb.org/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.mongodb.com/&quot; target=&quot;_blank&quot;&gt;http://www.mongodb.com/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://hao-deng.blogspot.com/search/label/Mongodb&quot; target=&quot;_blank&quot;&gt;http://hao-deng.blogspot.com/search/label/Mongodb&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://ankurthetechie.blogspot.com/2013/09/final-exam-answers-with-explanation-for.html&quot; target=&quot;_blank&quot;&gt;http://ankurthetechie.blogspot.com/2013/09/final-exam-answers-with-explanation-for.html&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://techinote.com/mongodb-final-exam/&quot; target=&quot;_blank&quot;&gt;http://techinote.com/mongodb-final-exam/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Thu, 08 Dec 2016 18:45:30 -0500</pubDate>
+        <link>/gh-blog/2016/12/08/m101js-mongodb-nodejs-developers.html</link>
+        <guid isPermaLink="true">/gh-blog/2016/12/08/m101js-mongodb-nodejs-developers.html</guid>
+      </item>
+    
+      <item>
         <title>Párrafo lovecraftiano</title>
         <description>&lt;h2 id=&quot;cuento&quot;&gt;CUENTO&lt;/h2&gt;
 &lt;p&gt;¿Qué había antes? Es la pregunta. Antes de la singularidad, del orden, había caos. Caos primigenio, la singularidad representó la existencia, la mera existencia, una posibilidad. La interpretación de la singularidad, y por consiguiente de la existencia fue aceptada en el sentido de partículas, cuando el universo envejeció, partículas, mecánica cuántica y modelo estándar fueron la forma de interpretar y entender ese organismo/ente que es el universo. Sin embargo, implícitamente, en esa entidad cuántica, aunque separados por la no-existencia y la existencia, también se reflejaba el caos anterior… antes del orden, antes de la existencia… entidades protoplasmáticas primigenias no fueron relegadas del todo, y aún aguardan en los confines del universo existente. En los niveles macro-cósmico, y en en el nivel cuántico estas entidades acechan la existencia. Se piensa que sólo la superstición puede alcanzar a imaginar o vislumbrar estos horrores más allá de las explicaciones comunes, pero cada vez más, estas entidades y no-existencia se hacen evidentes en esta realidad.&lt;/p&gt;
@@ -1356,389 +1999,6 @@
         <pubDate>Sat, 02 Jul 2016 14:44:42 -0500</pubDate>
         <link>/gh-blog/2016/07/02/pildoras-azules-frederik-peeters.html</link>
         <guid isPermaLink="true">/gh-blog/2016/07/02/pildoras-azules-frederik-peeters.html</guid>
-      </item>
-    
-      <item>
-        <title>Los surcos del azar - Paco Roca</title>
-        <description>&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca.jpg&quot; alt=&quot;LosSurcosDelAzar_PacoRoca&quot; title=&quot;Los surcos del azar - Paco Roca&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&quot;sinopsis&quot;&gt;SINOPSIS&lt;/h2&gt;
-
-&lt;h3 id=&quot;captulo-i-martes--el-fin&quot;&gt;CAPÍTULO I. MARTES / &lt;strong&gt;EL FIN&lt;/strong&gt;&lt;/h3&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap01_Pag009.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap01_Pag009&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo I.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;p&gt;Puerto de Alicante. 28 de Marzo de 1939. Miles de personas ven arrivar un buque que no es de guerra, algunos logran abordar. En la actualidad Paco busca a Miguel Ruiz en la Calle Huatville, Albert, con quién Paco había hablado por teléfono, lo recibe, le informa que Miguel no está, conversan un poco, de que el abuelo es un héroe de guerra que combatió a los fascistas, como busca Paco. Mientras, en 1939 en alta mar, el buque es bombardeado por otro navío.&lt;/p&gt;
-
-&lt;h3 id=&quot;captulo-ii-mircoles--el-exilio&quot;&gt;CAPÍTULO II. MIÉRCOLES / &lt;strong&gt;EL EXILIO&lt;/strong&gt;&lt;/h3&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap02_Pag029.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap02_Pag029&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo II.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;p&gt;Paco vuelve al día siguiente a la calle domicilio de Miguel Ruiz, charla con Albert, Miguel aparece, Paco hace contacto, tienen una primera conversación en la acogedora llena de recuerdos casa de Miguel, le cuenta sobre el día del final de la guerra cuando el buque Stanbrook logra atravesar el bloqueo.&lt;/p&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap02_Pag030-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap02_Pag030-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo II, Pág 30, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap02_Pag032-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap02_Pag032-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo II, Pág 32, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;h3 id=&quot;captulo-iii-jueves--la-crcel-de-arena&quot;&gt;CAPÍTULO III. JUEVES / &lt;strong&gt;LA CÁRCEL DE ARENA&lt;/strong&gt;&lt;/h3&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap03_Pag043.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap03_Pag043&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo III.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;p&gt;Paco encuentra a Miguel en el cementerio, en su casa toman café. Al llegar a la ciudad portuaria de Argelia, Orán, no los quieren dejar desembarcar, Miguel en cubierta en medio de la lluvia conoce a Estrella y su madre Aurora, se separan cuando empiezan a desembarcar; primero los mandan a unos campos de trabajo en Morand en vagones de ganado, y cuando la guerra estalla los envían a unos campos de concentración en el desierto del Sahara con peores condiciones que los días en el Stanbrook para construir la vía férrea transahariana; mientras Miguel y otros estaban en los horribles campos de concentración saharianos, el Comandante Amado Granell que había saltado del tren en pleno desierto, y que Miguel pensó nunca volver a ver, se había unido a la resistencia en Orán.&lt;/p&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap03_Pag059-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap03_Pag059-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo III, Pág 59, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap03_Pag064-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap03_Pag064-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo III, Pág 64, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap03_Pag069-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap03_Pag069-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo III, Pág 69, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap03_Pag069-2.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap03_Pag069-2&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo III, Pág 69, 2.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap03_Pag072-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap03_Pag072-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo III, Pág 72, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap03_Pag079-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap03_Pag079-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo III, Pág 79, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap03_Pag080-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap03_Pag080-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo III, Pág 80, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap03_Pag082-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap03_Pag082-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo III, Pág 82, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;h3 id=&quot;captulo-iv-viernes--a-las-armas-de-nuevo&quot;&gt;CAPÍTULO IV. VIERNES / &lt;strong&gt;A LAS ARMAS DE NUEVO&lt;/strong&gt;&lt;/h3&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap04_Pag087.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap04_Pag087&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo IV.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;p&gt;En la guerra, en los campos de concentración de la construcción de las vías férreas transaharianas, Miguel y los otros discuten la situación de guerra actual. En mapas, con colores, flechas y texto y para diferentes años en que sucedieron hitos importantes de la guerra, se muestran los movimientos de diferentes grupos de exiliados españoles. Se describe la conformación del CFA (Cuerpo Franco de África), y la instrucción recibida en Sidi Ferruch donde conocerían muchos de los que luego formarían &lt;strong&gt;La Nueve&lt;/strong&gt;, a este grupo lo envían a Túnez a encontrarse con Rommel “el zorro del desierto”, se habla acerca de la incursión a Túnez y de la campaña de África, en Túnez hay batalla, cuando tienen cierta posición las tropas del Eje los contraatacan con proyectiles de artillería, Miguel despierta con una herida leve, huye al desierto en la dirección que creía estaba España, después de esto a los supervivientes de la compañía los reagrupan en la que estaba a las órdenes del Capitán Joseph Putz, veterano oficial francés que había luchado en la Primera Guerra Mundial y que estuvo en una de las brigadas internacionales en la guerra de España a quien los españoles admiraban, les subió la moral; ésta tropa tomó Bizerta, poco después las tropas del Eje se rendían en África, la primera gran victoria de los aliados, además en ese momento esa tropa obtuvo un permiso. En la actualidad tocan el timbre de la puerta, es Albert con sus dos hijos Albert y René, y una invitación a comer para seguir la entrevista.&lt;/p&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap04_Pag092-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap03_Pag092-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo IV, Pág 92, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap04_Pag101-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap03_Pag101-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo IV, Pág 101, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap04_Pag114-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap03_Pag114-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo IV, Pág 114, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap04_Pag115-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap03_Pag115-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo IV, Pág 115, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap04_Pag116-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap03_Pag116-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo IV, Pág 116, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap04_Pag116-2.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap03_Pag116-2&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo IV, Pág 116, 2.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap04_Pag117-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap03_Pag117-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo IV, Pág 117, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap04_Pag119-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap03_Pag119-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo IV, Pág 119, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;h3 id=&quot;captulo-v-viernes--el-ejrcito-de-la-francia-libre&quot;&gt;CAPÍTULO V. VIERNES / &lt;strong&gt;EL EJÉRCITO DE LA FRANCIA LIBRE&lt;/strong&gt;&lt;/h3&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap05_Pag125.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap05_Pag125&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo V.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;p&gt;En casa de Albert, comen, y el relato de Miguel continúa con el permiso otorgado, primero que todo dirigiéndose al hospital donde visita a Granell y le cuenta novedades: se van con Putz para unirse al ejército que está formando el francés De Gaulle ahí en África, la división está al mando de un general llamado Leclerc, también que los americanos están preparando un ejército para invadir Europa, el destino del ejército de De Gaulle es la liberación de Francia y subsiguientemente la de España. Granell sale del hospital, visita a Miguel, van a tomar unas cervezas de verdad, hablan con otros acerca de las ventajas de unirse a Leclerc y la forma de hacerlo, después de esta tertulia se dirigen a reclamar un encargo de un vendedor de textiles, ropa interior y banderitas. Hay muchas deserciones en el ejército del general Giraud, antiguo vichista, que los expulsó de Argelia en tren a un campamento en Libia. En Libia llegan por camionadas, un capitán Raymond Dronne llega y se entrevista con el general Leclerc, Leclerc informa que ya ha recibido orden de marchar a Marruecos a recibir instrucción con el moderno material americano con la única condición de deshacerse de los Chadianos que habían luchado desde el comienzo de la campaña africana, primeros soldados de la Francia libre, con la excusa tonta de que no soportarían el frío del norte de europa, eran ordenes de arriba, no querían negros liberando a Europa, los liberan. Luego en Octubre de 43 salen para Marruecos, la mayoría de españoles estaban en la compañía “La Nueve” con Raymond Dronne como capitán. En la actualidad terminan de comer, Albert recoge la mesa. Muestran la instrucción con los americanos, el bautizo de los vehículos sin nombres políticos que den problemas, sino con el nombre de las ciudades donde los republicanos habían combatido a Franco, pero simulando que eran las ciudades donde habían nacido, se muestra cómo aterriza el general francés De Gaulle. Al embarcar algunos se cambian de nombre, Paco se da cuenta que Miguel es el Miguel Campos mencionado por el capitán Raymond Dronne en sus memorias “Carnets de Route”, los diarios que continuamente escribía; en vista de esta grata sorpresa, Albert invita a cenar al restaurante de Juliette, cenan, continúan hablando, en el pasado se embarcan en el buque de recreo El Franconia donde iban de lujo hacia Europa.&lt;/p&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap05_Pag127-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap05_Pag127-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo V, Pág 127, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap05_Pag129-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap05_Pag129-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo V, Pág 129, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap05_Pag136-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap05_Pag136-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo V, Pág 136, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap05_Pag138-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap05_Pag138-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo V, Pág 138, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap05_Pag139-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap05_Pag139-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo V, Pág 139, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap05_Pag140-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap05_Pag140-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo V, Pág 140, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap05_Pag143-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap05_Pag143-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo V, Pág 143, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap05_Pag144-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap05_Pag144-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo V, Pág 144, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap05_Pag145-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap05_Pag145-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo V, Pág 145, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap05_Pag145-2.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap05_Pag145-2&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo V, Pág 145, 2.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap05_Pag147-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap05_Pag147-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo V, Pág 147, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap05_Pag147-2.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap05_Pag147-2&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo V, Pág 147, 2.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap05_Pag148-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap05_Pag148-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo V, Pág 148, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap05_Pag149-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap05_Pag149-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo V, Pág 149, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap05_Pag149-2.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap05_Pag149-2&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo V, Pág 149, 2.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap05_Pag150-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap05_Pag150-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo V, Pág 150, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap05_Pag152-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap05_Pag152-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo V, Pág 152, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap05_Pag154-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap05_Pag154-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo V, Pág 154, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap05_Pag154-2.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap05_Pag154-2&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo V, Pág 154, 2.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap05_Pag157-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap05_Pag157-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo V, Pág 157, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap05_Pag158-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap05_Pag158-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo V, Pág 158, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;h3 id=&quot;captulo-vi-sbado--regreso-a-europa&quot;&gt;CAPÍTULO VI. SÁBADO / &lt;strong&gt;REGRESO A EUROPA&lt;/strong&gt;&lt;/h3&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap06_Pag161.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap06_Pag161&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo VI.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;p&gt;En un buque rumbo a Europa los españoles cenan, después charlan en la cubierta divisando la gran flota de la que forman parte, tienen un par de alarmas de ataques de submarinos pero llegan a puerto de Escocia sin incidentes donde hay una multitud de gente esperándolos, hasta con banda de música con las faldas típicas, y allí en el puerto Leclerc dando la bienvenida a la división, para en seguida desplazarse en tren a York para iniciar la instrucción donde se les uniría Granell como teniente, reciben instrucciones en un pueblecito llamado Pocklington donde acampaban, Miguel recuerda con felicidad esos meses, esa época. A continuación una escena en un bar con música en vivo y baile, donde Royo conoce a una inglesa y están pasando una estupenda velada, cuando una flota de aviones aliados sobrevolando los alerta, es la madrugada del Día D, el desembarco aliado en las costas europeas, Miguel en ese momento le enseña a Paco la Insignia del Regimiento del Chad, símbolo de la Infanteria Colonial Francesa, a finales de Julio les llega su momento, se dirigen a Southampton. Miguel y Paco se despiden hasta por la tarde, Paco se sienta a tomar algo, Miguel compra unas flores y sigue su camino, Paco lo observa.&lt;/p&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap06_Pag168-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap06_Pag168-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo VI, Pág 168, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap06_Pag169-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap06_Pag169-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo VI, Pág 169, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap06_Pag172-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap06_Pag172-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo VI, Pág 172, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap06_Pag174-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap06_Pag174-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo VI, Pág 174, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;h3 id=&quot;captulo-vii-sbado-tarde--la-invasin-de-francia&quot;&gt;CAPÍTULO VII. SÁBADO TARDE / &lt;strong&gt;LA INVASIÓN DE FRANCIA&lt;/strong&gt;&lt;/h3&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap07_Pag179.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap07_Pag179&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo VII.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;p&gt;Albert deja a sus dos hijos en casa de Miguel ya que debe acudir al llamado de su ex Cat, Paco retoma el relato de Miguel en el desembarco en la famosa playa de Utah en Francia, el siguiente paso es unirse al avance hacia Bretaña del tercer ejército americano, la interacción con estos experimentados soldados americanos diferentes a los pipiolos que habían desembarcado anteriormente en África, el avance en los tanques por esa ruda vegetación, el ingenio americano al reforzar con sacos la parte delantera de los tanques, el rastrillo delantero, el trapicheo de prisioneros alemanes con los americanos. Albert llega, Paco se queda a cenar, Miguel continúa el relato con el avance a la toma de Écouché, son La Nueve, La Diez y los tanques de la 501 los que la ejecutan, ocupan Écouché con órdenes de mantener la posición, Granell (buen mecánico y conductor), Dronne, Reiter y Miguel adecúan un vehículo alemán en buen estado encontrado y se van de reconocimiento, por un ataque y persecusión con un tanque pierden el vehículo, más adelante encuentran una casa ocupada por un par de alemanes, los eliminan, cenan en la casa con los dueños la cena que estaban preparando para los alemanes dados de baja, por preguntas de Paco, Miguel menciona los negocios entre franceses y alemanes, los bombardeos americanos, y fuego de artillería alemana muy preciso debido a un espía alemán vestido de cura, después por medio del hijo de unos granjeros, un oficial alemán, coronel al mando, envía una carta anunciando rendición sin resistencia, pero advirtiendo que hay oficiales SS que no están dispuestos a hacerlo, se narra cómo Miguel y otros se infiltran tras las líneas enemigas de sorpresa, el enfrentamiento en el castillo de Écouché, y el desenlace exitoso de esa infiltración/misión. Paco le hace algunas preguntas a Miguel que lo incomodan.&lt;/p&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap07_Pag182-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap07_Pag182-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo VII, Pág 182, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap07_Pag182-2.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap07_Pag182-2&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo VII, Pág 182, 2.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap07_Pag220-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap07_Pag220-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo VII, Pág 220, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;h3 id=&quot;captulo-viii-lunes--couch-asegurada&quot;&gt;CAPÍTULO VIII. LUNES / &lt;strong&gt;ÉCOUCHÉ ASEGURADA&lt;/strong&gt;&lt;/h3&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap08_Pag223.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap08_Pag223&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo VIII.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;p&gt;Al buscar a Miguel, Albert informa a Paco que Miguel está en una consulta médica mensual, Paco va a encontrar a Miguel en el consultorio, Miguel comenta acerca del fanatismo nazi, y cuenta la anécdota de cuando al capturar cinco pipiolos nazis, él mismo, Miguel, ejecuta a dos de ellos. Por pregunta de Paco, Miguel contesta que está enfermo de Cirrosis Hepática, el relato contínua después de la toma del castillo de Écouché, los alemanes capturados hablan fácilmente; continúan guardando posición, y se describe la sangrienta batalla con muchas muertes en la que se asegura Écouché, el ejército inglés atribuyéndose todo y dándose/llevándose el crédito, siendo esta la primera vez en que se borraría el papel de La Nueve en la historia; la siguiente fase sería unirse a Leclerc que estaba con el resto de la división en Limours con dirección a París.&lt;/p&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap08_Pag232-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap08_Pag232-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo VIII, Pág 232, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap08_Pag236-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap08_Pag236-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo VIII, Pág 236, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap08_Pag242-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap08_Pag242-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo VIII, Pág 242, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap08_Pag242-2.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap08_Pag242-2&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo VIII, Pág 242, 2.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;h3 id=&quot;captulo-ix-lunes-tarde--directos-a-pars&quot;&gt;CAPÍTULO IX. LUNES TARDE / &lt;strong&gt;DIRECTOS A PARÍS&lt;/strong&gt;&lt;/h3&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap09_Pag245.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap09_Pag245&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo IX.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;p&gt;Paco y Albert charlan acerca de la tumba que Miguel cuida, luego, hablando acerca de los diarios del capitán Dronne, Miguel cuenta que ahora se dirigían a París, pero la idea era rodearla y seguir hacia el Este, los aliados pensaban que no era necesario retomar París, sino que caería sola cuando se hubiera liberado el resto de Francia, sin embargo De Gaulle finalmente por motivos estratégicos convence a los aliados de dar luz verde para liberar París, así que avanzan hasta los alrededores de la ciudad, la división blindada La Nueve avanza, se dirigen al sur de París evitando la posible resistencia que encontrarían, junto con turistas como el escritor Hemingway, y demás confusión; hasta llegar a Fresnes que estaba muy bien defendida y donde hay batalla, en Fresnes por la confusión de tanta orden y contraorden finalmente les indican replegarse hasta el eje principal del avance, retroceder hasta Croix de Berny, se comenta la paradójica muerte en los 70s del buen piloto que era Granell, como se ve en los diarios de Dronne, Granell que iba adelante habla con “El Patrón” general Leclerc que reprende al capitán Raymond Dronne por haber acatado la orden idiota de devolverse, Leclerc imparte órdenes urgentes de entrar esa misma noche en París; ya en París deben dar apoyo a los sublevados de la prefectura de policía y el ayuntamiento, y resistir hasta que llegue el resto de la divisón al siguiente día, un armenio Drikan en una moto destartalada los ayuda como guía en las calles de París donde algunos simpatizantes entorpecen el avance en una plaza, hasta llegar al ayuntamiento donde son recibidos y esperados como una columna de avanzada del ejército de De Gaulle, allí diplomáticos y prensa esperan, por la confusión Granell aparece en la foto portada de los periódicos como si fuera Dronne, de quien hacen referencia incorrecta con un Bronne, Dronne debía haber tenido los honores, refuerzan la seguridad después de una ráfaga accidental; después un cura hace sonar las campanas del templo, la plaza se anima, Miguel se reencuentra con la camarada (Estrella) del Stanbrook que ahora estaba en París unida a la resistencia, al día siguiente hay combates, Leclerc llega con el resto de la división, la anécdota graciosa en el discurso y condecoración de De Gaulle en Toulouse con respecto a los resistentes españoles y extranjeros del ejército de la Francia Libre, La Nueve recibe un reconocimiento, el desfile triunfal de De Gaulle en el Arco de Triunfo, se muestra el desfile, al final, de manera anárquica, por idea de Miguel, acompañado reticentemente por Granell, reemplazan el único símbolo fascista que queda en París, una bandera española, por una de las otras banderas que habían usado como resistencia.&lt;/p&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap09_Pag253-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap09_Pag253-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo IX, Pág 253, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap09_Pag258-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap09_Pag258-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo IX, Pág 258, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap09_Pag260-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap09_Pag260-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo IX, Pág 260, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap09_Pag261-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap09_Pag261-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo IX, Pág 261, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap09_Pag263-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap09_Pag263-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo IX, Pág 263, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap09_Pag266-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap09_Pag266-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo IX, Pág 266, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap09_Pag267-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap09_Pag267-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo IX, Pág 267, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap09_Pag273-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap09_Pag273-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo IX, Pág 273, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap09_Pag279-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap09_Pag279-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo IX, Pág 279, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap09_Pag279-2.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap09_Pag279-2&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo IX, Pág 279, 2.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap09_Pag280-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap09_Pag280-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo IX, Pág 280, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap09_Pag281-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap09_Pag281-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo IX, Pág 281, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap09_Pag283-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap09_Pag283-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo IX, Pág 283, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap09_Pag283-2.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap09_Pag283-2&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo IX, Pág 283, 2.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap09_Pag287-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap09_Pag287-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo IX, Pág 287, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;h3 id=&quot;captulo-x-lunes-noche--camino-de-madrid&quot;&gt;CAPÍTULO X. LUNES NOCHE / &lt;strong&gt;CAMINO DE MADRID&lt;/strong&gt;&lt;/h3&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap10_Pag289.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap10_Pag289&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo X.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;p&gt;Después de reemplazar esa bandera, la camarada Estrella los conduce a un salón donde hay una fiesta en la que está el escritor americano Hemingway, charlan con él, Miguel y Estrella comparten la noche juntos, acampan unos días en el bosque de Bolonia estando bien atendidos por los parisinos, días estupendos, Miguel pasa esa estancia en París con Estrella, en la despedida le cuenta el plan que tiene con Fábregas respecto a la invansión a España para derrotar a Franco, Miguel y Granell discuten, esa es su última conversación, acerca de la forma de lograr el objetivo común, se cuenta como Fábregas, Alicio y Marcel caen bajo la misma ráfaga de ametralladora en una de esas inadecuadas patrullas, a continuación Miguel cuenta la misión en la que desaparece Miguel Campos en la que había concertado con Estrella para huir a España, después de encontrarse exitosamente y estar en camino, una fatídica mina acaba con la vida de Estrella.&lt;/p&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap10_Pag292-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap10_Pag292-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo X, Pág 292, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap10_Pag292-2.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap10_Pag292-2&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo X, Pág 292, 2.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap10_Pag293-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap10_Pag293-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo X, Pág 293, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap10_Pag294-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap10_Pag294-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo X, Pág 294, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap10_Pag297-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap10_Pag297-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo X, Pág 297, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap10_Pag297-2.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap10_Pag297-2&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo X, Pág 297, 2.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap10_Pag299-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap10_Pag299-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo X, Pág 299, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap10_Pag300-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap10_Pag300-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo X, Pág 300, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap10_Pag300-2.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap10_Pag300-2&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo X, Pág 300, 2.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap10_Pag300-3.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap10_Pag300-3&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo X, Pág 300, 3.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap10_Pag301-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap10_Pag301-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo X, Pág 301, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap10_Pag303-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap10_Pag303-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo X, Pág 303, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;h3 id=&quot;captulo-xi-martes--los-sin-patria&quot;&gt;CAPÍTULO XI. MARTES / &lt;strong&gt;LOS SIN PATRIA&lt;/strong&gt;&lt;/h3&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap11_Pag309.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap11_Pag309&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo XI.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;p&gt;Paco se encuentra con Miguel en el cementerio, Miguel cuenta cómo perdió el contacto con el resto de la división y qué hizo después de desertar y de la muerte de Estrella, a dónde se dirigió, dónde estuvo, cuenta del reencuentro con Pepa y su familia, de porqué no le escribió en esos 12 años de ausencia, después por diferentes motivos incluídos los políticos y de seguridad, Miguel, cambiándose de nuevo el nombre, decide regresar a Francia, Paco le agradece a Miguel, Miguel comenta que Albert ha hablado con el alcalde para hacerle un homenaje a él, al final Paco le obsequia una cadena a Miguel para su amuleto que guardaba en el bolsillo.&lt;/p&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap11_Pag310-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap11_Pag310-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo XI, Pág 310, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap11_Pag311-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap11_Pag311-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo XI, Pág 311, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap11_Pag312-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap11_Pag312-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo XI, Pág 312, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap11_Pag312-2.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap11_Pag312-2&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo XI, Pág 312, 2.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap11_Pag313-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap11_Pag313-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo XI, Pág 313, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap11_Pag314-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap11_Pag314-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo XI, Pág 314, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap11_Pag314-2.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap11_Pag314-2&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo XI, Pág 314, 2.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap11_Pag316-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap11_Pag316-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo XI, Pág 316, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap11_Pag316-2.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap11_Pag316-2&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo XI, Pág 316, 2.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap11_Pag316-3.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap11_Pag316-3&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo XI, Pág 316, 3.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap11_Pag317-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap11_Pag317-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo XI, Pág 317, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap11_Pag318-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap11_Pag318-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo XI, Pág 318, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap11_Pag319-1.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap11_Pag319-1&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo XI, Pág 319, 1.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/LosSurcosDelAzar_PacoRoca_Cap11_Pag319-2.png&quot; alt=&quot;LosSurcosDelAzar_PacoRoca_Cap11_Pag319-2&quot; title=&quot;Los surcos del azar - Paco Roca. Capítulo XI, Pág 319, 2.&quot; width=&quot;40%&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;h3 id=&quot;eplogo&quot;&gt;EPÍLOGO&lt;/h3&gt;
-&lt;p&gt;Robert S Coale escribe de su interés en los españoles republicanos que ayudaron a derrotar al nazismo y el fascismo, y de cómo llega a Paco Roca y su obra.&lt;/p&gt;
-
-&lt;h3 id=&quot;agradecimientos&quot;&gt;AGRADECIMIENTOS&lt;/h3&gt;
-&lt;p&gt;Paco Roca nombra y agradece personas que desempañaron roles importantes en la concepción de la obra.&lt;/p&gt;
-
-&lt;h2 id=&quot;citas&quot;&gt;CITAS&lt;/h2&gt;
-&lt;p&gt;Me gustan las casas llenas de recuerdos.&lt;/p&gt;
-
-&lt;p&gt;Cuando parece que hemos tocado fondo aún caemos más.&lt;/p&gt;
-
-&lt;p&gt;Mejor estaríamos muertos.&lt;/p&gt;
-
-&lt;p&gt;La guerra consiste en esperar y ser pacientes.&lt;/p&gt;
-
-&lt;p&gt;http://dle.rae.es/?id=ZsJxHXs tirria 1. Manía, odio u ojeriza hacia algo o alguien. 2. Disgusto, enojo. 3. Porfía repetida. #término&lt;/p&gt;
-
-&lt;p&gt;http://dle.rae.es/?id=GBGG4xE escarceo 1. Movimiento en la superficie del mar, con pequeñas olas ampolladas que se levantan en los parajes en que hay corrientes. 2. Prueba o tentativa antes de iniciar una acción determinada. 3. divagación. 4. Tanteo, incursión en algún quehacer que no es el acostumbrado. 5. Tentativa, intento de hacer algo sin mucha profundidad o dedicación. 6. Torno y vuelta que da un caballo cuando está fogoso o el jinete lo obliga a ello. escarceo amoroso 1. Comienzo o iniciación de una relación amorosa. 2. Aventura amorosa superficial. #término&lt;/p&gt;
-
-&lt;h2 id=&quot;trminos&quot;&gt;TÉRMINOS&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;tirria&lt;/em&gt;, &lt;em&gt;escarceo&lt;/em&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;referencias&quot;&gt;REFERENCIAS&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://es.wikipedia.org/wiki/Los_surcos_del_azar&quot; target=&quot;_blank&quot;&gt;https://es.wikipedia.org/wiki/Los_surcos_del_azar&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://es.wikipedia.org/wiki/Paco_Roca&quot; target=&quot;_blank&quot;&gt;https://es.wikipedia.org/wiki/Paco_Roca&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Paco_Roca&quot; target=&quot;_blank&quot;&gt;https://en.wikipedia.org/wiki/Paco_Roca&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://drive.google.com/file/d/0BwP-qW2ubuj5dm5fR3pwdGtvNWs/view&quot; target=&quot;_blank&quot;&gt;https://drive.google.com/file/d/0BwP-qW2ubuj5dm5fR3pwdGtvNWs/view&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Tue, 21 Jun 2016 03:55:42 -0500</pubDate>
-        <link>/gh-blog/2016/06/21/surcos-azar-paco-roca.html</link>
-        <guid isPermaLink="true">/gh-blog/2016/06/21/surcos-azar-paco-roca.html</guid>
       </item>
     
   </channel>
