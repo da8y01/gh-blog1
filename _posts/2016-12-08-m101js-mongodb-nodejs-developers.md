@@ -217,7 +217,7 @@ Following are presented the contents and answers to the HomeWorks belonging to *
 
 ### ANSWER HOMEWORK 3.1:
 ![HW 3.1 Import][m101js_hw31_Import]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
-![HW 3.1 MongoChecks][m101js_hw31_MongoChecks]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
+![HW 3.1 MongoChecks][m101js_hw31_MongoChecks]{: width="50%" style="display:block; margin-left:auto; margin-right:auto"}
 ![HW 3.1 Output][m101js_hw31_Output]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 ![HW 3.1 MongoVerify][m101js_hw31_MongoVerify]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
