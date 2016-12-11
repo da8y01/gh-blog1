@@ -18,7 +18,7 @@ Following are presented the contents and answers to the HomeWorks belonging to *
 Simply it was about verifying the correct MongoDB installation, example data import and basic query execution over those imported data.
 
 First, `mongorestore`:
-{% highlight text linenos %}
+{% highlight text linenos=table %}
 $ /opt/mongodb-linux-i686-2.6.0/bin/mongorestore
 connected to: 127.0.0.1
 2014-05-07T07:49:22.176-0500 dump/m101/hw1_1.bson
@@ -30,7 +30,7 @@ $
 ![HW 1.1 MongoRestore][m101js_hw11_MongoRestore]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
 Then, some MongoShell checks about the restoration and the result answer:
-{% highlight text linenos %}
+{% highlight text linenos=table %}
 MongoDB shell version: 2.6.0
 connecting to: test
 Server has startup warnings:
@@ -99,7 +99,7 @@ Following are presented the contents and answers to the HomeWorks belonging to *
 ### ANSWER HOMEWORK 2.1:
 ![HW 2.1 MongoshellChecks][m101js_hw21_MongoshellChecks]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
-{% highlight javascript linenos %}
+{% highlight javascript linenos=table %}
 use weather
 query = {"Wind Direction":{$gt:180, $lt:360}}
 project = {_id:false, State:true}
@@ -107,7 +107,7 @@ sorting = {Temperature:1}
 db.data.find(query,project).sort(sorting).limit(5)
 {% endhighlight %}
 
-{% highlight javascript linenos %}
+{% highlight javascript linenos=table %}
 MongoDB shell version: 2.6.0
 connecting to: test
 switched to db weather
@@ -138,7 +138,7 @@ bye
 
 ### ANSWER HOMEWORK 2.3:
 Code snippet for `this.addUser = function(username, password, email, callback)` function:
-{% highlight javascript linenos %}
+{% highlight javascript linenos=table %}
 this.addUser = function(username, password, email, callback) {
     "use strict";
 
@@ -169,7 +169,7 @@ this.addUser = function(username, password, email, callback) {
 {% endhighlight %}
 
 Code snippet for `this.validateLogin = function(username, password, callback)` function:
-{% highlight javascript linenos %}
+{% highlight javascript linenos=table %}
 this.validateLogin = function(username, password, callback) {
     "use strict";
 
@@ -226,7 +226,7 @@ Following are presented the contents and answers to the HomeWorks belonging to *
 
 ### ANSWER HOMEWORK 3.2:
 Code snippet for `this.insertEntry = function (title, body, tags, author, callback)` function:
-{% highlight javascript linenos %}
+{% highlight javascript linenos=table %}
 this.insertEntry = function (title, body, tags, author, callback) {
     "use strict";
     console.log("inserting blog entry" + title + body);
@@ -262,7 +262,7 @@ this.insertEntry = function (title, body, tags, author, callback) {
 
 ### ANSWER HOMEWORK 3.3:
 Code snippet for `this.addComment = function(permalink, name, email, body, callback)` function:
-{% highlight javascript linenos %}
+{% highlight javascript linenos=table %}
 this.addComment = function(permalink, name, email, body, callback) {
     "use strict";
 
@@ -317,7 +317,7 @@ Following are presented the contents and answers to the HomeWorks belonging to *
 ### HOMEWORK 5.1
 
 ### ANSWER HOMEWORK 5.1:
-{% highlight javascript linenos %}
+{% highlight javascript linenos=table %}
 db.posts.aggregate([
 	{"$unwind":"$comments"},
 	{"$group":{
@@ -335,7 +335,7 @@ db.posts.aggregate([
 ### HOMEWORK 5.2
 
 ### ANSWER HOMEWORK 5.2:
-{% highlight javascript linenos %}
+{% highlight javascript linenos=table %}
 db.zips.aggregate([
 	{"$match":{
 		"state":{"$in":["CA","NY"]}
@@ -361,7 +361,7 @@ db.zips.aggregate([
 ### HOMEWORK 5.3
 
 ### ANSWER HOMEWORK 5.3:
-{% highlight javascript linenos %}
+{% highlight javascript linenos=table %}
 db.grades.aggregate([
 	{"$unwind":"$scores"},
 	{"$match":{
@@ -389,7 +389,7 @@ db.grades.aggregate([
 ### HOMEWORK 5.4
 
 ### ANSWER HOMEWORK 5.4:
-{% highlight javascript linenos %}
+{% highlight javascript linenos=table %}
 use test
 db.zips.aggregate([
 	{"$match":{
@@ -450,7 +450,7 @@ Following are presented the contents and answers to the questions belonging to *
 ![M101JS Final Question 1 Statement][m101js_final01_Statement]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
 ### Final: Question 1. Answer:
-{% highlight text linenos %}
+{% highlight text linenos=table %}
 $ l
 enron.zip
 $ unzip enron.zip
@@ -480,7 +480,7 @@ $
 {% endhighlight %}
 ![M101JS Final Question 1 UnzipRestore][m101js_final01_UnzipRestore]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
-{% highlight text linenos %}
+{% highlight text linenos=table %}
 > show dbs
 admin    (empty)
 blog     0.078GB
@@ -511,7 +511,7 @@ system.indexes
 {% endhighlight %}
 ![M101JS Final Question 1 MongoChecks][m101js_final01_MongoChecks]{: width="50%" style="display:block; margin-left:auto; margin-right:auto"}
 
-{% highlight text linenos %}
+{% highlight text linenos=table %}
 $ l
 dump/  enron.zip  final01_00.js
 $ cat final01_00.js
@@ -537,7 +537,7 @@ bye
 
 ### Final: Question 2. Answer:
 Query to be executed:
-{% highlight javascript linenos %}
+{% highlight javascript linenos=table %}
 use enron
 
 project = {_id:1, headers:1, body:0}
@@ -572,7 +572,7 @@ db.messages.aggregate(
 {% endhighlight %}
 
 Output of the previous query:
-{% highlight text linenos %}
+{% highlight text linenos=table %}
 MongoDB shell version: 2.6.0
 connecting to: test
 switched to db enron
@@ -592,7 +592,7 @@ bye
 {% endhighlight %}
 
 Execution on the terminal:
-{% highlight text linenos %}
+{% highlight text linenos=table %}
 $ l
 dump/  enron.zip  final01_00.js  final02_00.js  final02_01.js
 $ cat final02_00.js
@@ -655,7 +655,7 @@ $
 ![M101JS Final Question 3 Statement 2][m101js_final03_Statement2]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
 ### Final: Question 3. Answer:
-{% highlight text linenos %}
+{% highlight text linenos=table %}
 > db.messages.find({"headers.Message-ID":"<8147308.1075851042335.JavaMail.evans@thyme>"}).count()
 1
 > db.messages.findOne({"headers.Message-ID":"<8147308.1075851042335.JavaMail.evans@thyme>"}, {body:0})
@@ -799,7 +799,7 @@ WriteResult({ "nMatched" : 1, "nUpserted" : 0, "nModified" : 1 })
 ![M101JS Final Question 3 MongoShell3][m101js_final03_MongoShell3]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 ![M101JS Final Question 3 MongoShell4][m101js_final03_MongoShell4]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
-{% highlight text linenos %}
+{% highlight text linenos=table %}
 $ l
 final03_00.js  final3-validate.js*  package.json*
 $ nodejs final3-validate.js
@@ -870,7 +870,7 @@ $
 ![M101JS Final Question 4 Statement2][m101js_final04_Statement2]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
 ### Final: Question 4. Answer:
-{% highlight text linenos %}
+{% highlight text linenos=table %}
 $ l
 final4/  posts.json
 question_4$ cd final4/l
@@ -903,7 +903,7 @@ question_4$
 {% endhighlight %}
 ![M101JS Final Question 4 InspectImport][m101js_final04_InspectImport]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
-{% highlight text linenos %}
+{% highlight text linenos=table %}
 > show dbs
 admin    (empty)
 enron    0.953GB
@@ -934,14 +934,14 @@ system.indexes
 {% endhighlight %}
 ![M101JS Final Question 4 MongoChecks][m101js_final04_MongoChecks]{: width="50%" style="display:block; margin-left:auto; margin-right:auto"}
 
-{% highlight text linenos %}
+{% highlight text linenos=table %}
 blog$ nodejs app.js
 Express server listening on port 3000
 Found 10 posts
 {% endhighlight %}
 ![M101JS Final Question 4 RunBlog][m101js_final04_RunBlog]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
-{% highlight text linenos %}
+{% highlight text linenos=table %}
 validate$ l
 final4-validate.js*  node_modules/  package.json*
 validate$ nodejs final4-validate.js
@@ -962,7 +962,7 @@ validate$
 ![M101JS Final Question 5 Statement2][m101js_final05_Statement2]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 ![M101JS Final Question 5 Statement3][m101js_final05_Statement3]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
-{% highlight text linenos %}
+{% highlight text linenos=table %}
 [
 	{
 		"v" : 1,
@@ -1011,7 +1011,7 @@ validate$
 ]
 {% endhighlight %}
 
-{% highlight text linenos %}
+{% highlight text linenos=table %}
 db.fubar.find({'a':{'$lt':10000}, 'b':{'$gt': 5000}}, {'a':1, 'c':1}).sort({'c':-1})
 {% endhighlight %}
 
@@ -1022,7 +1022,7 @@ db.fubar.find({'a':{'$lt':10000}, 'b':{'$gt': 5000}}, {'a':1, 'c':1}).sort({'c':
 ![M101JS Final Question 6 Statement1][m101js_final06_Statement1]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 ![M101JS Final Question 6 Statement2][m101js_final06_Statement2]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
-{% highlight text linenos %}
+{% highlight text linenos=table %}
 {
 	"_id" : ObjectId("50c598f582094fb5f92efb96"),
 	"first_name" : "John",
@@ -1048,7 +1048,7 @@ db.fubar.find({'a':{'$lt':10000}, 'b':{'$gt': 5000}}, {'a':1, 'c':1}).sort({'c':
 ![M101JS Final Question 7 Statement2][m101js_final07_Statement2]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
 ### Final: Question 7. Answer:
-{% highlight text linenos %}
+{% highlight text linenos=table %}
 question_7/final7/final7$ l
 albums.json*  images.json*
 question_7/final7/final7$ /opt/mongodb-linux-i686-2.6.0/bin/mongoimport -d final07 -c albums albums.json
@@ -1065,7 +1065,7 @@ question_7/final7/final7$
 {% endhighlight %}
 ![M101JS Final Question 7 Statement2][m101js_final07_Statement2]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
-{% highlight text linenos %}
+{% highlight text linenos=table %}
 > show dbs
 admin    (empty)
 blog     0.078GB
@@ -1243,7 +1243,7 @@ system.indexes
 ![M101J Final Question 7 MongoChecks3][m101js_final07_MongoChecks3]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 ![M101J Final Question 7 MongoChecks4][m101js_final07_MongoChecks4]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
-{% highlight text linenos %}
+{% highlight text linenos=table %}
 > db.albums.findOne()
 {
 	"_id" : 67
@@ -1291,11 +1291,11 @@ system.indexes
 ![M101JS Final Question 10 Statement2][m101js_final10_Statement2]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
 ### Final: Question 10. Answer:
-{% highlight javascript linenos %}
+{% highlight javascript linenos=table %}
 db.messages.find({'headers.Date':{'$gt': new Date(2001,3,1)}},{'headers.From':1, _id:0}).sort({'headers.From':1}).explain()
 {% endhighlight %}
 
-{% highlight javascript linenos %}
+{% highlight javascript linenos=table %}
 {
 	"cursor" : "BtreeCursor headers.From_1",
 	"isMultiKey" : false,

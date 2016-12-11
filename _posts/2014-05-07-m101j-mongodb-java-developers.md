@@ -380,7 +380,7 @@ Following are presented the contents and answers to the HomeWorks belonging to *
 
 ### ANSWER HOMEWORK 2.3:
 Code snippet for `public boolean addUser(String username, String password, String email)` method:
-{% highlight java linenos %}
+{% highlight java linenos=table %}
 // validates that username is unique and insert into db
 public boolean addUser(String username, String password, String email) {
 
@@ -413,7 +413,7 @@ public boolean addUser(String username, String password, String email) {
 {% endhighlight %}
 
 Code snippet for `public DBObject validateLogin(String username, String password)` method:
-{% highlight java linenos %}
+{% highlight java linenos=table %}
 public DBObject validateLogin(String username, String password) {
     DBObject user = null;
 
@@ -457,7 +457,7 @@ Following are presented the contents and answers to the HomeWorks belonging to *
 
 ### ANSWER HOMEWORK 3.2:
 Code snippet for `public DBObject findByPermalink(String permalink)` method:
-{% highlight java linenos %}
+{% highlight java linenos=table %}
 // Return a single post corresponding to a permalink
 public DBObject findByPermalink(String permalink) {
 
@@ -472,7 +472,7 @@ public DBObject findByPermalink(String permalink) {
 {% endhighlight %}
 
 Code snippet for `public List<DBObject> findByDateDescending(int limit)` method:
-{% highlight java linenos %}
+{% highlight java linenos=table %}
 // Return a list of posts in descending order. Limit determines
 // how many posts are returned.
 public List<DBObject> findByDateDescending(int limit) {
@@ -490,7 +490,7 @@ public List<DBObject> findByDateDescending(int limit) {
 {% endhighlight %}
 
 Code snippet for `public String addPost(String title, String body, List tags, String username)` method:
-{% highlight java linenos %}
+{% highlight java linenos=table %}
 public String addPost(String title, String body, List tags, String username) {
 
     System.out.println("inserting blog entry " + title + " " + body);
@@ -527,7 +527,7 @@ public String addPost(String title, String body, List tags, String username) {
 
 ### ANSWER HOMEWORK 3.3:
 Code snippet for `public void addPostComment(final String name, final String email, final String body, final String permalink)` method:
-{% highlight java linenos %}
+{% highlight java linenos=table %}
 // Append a comment to a blog post
 public void addPostComment(final String name, final String email, final String body,
                            final String permalink) {
@@ -591,7 +591,7 @@ Following are presented the contents and answers to the HomeWorks belonging to *
 ### HOMEWORK 5.1
 
 ### ANSWER HOMEWORK 5.1:
-{% highlight javascript linenos %}
+{% highlight javascript linenos=table %}
 db.posts.aggregate([{"$unwind":"$comments"}, {"$group":{"_id":"$comments.author","comment_count":{"$sum":1}}}, {"$sort":{"comment_count":-1}}, {"$limit":1}])
 {% endhighlight %}
 
@@ -601,7 +601,7 @@ db.posts.aggregate([{"$unwind":"$comments"}, {"$group":{"_id":"$comments.author"
 ### HOMEWORK 5.2
 
 ### ANSWER HOMEWORK 5.2:
-{% highlight javascript linenos %}
+{% highlight javascript linenos=table %}
 use test
 
 db.small_zips.aggregate([
@@ -628,7 +628,7 @@ db.small_zips.aggregate([
 ### HOMEWORK 5.3
 
 ### ANSWER HOMEWORK 5.3:
-{% highlight javascript linenos %}
+{% highlight javascript linenos=table %}
 use test
 
 db.grades.aggregate([
@@ -663,7 +663,7 @@ db.grades.aggregate([
 ### HOMEWORK 5.4
 
 ### ANSWER HOMEWORK 5.4:
-{% highlight javascript linenos %}
+{% highlight javascript linenos=table %}
 use test
 
 db.zips.aggregate([
@@ -725,7 +725,7 @@ Following are presented the contents and answers to the questions belonging to *
 ![M101J Final Question 1][m101j_finalq01]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
 ### Final: Question 1. Answer:
-{% highlight text linenos %}
+{% highlight text linenos=table %}
 $ l
 enron.zip
 $ unzip enron.zip
@@ -756,7 +756,7 @@ $
 
 ![M101J Final Question 1 Answer 1][m101j_finalq01_answer1]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
-{% highlight text linenos %}
+{% highlight text linenos=table %}
 > show dbs
 admin    (empty)
 blog     0.078GB
@@ -788,7 +788,7 @@ system.indexes
 
 ![M101J Final Question 1 Answer 2][m101j_finalq01_answer2]{: width="50%" style="display:block; margin-left:auto; margin-right:auto"}
 
-{% highlight text linenos %}
+{% highlight text linenos=table %}
 $ l
 dump/  enron.zip  final01_00.js
 $ cat final01_00.js
@@ -831,7 +831,7 @@ $
 ![M101J Final Question 2][m101j_finalq02]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
 ### Final: Question 2. Answer:
-{% highlight javascript linenos %}
+{% highlight javascript linenos=table %}
 use enron
 db.messages.aggregate([
 	{$unwind:"$headers.To"},
@@ -854,7 +854,7 @@ db.messages.aggregate([
 ])
 {% endhighlight %}
 
-{% highlight javascript linenos %}
+{% highlight javascript linenos=table %}
 MongoDB shell version: 2.6.0
 connecting to: test
 switched to db enron
@@ -873,7 +873,7 @@ bye
 ![M101J Final Question 3][m101j_finalq03]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
 ### Final: Question 3. Answer:
-{% highlight javascript linenos %}
+{% highlight javascript linenos=table %}
 // use enron
 query = {"headers.Message-ID":"<8147308.1075851042335.JavaMail.evans@thyme>"}
 change = {$push:{"headers.To":"mrpotatohead@10gen.com"}}
@@ -893,7 +893,7 @@ db.messages.findOne(query)
 ![M101J Final Question 4 Answer 2][m101j_finalq04_answer2_count]{: width="50%" style="display:block; margin-left:auto; margin-right:auto"}
 
 Code snippet for `public void likePost(final String permalink, final int ordinal)` method:
-{% highlight java linenos %}
+{% highlight java linenos=table %}
 public void likePost(final String permalink, final int ordinal) {
 
 // XXX Final Exam, Please work here
@@ -929,7 +929,7 @@ public void likePost(final String permalink, final int ordinal) {
 ![M101J Final Question 7 Answer 2][m101j_finalq07_answer2_win_check]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 ![M101J Final Question 7 Answer 3][m101j_finalq07_answer3_win_indexes]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
-{% highlight javascript linenos %}
+{% highlight javascript linenos=table %}
 use final7
 counter = 1
 cursor_images = db.images.find(); null;

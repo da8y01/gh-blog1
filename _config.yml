@@ -10,7 +10,7 @@ url: http://da8y01.github.io
 markdown: kramdown
 permalinks: pretty
 
-highlighter: pygments
+highlighter: rouge
 
 analytics:
   provider: google
