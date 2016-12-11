@@ -402,10 +402,10 @@
 &lt;img src=&quot;/gh-blog/assets/m101js_hw65_Validate.png&quot; alt=&quot;HW 6.5 Validate&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;final-exam&quot;&gt;Final Exam&lt;/h2&gt;
-&lt;p&gt;Following are presented the contents and answers to the questions belonging to &lt;strong&gt;Final Exam&lt;/strong&gt; for “&lt;em&gt;M101J: MongoDB for Java Developers&lt;/em&gt;” course offered by https://university.mongodb.com/ started at 2014-03-17.&lt;/p&gt;
+&lt;p&gt;Following are presented the contents and answers to the questions belonging to &lt;strong&gt;Final Exam&lt;/strong&gt; for “&lt;em&gt;M101J: MongoDB for Node.js Developers&lt;/em&gt;” course offered by https://university.mongodb.com/ started at 2014-03-24.&lt;/p&gt;
 
 &lt;h3 id=&quot;final-question-1&quot;&gt;Final: Question 1&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101j_finalq01.png&quot; alt=&quot;M101J Final Question 1&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;![M101JS Final Question 1 Statement][m101js_final01_Statement]{: width=”75%” style=”display:block; margin-left:auto; margin-right:auto”}&lt;/p&gt;
 
 &lt;h3 id=&quot;final-question-1-answer&quot;&gt;Final: Question 1. Answer:&lt;/h3&gt;
 
@@ -436,7 +436,7 @@
 &lt;span class=&quot;lineno&quot;&gt;25&lt;/span&gt; dump/  enron.zip
 &lt;span class=&quot;lineno&quot;&gt;26&lt;/span&gt; $&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101j_finalq01_answer1.png&quot; alt=&quot;M101J Final Question 1 Answer 1&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;![M101JS Final Question 1 UnzipRestore][m101js_final01_UnzipRestore]{: width=”75%” style=”display:block; margin-left:auto; margin-right:auto”}&lt;/p&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;&lt;span class=&quot;lineno&quot;&gt; 1&lt;/span&gt; &amp;gt; show dbs
 &lt;span class=&quot;lineno&quot;&gt; 2&lt;/span&gt; admin    (empty)
@@ -466,7 +466,7 @@
 &lt;span class=&quot;lineno&quot;&gt;26&lt;/span&gt; 120477
 &lt;span class=&quot;lineno&quot;&gt;27&lt;/span&gt; &amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101j_finalq01_answer2.png&quot; alt=&quot;M101J Final Question 1 Answer 2&quot; width=&quot;50%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;![M101JS Final Question 1 MongoChecks][m101js_final01_MongoChecks]{: width=”50%” style=”display:block; margin-left:auto; margin-right:auto”}&lt;/p&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;&lt;span class=&quot;lineno&quot;&gt; 1&lt;/span&gt; $ l
 &lt;span class=&quot;lineno&quot;&gt; 2&lt;/span&gt; dump/  enron.zip  final01_00.js
@@ -483,113 +483,504 @@
 &lt;span class=&quot;lineno&quot;&gt;13&lt;/span&gt; 	&amp;quot;headers.To&amp;quot; : &amp;quot;john.lavorato@enron.com&amp;quot;
 &lt;span class=&quot;lineno&quot;&gt;14&lt;/span&gt; }
 &lt;span class=&quot;lineno&quot;&gt;15&lt;/span&gt; 1
-&lt;span class=&quot;lineno&quot;&gt;16&lt;/span&gt; bye
-&lt;span class=&quot;lineno&quot;&gt;17&lt;/span&gt; $ l
-&lt;span class=&quot;lineno&quot;&gt;18&lt;/span&gt; dump/  enron.zip  final01_00.js
-&lt;span class=&quot;lineno&quot;&gt;19&lt;/span&gt; $ cat final01_00.js
-&lt;span class=&quot;lineno&quot;&gt;20&lt;/span&gt; use enron
-&lt;span class=&quot;lineno&quot;&gt;21&lt;/span&gt; query = {&amp;quot;headers.From&amp;quot;:&amp;quot;andrew.fastow@enron.com&amp;quot;, &amp;quot;headers.To&amp;quot;:&amp;quot;jeff.skilling@enron.com&amp;quot;}
-&lt;span class=&quot;lineno&quot;&gt;22&lt;/span&gt; db.messages.find(query).count()
-&lt;span class=&quot;lineno&quot;&gt;23&lt;/span&gt; $ /opt/mongodb-linux-i686-2.6.0/bin/mongo &amp;lt; final01_00.js
-&lt;span class=&quot;lineno&quot;&gt;24&lt;/span&gt; MongoDB shell version: 2.6.0
-&lt;span class=&quot;lineno&quot;&gt;25&lt;/span&gt; connecting to: test
-&lt;span class=&quot;lineno&quot;&gt;26&lt;/span&gt; switched to db enron
-&lt;span class=&quot;lineno&quot;&gt;27&lt;/span&gt; {
-&lt;span class=&quot;lineno&quot;&gt;28&lt;/span&gt; 	&amp;quot;headers.From&amp;quot; : &amp;quot;andrew.fastow@enron.com&amp;quot;,
-&lt;span class=&quot;lineno&quot;&gt;29&lt;/span&gt; 	&amp;quot;headers.To&amp;quot; : &amp;quot;jeff.skilling@enron.com&amp;quot;
-&lt;span class=&quot;lineno&quot;&gt;30&lt;/span&gt; }
-&lt;span class=&quot;lineno&quot;&gt;31&lt;/span&gt; 3
-&lt;span class=&quot;lineno&quot;&gt;32&lt;/span&gt; bye
-&lt;span class=&quot;lineno&quot;&gt;33&lt;/span&gt; $&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;span class=&quot;lineno&quot;&gt;16&lt;/span&gt; bye&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101j_finalq01_answer3.png&quot; alt=&quot;M101J Final Question 1 Answer 3&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;![M101JS Final Question 1 MongoQuery][m101js_final01_MongoQuery]{: width=”75%” style=”display:block; margin-left:auto; margin-right:auto”}&lt;/p&gt;
 
 &lt;h3 id=&quot;final-question-2&quot;&gt;Final: Question 2&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101j_finalq02.png&quot; alt=&quot;M101J Final Question 2&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;![M101JS Final Question 2 Statement][m101js_final02_Statement]{: width=”75%” style=”display:block; margin-left:auto; margin-right:auto”}&lt;/p&gt;
 
 &lt;h3 id=&quot;final-question-2-answer&quot;&gt;Final: Question 2. Answer:&lt;/h3&gt;
+&lt;p&gt;Query to be executed:&lt;/p&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;lineno&quot;&gt; 1&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;use&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;enron&lt;/span&gt;
-&lt;span class=&quot;lineno&quot;&gt; 2&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;db&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;messages&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;aggregate&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;([&lt;/span&gt;
-&lt;span class=&quot;lineno&quot;&gt; 3&lt;/span&gt; 	&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;$unwind&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$headers.To&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
-&lt;span class=&quot;lineno&quot;&gt; 4&lt;/span&gt; 	&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;$group&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-&lt;span class=&quot;lineno&quot;&gt; 5&lt;/span&gt; 		&lt;span class=&quot;nx&quot;&gt;_id&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;id&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$_id&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;from&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$headers.From&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
-&lt;span class=&quot;lineno&quot;&gt; 6&lt;/span&gt; 		&lt;span class=&quot;nx&quot;&gt;tos&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;$addToSet&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$headers.To&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;lineno&quot;&gt; 7&lt;/span&gt; 	&lt;span class=&quot;p&quot;&gt;}},&lt;/span&gt;
-&lt;span class=&quot;lineno&quot;&gt; 8&lt;/span&gt; 	&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;$unwind&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$tos&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
-&lt;span class=&quot;lineno&quot;&gt; 9&lt;/span&gt; 	&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;$group&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-&lt;span class=&quot;lineno&quot;&gt;10&lt;/span&gt; 		&lt;span class=&quot;nx&quot;&gt;_id&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-&lt;span class=&quot;lineno&quot;&gt;11&lt;/span&gt; 			&lt;span class=&quot;nx&quot;&gt;from&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$_id.from&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-&lt;span class=&quot;lineno&quot;&gt;12&lt;/span&gt; 			&lt;span class=&quot;nx&quot;&gt;to&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$tos&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;lineno&quot;&gt;13&lt;/span&gt; 		&lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
-&lt;span class=&quot;lineno&quot;&gt;14&lt;/span&gt; 		&lt;span class=&quot;nx&quot;&gt;count&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;$sum&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;lineno&quot;&gt;15&lt;/span&gt; 	&lt;span class=&quot;p&quot;&gt;}},&lt;/span&gt;
-&lt;span class=&quot;lineno&quot;&gt;16&lt;/span&gt; 	&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;$sort&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-&lt;span class=&quot;lineno&quot;&gt;17&lt;/span&gt; 		&lt;span class=&quot;nx&quot;&gt;count&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:-&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;
-&lt;span class=&quot;lineno&quot;&gt;18&lt;/span&gt; 	&lt;span class=&quot;p&quot;&gt;}},&lt;/span&gt;
-&lt;span class=&quot;lineno&quot;&gt;19&lt;/span&gt; 	&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;$limit&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;lineno&quot;&gt;20&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;])&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;span class=&quot;lineno&quot;&gt; 2&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt; 3&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;project&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;_id&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;headers&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;body&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 4&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt; 5&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;unwind_original_to&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;$unwind&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$headers.To&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 6&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt; 7&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;group_by_idfrom_then_addtoset&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;$group&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 8&lt;/span&gt; 	&lt;span class=&quot;nx&quot;&gt;_id&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;oid&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$_id&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;from&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$headers.From&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt; 9&lt;/span&gt; 	&lt;span class=&quot;nx&quot;&gt;to_filtered&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;$addToSet&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$headers.To&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;10&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}}&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;11&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt;12&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;unwind_filtered_to&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;$unwind&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$to_filtered&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;13&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt;14&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;group_by_fromto&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;$group&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;15&lt;/span&gt; 	&lt;span class=&quot;nx&quot;&gt;_id&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;from&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$_id.from&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;to&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$to_filtered&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;16&lt;/span&gt; 	&lt;span class=&quot;nx&quot;&gt;count&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;$sum&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;17&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}}&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;18&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt;19&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;sort_count_desc&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;$sort&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;count&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:-&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}}&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;20&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt;21&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;limit&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;$limit&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;22&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt;23&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;db&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;messages&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;aggregate&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;24&lt;/span&gt; 	&lt;span class=&quot;nx&quot;&gt;project&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;25&lt;/span&gt; 	&lt;span class=&quot;nx&quot;&gt;unwind_original_to&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;26&lt;/span&gt; 	&lt;span class=&quot;nx&quot;&gt;group_by_idfrom_then_addtoset&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;27&lt;/span&gt; 	&lt;span class=&quot;nx&quot;&gt;unwind_filtered_to&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;28&lt;/span&gt; 	&lt;span class=&quot;nx&quot;&gt;group_by_fromto&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;29&lt;/span&gt; 	&lt;span class=&quot;nx&quot;&gt;sort_count_desc&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;30&lt;/span&gt; 	&lt;span class=&quot;nx&quot;&gt;limit&lt;/span&gt;
+&lt;span class=&quot;lineno&quot;&gt;31&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;lineno&quot;&gt;1&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;MongoDB&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;shell&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;version&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mf&quot;&gt;2.6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;
-&lt;span class=&quot;lineno&quot;&gt;2&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;connecting&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;to&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;test&lt;/span&gt;
-&lt;span class=&quot;lineno&quot;&gt;3&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;switched&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;to&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;db&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;enron&lt;/span&gt;
-&lt;span class=&quot;lineno&quot;&gt;4&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;_id&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;from&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;susan.mara@enron.com&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;to&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;jeff.dasovich@enron.com&amp;quot;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;count&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;750&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;lineno&quot;&gt;5&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;_id&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;from&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;soblander@carrfut.com&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;to&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;soblander@carrfut.com&amp;quot;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;count&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;679&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;lineno&quot;&gt;6&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;_id&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;from&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;susan.mara@enron.com&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;to&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;james.steffes@enron.com&amp;quot;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;count&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;646&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;lineno&quot;&gt;7&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;_id&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;from&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;susan.mara@enron.com&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;to&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;richard.shapiro@enron.com&amp;quot;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;count&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;616&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;lineno&quot;&gt;8&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;_id&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;from&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;evelyn.metoyer@enron.com&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;to&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;kate.symes@enron.com&amp;quot;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;count&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;567&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;lineno&quot;&gt;9&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;bye&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;Output of the previous query:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101j_finalq02_answer.png&quot; alt=&quot;M101J Final Question 2 Answer&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;&lt;span class=&quot;lineno&quot;&gt; 1&lt;/span&gt; MongoDB shell version: 2.6.0
+&lt;span class=&quot;lineno&quot;&gt; 2&lt;/span&gt; connecting to: test
+&lt;span class=&quot;lineno&quot;&gt; 3&lt;/span&gt; switched to db enron
+&lt;span class=&quot;lineno&quot;&gt; 4&lt;/span&gt; null
+&lt;span class=&quot;lineno&quot;&gt; 5&lt;/span&gt; null
+&lt;span class=&quot;lineno&quot;&gt; 6&lt;/span&gt; null
+&lt;span class=&quot;lineno&quot;&gt; 7&lt;/span&gt; null
+&lt;span class=&quot;lineno&quot;&gt; 8&lt;/span&gt; null
+&lt;span class=&quot;lineno&quot;&gt; 9&lt;/span&gt; null
+&lt;span class=&quot;lineno&quot;&gt;10&lt;/span&gt; null
+&lt;span class=&quot;lineno&quot;&gt;11&lt;/span&gt; { &amp;quot;_id&amp;quot; : { &amp;quot;from&amp;quot; : &amp;quot;susan.mara@enron.com&amp;quot;, &amp;quot;to&amp;quot; : &amp;quot;jeff.dasovich@enron.com&amp;quot; }, &amp;quot;count&amp;quot; : 750 }
+&lt;span class=&quot;lineno&quot;&gt;12&lt;/span&gt; { &amp;quot;_id&amp;quot; : { &amp;quot;from&amp;quot; : &amp;quot;soblander@carrfut.com&amp;quot;, &amp;quot;to&amp;quot; : &amp;quot;soblander@carrfut.com&amp;quot; }, &amp;quot;count&amp;quot; : 679 }
+&lt;span class=&quot;lineno&quot;&gt;13&lt;/span&gt; { &amp;quot;_id&amp;quot; : { &amp;quot;from&amp;quot; : &amp;quot;susan.mara@enron.com&amp;quot;, &amp;quot;to&amp;quot; : &amp;quot;james.steffes@enron.com&amp;quot; }, &amp;quot;count&amp;quot; : 646 }
+&lt;span class=&quot;lineno&quot;&gt;14&lt;/span&gt; { &amp;quot;_id&amp;quot; : { &amp;quot;from&amp;quot; : &amp;quot;susan.mara@enron.com&amp;quot;, &amp;quot;to&amp;quot; : &amp;quot;richard.shapiro@enron.com&amp;quot; }, &amp;quot;count&amp;quot; : 616 }
+&lt;span class=&quot;lineno&quot;&gt;15&lt;/span&gt; { &amp;quot;_id&amp;quot; : { &amp;quot;from&amp;quot; : &amp;quot;evelyn.metoyer@enron.com&amp;quot;, &amp;quot;to&amp;quot; : &amp;quot;kate.symes@enron.com&amp;quot; }, &amp;quot;count&amp;quot; : 567 }
+&lt;span class=&quot;lineno&quot;&gt;16&lt;/span&gt; bye&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Execution on the terminal:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;&lt;span class=&quot;lineno&quot;&gt; 1&lt;/span&gt; $ l
+&lt;span class=&quot;lineno&quot;&gt; 2&lt;/span&gt; dump/  enron.zip  final01_00.js  final02_00.js  final02_01.js
+&lt;span class=&quot;lineno&quot;&gt; 3&lt;/span&gt; $ cat final02_00.js
+&lt;span class=&quot;lineno&quot;&gt; 4&lt;/span&gt; use enron
+&lt;span class=&quot;lineno&quot;&gt; 5&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt; 6&lt;/span&gt; project = {$project: {_id:1, headers:1}}; null;
+&lt;span class=&quot;lineno&quot;&gt; 7&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt; 8&lt;/span&gt; unwind_original_to = {$unwind:&amp;quot;$headers.To&amp;quot;}; null;
+&lt;span class=&quot;lineno&quot;&gt; 9&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt;10&lt;/span&gt; group_by_idfrom_then_addtoset = {$group:{
+&lt;span class=&quot;lineno&quot;&gt;11&lt;/span&gt; 	_id: {oid:&amp;quot;$_id&amp;quot;, from:&amp;quot;$headers.From&amp;quot;},
+&lt;span class=&quot;lineno&quot;&gt;12&lt;/span&gt; 	to_filtered: {$addToSet:&amp;quot;$headers.To&amp;quot;}
+&lt;span class=&quot;lineno&quot;&gt;13&lt;/span&gt; }}; null;
+&lt;span class=&quot;lineno&quot;&gt;14&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt;15&lt;/span&gt; unwind_filtered_to = {$unwind:&amp;quot;$to_filtered&amp;quot;}; null;
+&lt;span class=&quot;lineno&quot;&gt;16&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt;17&lt;/span&gt; group_by_fromto = {$group:{
+&lt;span class=&quot;lineno&quot;&gt;18&lt;/span&gt; 	_id: {from:&amp;quot;$_id.from&amp;quot;, to:&amp;quot;$to_filtered&amp;quot;},
+&lt;span class=&quot;lineno&quot;&gt;19&lt;/span&gt; 	count: {$sum:1}
+&lt;span class=&quot;lineno&quot;&gt;20&lt;/span&gt; }}; null;
+&lt;span class=&quot;lineno&quot;&gt;21&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt;22&lt;/span&gt; sort_count_desc = {$sort: {count:-1}}; null;
+&lt;span class=&quot;lineno&quot;&gt;23&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt;24&lt;/span&gt; limit = {$limit:5}; null;
+&lt;span class=&quot;lineno&quot;&gt;25&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt;26&lt;/span&gt; db.messages.aggregate(
+&lt;span class=&quot;lineno&quot;&gt;27&lt;/span&gt; 	project,
+&lt;span class=&quot;lineno&quot;&gt;28&lt;/span&gt; 	unwind_original_to,
+&lt;span class=&quot;lineno&quot;&gt;29&lt;/span&gt; 	group_by_idfrom_then_addtoset,
+&lt;span class=&quot;lineno&quot;&gt;30&lt;/span&gt; 	unwind_filtered_to,
+&lt;span class=&quot;lineno&quot;&gt;31&lt;/span&gt; 	group_by_fromto,
+&lt;span class=&quot;lineno&quot;&gt;32&lt;/span&gt; 	sort_count_desc,
+&lt;span class=&quot;lineno&quot;&gt;33&lt;/span&gt; 	limit
+&lt;span class=&quot;lineno&quot;&gt;34&lt;/span&gt; )
+&lt;span class=&quot;lineno&quot;&gt;35&lt;/span&gt; $ /opt/mongodb-linux-i686-2.6.0/bin/mongo &amp;lt; final02_00.js
+&lt;span class=&quot;lineno&quot;&gt;36&lt;/span&gt; MongoDB shell version: 2.6.0
+&lt;span class=&quot;lineno&quot;&gt;37&lt;/span&gt; connecting to: test
+&lt;span class=&quot;lineno&quot;&gt;38&lt;/span&gt; switched to db enron
+&lt;span class=&quot;lineno&quot;&gt;39&lt;/span&gt; null
+&lt;span class=&quot;lineno&quot;&gt;40&lt;/span&gt; null
+&lt;span class=&quot;lineno&quot;&gt;41&lt;/span&gt; null
+&lt;span class=&quot;lineno&quot;&gt;42&lt;/span&gt; null
+&lt;span class=&quot;lineno&quot;&gt;43&lt;/span&gt; null
+&lt;span class=&quot;lineno&quot;&gt;44&lt;/span&gt; null
+&lt;span class=&quot;lineno&quot;&gt;45&lt;/span&gt; null
+&lt;span class=&quot;lineno&quot;&gt;46&lt;/span&gt; { &amp;quot;_id&amp;quot; : { &amp;quot;from&amp;quot; : &amp;quot;susan.mara@enron.com&amp;quot;, &amp;quot;to&amp;quot; : &amp;quot;jeff.dasovich@enron.com&amp;quot; }, &amp;quot;count&amp;quot; : 750 }
+&lt;span class=&quot;lineno&quot;&gt;47&lt;/span&gt; { &amp;quot;_id&amp;quot; : { &amp;quot;from&amp;quot; : &amp;quot;soblander@carrfut.com&amp;quot;, &amp;quot;to&amp;quot; : &amp;quot;soblander@carrfut.com&amp;quot; }, &amp;quot;count&amp;quot; : 679 }
+&lt;span class=&quot;lineno&quot;&gt;48&lt;/span&gt; { &amp;quot;_id&amp;quot; : { &amp;quot;from&amp;quot; : &amp;quot;susan.mara@enron.com&amp;quot;, &amp;quot;to&amp;quot; : &amp;quot;james.steffes@enron.com&amp;quot; }, &amp;quot;count&amp;quot; : 646 }
+&lt;span class=&quot;lineno&quot;&gt;49&lt;/span&gt; { &amp;quot;_id&amp;quot; : { &amp;quot;from&amp;quot; : &amp;quot;susan.mara@enron.com&amp;quot;, &amp;quot;to&amp;quot; : &amp;quot;richard.shapiro@enron.com&amp;quot; }, &amp;quot;count&amp;quot; : 616 }
+&lt;span class=&quot;lineno&quot;&gt;50&lt;/span&gt; { &amp;quot;_id&amp;quot; : { &amp;quot;from&amp;quot; : &amp;quot;evelyn.metoyer@enron.com&amp;quot;, &amp;quot;to&amp;quot; : &amp;quot;kate.symes@enron.com&amp;quot; }, &amp;quot;count&amp;quot; : 567 }
+&lt;span class=&quot;lineno&quot;&gt;51&lt;/span&gt; bye
+&lt;span class=&quot;lineno&quot;&gt;52&lt;/span&gt; $ /opt/mongodb-linux-i686-2.6.0/bin/mongo &amp;lt; final02_00.js &amp;gt; final02_00.out
+&lt;span class=&quot;lineno&quot;&gt;53&lt;/span&gt; $&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;![M101JS Final Question 2 Terminal][m101js_final02_Terminal]{: width=”75%” style=”display:block; margin-left:auto; margin-right:auto”}&lt;/p&gt;
 
 &lt;h3 id=&quot;final-question-3&quot;&gt;Final: Question 3&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101j_finalq03.png&quot; alt=&quot;M101J Final Question 3&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;![M101JS Final Question 3 Statement 1][m101js_final03_Statement1]{: width=”75%” style=”display:block; margin-left:auto; margin-right:auto”}
+![M101JS Final Question 3 Statement 2][m101js_final03_Statement2]{: width=”75%” style=”display:block; margin-left:auto; margin-right:auto”}&lt;/p&gt;
 
 &lt;h3 id=&quot;final-question-3-answer&quot;&gt;Final: Question 3. Answer:&lt;/h3&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;lineno&quot;&gt;1&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// use enron&lt;/span&gt;
-&lt;span class=&quot;lineno&quot;&gt;2&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;query&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;headers.Message-ID&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&amp;lt;8147308.1075851042335.JavaMail.evans@thyme&amp;gt;&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;lineno&quot;&gt;3&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;change&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;$push&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;headers.To&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;mrpotatohead@10gen.com&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}}&lt;/span&gt;
-&lt;span class=&quot;lineno&quot;&gt;4&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;db&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;messages&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;update&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;query&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;change&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;lineno&quot;&gt;5&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;db&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;messages&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;findOne&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;query&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;&lt;span class=&quot;lineno&quot;&gt;  1&lt;/span&gt; &amp;gt; db.messages.find({&amp;quot;headers.Message-ID&amp;quot;:&amp;quot;&amp;lt;8147308.1075851042335.JavaMail.evans@thyme&amp;gt;&amp;quot;}).count()
+&lt;span class=&quot;lineno&quot;&gt;  2&lt;/span&gt; 1
+&lt;span class=&quot;lineno&quot;&gt;  3&lt;/span&gt; &amp;gt; db.messages.findOne({&amp;quot;headers.Message-ID&amp;quot;:&amp;quot;&amp;lt;8147308.1075851042335.JavaMail.evans@thyme&amp;gt;&amp;quot;}, {body:0})
+&lt;span class=&quot;lineno&quot;&gt;  4&lt;/span&gt; {
+&lt;span class=&quot;lineno&quot;&gt;  5&lt;/span&gt; 	&amp;quot;_id&amp;quot; : ObjectId(&amp;quot;4f16fd52d1e2d32371039e44&amp;quot;),
+&lt;span class=&quot;lineno&quot;&gt;  6&lt;/span&gt; 	&amp;quot;filename&amp;quot; : &amp;quot;1646.&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt;  7&lt;/span&gt; 	&amp;quot;headers&amp;quot; : {
+&lt;span class=&quot;lineno&quot;&gt;  8&lt;/span&gt; 		&amp;quot;Content-Transfer-Encoding&amp;quot; : &amp;quot;7bit&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt;  9&lt;/span&gt; 		&amp;quot;Content-Type&amp;quot; : &amp;quot;text/plain; charset=us-ascii&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 10&lt;/span&gt; 		&amp;quot;Date&amp;quot; : ISODate(&amp;quot;2001-07-13T14:47:00Z&amp;quot;),
+&lt;span class=&quot;lineno&quot;&gt; 11&lt;/span&gt; 		&amp;quot;From&amp;quot; : &amp;quot;donna.fulton@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 12&lt;/span&gt; 		&amp;quot;Message-ID&amp;quot; : &amp;quot;&amp;lt;8147308.1075851042335.JavaMail.evans@thyme&amp;gt;&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 13&lt;/span&gt; 		&amp;quot;Mime-Version&amp;quot; : &amp;quot;1.0&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 14&lt;/span&gt; 		&amp;quot;Subject&amp;quot; : &amp;quot;RTO Orders - Grid South, SE Trans, SPP and Entergy&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 15&lt;/span&gt; 		&amp;quot;To&amp;quot; : [
+&lt;span class=&quot;lineno&quot;&gt; 16&lt;/span&gt; 			&amp;quot;steven.kean@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 17&lt;/span&gt; 			&amp;quot;richard.shapiro@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 18&lt;/span&gt; 			&amp;quot;james.steffes@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 19&lt;/span&gt; 			&amp;quot;christi.nicolay@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 20&lt;/span&gt; 			&amp;quot;sarah.novosel@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 21&lt;/span&gt; 			&amp;quot;ray.alvarez@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 22&lt;/span&gt; 			&amp;quot;sscott3@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 23&lt;/span&gt; 			&amp;quot;joe.connor@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 24&lt;/span&gt; 			&amp;quot;dan.staines@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 25&lt;/span&gt; 			&amp;quot;steve.montovano@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 26&lt;/span&gt; 			&amp;quot;kevin.presto@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 27&lt;/span&gt; 			&amp;quot;rogers.herndon@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 28&lt;/span&gt; 			&amp;quot;mike.carson@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 29&lt;/span&gt; 			&amp;quot;john.forney@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 30&lt;/span&gt; 			&amp;quot;laura.podurgiel@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 31&lt;/span&gt; 			&amp;quot;gretchen.lotz@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 32&lt;/span&gt; 			&amp;quot;juan.hernandez@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 33&lt;/span&gt; 			&amp;quot;miguel.garcia@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 34&lt;/span&gt; 			&amp;quot;rudy.acevedo@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 35&lt;/span&gt; 			&amp;quot;heather.kroll@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 36&lt;/span&gt; 			&amp;quot;david.fairley@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 37&lt;/span&gt; 			&amp;quot;elizabeth.johnston@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 38&lt;/span&gt; 			&amp;quot;bill.rust@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 39&lt;/span&gt; 			&amp;quot;edward.baughman@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 40&lt;/span&gt; 			&amp;quot;terri.clynes@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 41&lt;/span&gt; 			&amp;quot;oscar.dalton@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 42&lt;/span&gt; 			&amp;quot;doug.sewell@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 43&lt;/span&gt; 			&amp;quot;larry.valderrama@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 44&lt;/span&gt; 			&amp;quot;nick.politis@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 45&lt;/span&gt; 			&amp;quot;fletcher.sturm@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 46&lt;/span&gt; 			&amp;quot;chris.dorland@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 47&lt;/span&gt; 			&amp;quot;jeff.king@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 48&lt;/span&gt; 			&amp;quot;john.kinser@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 49&lt;/span&gt; 			&amp;quot;matt.lorenz@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 50&lt;/span&gt; 			&amp;quot;patrick.hansen@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 51&lt;/span&gt; 			&amp;quot;lloyd.will@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 52&lt;/span&gt; 			&amp;quot;dduaran@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 53&lt;/span&gt; 			&amp;quot;john.lavorato@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 54&lt;/span&gt; 			&amp;quot;louise.kitchen@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 55&lt;/span&gt; 			&amp;quot;greg.whalley@enron.com&amp;quot;
+&lt;span class=&quot;lineno&quot;&gt; 56&lt;/span&gt; 		],
+&lt;span class=&quot;lineno&quot;&gt; 57&lt;/span&gt; 		&amp;quot;X-FileName&amp;quot; : &amp;quot;skean.nsf&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 58&lt;/span&gt; 		&amp;quot;X-Folder&amp;quot; : &amp;quot;\\Steven_Kean_Oct2001_2\\Notes Folders\\Attachments&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 59&lt;/span&gt; 		&amp;quot;X-From&amp;quot; : &amp;quot;Donna Fulton&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 60&lt;/span&gt; 		&amp;quot;X-Origin&amp;quot; : &amp;quot;KEAN-S&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 61&lt;/span&gt; 		&amp;quot;X-To&amp;quot; : &amp;quot;Steven J Kean, Richard Shapiro, James D Steffes, Christi L Nicolay, Sarah Novosel, Ray Alvarez, sscott3@enron.com, Joe Connor, Dan Staines, Steve Montovano, Kevin M Presto, Rogers Herndon, Mike Carson, John M Forney, Laura Podurgiel, Gretchen Lotz, Juan Hernandez, Miguel L Garcia, Rudy Acevedo, Heather Kroll, David Fairley, Elizabeth Johnston, Bill Rust, Edward D Baughman, Terri Clynes, Oscar Dalton, Doug Sewell, Larry Valderrama, Nick Politis, Fletcher J Sturm, Chris Dorland, Jeff King, John Kinser, Matt Lorenz, Patrick Hansen, Lloyd Will, dduaran@enron.com, John J Lavorato, Louise Kitchen, Greg Whalley&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 62&lt;/span&gt; 		&amp;quot;X-bcc&amp;quot; : &amp;quot;&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 63&lt;/span&gt; 		&amp;quot;X-cc&amp;quot; : &amp;quot;&amp;quot;
+&lt;span class=&quot;lineno&quot;&gt; 64&lt;/span&gt; 	},
+&lt;span class=&quot;lineno&quot;&gt; 65&lt;/span&gt; 	&amp;quot;mailbox&amp;quot; : &amp;quot;kean-s&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 66&lt;/span&gt; 	&amp;quot;subFolder&amp;quot; : &amp;quot;attachments&amp;quot;
+&lt;span class=&quot;lineno&quot;&gt; 67&lt;/span&gt; }
+&lt;span class=&quot;lineno&quot;&gt; 68&lt;/span&gt; &amp;gt; db.messages.update({&amp;quot;headers.Message-ID&amp;quot;:&amp;quot;&amp;lt;8147308.1075851042335.JavaMail.evans@thyme&amp;gt;&amp;quot;}, {$addToSet:{&amp;quot;headers.To&amp;quot;:&amp;quot;mrpotatohead@mongodb.com&amp;quot;}})
+&lt;span class=&quot;lineno&quot;&gt; 69&lt;/span&gt; WriteResult({ &amp;quot;nMatched&amp;quot; : 1, &amp;quot;nUpserted&amp;quot; : 0, &amp;quot;nModified&amp;quot; : 1 })
+&lt;span class=&quot;lineno&quot;&gt; 70&lt;/span&gt; &amp;gt; db.messages.findOne({&amp;quot;headers.Message-ID&amp;quot;:&amp;quot;&amp;lt;8147308.1075851042335.JavaMail.evans@thyme&amp;gt;&amp;quot;}, {body:0})
+&lt;span class=&quot;lineno&quot;&gt; 71&lt;/span&gt; {
+&lt;span class=&quot;lineno&quot;&gt; 72&lt;/span&gt; 	&amp;quot;_id&amp;quot; : ObjectId(&amp;quot;4f16fd52d1e2d32371039e44&amp;quot;),
+&lt;span class=&quot;lineno&quot;&gt; 73&lt;/span&gt; 	&amp;quot;filename&amp;quot; : &amp;quot;1646.&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 74&lt;/span&gt; 	&amp;quot;headers&amp;quot; : {
+&lt;span class=&quot;lineno&quot;&gt; 75&lt;/span&gt; 		&amp;quot;Content-Transfer-Encoding&amp;quot; : &amp;quot;7bit&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 76&lt;/span&gt; 		&amp;quot;Content-Type&amp;quot; : &amp;quot;text/plain; charset=us-ascii&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 77&lt;/span&gt; 		&amp;quot;Date&amp;quot; : ISODate(&amp;quot;2001-07-13T14:47:00Z&amp;quot;),
+&lt;span class=&quot;lineno&quot;&gt; 78&lt;/span&gt; 		&amp;quot;From&amp;quot; : &amp;quot;donna.fulton@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 79&lt;/span&gt; 		&amp;quot;Message-ID&amp;quot; : &amp;quot;&amp;lt;8147308.1075851042335.JavaMail.evans@thyme&amp;gt;&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 80&lt;/span&gt; 		&amp;quot;Mime-Version&amp;quot; : &amp;quot;1.0&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 81&lt;/span&gt; 		&amp;quot;Subject&amp;quot; : &amp;quot;RTO Orders - Grid South, SE Trans, SPP and Entergy&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 82&lt;/span&gt; 		&amp;quot;To&amp;quot; : [
+&lt;span class=&quot;lineno&quot;&gt; 83&lt;/span&gt; 			&amp;quot;steven.kean@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 84&lt;/span&gt; 			&amp;quot;richard.shapiro@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 85&lt;/span&gt; 			&amp;quot;james.steffes@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 86&lt;/span&gt; 			&amp;quot;christi.nicolay@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 87&lt;/span&gt; 			&amp;quot;sarah.novosel@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 88&lt;/span&gt; 			&amp;quot;ray.alvarez@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 89&lt;/span&gt; 			&amp;quot;sscott3@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 90&lt;/span&gt; 			&amp;quot;joe.connor@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 91&lt;/span&gt; 			&amp;quot;dan.staines@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 92&lt;/span&gt; 			&amp;quot;steve.montovano@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 93&lt;/span&gt; 			&amp;quot;kevin.presto@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 94&lt;/span&gt; 			&amp;quot;rogers.herndon@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 95&lt;/span&gt; 			&amp;quot;mike.carson@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 96&lt;/span&gt; 			&amp;quot;john.forney@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 97&lt;/span&gt; 			&amp;quot;laura.podurgiel@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 98&lt;/span&gt; 			&amp;quot;gretchen.lotz@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 99&lt;/span&gt; 			&amp;quot;juan.hernandez@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt;100&lt;/span&gt; 			&amp;quot;miguel.garcia@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt;101&lt;/span&gt; 			&amp;quot;rudy.acevedo@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt;102&lt;/span&gt; 			&amp;quot;heather.kroll@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt;103&lt;/span&gt; 			&amp;quot;david.fairley@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt;104&lt;/span&gt; 			&amp;quot;elizabeth.johnston@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt;105&lt;/span&gt; 			&amp;quot;bill.rust@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt;106&lt;/span&gt; 			&amp;quot;edward.baughman@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt;107&lt;/span&gt; 			&amp;quot;terri.clynes@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt;108&lt;/span&gt; 			&amp;quot;oscar.dalton@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt;109&lt;/span&gt; 			&amp;quot;doug.sewell@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt;110&lt;/span&gt; 			&amp;quot;larry.valderrama@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt;111&lt;/span&gt; 			&amp;quot;nick.politis@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt;112&lt;/span&gt; 			&amp;quot;fletcher.sturm@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt;113&lt;/span&gt; 			&amp;quot;chris.dorland@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt;114&lt;/span&gt; 			&amp;quot;jeff.king@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt;115&lt;/span&gt; 			&amp;quot;john.kinser@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt;116&lt;/span&gt; 			&amp;quot;matt.lorenz@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt;117&lt;/span&gt; 			&amp;quot;patrick.hansen@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt;118&lt;/span&gt; 			&amp;quot;lloyd.will@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt;119&lt;/span&gt; 			&amp;quot;dduaran@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt;120&lt;/span&gt; 			&amp;quot;john.lavorato@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt;121&lt;/span&gt; 			&amp;quot;louise.kitchen@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt;122&lt;/span&gt; 			&amp;quot;greg.whalley@enron.com&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt;123&lt;/span&gt; 			&amp;quot;mrpotatohead@mongodb.com&amp;quot;
+&lt;span class=&quot;lineno&quot;&gt;124&lt;/span&gt; 		],
+&lt;span class=&quot;lineno&quot;&gt;125&lt;/span&gt; 		&amp;quot;X-FileName&amp;quot; : &amp;quot;skean.nsf&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt;126&lt;/span&gt; 		&amp;quot;X-Folder&amp;quot; : &amp;quot;\\Steven_Kean_Oct2001_2\\Notes Folders\\Attachments&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt;127&lt;/span&gt; 		&amp;quot;X-From&amp;quot; : &amp;quot;Donna Fulton&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt;128&lt;/span&gt; 		&amp;quot;X-Origin&amp;quot; : &amp;quot;KEAN-S&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt;129&lt;/span&gt; 		&amp;quot;X-To&amp;quot; : &amp;quot;Steven J Kean, Richard Shapiro, James D Steffes, Christi L Nicolay, Sarah Novosel, Ray Alvarez, sscott3@enron.com, Joe Connor, Dan Staines, Steve Montovano, Kevin M Presto, Rogers Herndon, Mike Carson, John M Forney, Laura Podurgiel, Gretchen Lotz, Juan Hernandez, Miguel L Garcia, Rudy Acevedo, Heather Kroll, David Fairley, Elizabeth Johnston, Bill Rust, Edward D Baughman, Terri Clynes, Oscar Dalton, Doug Sewell, Larry Valderrama, Nick Politis, Fletcher J Sturm, Chris Dorland, Jeff King, John Kinser, Matt Lorenz, Patrick Hansen, Lloyd Will, dduaran@enron.com, John J Lavorato, Louise Kitchen, Greg Whalley&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt;130&lt;/span&gt; 		&amp;quot;X-bcc&amp;quot; : &amp;quot;&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt;131&lt;/span&gt; 		&amp;quot;X-cc&amp;quot; : &amp;quot;&amp;quot;
+&lt;span class=&quot;lineno&quot;&gt;132&lt;/span&gt; 	},
+&lt;span class=&quot;lineno&quot;&gt;133&lt;/span&gt; 	&amp;quot;mailbox&amp;quot; : &amp;quot;kean-s&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt;134&lt;/span&gt; 	&amp;quot;subFolder&amp;quot; : &amp;quot;attachments&amp;quot;
+&lt;span class=&quot;lineno&quot;&gt;135&lt;/span&gt; }
+&lt;span class=&quot;lineno&quot;&gt;136&lt;/span&gt; &amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101j_finalq03_answer.png&quot; alt=&quot;M101J Final Question 3 Answer&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;![M101JS Final Question 3 MongoShell1][m101js_final03_MongoShell1]{: width=”75%” style=”display:block; margin-left:auto; margin-right:auto”}
+![M101JS Final Question 3 MongoShell2][m101js_final03_MongoShell2]{: width=”75%” style=”display:block; margin-left:auto; margin-right:auto”}
+![M101JS Final Question 3 MongoShell3][m101js_final03_MongoShell3]{: width=”75%” style=”display:block; margin-left:auto; margin-right:auto”}
+![M101JS Final Question 3 MongoShell4][m101js_final03_MongoShell4]{: width=”75%” style=”display:block; margin-left:auto; margin-right:auto”}&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;&lt;span class=&quot;lineno&quot;&gt; 1&lt;/span&gt; $ l
+&lt;span class=&quot;lineno&quot;&gt; 2&lt;/span&gt; final03_00.js  final3-validate.js*  package.json*
+&lt;span class=&quot;lineno&quot;&gt; 3&lt;/span&gt; $ nodejs final3-validate.js
+&lt;span class=&quot;lineno&quot;&gt; 4&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt; 5&lt;/span&gt; module.js:340
+&lt;span class=&quot;lineno&quot;&gt; 6&lt;/span&gt;     throw err;
+&lt;span class=&quot;lineno&quot;&gt; 7&lt;/span&gt;           ^
+&lt;span class=&quot;lineno&quot;&gt; 8&lt;/span&gt; Error: Cannot find module &amp;#39;mongodb&amp;#39;
+&lt;span class=&quot;lineno&quot;&gt; 9&lt;/span&gt;     at Function.Module._resolveFilename (module.js:338:15)
+&lt;span class=&quot;lineno&quot;&gt;10&lt;/span&gt;     at Function.Module._load (module.js:280:25)
+&lt;span class=&quot;lineno&quot;&gt;11&lt;/span&gt;     at Module.require (module.js:364:17)
+&lt;span class=&quot;lineno&quot;&gt;12&lt;/span&gt;     at require (module.js:380:17)
+&lt;span class=&quot;lineno&quot;&gt;13&lt;/span&gt;     at Object.&amp;lt;anonymous&amp;gt; (final3-validate.js:1:5982)
+&lt;span class=&quot;lineno&quot;&gt;14&lt;/span&gt;     at Module._compile (module.js:456:26)
+&lt;span class=&quot;lineno&quot;&gt;15&lt;/span&gt;     at Object.Module._extensions..js (module.js:474:10)
+&lt;span class=&quot;lineno&quot;&gt;16&lt;/span&gt;     at Module.load (module.js:356:32)
+&lt;span class=&quot;lineno&quot;&gt;17&lt;/span&gt;     at Function.Module._load (module.js:312:12)
+&lt;span class=&quot;lineno&quot;&gt;18&lt;/span&gt;     at Function.Module.runMain (module.js:497:10)
+&lt;span class=&quot;lineno&quot;&gt;19&lt;/span&gt; $ npm install
+&lt;span class=&quot;lineno&quot;&gt;20&lt;/span&gt; npm WARN package.json question-3@0.0.0 No README.md file found!
+&lt;span class=&quot;lineno&quot;&gt;21&lt;/span&gt; npm http GET https://registry.npmjs.org/mongodb
+&lt;span class=&quot;lineno&quot;&gt;22&lt;/span&gt; npm http GET https://registry.npmjs.org/commander
+&lt;span class=&quot;lineno&quot;&gt;23&lt;/span&gt; npm http 200 https://registry.npmjs.org/commander
+&lt;span class=&quot;lineno&quot;&gt;24&lt;/span&gt; npm http 200 https://registry.npmjs.org/mongodb
+&lt;span class=&quot;lineno&quot;&gt;25&lt;/span&gt; npm http GET https://registry.npmjs.org/bson/0.2.5
+&lt;span class=&quot;lineno&quot;&gt;26&lt;/span&gt; npm http GET https://registry.npmjs.org/kerberos/0.0.3
+&lt;span class=&quot;lineno&quot;&gt;27&lt;/span&gt; npm http 304 https://registry.npmjs.org/bson/0.2.5
+&lt;span class=&quot;lineno&quot;&gt;28&lt;/span&gt; npm http 304 https://registry.npmjs.org/kerberos/0.0.3
+&lt;span class=&quot;lineno&quot;&gt;29&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt;30&lt;/span&gt; &amp;gt; kerberos@0.0.3 install node_modules/mongodb/node_modules/kerberos
+&lt;span class=&quot;lineno&quot;&gt;31&lt;/span&gt; &amp;gt; (node-gyp rebuild 2&amp;gt; builderror.log) || (exit 0)
+&lt;span class=&quot;lineno&quot;&gt;32&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt;33&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt;34&lt;/span&gt; &amp;gt; bson@0.2.5 install node_modules/mongodb/node_modules/bson
+&lt;span class=&quot;lineno&quot;&gt;35&lt;/span&gt; &amp;gt; (node-gyp rebuild 2&amp;gt; builderror.log) || (exit 0)
+&lt;span class=&quot;lineno&quot;&gt;36&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt;37&lt;/span&gt; make: Entering directory `node_modules/mongodb/node_modules/kerberos/build&amp;#39;
+&lt;span class=&quot;lineno&quot;&gt;38&lt;/span&gt; make: Entering directory `node_modules/mongodb/node_modules/bson/build&amp;#39;
+&lt;span class=&quot;lineno&quot;&gt;39&lt;/span&gt;   CXX(target) Release/obj.target/bson/ext/bson.o
+&lt;span class=&quot;lineno&quot;&gt;40&lt;/span&gt;   SOLINK_MODULE(target) Release/obj.target/kerberos.node
+&lt;span class=&quot;lineno&quot;&gt;41&lt;/span&gt;   SOLINK_MODULE(target) Release/obj.target/kerberos.node: Finished
+&lt;span class=&quot;lineno&quot;&gt;42&lt;/span&gt;   COPY Release/kerberos.node
+&lt;span class=&quot;lineno&quot;&gt;43&lt;/span&gt; make: Leaving directory `node_modules/mongodb/node_modules/kerberos/build&amp;#39;
+&lt;span class=&quot;lineno&quot;&gt;44&lt;/span&gt;   SOLINK_MODULE(target) Release/obj.target/bson.node
+&lt;span class=&quot;lineno&quot;&gt;45&lt;/span&gt;   SOLINK_MODULE(target) Release/obj.target/bson.node: Finished
+&lt;span class=&quot;lineno&quot;&gt;46&lt;/span&gt;   COPY Release/bson.node
+&lt;span class=&quot;lineno&quot;&gt;47&lt;/span&gt; make: Leaving directory `node_modules/mongodb/node_modules/bson/build&amp;#39;
+&lt;span class=&quot;lineno&quot;&gt;48&lt;/span&gt; commander@2.0.0 node_modules/commander
+&lt;span class=&quot;lineno&quot;&gt;49&lt;/span&gt; 
+&lt;span class=&quot;lineno&quot;&gt;50&lt;/span&gt; mongodb@1.3.23 node_modules/mongodb
+&lt;span class=&quot;lineno&quot;&gt;51&lt;/span&gt; ├── kerberos@0.0.3
+&lt;span class=&quot;lineno&quot;&gt;52&lt;/span&gt; └── bson@0.2.5
+&lt;span class=&quot;lineno&quot;&gt;53&lt;/span&gt; $ l
+&lt;span class=&quot;lineno&quot;&gt;54&lt;/span&gt; final03_00.js  final3-validate.js*  node_modules/  package.json*
+&lt;span class=&quot;lineno&quot;&gt;55&lt;/span&gt; $ nodejs final3-validate.js
+&lt;span class=&quot;lineno&quot;&gt;56&lt;/span&gt; Welcome to the Final Exam Q3 Checker. My job is to make sure you correctly updated the document
+&lt;span class=&quot;lineno&quot;&gt;57&lt;/span&gt; Final Exam Q3 Validated successfully!
+&lt;span class=&quot;lineno&quot;&gt;58&lt;/span&gt; Your validation code is: vOnRg05kwcqyEFSve96R
+&lt;span class=&quot;lineno&quot;&gt;59&lt;/span&gt; $&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;![M101JS Final Question 3 Validate1][m101js_final03_Validate1]{: width=”75%” style=”display:block; margin-left:auto; margin-right:auto”}
+![M101JS Final Question 3 Validate2][m101js_final03_Validate2]{: width=”75%” style=”display:block; margin-left:auto; margin-right:auto”}&lt;/p&gt;
 
 &lt;h3 id=&quot;final-question-4&quot;&gt;Final: Question 4&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101j_finalq04.png&quot; alt=&quot;M101J Final Question 4&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;![M101JS Final Question 4 Statement1][m101js_final04_Statement1]{: width=”75%” style=”display:block; margin-left:auto; margin-right:auto”}
+![M101JS Final Question 4 Statement2][m101js_final04_Statement2]{: width=”75%” style=”display:block; margin-left:auto; margin-right:auto”}&lt;/p&gt;
 
 &lt;h3 id=&quot;final-question-4-answer&quot;&gt;Final: Question 4. Answer:&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101j_finalq04_answer1_import.png&quot; alt=&quot;M101J Final Question 4 Answer 1&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101j_finalq04_answer2_count.png&quot; alt=&quot;M101J Final Question 4 Answer 2&quot; width=&quot;50%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;&lt;span class=&quot;lineno&quot;&gt; 1&lt;/span&gt; $ l
+&lt;span class=&quot;lineno&quot;&gt; 2&lt;/span&gt; final4/  posts.json
+&lt;span class=&quot;lineno&quot;&gt; 3&lt;/span&gt; question_4$ cd final4/l
+&lt;span class=&quot;lineno&quot;&gt; 4&lt;/span&gt; -bash: cd: final4/l: No such file or directory
+&lt;span class=&quot;lineno&quot;&gt; 5&lt;/span&gt; question_4$ cd final4/
+&lt;span class=&quot;lineno&quot;&gt; 6&lt;/span&gt; question_4/final4$ l
+&lt;span class=&quot;lineno&quot;&gt; 7&lt;/span&gt; Final4/  __MACOSX/
+&lt;span class=&quot;lineno&quot;&gt; 8&lt;/span&gt; question_4/final4$ cd Final4/
+&lt;span class=&quot;lineno&quot;&gt; 9&lt;/span&gt; question_4/final4/Final4$ l
+&lt;span class=&quot;lineno&quot;&gt;10&lt;/span&gt; blog/  validate/
+&lt;span class=&quot;lineno&quot;&gt;11&lt;/span&gt; question_4/final4/Final4$ cd validate/
+&lt;span class=&quot;lineno&quot;&gt;12&lt;/span&gt; question_4/final4/Final4/validate$ l
+&lt;span class=&quot;lineno&quot;&gt;13&lt;/span&gt; final4-validate.js*  package.json*
+&lt;span class=&quot;lineno&quot;&gt;14&lt;/span&gt; question_4/final4/Final4/validate$ cd ../blog/
+&lt;span class=&quot;lineno&quot;&gt;15&lt;/span&gt; question_4/final4/Final4/blog$ l
+&lt;span class=&quot;lineno&quot;&gt;16&lt;/span&gt; app.js*  package.json*  posts.js*  README.md*  routes/  sessions.js*  users.js*  views/
+&lt;span class=&quot;lineno&quot;&gt;17&lt;/span&gt; question_4/final4/Final4/blog$ cd ../../
+&lt;span class=&quot;lineno&quot;&gt;18&lt;/span&gt; question_4/final4$ l
+&lt;span class=&quot;lineno&quot;&gt;19&lt;/span&gt; Final4/  __MACOSX/
+&lt;span class=&quot;lineno&quot;&gt;20&lt;/span&gt; question_4/final4$ cd ..
+&lt;span class=&quot;lineno&quot;&gt;21&lt;/span&gt; question_4$ l
+&lt;span class=&quot;lineno&quot;&gt;22&lt;/span&gt; final4/  posts.json
+&lt;span class=&quot;lineno&quot;&gt;23&lt;/span&gt; question_4$ /opt/mongodb-linux-i686-2.6.0/bin/mongoimport -d blog -c posts posts.json
+&lt;span class=&quot;lineno&quot;&gt;24&lt;/span&gt; connected to: 127.0.0.1
+&lt;span class=&quot;lineno&quot;&gt;25&lt;/span&gt; 2014-05-08T15:44:37.195-0500 		Progress: 34788312/34788312	100%
+&lt;span class=&quot;lineno&quot;&gt;26&lt;/span&gt; 2014-05-08T15:44:37.195-0500 			1000	333/second
+&lt;span class=&quot;lineno&quot;&gt;27&lt;/span&gt; 2014-05-08T15:44:37.195-0500 check 9 1000
+&lt;span class=&quot;lineno&quot;&gt;28&lt;/span&gt; 2014-05-08T15:44:37.196-0500 imported 1000 objects
+&lt;span class=&quot;lineno&quot;&gt;29&lt;/span&gt; question_4$&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;Code snippet for &lt;code&gt;public void likePost(final String permalink, final int ordinal)&lt;/code&gt; method:&lt;/p&gt;
+&lt;p&gt;![M101JS Final Question 4 InspectImport][m101js_final04_InspectImport]{: width=”75%” style=”display:block; margin-left:auto; margin-right:auto”}&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-java&quot; data-lang=&quot;java&quot;&gt;&lt;span class=&quot;lineno&quot;&gt; 1&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;likePost&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;final&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;String&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;permalink&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;final&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ordinal&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
-&lt;span class=&quot;lineno&quot;&gt; 2&lt;/span&gt; 
-&lt;span class=&quot;lineno&quot;&gt; 3&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// XXX Final Exam, Please work here&lt;/span&gt;
-&lt;span class=&quot;lineno&quot;&gt; 4&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// Add code to increment the num_likes for the &amp;#39;ordinal&amp;#39; comment&lt;/span&gt;
-&lt;span class=&quot;lineno&quot;&gt; 5&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// that was clicked on.&lt;/span&gt;
-&lt;span class=&quot;lineno&quot;&gt; 6&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// provided you use num_likes as your key name, no other changes should be required&lt;/span&gt;
-&lt;span class=&quot;lineno&quot;&gt; 7&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// alternatively, you can use whatever you like but will need to make a couple of other&lt;/span&gt;
-&lt;span class=&quot;lineno&quot;&gt; 8&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// changes to templates and post retrieval code.&lt;/span&gt;
-&lt;span class=&quot;lineno&quot;&gt; 9&lt;/span&gt;     &lt;span class=&quot;n&quot;&gt;postsCollection&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;update&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;BasicDBObject&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;permalink&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;permalink&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;),&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;BasicDBObject&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;$inc&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;BasicDBObject&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;comments.&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ordinal&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;.num_likes&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)));&lt;/span&gt;
-&lt;span class=&quot;lineno&quot;&gt;10&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;&lt;span class=&quot;lineno&quot;&gt; 1&lt;/span&gt; &amp;gt; show dbs
+&lt;span class=&quot;lineno&quot;&gt; 2&lt;/span&gt; admin    (empty)
+&lt;span class=&quot;lineno&quot;&gt; 3&lt;/span&gt; enron    0.953GB
+&lt;span class=&quot;lineno&quot;&gt; 4&lt;/span&gt; final7   0.078GB
+&lt;span class=&quot;lineno&quot;&gt; 5&lt;/span&gt; local    0.078GB
+&lt;span class=&quot;lineno&quot;&gt; 6&lt;/span&gt; m101     0.078GB
+&lt;span class=&quot;lineno&quot;&gt; 7&lt;/span&gt; school   0.078GB
+&lt;span class=&quot;lineno&quot;&gt; 8&lt;/span&gt; test     0.078GB
+&lt;span class=&quot;lineno&quot;&gt; 9&lt;/span&gt; weather  0.078GB
+&lt;span class=&quot;lineno&quot;&gt;10&lt;/span&gt; &amp;gt; show dbs
+&lt;span class=&quot;lineno&quot;&gt;11&lt;/span&gt; admin    (empty)
+&lt;span class=&quot;lineno&quot;&gt;12&lt;/span&gt; blog     0.078GB
+&lt;span class=&quot;lineno&quot;&gt;13&lt;/span&gt; enron    0.953GB
+&lt;span class=&quot;lineno&quot;&gt;14&lt;/span&gt; final7   0.078GB
+&lt;span class=&quot;lineno&quot;&gt;15&lt;/span&gt; local    0.078GB
+&lt;span class=&quot;lineno&quot;&gt;16&lt;/span&gt; m101     0.078GB
+&lt;span class=&quot;lineno&quot;&gt;17&lt;/span&gt; school   0.078GB
+&lt;span class=&quot;lineno&quot;&gt;18&lt;/span&gt; test     0.078GB
+&lt;span class=&quot;lineno&quot;&gt;19&lt;/span&gt; weather  0.078GB
+&lt;span class=&quot;lineno&quot;&gt;20&lt;/span&gt; &amp;gt; use blog
+&lt;span class=&quot;lineno&quot;&gt;21&lt;/span&gt; switched to db blog
+&lt;span class=&quot;lineno&quot;&gt;22&lt;/span&gt; &amp;gt; show tables
+&lt;span class=&quot;lineno&quot;&gt;23&lt;/span&gt; posts
+&lt;span class=&quot;lineno&quot;&gt;24&lt;/span&gt; system.indexes
+&lt;span class=&quot;lineno&quot;&gt;25&lt;/span&gt; &amp;gt; db.posts.count()
+&lt;span class=&quot;lineno&quot;&gt;26&lt;/span&gt; 1000
+&lt;span class=&quot;lineno&quot;&gt;27&lt;/span&gt; &amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101j_finalq04_answer3_validate.png&quot; alt=&quot;M101J Final Question 4 Answer 3&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;![M101JS Final Question 4 MongoChecks][m101js_final04_MongoChecks]{: width=”50%” style=”display:block; margin-left:auto; margin-right:auto”}&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;&lt;span class=&quot;lineno&quot;&gt;1&lt;/span&gt; blog$ nodejs app.js
+&lt;span class=&quot;lineno&quot;&gt;2&lt;/span&gt; Express server listening on port 3000
+&lt;span class=&quot;lineno&quot;&gt;3&lt;/span&gt; Found 10 posts&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;![M101JS Final Question 4 RunBlog][m101js_final04_RunBlog]{: width=”75%” style=”display:block; margin-left:auto; margin-right:auto”}&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;&lt;span class=&quot;lineno&quot;&gt; 1&lt;/span&gt; validate$ l
+&lt;span class=&quot;lineno&quot;&gt; 2&lt;/span&gt; final4-validate.js*  node_modules/  package.json*
+&lt;span class=&quot;lineno&quot;&gt; 3&lt;/span&gt; validate$ nodejs final4-validate.js
+&lt;span class=&quot;lineno&quot;&gt; 4&lt;/span&gt; Trying to fetch blog homepage for url http://localhost:3000/
+&lt;span class=&quot;lineno&quot;&gt; 5&lt;/span&gt; Trying to grab the number of likes for url http://localhost:3000/post/mxwnnnqaflufnqwlekfd
+&lt;span class=&quot;lineno&quot;&gt; 6&lt;/span&gt; Trying to increment the number of likes for post: /post/mxwnnnqaflufnqwlekfd
+&lt;span class=&quot;lineno&quot;&gt; 7&lt;/span&gt; Trying to grab the number of likes for url http://localhost:3000/post/mxwnnnqaflufnqwlekfd
+&lt;span class=&quot;lineno&quot;&gt; 8&lt;/span&gt; Successfully clicked like
+&lt;span class=&quot;lineno&quot;&gt; 9&lt;/span&gt; Blog validated successfully!
+&lt;span class=&quot;lineno&quot;&gt;10&lt;/span&gt; Your validation code is: VQ3jedFjG5VmElLTYKqS
+&lt;span class=&quot;lineno&quot;&gt;11&lt;/span&gt; validate$&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;![M101JS Final Question 4 Validate][m101js_final04_Validate]{: width=”75%” style=”display:block; margin-left:auto; margin-right:auto”}&lt;/p&gt;
 
 &lt;h3 id=&quot;final-question-5&quot;&gt;Final: Question 5&lt;/h3&gt;
+&lt;p&gt;![M101JS Final Question 5 Statement1][m101js_final05_Statement1]{: width=”75%” style=”display:block; margin-left:auto; margin-right:auto”}
+![M101JS Final Question 5 Statement2][m101js_final05_Statement2]{: width=”75%” style=”display:block; margin-left:auto; margin-right:auto”}
+![M101JS Final Question 5 Statement3][m101js_final05_Statement3]{: width=”75%” style=”display:block; margin-left:auto; margin-right:auto”}&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;&lt;span class=&quot;lineno&quot;&gt; 1&lt;/span&gt; [
+&lt;span class=&quot;lineno&quot;&gt; 2&lt;/span&gt; 	{
+&lt;span class=&quot;lineno&quot;&gt; 3&lt;/span&gt; 		&amp;quot;v&amp;quot; : 1,
+&lt;span class=&quot;lineno&quot;&gt; 4&lt;/span&gt; 		&amp;quot;key&amp;quot; : {
+&lt;span class=&quot;lineno&quot;&gt; 5&lt;/span&gt; 			&amp;quot;_id&amp;quot; : 1
+&lt;span class=&quot;lineno&quot;&gt; 6&lt;/span&gt; 		},
+&lt;span class=&quot;lineno&quot;&gt; 7&lt;/span&gt; 		&amp;quot;ns&amp;quot; : &amp;quot;test.fubar&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 8&lt;/span&gt; 		&amp;quot;name&amp;quot; : &amp;quot;_id_&amp;quot;
+&lt;span class=&quot;lineno&quot;&gt; 9&lt;/span&gt; 	},
+&lt;span class=&quot;lineno&quot;&gt;10&lt;/span&gt; 	{
+&lt;span class=&quot;lineno&quot;&gt;11&lt;/span&gt; 		&amp;quot;v&amp;quot; : 1,
+&lt;span class=&quot;lineno&quot;&gt;12&lt;/span&gt; 		&amp;quot;key&amp;quot; : {
+&lt;span class=&quot;lineno&quot;&gt;13&lt;/span&gt; 			&amp;quot;a&amp;quot; : 1,
+&lt;span class=&quot;lineno&quot;&gt;14&lt;/span&gt; 			&amp;quot;b&amp;quot; : 1
+&lt;span class=&quot;lineno&quot;&gt;15&lt;/span&gt; 		},
+&lt;span class=&quot;lineno&quot;&gt;16&lt;/span&gt; 		&amp;quot;ns&amp;quot; : &amp;quot;test.fubar&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt;17&lt;/span&gt; 		&amp;quot;name&amp;quot; : &amp;quot;a_1_b_1&amp;quot;
+&lt;span class=&quot;lineno&quot;&gt;18&lt;/span&gt; 	},
+&lt;span class=&quot;lineno&quot;&gt;19&lt;/span&gt; 	{
+&lt;span class=&quot;lineno&quot;&gt;20&lt;/span&gt; 		&amp;quot;v&amp;quot; : 1,
+&lt;span class=&quot;lineno&quot;&gt;21&lt;/span&gt; 		&amp;quot;key&amp;quot; : {
+&lt;span class=&quot;lineno&quot;&gt;22&lt;/span&gt; 			&amp;quot;a&amp;quot; : 1,
+&lt;span class=&quot;lineno&quot;&gt;23&lt;/span&gt; 			&amp;quot;c&amp;quot; : 1
+&lt;span class=&quot;lineno&quot;&gt;24&lt;/span&gt; 		},
+&lt;span class=&quot;lineno&quot;&gt;25&lt;/span&gt; 		&amp;quot;ns&amp;quot; : &amp;quot;test.fubar&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt;26&lt;/span&gt; 		&amp;quot;name&amp;quot; : &amp;quot;a_1_c_1&amp;quot;
+&lt;span class=&quot;lineno&quot;&gt;27&lt;/span&gt; 	},
+&lt;span class=&quot;lineno&quot;&gt;28&lt;/span&gt; 	{
+&lt;span class=&quot;lineno&quot;&gt;29&lt;/span&gt; 		&amp;quot;v&amp;quot; : 1,
+&lt;span class=&quot;lineno&quot;&gt;30&lt;/span&gt; 		&amp;quot;key&amp;quot; : {
+&lt;span class=&quot;lineno&quot;&gt;31&lt;/span&gt; 			&amp;quot;c&amp;quot; : 1
+&lt;span class=&quot;lineno&quot;&gt;32&lt;/span&gt; 		},
+&lt;span class=&quot;lineno&quot;&gt;33&lt;/span&gt; 		&amp;quot;ns&amp;quot; : &amp;quot;test.fubar&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt;34&lt;/span&gt; 		&amp;quot;name&amp;quot; : &amp;quot;c_1&amp;quot;
+&lt;span class=&quot;lineno&quot;&gt;35&lt;/span&gt; 	},
+&lt;span class=&quot;lineno&quot;&gt;36&lt;/span&gt; 	{
+&lt;span class=&quot;lineno&quot;&gt;37&lt;/span&gt; 		&amp;quot;v&amp;quot; : 1,
+&lt;span class=&quot;lineno&quot;&gt;38&lt;/span&gt; 		&amp;quot;key&amp;quot; : {
+&lt;span class=&quot;lineno&quot;&gt;39&lt;/span&gt; 			&amp;quot;a&amp;quot; : 1,
+&lt;span class=&quot;lineno&quot;&gt;40&lt;/span&gt; 			&amp;quot;b&amp;quot; : 1,
+&lt;span class=&quot;lineno&quot;&gt;41&lt;/span&gt; 			&amp;quot;c&amp;quot; : -1
+&lt;span class=&quot;lineno&quot;&gt;42&lt;/span&gt; 		},
+&lt;span class=&quot;lineno&quot;&gt;43&lt;/span&gt; 		&amp;quot;ns&amp;quot; : &amp;quot;test.fubar&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt;44&lt;/span&gt; 		&amp;quot;name&amp;quot; : &amp;quot;a_1_b_1_c_-1&amp;quot;
+&lt;span class=&quot;lineno&quot;&gt;45&lt;/span&gt; 	}
+&lt;span class=&quot;lineno&quot;&gt;46&lt;/span&gt; ]&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;&lt;span class=&quot;lineno&quot;&gt;1&lt;/span&gt; db.fubar.find({&amp;#39;a&amp;#39;:{&amp;#39;$lt&amp;#39;:10000}, &amp;#39;b&amp;#39;:{&amp;#39;$gt&amp;#39;: 5000}}, {&amp;#39;a&amp;#39;:1, &amp;#39;c&amp;#39;:1}).sort({&amp;#39;c&amp;#39;:-1})&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;h3 id=&quot;final-question-5-answer&quot;&gt;Final: Question 5. Answer:&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101j_finalq05.png&quot; alt=&quot;M101J Final Question 5 Answer&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;final-question-6&quot;&gt;Final: Question 6&lt;/h3&gt;
+&lt;p&gt;![M101JS Final Question 6 Statement1][m101js_final06_Statement1]{: width=”75%” style=”display:block; margin-left:auto; margin-right:auto”}
+![M101JS Final Question 6 Statement2][m101js_final06_Statement2]{: width=”75%” style=”display:block; margin-left:auto; margin-right:auto”}&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;&lt;span class=&quot;lineno&quot;&gt; 1&lt;/span&gt; {
+&lt;span class=&quot;lineno&quot;&gt; 2&lt;/span&gt; 	&amp;quot;_id&amp;quot; : ObjectId(&amp;quot;50c598f582094fb5f92efb96&amp;quot;),
+&lt;span class=&quot;lineno&quot;&gt; 3&lt;/span&gt; 	&amp;quot;first_name&amp;quot; : &amp;quot;John&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 4&lt;/span&gt; 	&amp;quot;last_name&amp;quot; : &amp;quot;Doe&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 5&lt;/span&gt; 	&amp;quot;date_of_admission&amp;quot; : ISODate(&amp;quot;2010-02-21T05:00:00Z&amp;quot;),
+&lt;span class=&quot;lineno&quot;&gt; 6&lt;/span&gt; 	&amp;quot;residence_hall&amp;quot; : &amp;quot;Fairweather&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 7&lt;/span&gt; 	&amp;quot;has_car&amp;quot; : true,
+&lt;span class=&quot;lineno&quot;&gt; 8&lt;/span&gt; 	&amp;quot;student_id&amp;quot; : &amp;quot;2348023902&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt; 9&lt;/span&gt; 	&amp;quot;current_classes&amp;quot; : [
+&lt;span class=&quot;lineno&quot;&gt;10&lt;/span&gt; 		&amp;quot;His343&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt;11&lt;/span&gt; 		&amp;quot;Math234&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt;12&lt;/span&gt; 		&amp;quot;Phy123&amp;quot;,
+&lt;span class=&quot;lineno&quot;&gt;13&lt;/span&gt; 		&amp;quot;Art232&amp;quot;
+&lt;span class=&quot;lineno&quot;&gt;14&lt;/span&gt; 	]
+&lt;span class=&quot;lineno&quot;&gt;15&lt;/span&gt; }&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;h3 id=&quot;final-question-6-answer&quot;&gt;Final: Question 6. Answer:&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101j_finalq06.png&quot; alt=&quot;M101J Final Question 6 Answer&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;final-question-7&quot;&gt;Final: Question 7&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101j_finalq07.png&quot; alt=&quot;M101J Final Question 7&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;![M101JS Final Question 7][m101j_final07]{: width=”75%” style=”display:block; margin-left:auto; margin-right:auto”}&lt;/p&gt;
 
 &lt;h3 id=&quot;final-question-7-answer&quot;&gt;Final: Question 7. Answer:&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101j_finalq07_answer1_win_import.png&quot; alt=&quot;M101J Final Question 7 Answer 1&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;
@@ -630,7 +1021,7 @@
 &lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101js_progress.png&quot; alt=&quot;M101JS progress&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;certificate&quot;&gt;CERTIFICATE&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101js_downloadcertificate.png&quot; alt=&quot;M101JS downloadcertificate&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;/gh-blog/assets/m101_downloadcertificate.png&quot; alt=&quot;M101JS downloadcertificate&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;
 &lt;img src=&quot;/gh-blog/assets/m101js_certificate.png&quot; alt=&quot;M101JS certificate&quot; width=&quot;75%&quot; style=&quot;display:block; margin-left:auto; margin-right:auto&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;references&quot;&gt;REFERENCES&lt;/h2&gt;

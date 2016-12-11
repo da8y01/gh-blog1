@@ -972,7 +972,7 @@ while (cursor_images.hasNext()) {
 
 
 ## CERTIFICATE
-![M101J downloadcertificate][m101j_downloadcertificate]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
+![M101J downloadcertificate][m101_downloadcertificate]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 ![M101J certificate][m101j_certificate]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
 
@@ -1020,7 +1020,7 @@ while (cursor_images.hasNext()) {
 [hw65-1]: {{ site.baseurl }}/assets/m101j_hw65-1.png
 [hw65-2]: {{ site.baseurl }}/assets/m101j_hw65-2.png
 [m101j_progress]: {{ site.baseurl }}/assets/m101j_progress.png
-[m101j_downloadcertificate]: {{ site.baseurl }}/assets/m101j_downloadcertificate.png
+[m101_downloadcertificate]: {{ site.baseurl }}/assets/m101_downloadcertificate.png
 [m101j_certificate]: {{ site.baseurl }}/assets/m101j_certificate.png
 [hw11_MongoRestore]: {{ site.baseurl }}/assets/m101j_hw11_MongoRestore.png
 [hw11_MongoChecks]: {{ site.baseurl }}/assets/m101j_hw11_MongoChecks.png
