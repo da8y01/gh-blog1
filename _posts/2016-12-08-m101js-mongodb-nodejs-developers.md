@@ -90,7 +90,7 @@ system.indexes
 
 
 ## Week 2: CRUD
-Following are presented the contents and answers to the HomeWorks belonging to **Week 2 (CRUD)** for "*M101J: MongoDB for Node.js Developers*" course offered by https://university.mongodb.com/ started at 2014-03-24.
+Following are presented the contents and answers to the HomeWorks belonging to **Week 2 (CRUD)** for "*M101JS: MongoDB for Node.js Developers*" course offered by https://university.mongodb.com/ started at 2014-03-24.
 
 
 ### HOMEWORK 2.1
@@ -209,7 +209,7 @@ this.validateLogin = function(username, password, callback) {
 
 
 ## Week 3: Schema Design
-Following are presented the contents and answers to the HomeWorks belonging to **Week 3 (Schema Design)** for "*M101J: MongoDB for Node.js Developers*" course offered by https://university.mongodb.com/ started at 2014-03-24.
+Following are presented the contents and answers to the HomeWorks belonging to **Week 3 (Schema Design)** for "*M101JS: MongoDB for Node.js Developers*" course offered by https://university.mongodb.com/ started at 2014-03-24.
 
 
 ### HOMEWORK 3.1
@@ -286,7 +286,7 @@ this.addComment = function(permalink, name, email, body, callback) {
 
 
 ## Week 4: Performance
-Following are presented the contents and answers to the HomeWorks belonging to **Week 4 (Performance)** for "*M101J: MongoDB for Node.js Developers*" course offered by https://university.mongodb.com/ started at 2014-03-17.
+Following are presented the contents and answers to the HomeWorks belonging to **Week 4 (Performance)** for "*M101JS: MongoDB for Node.js Developers*" course offered by https://university.mongodb.com/ started at 2014-03-24.
 
 
 ### HOMEWORK 4.1
@@ -311,7 +311,7 @@ Following are presented the contents and answers to the HomeWorks belonging to *
 
 
 ## Week 5: Aggregation Framework
-Following are presented the contents and answers to the HomeWorks belonging to **Week 5 (Aggregation Framework)** for "*M101J: MongoDB for Node.js Developers*" course offered by https://university.mongodb.com/ started at 2014-03-17.
+Following are presented the contents and answers to the HomeWorks belonging to **Week 5 (Aggregation Framework)** for "*M101JS: MongoDB for Node.js Developers*" course offered by https://university.mongodb.com/ started at 2014-03-24.
 
 
 ### HOMEWORK 5.1
@@ -405,7 +405,7 @@ db.zips.aggregate([
 
 
 ## Week 6: Application Engineering
-Following are presented the contents and answers to the HomeWorks belonging to **Week 6 (Application Engineering)** for "*M101J: MongoDB for Node.js Developers*" course offered by https://university.mongodb.com/ started at 2014-03-24.
+Following are presented the contents and answers to the HomeWorks belonging to **Week 6 (Application Engineering)** for "*M101JS: MongoDB for Node.js Developers*" course offered by https://university.mongodb.com/ started at 2014-03-24.
 
 
 ### HOMEWORK 6.1
@@ -443,7 +443,7 @@ Following are presented the contents and answers to the HomeWorks belonging to *
 
 
 ## Final Exam
-Following are presented the contents and answers to the questions belonging to **Final Exam** for "*M101J: MongoDB for Node.js Developers*" course offered by https://university.mongodb.com/ started at 2014-03-24.
+Following are presented the contents and answers to the questions belonging to **Final Exam** for "*M101JS: MongoDB for Node.js Developers*" course offered by https://university.mongodb.com/ started at 2014-03-24.
 
 
 ### Final: Question 1
@@ -1281,7 +1281,7 @@ system.indexes
 
 
 ### Final: Question 9
-![M101J Final Question 9 Statement][m101js_final09_Statement]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
+![M101JS Final Question 9 Statement][m101js_final09_Statement]{: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
 ### Final: Question 9. Answer:
 
