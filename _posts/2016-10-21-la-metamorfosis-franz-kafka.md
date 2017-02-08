@@ -98,11 +98,13 @@ http://dle.rae.es/?id=KlM8IWA|KlN65nd huero 1. adj. Vano, vacío y sin sustancia
 
 
 ## REFERENCIAS
-* [https://es.wikipedia.org/wiki/Franz_Kafka][1]{: target="_blank"}
+* [https://es.wikipedia.org/wiki/La_metamorfosis][1]{: target="_blank"}
+* [https://es.wikipedia.org/wiki/Franz_Kafka][2]{: target="_blank"}
 
 
 
-[1]: https://es.wikipedia.org/wiki/Franz_Kafka
+[1]: https://es.wikipedia.org/wiki/La_metamorfosis
+[2]: https://es.wikipedia.org/wiki/Franz_Kafka
 
 
 

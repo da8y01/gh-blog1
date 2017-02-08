@@ -36,7 +36,7 @@ David escribe acerca de los gastos y demás implicaciones de los equipos básico
 
 
 ### Seis
-Los hijos, dirigiéndose a Portland para la muerte programada de jacobo, hacen el viaje por tierra, se habla de Venus la fisioterapeuta masajista amante de Jacobo; David hace bocetos de Venus y Jacobo en los masajes y Sara y Venus en el Museo Metropolitano.
+Los hijos, dirigiéndose a Portland para la muerte programada de Jacobo, hacen el viaje por tierra, se habla de Venus la fisioterapeuta masajista amante de Jacobo; David hace bocetos de Venus y Jacobo en los masajes, y de Sara y Venus en el Museo Metropolitano.
 
 
 ### Siete
@@ -48,11 +48,11 @@ Después de David alimentar al gato feliz Cristóbal, llama a Portland, David y 
 
 
 ### Nueve
-David se despide de Sara y sale a dar un paseo por una playa donde llora, al regresar al apartamento Preet, el sij taxista del accidente de Jacobo, ha llegado a hacer visita como todos los viernes, y rememora cuando lo conocieron al presentarse en el hospital el segundo día después del accidente; en privado, con una cierta preocupación, Sara le informa a David que todo se ha pospuesto un par de horas por retraso del médico.
+David se despide de Sara y sale a dar un paseo por una playa donde llora, al regresar al apartamento, Preet, el sij taxista del accidente de Jacobo, ha llegado a hacer visita como todos los viernes, y rememora cuando lo conocieron al presentarse en el hospital el segundo día después del accidente; en privado, con una cierta preocupación, Sara le informa a David que todo se ha pospuesto un par de horas por retraso del médico.
 
 
 ### Diez
-Se habla de los amigos Debrah y James, cómo James que es abogado los aconseja sobre la forma de ejecutar la muerte programada de Jacobo, la anécdota del caso de defensa de la latina drogadicta. En La Mesa Ángela interrumpe para despedirse, David describe la finquita donde vive ella con su esposo, y las pilas de papel manuscrito.
+Se habla de los amigos Debrah y James, cómo James que es abogado los aconseja sobre la forma de ejecutar la muerte programada de Jacobo, la anécdota del caso de defensa de la latina drogadicta. En La Mesa, Ángela interrumpe para despedirse, David describe la finquita donde vive ella con su esposo, y las pilas de papel manuscrito.
 
 
 ### Once
@@ -60,15 +60,15 @@ En la noche de la eutanasia cenan, duermen y hacen el amor. En La Mesa un hombre
 
 
 ### Doce
-En Nueva York reciben una nueva llamada de Pablo diciendo que se postergará hasta el siguiente día a las 06:00am , David y Sara reciben la noticia con preocupación, incertidumbre, desconsuelo, duda. En NYC cada uno ejecuta sus quehaceres, Sara llama a sus hermanos.
+En Nueva York reciben una nueva llamada de Pablo diciendo que se postergará hasta el siguiente día a las 06:00 AM, David y Sara reciben la noticia con preocupación, incertidumbre, desconsuelo, duda. En NYC cada uno ejecuta sus quehaceres, Sara llama a sus hermanos.
 
 
 ### Trece
-.
+En NYC todos se van, Sara se pone a estregar la tina y baldosas, y David recuerda los momentos en que la admiraba mientras ella tomaba un baño; el día de verano avanza. En La Mesa, David recuerda los momentos del atardecer donde con nostalgia recuerda a Sara.
 
 
 ### Catorce
-.
+David sale y va al Horseshoe Bar, donde filmaron una escena famosa de una película, a tomarse unos tragos, piensa en los perros neoyorkinos y latinoamericanos, tiene nostalgia, un taco en la garganta; al regresar al apartamento llaman a los muchachos, Pablo comenta acerca de la inquietud por los aplazamientos del médico. En NYC, el hijo Arturo llega con la actual novia Ámbar (antes Maria, nombre cambiado por insípido), se describe a Ámbar; David habla de la forma en que emplea distintas técnicas de pintura (grabado, carboncillo, óleo), Sara saluda a los jóvenes que llegan, y éstos se encierran en el cuarto como de costumbre.
 
 
 ### Quince
@@ -248,6 +248,12 @@ http://dle.rae.es/?id=bFAeHSG vacuo, cua 1. Vacío, falto de contenido. 2. vacan
 El tiempo pasaba como una rueda que nos apretaba cada vez más los huesos.
 
 Que tu armazón, como en el caracol, sea tan fuerte que pueda permitir la ternura
+
+Pero únicamente la luz, siempre inasible, es eterna.
+
+Siempre ha sido esta la hora más difícil de mis días desde que tengo memoria.
+
+Y prefiero el óleo para las pinturas de gran formato, que a veces son casi abstractas, como la del ferry, o abstractas del todo, como los estudios de la luz y el agua que hice en Cayo Hueso, o en la bahía de Nueva York, y luego en las cumbres y abismos de La Mesa y alrededores, y que son el grueso y tal vez la parte más importante de mi obra.
 
 
 
