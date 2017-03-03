@@ -279,11 +279,54 @@ Se describe cómo el perfeccionamiento de las ecuaciones. como por ejemplo la in
 
 **LÁSERS Y MÁSERS**: Se exponen desarrollos científicos basados/provenientes no de la teoría cuántica moderna, sino de la física cuántica original del alemán Albert Einstein y con el modelo atómico (físico) del danés Niels Bohr, tales como las tecnologías MASER y LASER.
 
+* a pesar de lo cual los procesos nucleares se entienden de una forma menos completa que la representación por el modelo de Bohr para los fenómenos atómicos.
+* El proceso se llama emisión espontánea y representa lo contrario de la absorción.
+* Este proceso se conoce con el nombre de emisión estimulada y sólo tiene lugar si el fotón que lo origina tiene exactamente la misma longitud de onda que el fotón que el átomo está presto para radiar.
+* produciéndose así un haz muy puro de lo que se llama radiación coherente.
+* pero hay que indicar que hoy existen diferentes clases de lásers, siendo los más simples los de bombeo óptico.
+* y todo ello no proviene de la teoría cuántica propiamente dicha, sino de la versión original de la física cuántica.
+
 **EL PODEROSO &#171;CHIP&#187;**: Se explican principios/comportamientos de la física del estado sólido, aplicaciones, dispositivos y tecnologías generadas, principios de la física cuántica (de partículas) que rigen esta rama, conductividad y valencia, elementos/materiales/cristales de la naturaleza usados, LED/FotoDiodo, transistor/circuito integrado/chip.
+
+* La ignorancia acerca de la física del estado sólido no se debe al hecho de que sea una esotérica rama de la ciencia, sino a que sus aplicaciones son tan familiares que no se repara en el principio en que se basan.
+* Sin entrar en detalles, los aislantes son sustancias que no conducen la electricidad, y no la conducen porque los electrones están firmemente ligados a los núcleos de sus átomos, todo de acuerdo con las reglas de la mecánica cuántica. Pero en los conductores, como los metales, sucede que cada átomo tiene algunos electrones que están sólo ligeramente ligados al núcleo y se encuentran en niveles de energía próximos a la cima del pozo de potencial atómico.
+* Los niveles de energía para los electrones en un sólido se calculan mediante las ecuaciones de onda mecánico-cuánticas.
+* Si el germanio se &#171;dopa&#187; con unos cuántos átomos de arsénico, los átomos de germanio aún dominan en la estructura de la red cristalina, y los átomos de arsénico han de instalarse como mejor puedan.
+* Un cristal de esta clase se llama semiconductor tipo n.
+* Otra posibilidad consiste en &#171;dopar&#187; al germanio (volviendo al ejemplo inicial) con galio, que sólo tiene tres electrones disponibles.
+* Un cristal de esta clase se llama semiconductor tipo p.
+* Un par de semiconductores cristalinos unidos de esta forma constituyen lo que se llama un diodo, y sólo permite el paso de la corriente eléctrica en una dirección.
+* De una manera más sutil, los electrones pueden ser inducidos a saltar de n a un hueco de p, emitiendo una chispa de luz cuando lo logran. Un diodo diseñado para producir luz de esta forma se llama diodo de emisión de luz o, abreviadamente, LED (light emitting diode); estos diodos se utilizan para la señalización numérica en algunas calculadoras de bolsillo, en relojes y en otros dispositivos con señales gráficas visuales.
+* Un diodo que opera en la otra dirección, absorbiendo luz y bombeando un electrón desde un hueco hasta la banda de conducción, es un fotodiodo; se utiliza para asegurar que una corriente eléctrica sólo fluirá cuando el semiconductor sea iluminado por un haz de luz. Ésta es la base de los dispositivos de apertura automática de puertas que actúan cuando se interrumpe el haz luminoso.
+* Cuando tres semiconductores se colocan en forma de sandwich (pnp o npn), el resultado es un transistor.
+* Como todo aficionado a la electrónica sabe, los diodos y los elementos de amplificación son la base del diseño de cualquier sistema de sonido.
+* De aquí se tardó poco en pasar al circuito integrado, donde todos los circuitos y los semiconductores (diodos, amplificadores y demás) se aglutinan convenientemente en una pieza que constituye el núcleo de una radio, cassette o lo que sea.
+* y es la revolución del paso del transistor al &#171;chip&#187;.
+* Los cerebros biológicos y los ordenadores electrónicos pertenecen ambos al mundo de los circuitos.
+* hoy, a base de diminutos &#171;chips&#187; convenientemente ensamblados, las conexiones necesarias cabrían en el propio volumen de un cerebro humano, si bien la conexión de tal ordenador sería un problema mayor y aún no se ha resuelto.
+* El semiconductor que se utiliza en los típicos micro &#171;chips&#187; actuales es el silicio (básicamente no es otra cosa que la arena común). Con los estímulos apropiados, la electricidad pasa a través del silicio; sin ellos no.
+* Fabricar un &#171;chip&#187;, partiendo de cero, puede costar cientos de millones de pesetas; producir tantos como se quiera, iguales que el primero, puede salir a unas pocas pesetas cada uno.
+* Aunténticos ordenadores portátiles (de bolsillo) no pueden estar muy lejos; para las máquinas inteligentes habrá que esperar un poco más, pero es una posibilidad bastante real.
+* No obstante, la historia del poderoso &#171;chip&#187; no agota el potencial de la física del estado sólido.
 
 **LOS SUPERCONDUCTORES**: Se explican los superconductores y el fenómeno de la superconductividad en materiales a bajas temperaturas; se menciona el efecto túnel en las uniones de Josephson, el helio líquido.
 
+* Un superconductor es un material que conduce la electricidad sin oponer aparentemente ninguna resistencia. Representa lo más parecido que se puede imaginar al movimiento perpetuo
+* El fenómeno de la superconductividad puede explicarse por un cambio que hace que los electrones formen pares entre sí. Aunque cada electrón tiene espín semientero, y por eso obedece la estadística de Fermi-Dirac y el principio de exclusión, un par de electrones pueden comportarse bajo ciertas circunstancias como una partícula individual con espín entero. Tal partícula ya no está sometida al principio de exclusión y obedece a la misma estadística de Bose-Einstein que describe, en términos mecánico-cuánticos, el comportamiento de los fotones.
+* Y una doble unión de Josephson, constituida por dos piezas de material superconductor diseñadas en forma de una fina capa de aislante, puede simular adecuadamente el comportamiento mecánico cuántico del electrón en el experimento de la doble rendija, que se tratará con detalle en el capítulo siguiente y que es la piedra angular de algunas de las extrañas pecularidades del mundo cuántico.
+* Si se agita una taza de café y luego se la deja en observación, se comprueba que el remolino de líquido se hace más lento y acaba por desaparecer a causa de las fuerzas de viscosidad que equivalen en los fluidos al rozamiento.
+* Todo este extraño comportamiento puede explicarse a partir de la estadística de Bose-Einstein y, aunque de nuevo las bajas temperaturas requeridas hacen difícil el encontrar aplicaciones prácticas del fenómeno, el comportamiento de los átomos a estas bajas temperaturas proporciona la oportunidad de observar procesos cuánticos en acción, como en el caso de los electrones en la superconductividad.
+* Al aumentar la velocidad del giro, para un valor crítico del momento angular, en el helio aparece un flujo angular, pasando de un estado cuántico a otro. Ningún estado intermedio -correspondiente a valor intermedio del momento angular- está permitido por las reglas cuánticas, y la colocación completa de átomos de helio, una masa visible considerablemente mayor que un átomo individual o que las partículas del mundo cuántico, puede ser observada comportándose de acuerdo a las leyes cuánticas.
+* Toda la química se entiende hoy en términos de las leyes fundamentales cuánticas. Y la química es la ciencia de las moléculas más que de los átomos individuales y de las subunidades de átomos, por lo que incluye a las moléculas más importantes para la vida humana
+
 **LA VIDA MISMA**: Se expone la importancia, influencia, uso e historia de la mecánica cuántica en la biología molecular y la ingeniería genética con el descubrimiento y estudio de la molécula de doble hélice ADN a partir de la interpretación de la difracción de los rayos X en cristales, proteínas y moléculas en general; se habla de la la inspiración de Watson & Crick en Schrödinger & Bragg, de la relación entre mecánica cuántica y biología molecular, del reforzamiento del comentario pasajero hecho en un artículo del New Scientist acerca de la ingeniería genética por parte del autor John Gribbin.
+
+* El hecho clave es que el ADN es una molécula doble, formada por dos cadenas enrolladas una alrededor de otra. El orden en el que los diferentes componentes químicos, llamados bases, están ensartados en las columnas de ADN contiene una información que le célula viva utiliza para construir las moléculas que han de llevar a cabo todo el trabajo
+* Si a una cierta clase de bacterias se le proporciona de esta forma la información codificada sobre cómo fabricar insulina humana, sus propias factorías biológicas se encargarán de hacerlo y proporcionarán exactamente la sustancia requerida por los diabéticos para poder llevar una vida normal.
+* Un paso más inmediato, sin embargo, será el utilizar las técnicas de ingeniería genética con otros animales y con plantas, para producir clases superiores de alimentos y para otras necesidades humanas.
+* No obstante, muy pocos pueden apreciar que la comprensión de las moléculas vivientes que hacen posible la ingeniería genética se basa en el conocimiento actual de la mecánica cuántica, sin la cual no se podrían interpretar los datos obtenidos por la difracción de rayos X, aparte de muchas otras cosas. Para comprender cómo construir, o reconstruir, genes se debe comprender cómo y por qué los átomos se agrupan sólo en ciertas disposiciones, estando separados por ciertas distancias y con enlaces químicos de cierta intensidad. Esta comprensión es el dato fundamental que la física cuántica ha proporcionado a la química y a la biología molecular.
+* Por una parte, desde un punto de vista más superficial, resulta ideal poder destacar el hecho de que la conversión de Crick a la biofísica estuvo directamente inspirada por Schrödinger, y que el trabajo que condujo al descubrimiento de la doble hélice del ADN se hubiera llevado a cabo bajo la dirección formal, aunque a veces molesta, de Lawrence Bragg;
+* A pesar de las conquistas de las últimas seis décadas, es dudoso que alguien entienda por qué funcionan las recetas cuánticas.
 
 
 
