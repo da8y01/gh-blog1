@@ -334,75 +334,85 @@ Se describe cómo el perfeccionamiento de las ecuaciones. como por ejemplo la in
 <<Es mejor debatir una cuestión sin llegar a concluirla, que llegar a una conclusión sin debatirla.>> JOSEPH JOUBERT. 1754-1824.
 
 ### 8. Azar e incertidumbre
-**EL SIGNIFICADO DEL PRINCIPIO DE INCERTIDUMBRE**: .
+Heisenberg estudia las incertidumbres de la ecuación fundamental de la mecánica cuántica y su relación con el mundo cotidiano.
 
-**LA INTERPRETACIÓN DE COPENHAGUE**: .
+**EL SIGNIFICADO DEL PRINCIPIO DE INCERTIDUMBRE**: Se habla de las observaciones del principio de incertidumbre de Heisenberg y su interpretación; y su orígen en las ecuaciones de la teoría cuántica, y las observaciones e implicaciones experimentales.
 
-**EL EXPERIMENTO DE LOS DOS AGUJEROS**: .
+**LA INTERPRETACIÓN DE COPENHAGUE**: Se menciona que el Principio de Incertidumbre opera diferente hacia adelanta o hacia atrás en el tiempo, *que el futuro es escencialmente impredictible e incierto, pero el pasado está exactamente definido*; la interpretación de Copenhague incluye la idea de *complementariedad*, se menciona la expectativa en el acto de observar, la dependencia en los experimentos, de la existencia de observador y observado/observación, se menciona la *coherencia, estados coherentes*.
 
-**EL COLAPSO DE LAS ONDAS**: .
+**EL EXPERIMENTO DE LOS DOS AGUJEROS**: Se habla de Richard Feynman, de su generación, la primera que se formó con la base de la mecánica cuántica ya vigente, y con todas las reglas fundamentales establecidas, de su premio nobel en 1965 por el trabajo en "electrodinámica cuántica"; se describe en detalle el experimento de la doble rendija, al final se habla del experimento con el dispositivo que registra el paso de un electrón por un agujero sin impedirle seguir su camino hacia el detector; la interacción entre onservador/experimento, se menciona que en términos de probabilidades de Born, el electrón se ve forzado, a causa de la observación, a escoger una "línea de acción" entre una serie de probabilidades.
 
-**REGLAS COMPLEMENTARIAS**: .
+**EL COLAPSO DE LAS ONDAS**: Se habla de la observación y los experimentos, del *holismo*, los electrones fantasmas, del suceso.
+
+**REGLAS COMPLEMENTARIAS**: Se mencionan la relatividad general y la mecánica cuántica como los dos grandes logros de la física teórica del siglo XX, y los esfuerzos, tal vez infructuosos, por unificar ambas teorías, debido a que ambas imágenes del mundo pueden resultar irreconciliables, y la sugerencia y experimento mental de Bohr de las miríadas de colecciones de realidades fantasmas.
 
 
 ### 9. Paradojas y posibilidades
-**EL RELOJ EN LA CAJA**: .
+Se menciona el reforzamiento de la interpretación de Copenhague como características genuinas de la naturaleza, y se menciona el inicio y final del desarrollo de la teoría cuántica, inician con Einstein y 50 años más tarde en un laboratorio de París, respectivamente.
 
-**LA PARADOJA E.P.R.**: .
+**EL RELOJ EN LA CAJA**: Se menciona la correspondencia/comunicaciones entre Einstein, Bohr, Born intercambiando ideas e imaginando experimentos mentales para comprobar el principio de incertidumbre, la característica complementaria, y las características genuinas de la naturaleza/realidad; Einstein ideaba/formulaba/planteaba los experimentos, y Bohr se los refutaba, usando las mismas ecuaciones de la relatividad de Einstein.
 
-**VIAJE EN EL TIEMPO**: .
+**LA PARADOJA E.P.R.**: Se habla del experimento real de laboratorio EPR ejecutado exitosamente posterior a la muerte de Einstein, que corrobora la interpretación de Copenhague, y muestra que Einstein se equivocaba. El experimento llamado Paradoja EPR no describe ninguna paradoja, sino la interacción entre dos partículas, y los efectos de la "acción a distancia" y la "acausalidad".
 
-**EL TIEMPO DE EINSTEIN**: .
+**VIAJE EN EL TIEMPO**: Se mencionan los diagramas espacio-tiempo familiarmente geométricos de la relatividad, y los Diagramas de Feynman para describir interacciones entre partículas cuánticas; hay ciertas configuraciones de las interacciones que se interpretan como desplazamientos en el tiempo en la dirección del pasado validadas por las reglas matemáticas, Feynman estableció la equivalencia matemática de todos los diagramas con "doble codo".
 
-**ALGO DE NADA**: .
+**EL TIEMPO DE EINSTEIN**: Se habla de la percepción del tiempo, de la "línea de fotón en el espacio-tiempo", y su relación con las líneas correspondientes al resto de partículas en los diagramas de Feynman, y de que son posibilidades teóricas.
 
-**EL GATO DE SCHRÖDINGER**: .
+**ALGO DE NADA**: En 1935, Hideki Yukawa razona las partículas llamadas mesones como transportadoras de fuerzas en las interacciones, *hoy todas las fuerzas se entienden como interacciones*, se mencionan las nubes de bosones virtuales que rodean la existencia de las partículas, se mencionan los mesones pi, o piones, y su descubrimiento en la radiación cósmica de 1946, se menciona la utilización ventajosa que los protones hacen del principio de incertidumbre en el instante de distracción del Universo, *todas las fuerzas fundamentales pueden representarse en términos de intercambio de partículas, los conceptos de fuerza y partícula son indistinguibles*, se menciona la "danza cósmica" de Fritjof Capra en relación a las partículas virtuales, se explican los fenómenos de la "aparición espontánea" y las "fluctuaciones de vacío" teniendo así el "algo de nada".
 
-**EL UNIVERSO PARTÍCIPE**: .
+**EL GATO DE SCHRÖDINGER**: Se menciona el experimento imaginario de "el gato de Schrödinger", su similitud con el experimento de la doble rendija, la *superposición de estados*, el colapso de la función ondulatoria; las variaciones del experimento, la conciencia/registro necesaria para colapsar la función de onda, se menciona que ninguna partícula está tan aislada como puede parecer a primera vista.
+
+**EL UNIVERSO PARTÍCIPE**: Junto con Feynman, John Wheeler es de la generación apropiada para recibir "la sabia herencia del pasado" en cuanto a los descubrimientos/revolución/avances de la teoría cuántica, y con anécdotas y experimentos reales e imaginarios/mentales ha dado interpretaciones de la teoría en la realidad, así como ha subrayado los experimentos como la única forma de conocer el mundo cuántico y la realidad; se describe la versión del experimento de la doble rendija con "elección retardada" usando lentes, y la extrapolación al planteamiento hipotético del universo entero entendido como un experimento de elección retardada.
 
 
 ### 10. La prueba experimental
-**LA PARADOJA DEL ESPÍN**: .
+Se mencionan a Alain Aspect, David Bohm y John Bell, las variaciones del experimento EPR no midiendo posiciónmomento de partículas, sino espín/polarización de luz, propiedades análogas éstas.
 
-**EL ENIGMA DE LA POLARIZACIÓN**: .
+**LA PARADOJA DEL ESPÍN**: Se describe el funcionamiento de la propiedad espín de las partículas, mediciones, y el experimento EPR de Bell que desconcertó a Einstein.
 
-**EL TEST DE BELL**: .
+**EL ENIGMA DE LA POLARIZACIÓN**: Se explica el fenómeno de la polarización.
 
-**LA PRUEBA**: .
+**EL TEST DE BELL**: Se menciona el test de Bell que continúa con el experimento del espín del protón, concluye con la "desigualdad de Bell" en la medición de los tres componentes X, Y, Z del espín del protón.
 
-**SU SIGNIFICADO**: .
+**LA PRUEBA**: Se habla de varios test de Bell, de la localidad/no-localidad, se menciona el único test realizado hasta el momento sobre espínes de protones, se mencionan tres técnicas/experimentos utilizados para realizar el test de Bell y comprobar que cinco de siete (5/7) tests de Bell estaban a favor de la mecánica cuántica, mostrando la desigualdad de Bell, y la no-localidad de la realidad cuántica; modificaciones/variaciones al test de Bell como en el que los fotones ya van en viaje de Alain Aspect.
 
-**CONFIRMACIÓN Y APLICACIONES**: .
+**SU SIGNIFICADO**: Se habla acerca del significado, implicaciones e interpretaciones de la comprobada desigualdad de Bell, de la no-separabilidad/no-localidad como uno de los conceptos generales más válidos en física, de la noción de ligadura/conexión de las partículas de un sistema, y de *la reevaluación del concepto de inercia*.
+
+**CONFIRMACIÓN Y APLICACIONES**: Se habla del equipo de Sussex dirigido por Terry Clark y sus macro-partículas cuánticas o macro-átomos, de Brian Josephson y la "juntura de Josephson", del anillo de material superconductor, y de aplicaciones en los ordenadores y electrónica.
 
 
 ### 11. Otros mundos
-**¿QUIÉN OBSERVA A LOS OBSERVADORES?**: .
+Se habla de una interpretación de la mecánica cuántica que incluye a la interpretación de Copenhague que implica la existencia de muchos otros mundos.
 
-**LOS GATOS DE SCHRÖDINGER**: .
+**¿QUIÉN OBSERVA A LOS OBSERVADORES?**: Además de la interpretación de Wheeler sobre la consciencia humana como ese observador retrospectivo desde el Big Bang, y del argumento solipsista de un solo observador que cristaliza la realidad a partir de la red de probabilidades cuánticas, *Hugh Everett plantea la interpretación de otros mundos, funciones de onda superpuestas del Universo entero, las realidades alternativas cuánticas*.
 
-**MÁS ALLÁ DE LA CIENCIA FICCIÓN**: .
+**LOS GATOS DE SCHRÖDINGER**: Se revisita la paradoja del gato de Schrödinger con la interpretación de múltiples mundos de Everett.
 
-**¿MÁS ALLÁ DE EINSTEIN?**: .
+**MÁS ALLÁ DE LA CIENCIA FICCIÓN**: Se habla de referencias en ciencia ficción a teorías como las de Everett de otros mundos, se amplia la descripción de la interpretación de otros mundos de la realidad cuántica.
 
-**UNA SEGUNDA VISIÓN**: .
+**¿MÁS ALLÁ DE EINSTEIN?**: Con respecto a la noción relativista de que *"todos los sistemas de coordenadas regulares están igualmente justificados"*, la interpretación de otros mundos de Everett contiene a la practicabilidad de la interpretación de Copenhague, y además explica y es coherente con la noción relativista en cuanto una ramificación del mundo se hace consistente con conceptos como el de la complementariedad del espín en experimentos como el EPR, y los distintos test de la desigualdad de Bell.
 
-**MÁS ALLÁ DE EVERETT**: .
+**UNA SEGUNDA VISIÓN**: A finales de los 60's Bryce DeWitt de la Universidad de Carolina del Norte interpreta los múltiples mundos de Everett en un "universo relativistamente finito", y el desanimo, a pesar de su validez, de la teoría de otros mundos de Everett, debido al temor de que "traiga consigo una desmesurada cantidad de bagaje metafísico".
 
-**NUESTRO LUGAR ESPECIAL**: .
+**MÁS ALLÁ DE EVERETT**: Se menciona la posibilidad de viajes en el tiempo basada en la teoría de los múltiples mundos (universos alternativos) de Everett, se mencionan novelas de ciencia ficción, las matemáticas, la confusa teoría extradimensional y las teorías convencionales.
+
+**NUESTRO LUGAR ESPECIAL**: Se menciona que el futuro no está determinado, pero que el pasado sílo está, la equivocación de quienes sugieren que la teoría cuántica ofrece una posibilidad para la percepción extrasensorial, la telepatía y demás, se habla del "principio antrópico" para responder porqué los caminos de la red cuántica conducen a la aparición de inteligencia en el universo, y se dice que la teoría de otros mundos de Everett es "suficientemente disparatada", aludiendo a la anécdota mencionada de Niels Bohr, como para concluir la búsqueda del gato de Schrödinger.
 
 
 ## EPÍLOGO
 
 ### Un tema inacabado
-**EL ESPACIO-TIEMPO DISTORSIONADO**: .
+Se habla de la "renormalización", la despreciación arbitraria de cantidades infinitas en las ecuaciones, interpretadas como interacciones de "lazos cerrados" entre partículas subatómicas en los diagramas de Feynman.
 
-**LA SIMETRÍA ROTA**: .
+**EL ESPACIO-TIEMPO DISTORSIONADO**: Se habla del vacío y de su gran proporción, de las fluctuaciones del vacío interpretables como partículas materiales, de la longitud y tiempo de Planck.
 
-**SUPERGRAVEDAD**: .
+**LA SIMETRÍA ROTA**: Se explica la simetría, se mencionan los tres tipos de reflexión y el teorema PCT, y la fuerza electrodébil.
 
-**¿ES EL UNIVERSO UNA FLUCTUACIÓN DEL VACÍO?**: .
+**SUPERGRAVEDAD**: Se habla de la supersimetría, las diferentes teorías de supersimetrías y la importancia de la renormalización, la teoría de la supergravedad N=8, y el papel que entra a jugar la cosmología.
 
-**LA INFLACIÓN Y EL UNIVERSO**: .
+**¿ES EL UNIVERSO UNA FLUCTUACIÓN DEL VACÍO?**: Se habla de la idea de que el Universo sea una fluctuación inflacionaria del vacío, idea original acotada en los 70's por Ludwig Boltzmann, y desarrollada posteriormente por Edward Tryon de la City University de Nueva York.
+
+**LA INFLACIÓN Y EL UNIVERSO**: Se menciona el interés de la cosmología en la física de partículas para constituir un Universo cerrado, y por la rotura de la simetría como posible causante de la fuerza de explosión que puso a la burbuja de nuestro Universo en expansión; se nombra a Alan Guth del MIT como ponente original de esta idea del Universo inflacionario con dos fases, un antes y un después, a causa de la rotura de la simetría, se menciona la supergravedad como un punto lógico al qué acudir como signo de la posibilidad para unificar la teoría cuántica y la gravedad.
 
 
 

@@ -23,7 +23,7 @@ El autor (Wade Davis) concibe la idea de escribir un libro con sus vivencias en 
 Wade describe su vida en Colombia en la finca de Juan y Rosa a las afueras de Medellín. Después de recibir un telegrama, en el viaje en tren a encontrarse en Santa Marta con Tim, Wade lee las cartas de Schultes, reflexiona y recuerda sobre él, su carrera y fama, y Tim, al final se cuenta la historia favorita de Schultes sobre Tim, un envenenamiento casi fatal de éste. Un día y una noche de viaje en tren, hasta Barrancabermeja donde hubo cambio de tren en la estación.
 
 ### II Las montañas del Hermano Mayor
-
+Wade llega a Santa Marta, lo despluman, describe la ciudad, se dirige en un taxi colectivo de noche a encontrarse con Tim. En la Residencia Medellín Willy se encuentra con Tim, charlan, Tim atiende a los gamines con los kilos de conchas.
 
 ### III El camino del peyote
 
