@@ -53,6 +53,7 @@ Wade y Tim en el norte de Ecuador descansan en una hoguera mientras conversan ac
 
 
 ### IX Entre los waoranis
+Wade describe la comunidad, estructura, costumbres, creencias y comportamientos waorani, se menciona el complejo y delicado ecosistema que es la selva amazónica, se habla de la salud, curación y medicina waorani, y su conocimiento y uso de plantas usadas para la curación y medicina. Tomo, un hábil, experimentado y diestro cazador waorani los guía de cacería al interior de la selva, se describe la preparación del curare para los dardos, se narran contactos nefastos de Tomo con el mundo exterior. Se describe un domingo de Pascua y el ritual inculcado, se narra la relación discordante entre Betty Elliot, viuda de Jim Elliot, y Rachel Saint. Se mencionan beneficios que trajo el cristianismo a los waoranis y su ansia de bienes e insaciable curiosidad. Del estudio y recolección botánica se cuestiona si las farmacopeas extendidas son indicio de una situación diferente anterior al contacto en el Amazonas, se menciona que los aucas (waoranis) no tienen el concepto de destruir o de dañar la selva o de escasez. Ya en Quiwado un visitante auca con indumentaria de contactos llamado Nénwiki le vende a Wade un hacha de piedra de la fase Napo tardía de entre 800 y 1200 años d.C.
 
 
 ### X La sangre blanca de la selva (1943)
