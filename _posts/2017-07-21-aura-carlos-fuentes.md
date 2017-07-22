@@ -7,33 +7,29 @@ tags: review literature literatura narración relato "Aura - Carlos Fuentes" Aur
 
 
 
-<div style="text-align:center" markdown="1">
-![ElRio_WadeDavis_frente][ElRio_WadeDavis_frente]{: width="40%"}
-</div>
-
-
-
 ## ANOTACIONES
-Felipe Montero, historiador, fumador, acude a un llamado para un trabajo visto en un aviso clasificado. Resulta que el trabajo es refinar las memorias del esposo militar de una anciana.
+Felipe Montero, historiador, fumador, acude a un llamado para un trabajo visto en un aviso clasificado. Resulta que el trabajo es refinar las memorias del esposo militar general de una anciana.
 
 Aura es una linda oji-verde silenciosa, de quien Felipe Montero se guía por el frufrú de su tafeta (o tafetán) en medio de la penumbra de la casa.
 
 Consuelo Llorente tía de Aura, tiene 109 años, de joven fue una linda oji-verde que martirizaba gatos con las piernas abiertas y la crinolina (zagalejo, refajo) levantada por delante.
 
+El relato tiene escenas sensuales, románticas; y también tiene un manejo del tiempo particular, transmite una percepción peculiar del tiempo, una in-temporalidad, a-temporalidad, pan-temporalidad, como si abarcara muchos tiempos, o un lapso de tiempo extenso, con recuerdos/flashbacks, o pequeños cambios sutiles en la narración.
+
 
 El texto está escrito en un tiempo y persona gramatical curioso, una combinación de **futuro simple** y **presente simple** en tercera persona del singular.
 
-Tómese como ejemplo la siguiente frase: **LA ANCIANA SONREIRÁ, INCLUSO REIRÁ CON SU TIMBRE agudo...**
+Tómese como ejemplo la siguiente frase: *LA ANCIANA SONREIRÁ, INCLUSO REIRÁ CON SU TIMBRE agudo...*
 
-*Futuro simple o futuro imperfecto.* Sólo hay una forma simple: amaré, temeré, partiré.
+**Futuro simple o futuro imperfecto.** Sólo hay una forma simple: amaré, temeré, partiré.
 
 Por ejemplo en estas dos frases:
 
-**Y se alejara, con ese ruido de tafeta, sin que hayas podido ver otra vez su rostro.**
+*Y se alejara, con ese ruido de tafeta, sin que hayas podido ver otra vez su rostro.*
 
-**Cierras —empujas— la puerta detrás de ti y al fin levantas los ojos hacia el tragaluz inmenso que hace las veces de techo.**
+*Cierras —empujas— la puerta detrás de ti y al fin levantas los ojos hacia el tragaluz inmenso que hace las veces de techo.*
 
-Se ve la combinación de futuro y presente: *alejará* y *cierras*.
+Se ve la combinación de futuro y presente: **alejará** y **cierras**.
 
 
 
@@ -51,6 +47,12 @@ Se ve la combinación de futuro y presente: *alejará* y *cierras*.
 "—Quieren que estemos solas, señor Montero, porque dicen que la soledad es necesaria para alcanzar la santidad. Se han olvidado de que en la soledad la tentación es mas grande."
 
 "Un día la encontró, abierta de piernas, con la crinolina levantada por delante, martirizando a un gato y no supo llamarle la atención"
+
+"esa opresión en el diafragma"
+
+"No te pido conformidad, porque ello seria ofenderte. Te pido, tan solo, que veas en ese gran amor que dices tenerme algo suficiente, algo que pueda llenarnos a los dos sin necesidad de recurrir a la imaginación enfermiza. . ."
+
+"Consuelo, también el demonio fue un ángel, antes..."
 
 
 
@@ -80,6 +82,8 @@ http://dle.rae.es/?id=PMgXkyy miriñaque Zagalejo interior de tela rígida o muy
 http://dle.rae.es/?id=cH9Ra9q|cHBTgtR zagalejo Refajo que usan las lugareñas. #término
 
 http://dle.rae.es/?id=VbxzlYt refajo En los pueblos, falda corta y vueluda, por lo general de bayeta o paño, que usan las mujeres encima de las enaguas. Zagalejo interior de bayeta u otra tela tupida, que usan las mujeres para abrigo. En las ciudades, falda interior que usaba la mujer para abrigo. #término
+
+http://dle.rae.es/?id=HHIhIrG exornar Adornar, hermosear. Amenizar o embellecer el lenguaje escrito o hablado con galas retóricas. #término
 
 
 
