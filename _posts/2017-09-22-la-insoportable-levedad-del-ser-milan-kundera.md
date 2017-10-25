@@ -8,7 +8,7 @@ tags: review literature literatura novel novela "La insoportable levedad del ser
 
 
 <div style="text-align:center" markdown="1">
-![LaInsoportableLevedadDelser_MilanKundera][LaInsoportableLevedadDelser_MilanKundera]{: width="50%"}
+![LaInsoportableLevedadDelser_MilanKundera][LaInsoportableLevedadDelser_MilanKundera]{: width="30%"}
 </div>
 
 
@@ -28,8 +28,10 @@ Se narra acerca del académico profesor universitario Franz, su vida en Ginebra,
 Tomás y Teresa duermen, ella detecta el olor/aroma a sexo de otra mujer en el pelo de Tomás, piensa, recuerda, medita. Piensa en su cuerpo/entrañas y el alma refugiada, se habla de la delicada arquitectura de su relación, cuyo único soporte/sostenimiento es la columna de la absoluta fidelidad de ella, se narra su nuevo trabajo en otro bar, de la coquetería, del muchacho de 16 años, del calvo bajito social, del hombre alto ingeniero, de su aventura/amorío/exploración de la infidelidad con este ingniero en el modesto piso. Se describe el sueño de la ladera de Petrin a morir con otros hombres si verdaderamente era su deseo, y después la infidelidad/relación con el ingeniero, de cómo se ve/aprecia/desea ella misma su cuerpo en el sexo en compañía de un miembro extraño. Del conocido campesino que se encuentran en un balneario con el que hablan.
 
 ### Quinta parte - La levedad y el peso
+Teresa regresa a Praga y se encuentra con Tomás, aunque viven en la misma ciudad están distanciados. Se narra el caso del artículo político e influyente de Tomás usando la analogía de la tragedia griega de Edipo y los líderes comunistas, intentan obligarlo/persuadirlo para que firme o escriba una retractación, Tomás delibera el asunto, finalmente Tomás abandona su trabajo de médico cirujano en el hospital. Luego consigue trabajo de médico de cabecera en una clínica y se desempeña como "médico oficinista". El funcionario del Ministerio del Interior se presenta, charlan, interroga a Tomás, le informa que les interesa no perderlo como profesional, pero finalmente Tomás rechaza cualquier tipo de firma o declaración, por lo que también pierde este sencillo trabajo para convertirse en limpiador de escaparates de una empresa que a veces se jactaba de tenerlo entre su personal. Se habla del *«es muss sein! (tiene que ser)* de la composición de Beethoven, de su amor Teresa y su profesión, de su vocación por la medicina. Se narra la continuidad e incremento de su promiscuidad durate esos tres años de trabajo como limpiador de ventanas, se exponen las tesis del secreto yo, y de encontrar con la sutileza de un escalpelo de cirujano la millonésima diferencial que distingue a cada mujer. Se cuentan las experiencias con la mujer que parecía jirafa y cigueña, y la joven de la alfombra y la tormenta, se explica la "memoria poética". Estando trabajando de limpiador de escaparates, un día es citado a una residencia donde lo reciben el alto redactor y el hijo de Tomás que veía por primera vez desde que había decidido dejar a su esposa y su mutuo hijo, del cartel en la pared incitando a firmar, le presentan una declaración en la que les interesaba que Tomás participara firmando, Tomás decide no hacerlo. Se compara la levedad de la vida humana, con la levedad de la historia, ambas irrepetibles. Se cuenta del funeral en el que ve al redactor al que finalmente no saluda por conveniencia, del encuentro con el compañero médico del hospital S mientras Tomás limpiaba una vitrina en la calle, esa tarde Teresa llega, comentan la fealdad de Praga y que sería bueno irse a vivir al campo, Tomás le pregunta a Teresa cómo se encuentra, ella le confiesa que su pelo (el de él) huele intensamente a sexo de otra mujer. Se habla del "sistema de relojería de la cabeza" con las correspondencias entre las visiones y las reacciones del cuerpo, y lo ajeno que es el amor a esto, es decir, entre el mecanismo dispuesto por el Creador, y la libertad que representa el amor al estar al otro lado del «es muss sein!» (tiene que ser, de Beethoven).
 
 ### Sexta parte - La Gran Marcha
+Se cuenta la historia de la muerte metafísica de Lakov, el hijo de Stalin en la alambrada electrificada de un campo de concentración, la discusión acerca de la mierda, la elevación y la bajeza, la incompatibilidad entre la mierda y Dios, del ideal estético: el kitsch, de la rebelión de carácter no ético, sino estético de Sabina contra el comunismo, del kitsch totalitario, se habla de la invitación y estancia de Sabina en la casa ensoñada de la pareja de ancianos, de que lleva el kitsch en el interior, de su rol como hija y madre de esos ancianos; se habla de Franz, de la Gran Marcha y el kitsch que es, a Franz unos amigos de París lo telefonean para invitarlo a una marcha de intelectuales de Occidente a Comboya, la marcha se ejecuta infructuosamente hasta la frontera; se describen las categorías de personas según el tipo de mirado bajo la cual se quiere vivir, se hace un breve recuento de las actuaciones del hijo de Tomás, llamado Simón, también nombre bíblico, bajo la cuarta categoría de mirada en su rol de soñador también como Franz, para atraer la mirada del padre Tomás, y luego de la amante Sabina al recibir la carta informando de la muerte del padre; después de la infructuosa marcha hasta la frontera de Camboya, en Bangkok Franz es atracado, reacciona impulsivamente y es lesionado, despierta en el hospital queriendo ver a su novia de las grandes gafas, pero acompañado por su ex-esposa Maria-Claude, cierra los ojos y muere; cuando el hijo Simón recibe el telegrama de la muerte del padre Tomás, se hace cargo del entierro y la inscripciónn del epitafio en la tumba.
 
 ### Séptima parte - La sonrisa de Karenin
 
@@ -168,6 +170,106 @@ El amor que hay entre ellos es de una arquitectura extrañamente asimétrica: de
 
 Porque esa construcción tiene por única columna su fidelidad y los amores son como los imperios: cuando desaparece la idea sobre la cual han sido construidos, perecen ellos también.
 
+Era una sonrisa completamente distinta, otra de las sonrisas del voluminoso herbario de las sonrisas: una sonrisa de feliz superioridad moral.
+
+Su profunda desconfianza hacia la gente (sus dudas con respecto a que tengan derecho a decidir acerca de lo que a él le concierne y a juzgarlo) tuvo probablemente algo que ver en la elección de su profesión, que descartaba cualquier posibilidad de relación con el público.
+
+¡Qué indefenso está el hombre ante los elogios!
+
+Resulta tragicómico que nuestra buena educación se convierta en aliada de la policía. No sabemos mentir. El imperativo «¡di la verdad!» que nos inculcaron mamá y papá actúa hasta tal punto de forma automática que incluso ante el policía que nos interroga nos da vergüenza mentir. Es más fácil para nosotros discutir con él, insultarlo (lo cual no tiene sentido alguno) que mentirle descaradamente (que es lo único lógico que podemos hacer).
+
+El hombre del Ministerio volvió a hacer con la cabeza un gesto como si no pudiera comprender una actitud tan inmoral y dijo:
+
+Suponía (correctamente) que en cuanto descendiese voluntariamente al puesto más bajo de la escala social (al que en aquella época habían descendido, por lo demás, miles de intelectuales de otras especialidades), la policía perdería todo poder sobre él y dejaría de ocuparse de su persona.
+
+Si es posible dividir a las personas de acuerdo con alguna categoría, es de acuerdo con estos profundos anhelos que las orientan hacia tal o cual actividad a la que dedican toda su vida.
+
+Todo ámbito de libertad significaba para él, desde su temprana juventud, mujeres.
+
+El carácter único del «yo» se esconde precisamente en lo que hay de inimaginable en el hombre. Sólo somos capaces de imaginarnos lo que es igual en todas las personas, lo general. El «yo» individual es aquello que se diferencia de lo general, o sea lo que no puede ser adivinado y calculado de antemano, lo que en el otro es necesario descubrir, desvelar, conquistar.
+
+la sexualidad sigue siendo la caja de caudales en la que está oculto el secreto del yo de la mujer.
+
+El desengaño que los lleva de una mujer a otra le brinda a su inconstancia cierta disculpa romántica, de modo que muchas mujeres sentimentales pueden sentirse conmovidas por su terca poligamia.
+
+Desde el comienzo, ella le había dado a la conversación la gracia de la coquetería. Nada de lo que decía tenía que ver con el mundo que les rodeaba, todas las palabras se referían directamente a ellos mismos.
+
+No empezó a resistirse hasta que intentó tocarle el sexo.
+
+Él tenía la mano en su húmedo sexo y deslizó luego los dedos hasta el orificio anal, que era lo que más le gustaba en el cuerpo de todas las mujeres.
+
+Se lavó, hizo pis en el lavabo (costumbre generalizada entre los médicos checos)
+
+Ya dije que las metáforas son peligrosas. El amor empieza por una metáfora. Dicho de otro modo: el amor empieza en el momento en que una mujer inscribe su primera palabra en nuestra memoria poética.
+
+«Empiezo a estarte agradecida de que nunca hayas querido tener hijos».
+
+No le apetecía nada ser citado por los historiadores de los próximos siglos. Más bien tenía miedo de que le citara la policía.
+
+No existe más que un solo criterio para todas sus decisiones: no debe hacer nada que pueda perjudicarla. Tomás no puede salvar a los presos políticos, pero puede hacer feliz a Teresa.
+
+No tenía la seguridad de estar actuando correctamente, pero tenía la seguridad de estar actuando tal como quería actuar.
+
+Los personajes de mi novela son mis propias posibilidades que no se realizaron.
+
+La vida humana acontece sólo una vez y por eso nunca podremos averiguar cuáles de nuestras decisiones fueron correctas y cuáles fueron incorrectas.
+
+Lo que sólo ocurre una vez es como si no hubiera ocurrido.
+
+La historia es igual de leve que una vida humana singular, insoportablemente leve, leve como una pluma, como el polvo que flota, como aquello que mañana ya no existirá.
+
+Esa es la versión de Tomás del eterno retorno.
+
+El corazón se le estrechaba de tal modo que creyó que estaba al borde del infarto.
+
+La desesperanza que se había apoderado del país penetraba por las almas hasta los cuerpos y los destrozaba.
+
+Eran sus antiguas molestias que reaparecían siempre en los momentos de depresión.
+
+Si la excitación es el mecanismo mediante el cual se divierte nuestro Creador, el amor es, por el contrario, lo que nos pertenece sólo a nosotros y con lo que escapamos al Creador. El amor es nuestra libertad. El amor está al otro lado del «es muss sein!».
+
+Pero en ese momento se produjo el deslizamiento del sueño al despertar. Se encontró en ese no man's land en el que el hombre ya no duerme y aún no está despierto.
+
+Recordó el conocido mito de El banquete de Platón: los humanos eran antes hermafroditas y Dios los dividió en dos mitades que desde entonces vagan por el mundo y se buscan. El amor es el deseo de encontrar a la mitad perdida de nosotros mismos.
+
+¡Siente otra vez el dolor de ella en su propio corazón! Está otra vez en poder de la compasión y se hunde en el alma de ella.
+
+Por el contrario, la muerte del hijo de Stalin fue, en medio de la estupidez generalizada de la guerra, la única muerte metafísica.
+
+y, de ahí, cuan dudosa resulta la tesis básica de la antropología cristiana según la cual el hombre fue creado a imagen y semejanza de Dios. Una de dos: o el hombre fue creado a semejanza de Dios y entonces Dios tiene tripas, o Dios no tiene tripas y entonces el hombre no se le parece.
+
+La idea de Escoto Erígena tiene otro sentido. Si el miembro puede elevarse por una simple orden del cerebro, la excitación carece de utilidad. El miembro no se yergue porque estemos excitados, sino porque se lo ordenamos.
+
+no existiría el amor sexual tal como lo conocemos: acompañado de palpitaciones del corazón y ceguera de los sentidos.
+
+De eso se desprende que el ideal estético del acuerdo categórico con el ser es un mundo en el que la mierda es negada y todos se comportan como si no existiese. Este ideal estético se llama kitsch.
+
+el kitsch es la negación absoluta de la mierda; en sentido literal y figurado: el kitsch elimina de su punto de vista todo lo que en la existencia humana es esencialmente inaceptable.
+
+Y no se trataba de un mero acuerdo político con el comunismo, sino de un acuerdo con el ser en tanto que tal.
+
+El senador tenía un solo argumento para su afirmación: sus sentimientos. Allí donde habla el corazón es de mala educación que la razón lo contradiga. En el reino del kitsch impera la dictadura del corazón.
+
+y pone así en peligro la consigna sagrada «amaos y multiplicaos».
+
+El sueño de Teresa descubre la verdadera función del kitsch: el kitsch es un biombo que oculta la muerte.
+
+Así fue, por lo demás, cómo Sabina le explicó una vez a Teresa el sentido de sus cuadros: delante hay una mentira comprensible y tras ella reluce una verdad incomprensible.
+
+La fuente del kitsch es el acuerdo categórico con el ser. 
+
+Es hermoso soñar que somos parte de una masa que marcha a través de los siglos y Franz no olvidó nunca ese hermoso sueño.
+
+Como ya dije, lo que hace que la izquierda sea la izquierda es el kitsch de la Gran Marcha.
+
+«Castigar a los que no sabían lo que estaban haciendo es una barbaridad».
+
+Vende bien sus cuadros y le gusta Norteamérica. Pero sólo la superficie. Lo que está debajo es un mundo extraño.
+
+Pero un hombre, cuando llega a los cincuenta, vendería su alma por un pedazo de cuerpo joven.
+
+Antes de que se nos olvide, seremos convertidos en kitsch. El kitsch es una estación de paso entre el ser y el olvido.
+
 
 
 ## TÉRMINOS
@@ -186,6 +288,14 @@ http://dle.rae.es/?id=DXshldX|DXtqSSD desvelar Impedir el sueño a alguien, no d
 http://dle.rae.es/?id=3Mgp84P aquiescencia Asenso, consentimiento. #término
 
 http://dle.rae.es/?id=AtiphKQ corneja Ave de plumaje negro, semejante al cuervo, pero de menor tamaño, que vive en el oeste y sur de Europa y en algunas regiones de Asia. Ave rapaz nocturna semejante al búho, pero mucho más pequeña que este, con plumaje en que domina el color castaño ceniciento, y en la cabeza dos plumas en forma de cuernos pequeños. #término
+
+http://dle.rae.es/?id=C5yXZyG delación Acusación, denuncia. Llamamiento a aceptar o repudiar una herencia o legado. #término
+
+http://dle.rae.es/?id=LSXm1tU ineluctable Dicho de una cosa: Contra la cual no puede lucharse. #término
+
+http://dle.rae.es/?id=RHT4wr2 osco, ca Dicho de una persona: De un antiguo pueblo itálico que habitaba en Campania U. t. c. s. Perteneciente o relativo a los oscos. Perteneciente o relativo al osco (‖ lengua). Léxico osco. Lengua itálica que hablaban los oscos y que acabó absorbida por el latín. #término
+
+http://dle.rae.es/?id=HxH0ACk finado, da Persona muerta. #término
 
 
 
