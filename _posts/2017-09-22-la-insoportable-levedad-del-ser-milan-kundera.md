@@ -270,6 +270,14 @@ Pero un hombre, cuando llega a los cincuenta, vendería su alma por un pedazo de
 
 Antes de que se nos olvide, seremos convertidos en kitsch. El kitsch es una estación de paso entre el ser y el olvido.
 
+Cortaron su vida como si fuera un trozo de cinta.
+
+—y siente una opresión en la garganta que le impide hablar.
+
+el hombre es el propietario y el señor mientras que el animal, dice Descartes, es sólo un autómata, una máquina viviente, «machina animata». Si el animal se queja, no se trata de un quejido, es el chirrido de un mecanismo que funciona mal. Cuando chirría la rueda de un carro, no significa que el eje sufra, sino que no está engrasado.
+
+La verdadera bondad del hombre sólo puede manifestarse con absoluta limpieza y libertad en relación con quien no representa fuerza alguna.
+
 
 
 ## TÉRMINOS
@@ -296,6 +304,8 @@ http://dle.rae.es/?id=LSXm1tU ineluctable Dicho de una cosa: Contra la cual no p
 http://dle.rae.es/?id=RHT4wr2 osco, ca Dicho de una persona: De un antiguo pueblo itálico que habitaba en Campania U. t. c. s. Perteneciente o relativo a los oscos. Perteneciente o relativo al osco (‖ lengua). Léxico osco. Lengua itálica que hablaban los oscos y que acabó absorbida por el latín. #término
 
 http://dle.rae.es/?id=HxH0ACk finado, da Persona muerta. #término
+
+http://dle.rae.es/?id=b4HCTFF uncir Atar o sujetar al yugo bueyes, mulas u otras bestias. #término
 
 
 
