@@ -37,6 +37,7 @@ Continúa el domingo en Las Acacias, Antonio niega a su hija y familia, las ment
 
 
 ## COMENTARIO
+Novela agradable de leer, en poco espacio y poco tiempo transcurrido logra abarcar un intervalo de tiempo grande retomando el tema de las generaciones, hay descripciones y reconstrucciones de lugares bien logrados que logran transmitir la impresión del tiempo pasado y el orden anterior de las cosas. Se hacen referencias a Estados Unidos y épocas como la Navidad o la Semana Santa. La historia se comunica a través de memorias, recuerdos, flashbacks, pero con una diferenciación en la distribución del texto y del relato más gruesa, y estructura más explícita que otros textos como "Estaba la pájara pinta sentada en el verde limón". Se tocan temas como la situación del país y el narcotráfico, y sus actracciones y excentricidades.
 
 
 
@@ -52,4 +53,4 @@ Continúa el domingo en Las Acacias, Antonio niega a su hija y familia, las ment
 
 
 [ElRuidoDeLasCosasAlCaer_JuanGabrielVasquez_portada]: {{ site.baseurl }}/assets/ElRuidoDeLasCosasAlCaer_JuanGabrielVasquez_portada.jpg "El ruido de las cosas al caer - Juan Gabriel Vásquez (portada)"
-[ElRuidoDeLasCosasAlCaer_JuanGabrielVasquez_portada]: {{ site.baseurl }}/assets/ElRuidoDeLasCosasAlCaer_JuanGabrielVasquez_portada.jpg "El ruido de las cosas al caer - Juan Gabriel Vásquez (contra-portada)"
+[ElRuidoDeLasCosasAlCaer_JuanGabrielVasquez_contraportada]: {{ site.baseurl }}/assets/ElRuidoDeLasCosasAlCaer_JuanGabrielVasquez_contraportada.jpg "El ruido de las cosas al caer - Juan Gabriel Vásquez (contra-portada)"
