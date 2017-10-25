@@ -8,8 +8,8 @@ tags: review literatura novela "El ruido de las cosas al caer - Juan Gabriel Vá
 
 
 <div style="text-align:center" markdown="1">
-![ElRuidoDeLasCosasAlCaer_JuanGabrielVasquez_portada][ElRuidoDeLasCosasAlCaer_JuanGabrielVasquez_portada]{: width="30%"}
-![ElRuidoDeLasCosasAlCaer_JuanGabrielVasquez_contraportada][ElRuidoDeLasCosasAlCaer_JuanGabrielVasquez_contraportada]{: width="30%"}
+![ElRuidoDeLasCosasAlCaer_JuanGabrielVasquez_portada][ElRuidoDeLasCosasAlCaer_JuanGabrielVasquez_portada]{: width="40%"}
+![ElRuidoDeLasCosasAlCaer_JuanGabrielVasquez_contraportada][ElRuidoDeLasCosasAlCaer_JuanGabrielVasquez_contraportada]{: width="40%"}
 </div>
 
 
