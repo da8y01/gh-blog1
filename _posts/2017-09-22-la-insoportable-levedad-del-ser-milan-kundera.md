@@ -31,9 +31,15 @@ Tomás y Teresa duermen, ella detecta el olor/aroma a sexo de otra mujer en el p
 Teresa regresa a Praga y se encuentra con Tomás, aunque viven en la misma ciudad están distanciados. Se narra el caso del artículo político e influyente de Tomás usando la analogía de la tragedia griega de Edipo y los líderes comunistas, intentan obligarlo/persuadirlo para que firme o escriba una retractación, Tomás delibera el asunto, finalmente Tomás abandona su trabajo de médico cirujano en el hospital. Luego consigue trabajo de médico de cabecera en una clínica y se desempeña como "médico oficinista". El funcionario del Ministerio del Interior se presenta, charlan, interroga a Tomás, le informa que les interesa no perderlo como profesional, pero finalmente Tomás rechaza cualquier tipo de firma o declaración, por lo que también pierde este sencillo trabajo para convertirse en limpiador de escaparates de una empresa que a veces se jactaba de tenerlo entre su personal. Se habla del *«es muss sein! (tiene que ser)* de la composición de Beethoven, de su amor Teresa y su profesión, de su vocación por la medicina. Se narra la continuidad e incremento de su promiscuidad durate esos tres años de trabajo como limpiador de ventanas, se exponen las tesis del secreto yo, y de encontrar con la sutileza de un escalpelo de cirujano la millonésima diferencial que distingue a cada mujer. Se cuentan las experiencias con la mujer que parecía jirafa y cigueña, y la joven de la alfombra y la tormenta, se explica la "memoria poética". Estando trabajando de limpiador de escaparates, un día es citado a una residencia donde lo reciben el alto redactor y el hijo de Tomás que veía por primera vez desde que había decidido dejar a su esposa y su mutuo hijo, del cartel en la pared incitando a firmar, le presentan una declaración en la que les interesaba que Tomás participara firmando, Tomás decide no hacerlo. Se compara la levedad de la vida humana, con la levedad de la historia, ambas irrepetibles. Se cuenta del funeral en el que ve al redactor al que finalmente no saluda por conveniencia, del encuentro con el compañero médico del hospital S mientras Tomás limpiaba una vitrina en la calle, esa tarde Teresa llega, comentan la fealdad de Praga y que sería bueno irse a vivir al campo, Tomás le pregunta a Teresa cómo se encuentra, ella le confiesa que su pelo (el de él) huele intensamente a sexo de otra mujer. Se habla del "sistema de relojería de la cabeza" con las correspondencias entre las visiones y las reacciones del cuerpo, y lo ajeno que es el amor a esto, es decir, entre el mecanismo dispuesto por el Creador, y la libertad que representa el amor al estar al otro lado del «es muss sein!» (tiene que ser, de Beethoven).
 
 ### Sexta parte - La Gran Marcha
-Se cuenta la historia de la muerte metafísica de Lakov, el hijo de Stalin en la alambrada electrificada de un campo de concentración, la discusión acerca de la mierda, la elevación y la bajeza, la incompatibilidad entre la mierda y Dios, del ideal estético: el kitsch, de la rebelión de carácter no ético, sino estético de Sabina contra el comunismo, del kitsch totalitario, se habla de la invitación y estancia de Sabina en la casa ensoñada de la pareja de ancianos, de que lleva el kitsch en el interior, de su rol como hija y madre de esos ancianos; se habla de Franz, de la Gran Marcha y el kitsch que es, a Franz unos amigos de París lo telefonean para invitarlo a una marcha de intelectuales de Occidente a Comboya, la marcha se ejecuta infructuosamente hasta la frontera; se describen las categorías de personas según el tipo de mirado bajo la cual se quiere vivir, se hace un breve recuento de las actuaciones del hijo de Tomás, llamado Simón, también nombre bíblico, bajo la cuarta categoría de mirada en su rol de soñador también como Franz, para atraer la mirada del padre Tomás, y luego de la amante Sabina al recibir la carta informando de la muerte del padre; después de la infructuosa marcha hasta la frontera de Camboya, en Bangkok Franz es atracado, reacciona impulsivamente y es lesionado, despierta en el hospital queriendo ver a su novia de las grandes gafas, pero acompañado por su ex-esposa Maria-Claude, cierra los ojos y muere; cuando el hijo Simón recibe el telegrama de la muerte del padre Tomás, se hace cargo del entierro y la inscripciónn del epitafio en la tumba.
+Se cuenta la historia de la muerte metafísica de Lakov, el hijo de Stalin en la alambrada electrificada de un campo de concentración, la discusión acerca de la mierda, la elevación y la bajeza, la incompatibilidad entre la mierda y Dios, del ideal estético: el kitsch, de la rebelión de carácter no ético, sino estético de Sabina contra el comunismo, del kitsch totalitario, se habla de la invitación y estancia de Sabina en la casa ensoñada de la pareja de ancianos, de que lleva el kitsch en el interior, de su rol como hija y madre de esos ancianos; se habla de Franz, de la Gran Marcha y el kitsch que es, a Franz unos amigos de París lo telefonean para invitarlo a una marcha de intelectuales de Occidente a Comboya, la marcha se ejecuta infructuosamente hasta la frontera; se describen las categorías de personas según el tipo de mirada bajo la cual se quiere vivir, se hace un breve recuento de las actuaciones del hijo de Tomás, llamado Simón, también nombre bíblico, bajo la cuarta categoría de mirada en su rol de soñador también como Franz, para atraer la mirada del padre Tomás, y luego de la amante Sabina al recibir la carta informando de la muerte del padre; después de la infructuosa marcha hasta la frontera de Camboya, en Bangkok Franz es atracado, reacciona impulsivamente y es lesionado, despierta en el hospital queriendo ver a su novia de las grandes gafas, pero acompañado por su ex-esposa Maria-Claude, cierra los ojos y muere; cuando el hijo Simón recibe el telegrama de la muerte del padre Tomás, se hace cargo del entierro y la inscripciónn del epitafio en la tumba.
 
 ### Séptima parte - La sonrisa de Karenin
+Se describe la vida en el campo donde nadie quiere echar raíces y todos quieren partir, en donde el régimen no tiene interés y donde excepcionalmente Tomás y Teresa habían llegado por propia voluntad, se presenta al presidente de la cooperativa y su familia incluyndo al cerdo criado como perro Mefisto, del que la perra Karenin se hace amigo por una clase de exclusividad, Tomás se convierte en conductor de camión de transporte y Teresa en pastora acompañada siempre por el fiel Karenin, a Karenin se le detecta cáncer, Tomás colabora en la operación; se diserta acerca del Genésis, de llorar por un perro, del amor por un perro, del dominio confiado o cedido por Dios sobre los animales, de Descartes y la «machina animata», de la verdadera bondad del hombre con los animales, se menciona la anécdota de Nietzsche abrazando al caballo y llorando; Teresa tiene el sueño de Karenin pariendo dos panecillos y una abeja en el que encontraron una especie de consuelo, Teresa va a comprar a la tienda esta vez sin el desanimado Karenin, al regresar y Tomás jugarretear con él y el panecillo, Karenin gruñe, es decir sonríe, se anima, se alegra, Teresa recrimina a Tomás por hablar en pasado de Karenin; se habla de la comparación entre Karenin y Adán, del idilio, del tiempo que da vueltas en redondo y el que sigue una trayectoria recta y la felicidad, entre Teresa y Tomás le aplican la inyección de eutanasia a Karenin y lo entierran envuelto en una sábana entre los manzanos; luego Teresa tiene el sueño de la citación en el aeropuerto, el vuelo, y la transformación de Tomás en conejo en el regazo de ella, Tomás lee las cartas de su hijo, Teresa lo anima a invitarlo, después, sin ser vista desde la lejanía, Teresa ve a Tomás viejo en la escena en que cambia una rueda del camión, Teresa se reprocha algunos remordimientos, de la fuerza como culpable y la debilidad como víctima inocente, Teresa se baña, se pone el vestido más bonito para gustarle, para darle una alegría, en ese momento Tomás ruidosamente junto con el presidente de la cooperativa y un joven campesino llegan, Tomás pide algún licor fuerte para el joven que venía con un brazo dislocado que Tomás le acomoda, luego le lenzan piropos a Teresa y surge la idea de irse a bailar a un pueblo vecino con todo y marranos, llegan, bailan, se divierten, hablan, están felices, al final suben a las habitaciones a descansar.
+
+
+
+## COMENTARIO
+Es una novela que retrata aspectos del alma y espíritu, y cuestiones metafísicas y trascendentales del ser, también es una novela histórica y rebelde, tiene buen gusto, es estética, trata la sensualidad y la sexualidad, también las relaciones, las parejas y el amor, así como las mujeres, y alude a los sueños.
 
 
 
@@ -278,6 +284,38 @@ el hombre es el propietario y el señor mientras que el animal, dice Descartes, 
 
 La verdadera bondad del hombre sólo puede manifestarse con absoluta limpieza y libertad en relación con quien no representa fuerza alguna.
 
+Su uniformidad no era un aburrimiento, sino un motivo de felicidad.
+
+No habría comprendido a Teresa cuando, de niña, se ponía ante el espejo y trataba de ver su alma a través de su cuerpo.
+
+La nostalgia del Paraíso es el deseo del hombre de no ser hombre.
+
+Es posible que no seamos capaces de amar precisamente porque deseamos ser amados, porque queremos que el otro nos dé algo (amor), en lugar de aproximarnos a él sin exigencias y querer sólo su mera presencia.
+
+La madre no tenía la culpa de que Teresa hubiera roto con ella. No rompió con ella porque la madre fuera como era, sino porque era la madre.
+
+En esta frase está encerrada toda la condena que pesa sobre el hombre. El tiempo humano no da vueltas en redondo, sino que sigue una trayectoria recta. Ese es el motivo por el cual el hombre no puede ser feliz, porque la felicidad es el deseo de repetir.
+
+En el contexto del idilio, hasta el humor está sometido a la dulce ley de la repetición.
+
+(¡Ay, qué terrible, en realidad, soñamos por adelantado con la muerte de aquellos a quienes amamos!)
+
+Karenin parió dos panecillos y una abeja.
+
+Cree en Dios y piensa que ésa es la clave de todo. Según parece, todos debemos vivir en nuestra vida cotidiana de acuerdo con las normas establecidas por la religión y no tener en cuenta para nada al régimen. Ignorarlo.
+
+— Siempre he admirado a los creyentes. Pensaba que estaban dotados de un don especial de percepción ultra-sensorial del que yo carecía. Algo así como los videntes. Pero mi hijo me demuestra que creer es en realidad muy fácil.
+
+No sé por qué he sido tan terco. Uno decide algo, ni siquiera sabe muy bien cómo, y esa decisión se mantiene luego por su propia inercia. Cada año que pasa es más difícil cambiarla.
+
+Lo atraía cada vez más hacia abajo, como atraen las ninfas a los campesinos hacia los pantanos para dejarlos morir allí.
+
+— Esa es una comparación tonta —dijo Teresa—. Para ti tu trabajo lo era todo, mientras que yo puedo hacer cualquier cosa y me da exactamente lo mismo. Yo no perdí nada. Tú lo perdiste todo.
+
+— Esa es una comparación tonta —dijo Teresa—. Para ti tu trabajo lo era todo, mientras que yo puedo hacer cualquier cosa y me da exactamente lo mismo. Yo no perdí nada. Tú lo perdiste todo.
+
+La tristeza era la forma y la felicidad, el contenido. La felicidad llenaba el espacio de la tristeza.
+
 
 
 ## TÉRMINOS
@@ -306,6 +344,10 @@ http://dle.rae.es/?id=RHT4wr2 osco, ca Dicho de una persona: De un antiguo puebl
 http://dle.rae.es/?id=HxH0ACk finado, da Persona muerta. #término
 
 http://dle.rae.es/?id=b4HCTFF uncir Atar o sujetar al yugo bueyes, mulas u otras bestias. #término
+
+http://dle.rae.es/?id=KuKTcAR idilio Coloquio amoroso, y, por ext., relaciones entre enamorados. Composición poética que recreaba de manera idealizada la vida del campo y los amores pastoriles. #término
+
+slivovice
 
 
 
