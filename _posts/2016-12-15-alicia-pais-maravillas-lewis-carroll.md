@@ -105,11 +105,15 @@ http://dle.rae.es/?id=IoEUloK gamba Crustáceo semejante al langostino, pero alg
 
 
 ## REFERENCIAS
-* [http://flfiles.com/file/1460681648_LewisCarroll-Aliciaenelpaisdelasmaravillas][1]{: target="_blank"}
+* [https://es.wikipedia.org/wiki/Las_aventuras_de_Alicia_en_el_pa%C3%ADs_de_las_maravillas][1]{: target="_blank"}
+* [https://es.wikipedia.org/wiki/Lewis_Carroll][2]{: target="_blank"}
+* [http://flfiles.com/file/1460681648_LewisCarroll-Aliciaenelpaisdelasmaravillas][3]{: target="_blank"}
 
 
 
-[1]: http://flfiles.com/file/1460681648_LewisCarroll-Aliciaenelpaisdelasmaravillas
+[1]: https://es.wikipedia.org/wiki/Las_aventuras_de_Alicia_en_el_pa%C3%ADs_de_las_maravillas
+[2]: https://es.wikipedia.org/wiki/Lewis_Carroll
+[3]: http://flfiles.com/file/1460681648_LewisCarroll-Aliciaenelpaisdelasmaravillas
 
 
 
