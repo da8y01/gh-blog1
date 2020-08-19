@@ -23,7 +23,7 @@ El autor plantea que uno de los aspectos abordados son los diferentes factores y
 Se exponen diferentes factores/aspectos a favor y en contra del consumo de productos de orígen animal y vegetal, se brinda información nutricional, se concluye que la preferencia de las naciones por la carne es racional y surge por la interacción entre la biología humana y la composición nutritiva de una serie de posibilidades alimentarias.
 
 ### 3. El enigma de la vaca sagrada
-Se expone la justificación del porqué el culto y prohibición del consumo de carne de vaca en la India, y respalda la visión y explicación práctica de Ghandi. Se tienen en cuenta cifras, factores como la superpoblación, las actividades socio-económicas como la agricultura y el arado, y se repasan los beneficios de mantener la prohibición tanto religiossa como poítica sobre el consumo de carne de vaca.
+Se expone la justificación del porqué el culto y prohibición del consumo de carne de vaca en la India, y respalda la visión y explicación práctica de Ghandi. Se tienen en cuenta cifras, factores como la superpoblación, las actividades socio-económicas como la agricultura y el arado, y se repasan los beneficios de mantener la prohibición tanto religiosa como política sobre el consumo de carne de vaca.
 
 ### 4. El cerdo abominable
 .
