@@ -299,4 +299,4 @@ retruécano, paráfrasis, holismo, reduccionismo, marrullería, aberrante, **con
 
 [GodelEscherBach_firstedition]: {{ site.baseurl }}/assets/GodelEscherBach_firstedition.jpg "Gödel, Escher, Bach (first edition)"
 [GodelEscherBach_front]: {{ site.baseurl }}/assets/GodelEscherBach_front.jpg "Gödel, Escher, Bach"
-[GodelEscherBach_back]: {{ site.baseurl }}/assets/GodelEscherBach_back.png "Gödel, Escher, Bach (contraportada)"
+[GodelEscherBach_back]: {{ site.baseurl }}/assets/GodelEscherBach_back.jpg "Gödel, Escher, Bach (contraportada)"
