@@ -8,9 +8,8 @@ tags: review novela novel "Gödel, Escher, Bach. un Eterno y Grácil Bucle - Dou
 
 
 <div style="text-align:center" markdown="1">
-![Gödel, Escher, Bach (first edition)][GodelEscherBach_firstedition]{: width="30%"}
-![Gödel, Escher, Bach][GodelEscherBach_front]{: width="30%"}
-![Gödel, Escher, Bach (contraportada)][GodelEscherBach_back]{: width="30%"}
+![Gödel, Escher, Bach][GodelEscherBach_front]{: width="40%"}
+![Gödel, Escher, Bach (contraportada)][GodelEscherBach_back]{: width="40%"}
 </div>
 
 

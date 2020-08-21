@@ -30,7 +30,7 @@ Se menciona la visión e influencia de sus ideologías políticas, y los tres (3
 
 
 ### Situación histórica de Florencia, que determinó el nacimiento de *El Príncipe*
-En una nota se habla de La señoria y La comuna, de Florencia y Milán, del decreto emitido contra Maquiavelo en 1512, de más o menos los procesos ocurridos luego, de la tendencia y tintes que tomaba la política local/actual, se menciona a Francesco Vettori, su amistad y correspondencia, y la súbita concepción de El príncipe y su contexto y enfoque.
+En una nota se habla de *La señoria* y *La comuna*, de Florencia y Milán, del decreto emitido contra Maquiavelo en 1512, de más o menos los procesos ocurridos luego, de la tendencia y tintes que tomaba la política local/actual, se menciona a Francesco Vettori, su amistad y correspondencia, y la súbita concepción de El príncipe y su contexto y enfoque.
 
 
 ### Intención de *El Príncipe*
