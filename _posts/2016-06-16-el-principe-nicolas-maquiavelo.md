@@ -22,41 +22,43 @@ Se habla de Nicolás Maquiavelo, su orígen noble, el contexto en el que se desa
 
 b. La madurez del escritor. El destierro. Regreso de Maquiavelo a la vida pública. La vuelta a Florencia: enfermedad y muerte
 
+Se mencionan obras y escritos del autor, los sucesos relevantes luego de la retoma de los Médicis en Florencia, la situación en que queda Maquiavelo y su familia, lo que hace en ese tiempo, en lo que se emplea, y sus últimas producciones; se retoma la historia de Italia y Europa, la sucesión de gobernantes hasta la república.
+
 
 ### Maquiavelo, intérprete de la política del Renacimiento. Los tres momentos clave de su *idearium*
-.
+Se menciona la visión e influencia de sus ideologías políticas, y los tres (3) períodos del ideario de Maquiavelo.
 
 
 ### Situación histórica de Florencia, que determinó el nacimiento de *El Príncipe*
-.
+En una nota se habla de *La señoria* y *La comuna*, de Florencia y Milán, del decreto emitido contra Maquiavelo en 1512, de más o menos los procesos ocurridos luego, de la tendencia y tintes que tomaba la política local/actual, se menciona a Francesco Vettori, su amistad y correspondencia, y la súbita concepción de El príncipe y su contexto y enfoque.
 
 
 ### Intención de *El Príncipe*
-.
+Se habla del enfoque, contexto e intención de El príncipe, se mencionan aparetntes contradicciones en esta ideología, la inspiración y contexto renacentista.
 
 
 ### Contenido de la obra que analizamos
-.
+Creación y formación de un principado, vida interior del Estado, cualidades del príncipe para mantenerse tranquilo en su Estado, profundo conocimiento de aspectos variados, la Italia de Maquiavelo; nacionalismo y posibilidades políticas, pasa de sistema expositivo a examinar causas.
 
 
 ### Publicación de *El Príncipe*
-.
+Se relatan algunas sucesiones y disposiciones en cuanto a la recepción/aceptación/acogida de la obra por parte de diferentes Papas y gobernantes, españoles opositores (Maquiavelo toma como ejemplo a un español) y sus métodos, autores que han acogido ideas/doctrinas/ideologías de El príncipe, del porqué de la percepción de maquiavelismo, y el papel/rol que tuvieron que desempeñar autores como Maquiavelo y Giucciardini para la actualización de la política.
 
 
 ### Sobre las fuentes de *El Príncipe*
-.
+Las fuentes, influencias e inspiraciones de Maquiavelo, autores leídos y conocidos, idiomas (lenguas) y allegados (cercanos); contraposición/contraste/diferencias y similitudes/parecidos entre las concepciones filosóficas griegas y latinas, la visión/perspectiva antropocéntrica, y contemporánea de la doctrina maquiavélica.
 
 
 ### Comentarios acerca del estilo de nuestra obra
-.
+Del estilo y técnicas del escrito, entremezcla personajes y situaciones, el arte del retrato (no relato).
 
 
 ### *El Príncipe* y su suerte
-.
+Se hace un recorrido histórico por los autores y obras que defienden y se oponen a Maquiavelo, se mencionan contradictores y maquiavelistas.
 
 
 ### Napoleón y Maquiavelo. Nuestra edición
-.
+Mención a unas supuestas notas que se consideran/creen apócrifas, agradecimientos/reconocimientos.
 
 
 
@@ -75,57 +77,61 @@ e. Estudio especial de *El Príncipe*. Estilo y técnica de *El Príncipe*
 
 ## EL PRÍNCIPE
 
-I.
+### Nicolás Maquiavelo al Magnífico Lorenzo de Médicis
 
-II.
+### I. Clases de principados y modo de adquirilos
 
-III.
+### II. De los principados hereditarios
 
-IV.
+### III. De los principados mixtos
 
-V.
+### IV. Por qué razón el reino de Darío, ocupado por Alejandro, no se rebeló contra los sucesores de éste después de su muerte
 
-VI.
+### V. De qué manera se debe gobernar los estados que, antes de ser ocupados por nuestro príncipe, se regían por sus propias leyes
 
-VII.
+### VI. De los principados nuevos que se adquieren con el valor personal y con las armas propias
 
-VIII.
+### VII. De los principados nuevos que se adquieren con la fortuna y las armas ajenas
 
-IX.
+### VIII. De los que llegaron al principado por medio de maldades
 
-X.
+### IX. Del principado civil
 
-XI.
+### X. De qué modo deben medirse las fuerzas de todos los principados
 
-XII.
+### XI. De los principados eclesiásticos
 
-XIII.
+### XII. De las diferentes especies de tropas, y de los soldados mercenarios
 
-XIV.
+### XIII. De los soldados auxiliares, mixtos y propios
 
-XV.
+### XIV. De las obligaciones del prńcipe en lo que concierne al arte de la guerra
 
-XVI.
+### XV. De las cosas por las que los hombres, y especialmente los príncipes, son alabados o censurados
 
-XVII.
+### XVI. De la liberalidad y de la avaricia
 
-XVIII.
+### XVII. De la crueldad y de la clemencia, y si vale más ser amado que ser temido
 
-XIX.
+### XVIII. De qué modo los príncipes deben guardar la fe dada
 
-XX.
+### XIX. De qué modo se debe evitar ser despreciado y odiado
 
-XXI.
+### XX. Si las fortalezas y otras muchas cosas que los príncipes hacen con frecuencia son útiles o no
 
-XXII.
+### XXI. Cómo debe conducirse un príncipe para ser estimado
 
-XXIII.
+### XXII. De los secretarios que los príncipes tienen a su lado
 
-XXIV.
+### XXIII. De qué modo se debe huir de los aduladores
 
-XXV.
+### XXIV. Por qué razón los príncipes de Italia perdieron sus estados
 
-XXVI.
+### XXV. Cuánto dominio tiene la fortuna en las cosas humanas, y de qué modo podemos resistirla
+
+### XXVI. Exhortación para apoderase de Italia y liberarla de las manos de los bárbaros
+
+### Notas
 
 
 
