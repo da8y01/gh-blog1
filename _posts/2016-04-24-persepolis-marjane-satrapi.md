@@ -38,8 +38,10 @@ La abuela le cuenta de cuando el Sha les quitó todo y conocieron la pobreza, el
 Entre lo que leyó, uno de sus autores favoritos contaba historias tristes pero verdaderas, comprendió cosas, como que el motivo de su vergüenza y de la revolución es el mismo: la diferencia de clase social, ellos tenían una criada llamada Mehri, que a los 16 años haciéndose pasar por hermana de Marjane, e hija del padre, se enamora del hijo del vecino del frente, relación para la cual Marjane se facilita como traductora/escritora, terminan ambas uniéndose a la revolución siendo reprendidas por los padres.
 
 #### La fiesta
+Después del "viernes negro" y las masacres, el Sha (rey) se pronuncia prometiendo cosas infructuosamente hasta que al fin se marcha y se celebra una gran Fiesta en el país, después de la alegría, en el país se vive la polarización acerca de las opiniones acerca de temas como el Sha, la Revolución, las masacres de comunistas; cuando la jovencita Marjane y un par de compañeros se disponen a darle una paliza con clavos en los puños al hijo del genocida de comunistas, la madre de Marjane arriva llevándose a la hija para darle una mejor lección, es reprendida, y la madre finalmente le explica que es el papá el genocida y no su hijo, incluso aprendiendo una lección de perdón, y teniendo una sensación de que ella era una persona muy buena (en comparación con las concepciones y actitudes manifestadas por otros).
 
 #### Los héroes
+Presos políticos son liberados, entre ellos dos amigos de la familia de Marjane, se reúnen en la casa de Marjane, Marjane interactúa con la hija de uno de los héroes liberados, se comentan las torturas y atrocidades de prisión.
 
 #### Moscú
 

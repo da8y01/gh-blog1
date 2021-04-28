@@ -61,11 +61,25 @@ En la primera parte del capítulo se abordan el zen y los koans, y referencias a
 
 ### Parte II: EGB
 
+#### *Preludio y...*
+Aquiles, la Toruga, Cangrejo y el Oso Hormiguero se reúnen a tomar el té y a conversar en la casa del Cangrejo, la Tortuga y Aquiles le entregan al Cangrejo el obsequio de dos discos con el *Clavecín Bien Temperado* tocado por el propio JS Bach, restaurado de las moléculas de la atmósfera por medio de la técnica recuperación-acústica, una aplicación de la Conjetura de Fermat que tuvo repercusión importante fuera de las matemáticas; luego se charla de los "modos" de escuchar una fuga, como un todo o colección de partes, y la analogía con el grabado *Cubo con Cintas Mágicas* de MC Escher.
+
 #### Capítulo X: Niveles de descripción y sistemas de computadora
+El capítulo empieza evidenciando los difererentes niveles de entidades como un organismo o una emisión de TV y acotando que el nivel de realidad depende del tipo de observador, luego analiza la forma en que perciben el ajedrez un maestro y un principiante, introduciendo la concepción de bloques y de patrones, se hace notar que puede haber diferentes niveles, algunos similares y por lo general un mismo lenguaje para describirlos, siendo fuente de ambigüedades/confusiones, continúa con una breve descripción de los componentes de una computadora (memoria, UCP, dispositivos de E/S), de cómo las palabras de la memoria pueden ser interpretadas de distintas formas, incluídas como instrucciones y datos, después siguen explicaciones del lenguaje de máquina y lenguaje ensamblador, la analogía con el TNT en numeración Gödel y el TNT original, los programas de traducción, siguiendo la idea de traducir programas se abordan los lenguajes de nivel superior, se retoman los conceptos anteriores del Capítulo V de "subrutinas" y "procedimientos", se mencionan los lenguajes Algol y Lisp, las diferencias entre compiladores e intérpretes, se mencionan diferentes niveles existentes para describir programas de procesamiento, como por ejemplo los diferentes niveles y forma en que se muestra un error de un programa, luego se menciona la microprogramación y los SO, y cómo se constituyen "amortiguadores" para el usuario; se aborda el asunto de flexibilidad y rigidez en las computadoras, se mencionan los comentarios y la rigídez en la intepretación del programa, de la posibilidad de extender el lenguaje para tener más tolerancia y anticiparse a las conjeturas del usuario, se mencionan los múltiples niveles intermedios de lenguajes que deberían existir en cuanto a IA, se distingue software y hardware, se expone el ejemplo del clima para hablar sobre los niveles intermedios, se toma el ejemplo de la física nuclear y los quarks para introducir los conceptos de "sistema cercano a la descomponibilidad" y "sistema cercano a la indescomponibilidad", se habla de la superconductividad, *fonones*, *polarones* y *pares de Cooper*, del "tabicamiento", o construcción del conocimiento y comprensión en bloques como en los submarinos, y el regateo entre articulación en bloques y determinismo, la refutación a la frase ampliamente difundida de Lady Lovelace "las computadoras sólo pueden hacer lo que se les indica que hagan", los dos tipos de sistemas construídos por muchas partes: donde un comportamiento de las partes se *invalida* y donde un solo hecho de nivel bajo puede ser *magnificado* por resonancia a un nivel alto, siendo la computadora una elaborada combinación de ambos tipos, se acotan los "epifenómenos", resultados o fenómenos que surgen del conjunto sin estar localizados puntualmente, finalmente se plantean cuestiones referentes al software-hardware que son la mente y el cerebro.
+
+#### *... furmiga*
+Al terminar el preludio y continuar la fuga, continúan la disquisición acerca de las ilustraciones de la edición ilustrada de la partitura del *Clavecín Bien Temperado* de Cangrejo, discuten acerca de MU, el holismo y el reduccionismo, el Dr. Oso Hormiguero brinda cátedra acerca de las entidades colonias de hormigas desde un punto de vista reduccionista, pero en realidad en su desarrollo apelando al holismo para entender una colonia como un ser inteligente; se habla de la compoisicón de las colonias, de las castas, los equipos, de los niveles señal y símbolo activo, se hacen compáraciones con el cerebro, neuronas y excitaciones de éstas, se menciona el comportamiento dotado de finalidad, se habla de los subsistemas activos y pasivos, del término "estado" para referirse al "estado cerebral" o a la "distribución de castas", la analogía con letras y palabras de una obra de Charles Dickens, se habla del punto de órgano y la *fermata* en la música y en las fugas, se habla de las colonias Madame Cologne d'Or Migas y Johormigann Sebastmigan Fermigat, de las cualidades matemáticas de JSF y la "Conjetura Bien Tanteada" de Fourmi, al final Aquiles logra captar el nuevo giro de la fuga.
 
 #### Capítulo XI: Cerebro y pensamiento
+Comienza el capítulo mencionando que desde el advenimiento de las computadoras se incrementaron los intentos de producir máquienas pensantes y entender el pensamiento/inteligencia/conciencia, se acotan las nociones de *intensionalidad* y *extensionalidad*, donde la intensionalidad es esa flexibilidad, propiedad y capacidad de los conceptos y descripciones para "flotar" y conformar mundos hipotéticos imaginarios, se describen las neuronas, el cerebro y sus estructuras mayores, se habla de la correspondencia físiológica entre cerebros de organismos de diferentes jerarquías, se exponen experimentos enfocados en localizar los procesos cerebrales, con resultados negativos como en el caso de las ratas, laberintos y la corteza cerebral de Karl Lashley, y con resultados positivos como en el caso de los pacientes humanos del neurocirujano Wilder Penfield; se habla del proceso visual y del ejemplo de "célula abuela", una neurona específica dedicada a reconocer a la abuela, para introducir la noción de localización de ideas o conceptos, se introduce el "embudamiento" de los procesos neurales y algunos pros y contras de esta teoría, se estudian los módulos o bloques que intervienen en los procesos del pensamiento y su tratamiento en adelante como *símbolos* activos; luego se analizan los conceptos de clases y casos / categorías e individuos / tipos y especímenes y prototipo, la separación y desenmarañamiento de los símbolos, las características hardware-software de los símbolos en el cerebro, se menciona que la "desprendibilidad" de la inteligencia, esto es, la capacidad de no depender ni estar ligada a un hardware físico específico, es una propiedad necesaria para tenerla en otros medios o tipos de hardware que no sea el cerebro mismo, se expone la noción y/o forma de aislar un símbolo, los símbolos en los insectos que no muestran inteligencia real como en el caso de las avispas Sphex, se expone la relación entre símbolos y mundos imaginarios, y las leyes intuitivas de la física y otras disciplinas que se tienen como representación en el cerebro, finalmente se explican los conocimientos declarativo y procedimental, y la imaginación visual.
+
+#### *Suite anglofrancogermanicoespañola*
+Un poema de Lewis Carroll en cuatro idiomas acerca de la derrota del Galimatazo.
 
 #### Capítulo XII: Mente y pensamiento
+Se plantea si hay una correspondencia o similitud entre las mentes, indicando que si bien encontrar mentes de personas o estados cerebrales en la misma persona iguales es imposible, hay isomorfismos parciales, como el repertorio de símbolos y los patrones de desencadenamiento, se alude a la complejidad para comparar y encontrar isomorfismos parciales en estructuras tipo red semántica o telaraña, y la observación de atributos localizados y globales, luego se retoma el poema "Jabberwocky", sus peculiaridades y dificultades al traducirlo, y el tipo de isomorfismos que son evidentes, a pesar de que los lectores tienen cerebros diferentes, debido a isomorfismos globales y locales entre los lectores de las diferentes versiones. A continuación se expone la analogía/ejemplo de la hipotética/imaginaria LA, donde habrá características globales comúnes y bien percibidas, y ligeras diferencias localizadas y en los detalles, y cómo sirve para entender la formación de rutas o caminos y el desencadenamiento de símbolos y procesos de razonamiento; se plantea la forma en que el lenguaje y la cultura influyen en el pensamiento a nivel muy localizado, aunque en forma global habrá más cosas en común, se habla de diferentes tipos de viajes e itinerarios en LA, y los que representarían creencias, fantasías, mentiras, absurdos y sueños; luego hay un subtítulo donde se exponen los dilemas en cuanto a estilo de traducciones. Después se aborda el tema de comparar en alto nivel programas y cerebros, en el caso del primero se menciona la técnica de vaciamiento de la memoria que usa el programador para describir en bloques lo que el programa hace, en forma contraria a lo que hace un compilador, en el caso del segundo se dispone de una descripción por bloques de los símbolos y desencadenamientos que representan el estado cerebral o de un pensamiento; se explican la forma en que funcionan los símbolos y sus desencadenamientos respecto a creencias y símbolos potenciales, los que pueden ser y los más "razonables", de forma que una descripción del estado cerebral consistiría en un catálogo probabilístico. Se abordan los conceptos de conciencia, yo, y "subsistema"; al final se muestra un pasaje del filósofo oxfordiano con puntos de vista opuestos a los del autor, J. R. Lucas.
+
+#### *Aria con variaciones diversas*
 
 #### Capítulo XIII: BuD y BuL y BuM
 
@@ -283,10 +297,36 @@ A pesar de que perdió todas sus partidas, mostró un estilo;
 
 esto es pensar acerca del sistema.
 
+Nuestra primera caracterización de los símbolos "como concreciones del hardware de los conceptos" puede que sea, en el mejor de los casos, una tremenda simplificación.
+
+En otras palabras, una pieza de conocimiento exclusivamnte procedimental es un epifenómeno.
+
+Puede que la imaginación se base en nuestra capacidad de suprimir la actividad motriz.
+
+Circunstancias tan simples como el tamaño relativo de los objetos tienen que ser reunidas, en lugar de, simplemente, recuperadas.
+
+Lo cierto es que una gran parte de la red de símbolos de todo ser humano es *universal*.
+
+En estos casos, la red simbólica de esa persona tiene que ser tan fundamentalmente distinta a la nuestra que toda comunicación significativa con ella se verá dificultada.
+
+No se trata, pues, de la diferencia en materia de lenguas maternas, sino entre culturas (o subculturas), lo que da origen a las distintas percepciones.
+
+Cuando se conocen aspectos más detallados de los patrones de desencadenamiento, se descubre que allí es menos lo que hay en común.
+
+Adolece de un problema, consistente en que, cuando un pensamiento se reitera en la mente de alguien con la suficiente frecuencia, se articula en un bloque: en un concepto unitario.
+
+Si se lo piensa bien, ello no nos debe sorprender, pues es perfectamente razonable que sólo podamos imaginar aquellas cosas ficticias que, de alguna manera, tienen su fundamento en las realidades de las cuales tenemos experiencias, por más desatinadamente que se aparten de éstas.
+
+En verdad, es enteramente obvio que todos somos un fardo de contradicciones, y que nos arreglamos para conservar la coherencia mediante el recurso de mostrar un solo lado de nosotros mismos por vez.
+
+Como todas las circunstancias posibles no pueden ser enumeradas, se deberían establecer las que uno piensa que son "razonables".
+
+Puede que no sean despertados nunca, en el transcurso de la vida de una persona, pero no por eso dejarían de estar allí, nada más que esperando las circunstancias indicadas para desencadenar sus síntesis.
+
 
 
 ## TÉRMINOS
-retruécano, paráfrasis, holismo, reduccionismo, marrullería, aberrante, **contrafactibilidad**, **autorreferencialidad**, *aporía*, consternación, eludir, paulatino, peculiar, indulgente, zalamero, **silogismo**, conmoción, proscripción, proscrito, menoscabo, excéntrico, *ineluctable*, estupor, **epítome**, pugna, secular, *lerdo*, agobiar, anomalía, *hemiolia*.
+retruécano, paráfrasis, holismo, reduccionismo, marrullería, aberrante, **contrafactibilidad**, **autorreferencialidad**, *aporía*, consternación, eludir, paulatino, peculiar, indulgente, zalamero, **silogismo**, conmoción, proscripción, proscrito, menoscabo, excéntrico, *ineluctable*, estupor, **epítome**, pugna, secular, *lerdo*, agobiar, anomalía, *hemiolia*, **borscht**.
 
 
 
