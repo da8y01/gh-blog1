@@ -44,11 +44,33 @@ Después del "viernes negro" y las masacres, el Sha (rey) se pronuncia prometien
 Presos políticos son liberados, entre ellos dos amigos de la familia de Marjane, se reúnen en la casa de Marjane, Marjane interactúa con la hija de uno de los héroes liberados, se comentan las torturas y atrocidades de prisión.
 
 #### Moscú
+Marji se acongoja por no tener un héroe en la familia, luego conoce a su tío Anouche, la visita y le cuenta su historia y exilio en la URSS. Anouche su unió a su tío Fereydoune cuando proclamaron la indpendencia de Azerbaiyán con ánimo de liberar Irán provincia a provincia; el padre se mantiene fiel al Sha y lo declara traidor. Luego el Sha envía soldados por el tío Fereydoune quién decide enfrentar su destino, ser capturado y fusilado; la noche previa al fusilamiento una novia de Fereydoune lo visita y habiendo pagado al guardia para dejarlos tranquilos le pide que le haga un hijo, ésta novia embarazada poco después se va a Suiza donde tiene un hijo muy parecido a su padre Fereydoune. Anouche en esas redadas logra escapar, se refugia temporalmente donde sus padres, para irse a su exilio en URSS. Anouche estuvo en Leningrado y Moscú, estudió Marxismo Leninismo, Materialismo Dialéctico, se casó, tuvo dos hijas, se divorció, sufrió mucho por su mujer; luego de la separación estuvo abrumado y trató de regresar de incógnito disfrazado, pero al ser descubierto es encerrado nueve años, al final del relato le regala un cisne hecho en la cárcel con miga de pan.
 
 #### Las ovejas
+Durante la estadía del tío Anouche Marjane asiste a interesantes conversaciones de política, marxismo, religión y demás; el pueblo analfabeto elige una república islámica, esto causa que el buen amigo Kaveh de Marji emigre a EEUU, y también gran parte de su propia familia. Un día suena el teléfono en casa para avisar al padre que Mohsen ha sido encontrado muerto en la bañera, asesinado; a continuación los ejecutores del Sha van por Siamak, matan a su hermana en su lugar, habían cruzado la frontera entre un rebaño de ovejas; y así poco a poco con los demás revolucionarios de ayer, enemigos de la república de hoy. Hasta que un día Anouche es arrestado, tratan de ocultárselo a Marjane, al final va a visitar a su tío en su última noche antes de ser ejecutado como espía ruso. Acongojada, maldiciendo su fé y sin referencias comienzan los bombardeos y la guerra, y Marjane debe correr a esconderse al sótano.
 
 
 ### Persépolis 2
+
+#### El viaje
+Estudiantes fundamentalistas integristas toman la embajada americana imposibilitando el expendio de visas a EEUU, se cierran temporalmente universidades, los sueños y ambiciones de Marjana se truncan, en las calles las mujeres sin el riguroso velo/chador/(burka) son acosadas/asediadas por los barbudos fundamentalistas, se evidencia la polarización en la manera de vestir como una cuestión ideológica entre Integrista y Moderna/Progresista, se deja ver cierta justica/equidad/igualdad en ello, y se observa cómo se acogen ciertas costumbres/prácticas/hábitos que no se tenían por conveniencia con el estado actual; en resumen se evidencia el cambio de gabierno instaurado. A pesar de todo la revolución aún hervía en la sangre y hubo manifestaciones, en una de ellas vieron la violencia directamente, y fue la última a la que asistieron. Previendo un agraviemnto de la situación, hacen un viaje de tres semanas a España e Italia; en el último momento del viaje y justo al regreso se enteran del estado de guerra, de nuevo, con los árabes de Irak y Saddam, Marjane está en pie de lucha.
+
+#### Las F-14
+
+#### Las joyas
+
+#### La llave
+
+#### El vino
+
+#### El cigarrillo
+
+#### El pasaporte
+
+#### Kim Wilde
+
+#### El sabbat
+#### La dote
 
 ### Persépolis 3
 
