@@ -20,3 +20,5 @@ analytics:
   provider: google
   google:
     tracking_id : 'UA-78997829-1'
+
+theme: jekyll-theme-hacker
