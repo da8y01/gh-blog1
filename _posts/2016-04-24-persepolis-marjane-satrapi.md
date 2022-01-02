@@ -23,12 +23,12 @@ tags: review literature literatura novel novela comic comics historieta historie
 ### Persépolis 1
 
 #### El pañuelo
-![Persepolis_MarjaneSatrapi_1-01][Persepolis_MarjaneSatrapi_1-01]{: width="50%"}
+![Persepolis_MarjaneSatrapi_1-01][Persepolis_MarjaneSatrapi_1-01]{: width="100%"}
 
 Narra la historia de la niña Marjane, de la transición en la escuela de no usar a usar el pañuelo, del cambio de orientación de los colegios bilingües laicos, la "revolución cultural" en contra de la decadencia del capitalismo mundial, la foto de la madre en una manifestación pro-libertad del periodista alemán, la educación, gustos y creencias religiosas de ella.
 
 #### La bicicleta
-![Persepolis_MarjaneSatrapi_1-02][Persepolis_MarjaneSatrapi_1-02]{: width="75%"}
+![Persepolis_MarjaneSatrapi_1-02][Persepolis_MarjaneSatrapi_1-02]{: width="100%"}
 
 La fe de Marjane era absoluta y admiraba a Che Guevara, Fidel Castro y Trotsky, la analogía de la revolución con la bicicleta, el conocimiento adquirido de la gente y revolucionarios palestinos, el comic "El materialismo didáctico", Marx vs. Descartes, la continuación de la revolución, para la BBC el Sha inculpa a los fanáticos religiosos, pero en realidad la culpa era del Sha, la niña expresa a los padres que quiere ir a las manifestaciones, después de esto el dios con el que hablaba nunca volvió.
 
@@ -38,32 +38,32 @@ La fe de Marjane era absoluta y admiraba a Che Guevara, Fidel Castro y Trotsky, 
 Las manifestaciones continúan violentamente, el padre le cuenta la historia del Rey, que fue quien derroco al emperador, y resulta que el abuelo de la madre entonces era Príncipe, los ingleses ayudan a este golpe de estado, entonces el padre del Sha confisca los bienes del abuelo Príncipe y lo nombra Primer Ministro, siendo un hombre estudiado y culto se codea con intelectuales para hacerce comunista, lo capturaban y torturaban metiéndolo en una celda llena de agua, al final de la historia ella se baña.
 
 #### Persépolis
-![Persepolis_MarjaneSatrapi_1-04][Persepolis_MarjaneSatrapi_1-04]{: width="50%"}
+![Persepolis_MarjaneSatrapi_1-04][Persepolis_MarjaneSatrapi_1-04]{: width="100%"}
 
 La abuela le cuenta de cuando el Sha les quitó todo y conocieron la pobreza, ellos continuaron tratando de sobrellevar su vida, la abuela expresa porque está contenta con la llegada de la revolución, el papá toma fotos de la manifestación aunque está prohibido, estuvieron muy preocupados, pensaban que el padre había muerto, al llegar cuenta la increíble y cómica anécdota que despierta inquietudes en Marjane y que la motiva a leer e instruirse.
 
 #### La carta
-![Persepolis_MarjaneSatrapi_1-05][Persepolis_MarjaneSatrapi_1-05]{: width="50%"}
+![Persepolis_MarjaneSatrapi_1-05][Persepolis_MarjaneSatrapi_1-05]{: width="100%"}
 
 Entre lo que leyó, uno de sus autores favoritos contaba historias tristes pero verdaderas, comprendió cosas, como que el motivo de su vergüenza y de la revolución es el mismo: la diferencia de clase social, ellos tenían una criada llamada Mehri, que a los 16 años haciéndose pasar por hermana de Marjane, e hija del padre, se enamora del hijo del vecino del frente, relación para la cual Marjane se facilita como traductora/escritora, terminan ambas uniéndose a la revolución siendo reprendidas por los padres.
 
 #### La fiesta
-![Persepolis_MarjaneSatrapi_1-06][Persepolis_MarjaneSatrapi_1-06]{: width="50%"}
+![Persepolis_MarjaneSatrapi_1-06][Persepolis_MarjaneSatrapi_1-06]{: width="100%"}
 
 Después del "viernes negro" y las masacres, el Sha (rey) se pronuncia prometiendo cosas infructuosamente hasta que al fin se marcha y se celebra una gran Fiesta en el país, después de la alegría, en el país se vive la polarización acerca de las opiniones acerca de temas como el Sha, la Revolución, las masacres de comunistas; cuando la jovencita Marjane y un par de compañeros se disponen a darle una paliza con clavos en los puños al hijo del genocida de comunistas, la madre de Marjane arriva llevándose a la hija para darle una mejor lección, es reprendida, y la madre finalmente le explica que es el papá el genocida y no su hijo, incluso aprendiendo una lección de perdón, y teniendo una sensación de que ella era una persona muy buena (en comparación con las concepciones y actitudes manifestadas por otros).
 
 #### Los héroes
-![Persepolis_MarjaneSatrapi_1-07][Persepolis_MarjaneSatrapi_1-07]{: width="50%"}
+![Persepolis_MarjaneSatrapi_1-07][Persepolis_MarjaneSatrapi_1-07]{: width="100%"}
 
 Presos políticos son liberados, entre ellos dos amigos de la familia de Marjane, se reúnen en la casa de Marjane, Marjane interactúa con la hija de uno de los héroes liberados, se comentan las torturas y atrocidades de prisión.
 
 #### Moscú
-![Persepolis_MarjaneSatrapi_1-08][Persepolis_MarjaneSatrapi_1-08]{: width="50%"}
+![Persepolis_MarjaneSatrapi_1-08][Persepolis_MarjaneSatrapi_1-08]{: width="100%"}
 
 Marji se acongoja por no tener un héroe en la familia, luego conoce a su tío Anouche, la visita y le cuenta su historia y exilio en la URSS. Anouche su unió a su tío Fereydoune cuando proclamaron la indpendencia de Azerbaiyán con ánimo de liberar Irán provincia a provincia; el padre se mantiene fiel al Sha y lo declara traidor. Luego el Sha envía soldados por el tío Fereydoune quién decide enfrentar su destino, ser capturado y fusilado; la noche previa al fusilamiento una novia de Fereydoune lo visita y habiendo pagado al guardia para dejarlos tranquilos le pide que le haga un hijo, ésta novia embarazada poco después se va a Suiza donde tiene un hijo muy parecido a su padre Fereydoune. Anouche en esas redadas logra escapar, se refugia temporalmente donde sus padres, para irse a su exilio en URSS. Anouche estuvo en Leningrado y Moscú, estudió Marxismo Leninismo, Materialismo Dialéctico, se casó, tuvo dos hijas, se divorció, sufrió mucho por su mujer; luego de la separación estuvo abrumado y trató de regresar de incógnito disfrazado, pero al ser descubierto es encerrado nueve años, al final del relato le regala un cisne hecho en la cárcel con miga de pan.
 
 #### Las ovejas
-![Persepolis_MarjaneSatrapi_1-09][Persepolis_MarjaneSatrapi_1-09]{: width="50%"}
+![Persepolis_MarjaneSatrapi_1-09][Persepolis_MarjaneSatrapi_1-09]{: width="100%"}
 
 Durante la estadía del tío Anouche Marjane asiste a interesantes conversaciones de política, marxismo, religión y demás; el pueblo analfabeto elige una república islámica, esto causa que el buen amigo Kaveh de Marji emigre a EEUU, y también gran parte de su propia familia. Un día suena el teléfono en casa para avisar al padre que Mohsen ha sido encontrado muerto en la bañera, asesinado; a continuación los ejecutores del Sha van por Siamak, matan a su hermana en su lugar, habían cruzado la frontera entre un rebaño de ovejas; y así poco a poco con los demás revolucionarios de ayer, enemigos de la república de hoy. Hasta que un día Anouche es arrestado, tratan de ocultárselo a Marjane, al final va a visitar a su tío en su última noche antes de ser ejecutado como espía ruso. Acongojada, maldiciendo su fé y sin referencias comienzan los bombardeos y la guerra, y Marjane debe correr a esconderse al sótano.
 
@@ -71,52 +71,52 @@ Durante la estadía del tío Anouche Marjane asiste a interesantes conversacione
 ### Persépolis 2
 
 #### El viaje
-![Persepolis_MarjaneSatrapi_2-01][Persepolis_MarjaneSatrapi_2-01]{: width="50%"}
+![Persepolis_MarjaneSatrapi_2-01][Persepolis_MarjaneSatrapi_2-01]{: width="100%"}
 
 Estudiantes fundamentalistas integristas toman la embajada americana imposibilitando el expendio de visas a EEUU, se cierran temporalmente universidades, los sueños y ambiciones de Marjane se truncan, en las calles las mujeres sin el riguroso velo/chador/(burka) son acosadas/asediadas por los barbudos fundamentalistas, se evidencia la polarización en la manera de vestir como una cuestión ideológica entre Integrista y Moderna/Progresista, se deja ver cierta justica/equidad/igualdad en ello, y se observa cómo se acogen ciertas costumbres/prácticas/hábitos que no se tenían por conveniencia con el estado actual; en resumen se evidencia el cambio de gabierno instaurado. A pesar de todo la revolución aún hervía en la sangre y hubo manifestaciones, en una de ellas vieron la violencia directamente, y fue la última a la que asistieron. Previendo un agraviemnto de la situación, hacen un viaje de tres semanas a España e Italia; en el último momento del viaje y justo al regreso se enteran del estado de guerra, de nuevo, con los árabes de Irak y Saddam, Marjane está en pie de lucha.
 
 #### Las F-14
-![Persepolis_MarjaneSatrapi_2-02][Persepolis_MarjaneSatrapi_2-02]{: width="50%"}
+![Persepolis_MarjaneSatrapi_2-02][Persepolis_MarjaneSatrapi_2-02]{: width="100%"}
 
 Se muestra cómo viven e interactúan ese tiempo de bombardeos y guerra Marjane y su padre, y también su madre. Bagdad bomardea Teherán; en un golpe de estado fallido de los generales iraníes muchos militares quedan encarcelados, Irán no tiene pilotos para enviar en sus F-14 y responder el ataque iraquí, los pilotos y militares encarcelados piden que a cambio de ir a pilotar y participar en la guerra pongan el himno nacional de Irán en la TV, el bombardeo se ejecuta y celebran, pero hay muchas bajas iraníes, Marjane se pregunta por el papá de su compañera Pardisse, ha muerto, ella le escribe una carta como redacción sobre la guerra en la clase.
 
 #### Las joyas
-![Persepolis_MarjaneSatrapi_2-03][Persepolis_MarjaneSatrapi_2-03]{: width="50%"}
+![Persepolis_MarjaneSatrapi_2-03][Persepolis_MarjaneSatrapi_2-03]{: width="100%"}
 
 Las reservas escasean en supermercados y gasolinerías, ha habido un bombardeo a la refinería petrolífera de Abadán, donde vive la amiga Mali y su familia, tratan de comunicarse infructuosamente, un día cualquiera durante la noche se presenta Malí con su familia, los hospedan durante un mes, han perdido todo, lo único que salvaron son unas joyas que venden para empezar desde cero; viven la discriminación y rechazo a estos desplazados/inmigrantes locales, como en la ocasión del supermercado.
 
 #### La llave
-![Persepolis_MarjaneSatrapi_2-04][Persepolis_MarjaneSatrapi_2-04]{: width="50%"}
+![Persepolis_MarjaneSatrapi_2-04][Persepolis_MarjaneSatrapi_2-04]{: width="100%"}
 
 La guerra sigue y hay muchos martires iraníes, se mencionan tradiciones chiitas, los rituales de conmemoración a las víctimas en la escuela, las burlas y juegos, la contraposición entre profesores y padres en la escuela. Se describe cómo preparan a los chicos, principalmente de cierto sector demográfico, para la guerra entregándoles la llave del paraíso. El hijo de la señora Nassrine de la limpieza corre riesgo de ser enviado a la guerra, el tío Chahab enviado inmediatamente al frente mientras presta servicio militar estando de permiso, llega de visita y describe como arriban los chicos para ser adoctrinados para la guerra. Marji se preocupa por su primo Peyman también de 14 años de edad; al final asisten a una fiesta de jóvenes, Marji con el beneplácito de la madre que le colabora con su pinta acorde a la moda punk del momento.
 
 #### El vino
-![Persepolis_MarjaneSatrapi_2-05][Persepolis_MarjaneSatrapi_2-05]{: width="50%"}
+![Persepolis_MarjaneSatrapi_2-05][Persepolis_MarjaneSatrapi_2-05]{: width="100%"}
 
 Los bombardeos iraquíes continúan y los sótanos se adaptan y se usan, la angustia existe, y las casas también se modifican. Las fiestas son prohibidas, los infractores pueden ser azotados severamente, sin embargo las fiestas se realizan, sin ellas la poca vida que tienen sería insoportable, la música, el baile y el alcohol no faltan. En una ocasión al volver a casa de una fiesta son detenidos por un guardián de la revolución quién los increpa hasta su destino, al final demostrando poca convicción ideológica en sus creencias es llanamente sobornado por el padre de Marjane.
 
 #### El cigarrillo
-![Persepolis_MarjaneSatrapi_2-05][Persepolis_MarjaneSatrapi_2-05]{: width="50%"}
+![Persepolis_MarjaneSatrapi_2-05][Persepolis_MarjaneSatrapi_2-05]{: width="100%"}
 
 Se habían acostumbrado después de dos años de guerra instaurada, Marjane con amigas mayores falta a clase por irse al bar especial Kansas para coquetear con muchachos. La madre la descubre y encolerizada la regaña; Marjane en su refugio, el sótano amueblado, reflexiona acerca de la posición/situación actual de su país y la guerra; y fuma, como acto de rebelión contra la dictadora y guardiana de la revolución en casa, su madre, el cigarrillo que había quitado al tío dos meses antes; ese cigarro la sacaba de la infancia, ya era mayor.
 
 #### El pasaporte
-![Persepolis_MarjaneSatrapi_2-06][Persepolis_MarjaneSatrapi_2-06]{: width="50%"}
+![Persepolis_MarjaneSatrapi_2-06][Persepolis_MarjaneSatrapi_2-06]{: width="100%"}
 
 En julio de 1982 la guerra interna se había impuesto sobre la guerra contra Iraq, están de visita donde la tía y tío Taher que habla de los cercanos y constantes fusilamientos, ejecuciones, fronteras, su hijo; luego estando en la casa reciben la llamada anunciando el tercer infarto del tío Taher, de camino al hospital se topan con camiones de la Media Luna Roja pidiendo donaciones de sangre para los heridos de guerra, en la habitación se enteran de que necesita ser operado en Inglaterra y para eso requiere un pasaporte, así que comienzan las diligencias para tratar de obtenerlo, pasando por el Director administrativo del hotel, el antiguo limpiacristales de la tía Director del Ministerio de sanidad, el médico Jefe del servicio infructuosamente; van donde el ex-editor amigo Khosro por una falsificación, él aloja a Niloufar, una muchacha comunista de 18 años buscada por el régimen, después de negociar acepta hacer el pasaprote falso en cinco días. De vuelta en la habitación del hospital el tío Taher ha despertado, saluda y expresa el anhelo por ver a su hijo. Dos días después Niloufar es descubierta, arrestada y ejecutada, Khosro escapa por las montañas de Turquía a un exilio en Suecia con su hermano sin finalizar el pasaporte; tres semanas después enterraban al tío Taher el mismo día que recibía su pasaporte auténtico, sin haber podido volver a ver a su hijo.
 
 #### Kim Wilde
-![Persepolis_MarjaneSatrapi_2-07][Persepolis_MarjaneSatrapi_2-07]{: width="50%"}
+![Persepolis_MarjaneSatrapi_2-07][Persepolis_MarjaneSatrapi_2-07]{: width="100%"}
 
 Un tiempo después se reabren las fronteras, los padres de Marjane se apresuran a consegur pasaportes, planean un humilde viaje a Turquía, le compran los regalos pedidos a Marji que logran pasar por el aeropuerto/inmigración/aduana. Con sus nuevos regalos y pinta Marji con el permiso de la madre sale a conseguir cassettes contrabandeados en la avenida Ghandi, de regreso es interceptada por Guardianas de la revolución, la increpan, ella debe actuar/fingir y suplicar para que la dejen ir, la sueltan, en casa llega y se relaja.
 
 #### El sabbat
-![Persepolis_MarjaneSatrapi_2-08][Persepolis_MarjaneSatrapi_2-08]{: width="50%"}
+![Persepolis_MarjaneSatrapi_2-08][Persepolis_MarjaneSatrapi_2-08]{: width="100%"}
 
 Se confirma la imposición del pesimismo materno sobre el optimismo paterno cuando Iraq retoma los ataques con misiles balísticos Skud sobre Teherán, refugiarse en el sótano es inútil por la potencia de los misiles, cuando sonaba la alarma había una espera de tres minutos para saber si el impacto les llegaría. Teherán sufre un éxodo y queda desierta, por decisión conciente pensando en el futuro y educación francesa de Marjane, ellos se quedan. Otros habitantes que se quedan buscan refugio en los subterráneos resistentes de los grandes hoteles, como los vecinos Baba-Levy con su hija Neda, de los pocos judíos que no habían dejado Irán después de la revolución. Un día cualquiera cuando Marji y su amiga Shadi están de compras cae un misil en el barrio de Marji, al apresurarse y llegar se entera de que su madre y familiares están bien, pero no así los Baba-Levy que estaban en casa al ser día Sabbat.
 
 #### La dote
-![Persepolis_MarjaneSatrapi_2-09][Persepolis_MarjaneSatrapi_2-09]{: width="50%"}
+![Persepolis_MarjaneSatrapi_2-09][Persepolis_MarjaneSatrapi_2-09]{: width="100%"}
 
 Después Marjane sigue teniendo problemas de rebeldía en la escuela, la expulsan, con dificultades consiguen otra institución pero también con problemas ahí; los padres deciden enviarla a Austria para continaur su educación. Se despide de sus amigos, de su Yaya (abuela), en el aeropuerto hay mucha fila de jóvenes emigrando, con tristeza se despiden y parte.
 
@@ -124,52 +124,52 @@ Después Marjane sigue teniendo problemas de rebeldía en la escuela, la expulsa
 ### Persépolis 3
 
 #### La sopa
-![Persepolis_MarjaneSatrapi_3-01][Persepolis_MarjaneSatrapi_3-01]{: width="50%"}
+![Persepolis_MarjaneSatrapi_3-01][Persepolis_MarjaneSatrapi_3-01]{: width="100%"}
 
 En 1984 en Austria, Marjane narra cómo llegó a la casa de los amigos esposos marido defensor Houshang y mujer mala Zozo con la hija vacía Chrine; a los 10 días de presenciar discusiones y peleas, le gestionan un cambio a un convento de monjas. Recibe las instrucciones básicas, empieza a vivir más como adulta independiente, va al supermercado y compra, y por primera vez comparte cuarto; la compañera es Lucia, comparten pistachos y una sopa Knorr no muy buena, habla y le enseña alemán, van a la sala de TV a ver una película en alemán que Marjane no entiende, se sale de la función, al despedirse Lucia ni le responde.
 
 #### El tirol
-![Persepolis_MarjaneSatrapi_3-02][Persepolis_MarjaneSatrapi_3-02]{: width="50%"}
+![Persepolis_MarjaneSatrapi_3-02][Persepolis_MarjaneSatrapi_3-02]{: width="100%"}
 
 La rutina transcurre para Marjane con la compañera Lucia, en la escuela principalmente por haber llegado a mitad de trimestre al incio no tiene amigos, luego se destaca en Mates y con caricaturas de profesores, sobrevivía; luego la más madura de 18 años taciturna Julie se interesa en ella, y le presenta a los amigos Momo (fascinado por la visión de la muerte y la guerra), Thierr y Olivier. Al acercarse las vacaciones de navidad Marjane queda solitaria, Lucia la invita a la región denominada Tirol austríaco donde sus padres y tíos que son católicos y convencionales, y en definitiva ahora contaba con una hermana y unos nuevos padres que la querían.
 
 #### Las pastas
-![Persepolis_MarjaneSatrapi_3-03][Persepolis_MarjaneSatrapi_3-03]{: width="50%"}
+![Persepolis_MarjaneSatrapi_3-03][Persepolis_MarjaneSatrapi_3-03]{: width="100%"}
 
 Cuando hay mas vacaciones y tiempo libre Marjane queda solitaria, así que en estos períodos lee, se instruye (Bakunin, la comuna, Sartre), aprende sobre feminismo, y pasa el tiempo de otras formas; sucede el episodio del plato de spaguettis en la sala de TV, se manifiesta como rebelde e insolente y se hace expulsar; pide ayuda a la amiga Julie, se despide de Lucia (a quien no ha vuelto a ver), y las monjas envían una carta a los padres de Marjane.
 
 #### La píldora
-![Persepolis_MarjaneSatrapi_3-04][Persepolis_MarjaneSatrapi_3-04]{: width="50%"}
+![Persepolis_MarjaneSatrapi_3-04][Persepolis_MarjaneSatrapi_3-04]{: width="100%"}
 
 La rutina de Marjane transcurre mucho mejor compartiendo la habitación de la amiga Julie, la madre Armelle le agrada mucho, era discreta y le faltaba un poco de autoridad comparada con la madre de Marjane, era muy culta y aunque no conocía a Bakunin era docta en Lacan, conocía Irán; Julie y Marjane hablan bastante, Julie le cuenta de su liberación sexual y que toma la píldora contraceptiva. Por su trabajo en las Naciones Unidas la madre Armelle viaja mucho, y en una ocasión Julie organiza una fiesta, se arreglan, maquillan y bromean con el *chocho*, y tienen música de Pink Floyd que Marjane no asocia con fiesta sino con viaje; Marjane ve como es una fiesta occidental, y ve y empieza a experimentar "la liberación sexual".
 
 #### La legumbre
-![Persepolis_MarjaneSatrapi_3-05][Persepolis_MarjaneSatrapi_3-05]{: width="50%"}
+![Persepolis_MarjaneSatrapi_3-05][Persepolis_MarjaneSatrapi_3-05]{: width="100%"}
 
 A su transformación mental siguió una transformación física, y de moda y estilo, también se convirtió en peluquera incluso de las Vigilantes/Guardias, a veces sus amigos le reprochaban esto. Ella compartía sus hábitos con tal de integrarse, y recuerda la anécdota del primo Kamran que se ha pinchado tanto que parece una legumbre, sin embargo le parecía que haciéndolo se alejaba de su cultura, que traicionaba; se sentía culpable de esto hasta llegar a negar su nacionalidad mientiendo a conocidos en una fiesta, mentira que después se sabe, a lo que Marjane debe reafirmar sus raíces y reivindicarse, y entender las palabras de la abuela y la integridad.
 
 #### El caballo
-![Persepolis_MarjaneSatrapi_3-06][Persepolis_MarjaneSatrapi_3-06]{: width="50%"}
+![Persepolis_MarjaneSatrapi_3-06][Persepolis_MarjaneSatrapi_3-06]{: width="100%"}
 
 Al Julie y su madre Armelle mudarse de Viena, Marjane se hospeda provisionalmente por cuatro meses en una residencia con cuarto privado donde convive con otros ocho huespedes hombres homosexuales, había abandonado el look punk y ya no quería ser marginal. Su madre llega de visita, en el aeropuerto casi no se reconocen, la madre tiene el pelo blanco de canas y las proporciones son diferentes, conviven, hablan, pasean, caminan, Marji pregunta cosas de su padre, la madre no pregunta mucho de su situación, le cuenta de Irán, fuman, le pregunta por el episodio de las monjas de Viena, y encuentran un nuevo hospedaje administrado por Fray Doktor Heller, donde bromean con la apariencia de caballo; después de varios días de compartir la madre parte, sin embargo Marji queda con un buen *equipaje afectivo*.
 
 #### Escondite
-![Persepolis_MarjaneSatrapi_3-07][Persepolis_MarjaneSatrapi_3-07]{: width="50%"}
+![Persepolis_MarjaneSatrapi_3-07][Persepolis_MarjaneSatrapi_3-07]{: width="100%"}
 
 En la casa de Heller la pasaba bien, excepto que en promedio el perro se cagaba una vez por semana en su cama, Heller le dice que es algo maniática. En el instituto sus amigos han partido y esta sola, pero tiene un novio anarquista Enrique con el que se besa tiernamente que la invita a una fiesta, al principio las expectativas de Marjane se ven decepcionadas, con reticencia e insistencia de Enrique accede al juego, es Escondite y Voleibol, con comitiva y Janis Joplin, estaba enamorada; al acostarse está dispuesta a perder su inocencia y dejar de ser una virgen asustada, sin embargo al otro día sigue igual, encuentra a Enrique con Ingrid, y él le dice que gracias a ella ha despejado sus dudas y es homosexual, prometiéndose amistad.
 
 #### Love story
-![Persepolis_MarjaneSatrapi_3-08][Persepolis_MarjaneSatrapi_3-08]{: width="50%"}
+![Persepolis_MarjaneSatrapi_3-08][Persepolis_MarjaneSatrapi_3-08]{: width="100%"}
 
 Marjane pierde de vista a Enrique y tiene su rutina distribuída, charla con el profesor de física Yonnel y va a su casa donde establece buenas relaciones con la madre pero no vuelve porque no le simpatiza a la mujer, después de su decepción amorosa cuestiona el amor platónico y decide tener una relación carnal. Primero intenta con Jean-Paul un nuevo alumno que llega, y aunque se le insinúa terminan hablando de Mates; Marjane se hace amiga de Ingrid, luego conoce a Markus estudiante de Literatura, con algo de desgano van a una disoteca y se cuadran; sin embargo cuando había algo de relación y estabilidad, tanto la madre de Markus como Heller los echan fuera respectivamente, comienzan a pasar el rato en el coche de Markus, e inadvertidamente conoce jíbaros y se convierte en el camello del instituto.
 
 #### El cruasán
-![Persepolis_MarjaneSatrapi_3-09][Persepolis_MarjaneSatrapi_3-09]{: width="50%"}
+![Persepolis_MarjaneSatrapi_3-09][Persepolis_MarjaneSatrapi_3-09]{: width="100%"}
 
 La formación de Marjane era sólida y no se descarrió, sigue estudiando duro, con ayuda de rezos saca la mejor calificación del colegio en el exámen de francés, encuentra trabajillos hasta el Café Sole y el punto de olvidar las clases, el director la cita, la felicita, y le advierte sobre el suministro de estupefacientes, con lo que termina su "carrera", pero aunque ya no vendía sí que consumía, hasta al punto de hartar a su novio Markus con esa forma de decadencia. Es 1988, Markus había empezado Teatro, Marjane Tecnología, había un nuevo presidente, y se hablaba de política; Markus se desentiende ocupándose de su obra y tienen discusiones ideológicas, pero aunque intentan salvar la relación se van distanciando; en una ocasión del cumpleaños de Marjane que pierde el tren para un supuesto paseo, al intentar sorprender a Markus llevándole cruasanes calientes, lo descubre in fraganti con otra mujer, Marjane le grita y él la echa, ella sale y no lo vuelve a ver.
 
 #### El pañuelo
-![Persepolis_MarjaneSatrapi_3-10][Persepolis_MarjaneSatrapi_3-10]{: width="50%"}
+![Persepolis_MarjaneSatrapi_3-10][Persepolis_MarjaneSatrapi_3-10]{: width="100%"}
 
 La ruptura con Markus es algo grave para Marjane ya que había proyectado muchas cosas en él, es 22 de noviembre día de su cumpleaños, y de la habitación de Heller coge algunos documentos como para viaje y deja la residencia en contra de la adminitsradora Heller. Se instala en un banco a ver la gente pasar, repasa la relación con Markus, y empieza a vivir en la calle, en los tranvías; por un ataque de bronquitis es atendida en un hospital, recurre a Zozo la mujer de la primera familia que la recibió en Viena, se comunica con sus padres con intención de retornar, recoge las cosas de donde Heller y se dispone a esperar en un hotel barato pocos días el vuelo a Teherán, con el pañuelo puesto está despuesta a dejar las libertades individuales sociales y regresar a casa.
 
