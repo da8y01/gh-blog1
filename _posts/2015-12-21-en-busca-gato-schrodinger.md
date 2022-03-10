@@ -396,7 +396,7 @@ Se habla de una interpretación de la mecánica cuántica que incluye a la inter
 
 **MÁS ALLÁ DE EVERETT**: Se menciona la posibilidad de viajes en el tiempo basada en la teoría de los múltiples mundos (universos alternativos) de Everett, se mencionan novelas de ciencia ficción, las matemáticas, la confusa teoría extradimensional y las teorías convencionales.
 
-**NUESTRO LUGAR ESPECIAL**: Se menciona que el futuro no está determinado, pero que el pasado sílo está, la equivocación de quienes sugieren que la teoría cuántica ofrece una posibilidad para la percepción extrasensorial, la telepatía y demás, se habla del "principio antrópico" para responder porqué los caminos de la red cuántica conducen a la aparición de inteligencia en el universo, y se dice que la teoría de otros mundos de Everett es "suficientemente disparatada", aludiendo a la anécdota mencionada de Niels Bohr, como para concluir la búsqueda del gato de Schrödinger.
+**NUESTRO LUGAR ESPECIAL**: Se menciona que el futuro no está determinado, pero que el pasado sí lo está, la equivocación de quienes sugieren que la teoría cuántica ofrece una posibilidad para la percepción extrasensorial, la telepatía y demás, se habla del "principio antrópico" para responder porqué los caminos de la red cuántica conducen a la aparición de inteligencia en el universo, y se dice que la teoría de otros mundos de Everett es "suficientemente disparatada", aludiendo a la anécdota mencionada de Niels Bohr, como para concluir la búsqueda del gato de Schrödinger.
 
 
 ## EPÍLOGO
