@@ -171,7 +171,7 @@ La formación de Marjane era sólida y no se descarrió, sigue estudiando duro, 
 #### El pañuelo
 ![Persepolis_MarjaneSatrapi_3-10][Persepolis_MarjaneSatrapi_3-10]{: width="80%"}
 
-La ruptura con Markus es algo grave para Marjane ya que había proyectado muchas cosas en él, es 22 de noviembre día de su cumpleaños, y de la habitación de Heller coge algunos documentos como para viaje y deja la residencia en contra de la adminitsradora Heller. Se instala en un banco a ver la gente pasar, repasa la relación con Markus, y empieza a vivir en la calle, en los tranvías; por un ataque de bronquitis es atendida en un hospital, recurre a Zozo la mujer de la primera familia que la recibió en Viena, se comunica con sus padres con intención de retornar, recoge las cosas de donde Heller y se dispone a esperar en un hotel barato pocos días el vuelo a Teherán, con el pañuelo puesto está despuesta a dejar las libertades individuales sociales y regresar a casa.
+La ruptura con Markus es algo grave para Marjane ya que había proyectado muchas cosas en él, es 22 de noviembre día de su cumpleaños, y de la habitación de Heller coge algunos documentos como para viaje y deja la residencia en contra de la administradora Heller. Se instala en un banco a ver la gente pasar, repasa la relación con Markus, y empieza a vivir en la calle, en los tranvías; por un ataque de bronquitis es atendida en un hospital, recurre a Zozo la mujer de la primera familia que la recibió en Viena, se comunica con sus padres con intención de retornar, recoge las cosas de donde Heller y se dispone a esperar en un hotel barato pocos días el vuelo a Teherán, con el pañuelo puesto está despuesta a dejar las libertades individuales sociales y regresar a casa.
 
 
 ### Persépolis 4
@@ -204,17 +204,27 @@ Ya como pareja, empiezan las quejas mutuas, con respecto al maquillaje una vez M
 #### La convocatoria
 ![Persepolis_MarjaneSatrapi_4-06][Persepolis_MarjaneSatrapi_4-06]{: width="80%"}
 
+Con una atmósfera tradicional/convencional y colegial, se describe la vida universitaria, costumbres, vestimenta con Marjane en la sección de artes. En una especie de convocatoria urgente/de última hora se da una conferencia sobre "La conducta moral y religiosa", Marjane pregunta y cuestiona, y luego es convocada por la Comisión Islámica para encontrarse con el mismo "religioso auténtico" que le había hecho el test ideológico antes; le da una segunda oportunidad y le pide que diseñe un uniforme apropiado para su sección de artes, ella se aplica/esmera.
+
 #### Los calcetines
 ![Persepolis_MarjaneSatrapi_4-07][Persepolis_MarjaneSatrapi_4-07]{: width="80%"}
+
+En la clase de pintura, debido a las restricciones de la dictadura las modelos estaban todas cubiertas, hasta que prefirieron usar modelos hombres, luego ocurren situaciones absurdas como el vigilante en el taller de arte o la carrera para alcanzar al dentista. En 1990 debido a tantos arrestos y ejecuciones, los ideales y manifestaciones, e incluso hablar de política se había acabado, de modo que la lucha era más discreta basada en pequeños detalles como la historia de los calcetines rojos. Todo esto influía en el modo de pensar de la gente, y ciertos comportamientos se convirtieron en actos de rebeldía, pero muchos sólo eran rebeldes en apariencia, como lo muestra el caso de las píldoras, el sexo y la propiedad del cuerpo. De este modo las amistades y el desempeño en clase se ve filtrado, y se va evidenciando el contraste entre la imagen oficial o pública del país, y la vida real de la gente en privado, estaban en las antípodas, lo que los volvía ezquizofrénicos, y para equilibrarlo hacían fiestas, pero ni en las casas los dejaban tranquilos, se volvieron costumbres los arrestos y multas, hasta que una noche, en uno de los intentos de escapada, el amigo Farzad cae y muere, al día siguiente se reúnen en la casa de Marjane y contínuan las fiestas.
 
 #### La boda
 ![Persepolis_MarjaneSatrapi_4-08][Persepolis_MarjaneSatrapi_4-08]{: width="80%"}
 
+En 1991 la situación de Marjane como estudiante y con su pareja y amigos era buena y estable, pero era difícil ser pareja sin estar casados, de modo que piensan en casarse, Marjane consulta con su padre, ella se decide, el padre los invita a un restaurante y como futuro suegro le pide las tres cosas a Reza, y aunque sabía que Marjane después se dirvociaría, quería que se diera cuenta por sí misma. Luego Marjane llama a su madre en Vancouver y le cuenta la noticia, aunque al principio no se muestra de acuerdo después de hablar con el padre le brindó todo su apoyo. Luego, para los preparativos Marjane es sometida a toda clase de experimentos, pero manifiesta que odia todos esos preparativos y pide una fiesta más modesta, sin embargo los padres le replican que por favor deje hacer esta boda a su manera y altura. Se lleva a cabo la boda con todos los protocolos y tradiciones, y entre sonrisas y lágrimas; al terminar la velada y estar en casa cae en cuenta de que había caído en el esquema social de "una mujer casada" del cual siempre había querido estar al márgen. A pesar de su perspectiva, crisis existencial y de Reza, lo intentan, pero al cabo de meses convivían separados cada uno con su vida y manteniendo las apariencias en público, para terminar en peleas e insultos cotidianos.
+
 #### La parabólica
 ![Persepolis_MarjaneSatrapi_4-09][Persepolis_MarjaneSatrapi_4-09]{: width="80%"}
 
+En 1991, el año de la boda de Marjane, Irak atacó Kuwait emergiendo el conflicto del Golfo Pérsico, hubo emigrantes kuwatíes que aparte de pequeños inconvenientes fueron indiferentes; sin embargo ven tanto en los medios fanáticos locales como en los despreciadores occidentales que la guerra ha generado pánico en europa, les hace gracia y también lo discuten, así como el resto de la gente. En Irán el régimen tenía el poder absoluto, no había oposición o resistencia, y la gente se conformaba con una felicidad banal olvidando su conciencia política. En 1992 el amigo Fariborz instala una antena parabólica, esto era sinónimo de apertura al resto del mundo y mentalidad más abierta, pero el régimen se da cuenta y las prohíbe, aunque demasiado tarde porque la gente se resiste escondiendo las antenas de día y usándolas en la noche; hasta que un día el padre de Marjane la cuestiona en cuanto a su actitud, actividades y estilo de vida, Marjane se escuda arguyendo adultez y matrimonio, luego ella se da cuenta que su padre tiene razón, se disculpa, y el padre le obsequia tres libros de la biblioteca que ella lee, recuperando así tiempo perdido. Los nuevos intereses la llevan a rodearse de nueva gente, intelectuales que se reúnen todos los primeros lunes de cada mes, y discuten cosas de fondo de su nación, llevando a Marjane a la misma conclusión de siempre: tenía que instruirse.
+
 #### El fin
 ![Persepolis_MarjaneSatrapi_4-10][Persepolis_MarjaneSatrapi_4-10]{: width="80%"}
+
+En 1993 a Marjane y Reza como excelentes estudiantes los convoca el catedrático del departamento para proponerles el parque de atracciones mitológico como proyecto para el diploma, trabajan juntos en armonía y con pasión, el proyecto se presenta exitosamente, pero después al presentarlo al teniente alcalde es rechazado. Luego de la reunión en la alcaldía Marjane se reúne con la amiga de la infancia Farnaz y hablan del proyecto, matrimonio y divorcio, también consulta con su abuela. Espera, consigue trabajo como ilustradora, ocurren los incidentes con la prensa y la libertad de expresión; habla con la amiga Gila de los hombres, las leyes y el país, luego habla con Reza, y terminan maduramente en buenos términos. Después con los padres empieza su gestión para emigrar a Francia; antes de la partida definitiva visita las montañas de Teherán, el mar Caspio, la tumba del abuelo, la prisión política, hasta que en 1994 acompañada por los padres y abuela en el aeropuerto, parte.
 
 
 
@@ -285,3 +295,13 @@ interregno.
 [Persepolis_MarjaneSatrapi_3-08]: {{ site.baseurl }}/assets/Persepolis_MarjaneSatrapi_3-08.png "Persepolis - Marjane Satrapi 3-08"
 [Persepolis_MarjaneSatrapi_3-09]: {{ site.baseurl }}/assets/Persepolis_MarjaneSatrapi_3-09.png "Persepolis - Marjane Satrapi 3-09"
 [Persepolis_MarjaneSatrapi_3-10]: {{ site.baseurl }}/assets/Persepolis_MarjaneSatrapi_3-10.png "Persepolis - Marjane Satrapi 3-10"
+[Persepolis_MarjaneSatrapi_4-01]: {{ site.baseurl }}/assets/Persepolis_MarjaneSatrapi_4-01.png "Persepolis - Marjane Satrapi 4-01"
+[Persepolis_MarjaneSatrapi_4-02]: {{ site.baseurl }}/assets/Persepolis_MarjaneSatrapi_4-02.png "Persepolis - Marjane Satrapi 4-02"
+[Persepolis_MarjaneSatrapi_4-03]: {{ site.baseurl }}/assets/Persepolis_MarjaneSatrapi_4-03.png "Persepolis - Marjane Satrapi 4-03"
+[Persepolis_MarjaneSatrapi_4-04]: {{ site.baseurl }}/assets/Persepolis_MarjaneSatrapi_4-04.png "Persepolis - Marjane Satrapi 4-04"
+[Persepolis_MarjaneSatrapi_4-05]: {{ site.baseurl }}/assets/Persepolis_MarjaneSatrapi_4-05.png "Persepolis - Marjane Satrapi 4-05"
+[Persepolis_MarjaneSatrapi_4-06]: {{ site.baseurl }}/assets/Persepolis_MarjaneSatrapi_4-06.png "Persepolis - Marjane Satrapi 4-06"
+[Persepolis_MarjaneSatrapi_4-07]: {{ site.baseurl }}/assets/Persepolis_MarjaneSatrapi_4-07.png "Persepolis - Marjane Satrapi 4-07"
+[Persepolis_MarjaneSatrapi_4-08]: {{ site.baseurl }}/assets/Persepolis_MarjaneSatrapi_4-08.png "Persepolis - Marjane Satrapi 4-08"
+[Persepolis_MarjaneSatrapi_4-09]: {{ site.baseurl }}/assets/Persepolis_MarjaneSatrapi_4-09.png "Persepolis - Marjane Satrapi 4-09"
+[Persepolis_MarjaneSatrapi_4-10]: {{ site.baseurl }}/assets/Persepolis_MarjaneSatrapi_4-10.png "Persepolis - Marjane Satrapi 4-10"
