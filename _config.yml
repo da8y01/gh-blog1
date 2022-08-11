@@ -3,12 +3,11 @@ name: Easy Engineering - Blog
 title: Easy Engineering - Blog
 email: blog@easy-eng.net
 description: "Miscellaneous posts from easy-eng.net site."
-baseurl: /gh-blog
-url: http://da8y01.github.io
+baseurl: ""
+url: ""
 
-remote_theme: pages-themes/hacker@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+#plugins:
+#- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # Build settings
 markdown: kramdown
@@ -20,5 +19,3 @@ analytics:
   provider: google
   google:
     tracking_id : 'UA-78997829-1'
-
-theme: jekyll-theme-hacker
