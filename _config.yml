@@ -6,8 +6,8 @@ description: "Miscellaneous posts from easy-eng.net site."
 baseurl: ""
 url: ""
 
-#plugins:
-#- jekyll-remote-theme # add this line to the plugins list if you already have one
+plugins:
+  - jekyll-seo-tag
 
 # Build settings
 markdown: kramdown
