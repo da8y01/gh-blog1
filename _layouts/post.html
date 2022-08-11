@@ -1,33 +1,86 @@
 ---
 layout: default
 ---
-<div class="post">
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <h1>{{ page.title }}</h1>
-    <p class="meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+    <p class="post-meta">
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {{ page.date | date: date_format }}
+      </time>
+      {%- if page.modified_date -%}
+      ~
+      {%- assign mdate = page.modified_date | date_to_xmlschema -%}
+      <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
+        {{ mdate | date: date_format }}
+      </time>
+      {%- endif -%}
+      {%- if page.author -%}
+      • {% for author in page.author %}
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
+      {%- if forloop.last == false %}, {% endif -%}
+      {% endfor %}
+      {%- endif -%}
+    </p>
   </header>
 
   <section>
     Share:
     <ul class="share-buttons">
-      <li><a href="#" target="_blank" title="Send email" onclick="window.open('mailto:?subject=' + encodeURIComponent(document.title) + '&body=' +  encodeURIComponent(document.URL)); return false;"><img alt="Send email" src="{{site.baseurl}}/assets/icons/Email.png"></a></li>
-      <li><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fda8y01.github.io%2Fgh-blog%2F&t=" title="Share on Facebook" target="_blank" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&t=' + encodeURIComponent(document.URL)); return false;"><img alt="Share on Facebook" src="{{site.baseurl}}/assets/icons/Facebook.png"></a></li>
-      <li><a href="#" title="Share on Google+" target="_blank" onclick="window.open('https://www.google.com/'); return false;"><img alt="Share on Google+" src="{{site.baseurl}}/assets/icons/Google.png"></a></li>
-      <li><a href="http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fda8y01.github.io%2Fgh-blog%2F&title=&summary=&source=http%3A%2F%2Fda8y01.github.io%2Fgh-blog%2F" target="_blank" title="Share on LinkedIn" onclick="window.open('http://www.linkedin.com/shareArticle?mini=true&url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;"><img alt="Share on LinkedIn" src="{{site.baseurl}}/assets/icons/LinkedIn.png"></a></li>
-      <li><a href="#" title="Share on Pinboard" target="_blank" onclick="window.open('https://pinboard.in/'); return false;"><img alt="Share on Pinboard" src="{{site.baseurl}}/assets/icons/Pinboard.png"></a></li>
-      <li><a href="#" title="Share on Pinterest" target="_blank" onclick="window.open('https://www.pinterest.com/'); return false;"><img alt="Share on Pinterest" src="{{site.baseurl}}/assets/icons/Pinterest.png"></a></li>
-      <li><a href="#" title="Share on Pocket" target="_blank" onclick="window.open('https://getpocket.com/'); return false;"><img alt="Share on Pocket" src="{{site.baseurl}}/assets/icons/Pocket.png"></a></li>
-      <li><a href="#" title="Share on Reddit" target="_blank" onclick="window.open('https://www.reddit.com/'); return false;"><img alt="Share on Reddit" src="{{site.baseurl}}/assets/icons/Reddit.png"></a></li>
-      <li><a href="#" title="Share on Tumblr" target="_blank" onclick="window.open('https://www.tumblr.com/'); return false;"><img alt="Share on Tumblr" src="{{site.baseurl}}/assets/icons/Tumblr.png"></a></li>
-      <li><a href="https://twitter.com/intent/tweet?source=http%3A%2F%2Fda8y01.github.io%2Fgh-blog%2F&text=:%20http%3A%2F%2Fda8y01.github.io%2Fgh-blog%2F" target="_blank" title="Tweet" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20'  + encodeURIComponent(document.URL)); return false;"><img alt="Tweet" src="{{site.baseurl}}/assets/icons/Twitter.png"></a></li>
-      <li><a href="whatsapp://send?text={{site.url}}{{site.baseurl}}{{page.url}}" data-action="share/whatsapp/share"><img alt="Share on Whatsapp" src="{{site.baseurl}}/assets/icons/Whatsapp.png"></a></li>
-      <li><a href="#" title="Share on Wordpress" target="_blank" onclick="window.open('https://wordpress.com/'; return false;"><img alt="Share on Wordpress" src="{{site.baseurl}}/assets/icons/Wordpress.png"></a></li>
+      <li><a href="#" target="_blank" title="Send email"
+          onclick="window.open('mailto:?subject=' + encodeURIComponent(document.title) + '&body=' +  encodeURIComponent(document.URL)); return false;"><img
+            alt="Send email" src="{{site.baseurl}}/assets/icons/Email.png"></a></li>
+      <li><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fda8y01.github.io%2Fgh-blog%2F&t="
+          title="Share on Facebook" target="_blank"
+          onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&t=' + encodeURIComponent(document.URL)); return false;"><img
+            alt="Share on Facebook" src="{{site.baseurl}}/assets/icons/Facebook.png"></a></li>
+      <li><a href="#" title="Share on Google+" target="_blank"
+          onclick="window.open('https://www.google.com/'); return false;"><img alt="Share on Google+"
+            src="{{site.baseurl}}/assets/icons/Google.png"></a></li>
+      <li><a
+          href="http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fda8y01.github.io%2Fgh-blog%2F&title=&summary=&source=http%3A%2F%2Fda8y01.github.io%2Fgh-blog%2F"
+          target="_blank" title="Share on LinkedIn"
+          onclick="window.open('http://www.linkedin.com/shareArticle?mini=true&url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;"><img
+            alt="Share on LinkedIn" src="{{site.baseurl}}/assets/icons/LinkedIn.png"></a></li>
+      <li><a href="#" title="Share on Pinboard" target="_blank"
+          onclick="window.open('https://pinboard.in/'); return false;"><img alt="Share on Pinboard"
+            src="{{site.baseurl}}/assets/icons/Pinboard.png"></a></li>
+      <li><a href="#" title="Share on Pinterest" target="_blank"
+          onclick="window.open('https://www.pinterest.com/'); return false;"><img alt="Share on Pinterest"
+            src="{{site.baseurl}}/assets/icons/Pinterest.png"></a></li>
+      <li><a href="#" title="Share on Pocket" target="_blank"
+          onclick="window.open('https://getpocket.com/'); return false;"><img alt="Share on Pocket"
+            src="{{site.baseurl}}/assets/icons/Pocket.png"></a></li>
+      <li><a href="#" title="Share on Reddit" target="_blank"
+          onclick="window.open('https://www.reddit.com/'); return false;"><img alt="Share on Reddit"
+            src="{{site.baseurl}}/assets/icons/Reddit.png"></a></li>
+      <li><a href="#" title="Share on Tumblr" target="_blank"
+          onclick="window.open('https://www.tumblr.com/'); return false;"><img alt="Share on Tumblr"
+            src="{{site.baseurl}}/assets/icons/Tumblr.png"></a></li>
+      <li><a
+          href="https://twitter.com/intent/tweet?source=http%3A%2F%2Fda8y01.github.io%2Fgh-blog%2F&text=:%20http%3A%2F%2Fda8y01.github.io%2Fgh-blog%2F"
+          target="_blank" title="Tweet"
+          onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20'  + encodeURIComponent(document.URL)); return false;"><img
+            alt="Tweet" src="{{site.baseurl}}/assets/icons/Twitter.png"></a></li>
+      <li><a href="whatsapp://send?text={{site.url}}{{site.baseurl}}{{page.url}}"
+          data-action="share/whatsapp/share"><img alt="Share on Whatsapp"
+            src="{{site.baseurl}}/assets/icons/Whatsapp.png"></a></li>
+      <li><a href="#" title="Share on Wordpress" target="_blank"
+          onclick="window.open('https://wordpress.com/'; return false;"><img alt="Share on Wordpress"
+            src="{{site.baseurl}}/assets/icons/Wordpress.png"></a></li>
     </ul>
   </section>
 
-  <article class="post-content">
-  {{ content }}
-  </article>
+  <div class="post-content e-content" itemprop="articleBody">
+    {{ content }}
+  </div>
 
-</div>
+  {%- if site.disqus.shortname -%}
+  {%- include disqus_comments.html -%}
+  {%- endif -%}
+
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+</article>
