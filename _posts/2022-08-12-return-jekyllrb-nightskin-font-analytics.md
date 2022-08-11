@@ -11,7 +11,7 @@ El restablecimiento de la configuración original de sitio estático generado ti
 * Actualizar archivos relevantes de layouts, includes y skins. [https://github.com/jekyll/minima][2]{: target="_blank"}
 * Ensayar un nuevo skin (modificando el archivo config):
 ![JekyllrbBlog_NightSkin][JekyllrbBlog_NightSkin]
-* Cambiar la fuente del sitio (descargando los archivos .ttf a los assets locales y definiendo las font-face en los archivos personalizados de estilos disponibles):
+* Cambiar la fuente del sitio (descargando los archivos .ttf a los assets locales y definiendo las font-face en los archivos de estilos personalizados disponibles):
 ![JekyllrbBlog_NewFont][JekyllrbBlog_NewFont]
 * Mostrar aspecto básico de las Analytics actuales observadas ([https://analytics.google.com/][3]{: target="_blank"}):
 ![JekyllrbBlog_CurrentBasicAnalytics][JekyllrbBlog_CurrentBasicAnalytics]
