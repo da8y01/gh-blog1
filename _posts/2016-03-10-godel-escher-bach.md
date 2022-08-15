@@ -83,6 +83,14 @@ Se plantea si hay una correspondencia o similitud entre las mentes, indicando qu
 Aquiles padece de insomnio y llama a Tortuga que lo entretiene con teoría de números, la conjetura de Goldbach y los numeros *(in-)maravillosos*. Al final le agradece, le regala la caja de oro asiática y la policía hace una redada.
 
 #### Capítulo XIII: BuD y BuL y BuM
+Se menciona que ésos son lengajes de computadora diseñados para entender las recursividades *primitiva* y *generalizada*, que serán necesarias para esclarecer la autorreferencia; se examinará la autoconciencia en ámbitos de sistemas formales, orden vs. caos, mención a "teoría recursiva de la función".
+Se mencionan las "verdades nucleares", es decir las *verdades recursivas primitivas*, es decir los cálculos *de finalización predictible*. El criterio para denominar "suficientemente poderoso" a un sistema será la *representabilidad de todas las verdades recursivas primitivas*.
+Se da un vistazo y descripción de BuD, la estructura de control *bucle delimitado*, procedimientos, otras características y ejercicios sugeridos. La masa crítica para que el método de Gödel pueda aplicarse a un sistema formal se alcanza cuando todas las nociones recursivas primitivas son representables dentro de tal sistema.
+Distinguir entre expresabilidad y representabilidad. Se expone, que a pesar de que la completitud es una quimera, TNT es completo, al menos en cuanto a los *predicados recursivos primitivos*. Pone/Usa dobles espacios en la Pág. 467? **"¿Pueden establecerse siempre límites superiores para la extensión de los cálculos, o bien es inherente al sistema de los números naturales cierto tipo de mescolanza confusa que, en ocasiones, impide predecir la extensión de los cálculos?"**.
+Se introducen los *Programas Azules* de BuD, la función *Diagazul*, y la demostración de que *Diagazul tiene su asiento fuera del reino de las funciones recursivas primitivas*. Algunos aspectos sutiles para desarrollar, que se convierten en una "trama infinita", asociada a la noción de la Tortuga de "coincidencias infinitas", y también a la w-incompletitud. Lo que Cantor quiso mostrar fue que si se hiciera un "directorio" de números reales inevitablemente dejaría fuera algunos números reales: en consecuencia, la noción de directorio *completo* de números reales es una contradicción en los términos. La escencia de la conclusión de Cantor es que hay (por lo menos) dos *tipos* distintos de infinito. La escencia del método diagonal reside en el hecho de que usa un entero de dos maneras diferentes, o bien, podría decirse, *en dos diferentes niveles*, y que, gracias a ello, puede construirse un ítem que está fuera de cierta lista predeterminada. Los acontecimientos del *Contracrostipunctus* son una paráfrasis del desarrollo seguido por Gödel para demostrar su Teorema de Incompletitud.
+Se introduce BuL, bucles libres, bloques mu, siguiendo la convención de la lógica matemática, donde las búsquedas "libres" (búsquedas sin límites) son indicadas por un símbolo llamado "operador u" (operador mu). La no respuesta BuL presenta un curioso parecido con la no respuesta "MU" de Joshu. Se da el caso en que la salida o valor de retorno es siempre inaccesible porque el programa sigue girando. En todos los programas BuL que incorporen la opción BUCLE MU, siempre existirá la posibilidad teórica de la inacabilidad.
+Procedimientos BuL *finalizables* y *no finalizables*, un aporte de Alan Turing muestra que ningún programa BuD puede efectuar tal distinción de modo infalible, ésta invención de Turing es muy similar a la de Gödel, y en consecuencia se vincula muy estrechamente con la invención diagonal de Cantor; se tomará otra ruta para arribar a esa meta, que consiste en demostrar que un verificador de terminación es imposible.
+*Programas Verdes* (ya que pueden marchar por siempre).
 
 #### Capítulo XIV: Sobre proposiciones formalmente indecidibles de TNT y sistemas afines
 
@@ -324,10 +332,14 @@ Como todas las circunstancias posibles no pueden ser enumeradas, se deberían es
 
 Puede que no sean despertados nunca, en el transcurso de la vida de una persona, pero no por eso dejarían de estar allí, nada más que esperando las circunstancias indicadas para desencadenar sus síntesis.
 
+La naturaleza nos pone enfrente de una multitud de fenómenos que nos impresionan principalmente por su arbitrariedad caótica, hasta que seleccionamos determinados hechos significativos y los abstraemos de las circustancias particulares y nada significativas que los rodean, de modo de llegar a convertirlos en ideas.
+
+Como sugirió Aquiles, tal vez la información buscada está más cerca de la superficie en una representación que en otra.
+
 
 
 ## TÉRMINOS
-retruécano, paráfrasis, holismo, reduccionismo, marrullería, aberrante, **contrafactibilidad**, **autorreferencialidad**, *aporía*, consternación, eludir, paulatino, peculiar, indulgente, zalamero, **silogismo**, conmoción, proscripción, proscrito, menoscabo, excéntrico, *ineluctable*, estupor, **epítome**, pugna, secular, *lerdo*, agobiar, anomalía, *hemiolia*, **borscht**.
+retruécano, paráfrasis, holismo, reduccionismo, marrullería, aberrante, **contrafactibilidad**, **autorreferencialidad**, *aporía*, consternación, eludir, paulatino, peculiar, indulgente, zalamero, **silogismo**, conmoción, proscripción, proscrito, menoscabo, excéntrico, *ineluctable*, estupor, **epítome**, pugna, secular, *lerdo*, agobiar, anomalía, *hemiolia*, **borscht**, capcioso.
 
 
 
