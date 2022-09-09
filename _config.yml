@@ -7,6 +7,7 @@ description: "Miscellaneous posts from easy-eng.net site."
 # url: ""
 baseurl: /gh-blog
 url: http://da8y01.github.io
+future: false
 
 # Build settings
 markdown: kramdown
@@ -26,7 +27,11 @@ show_excerpts: false # set to true to show excerpts on the homepage
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
   date_format: "%Y-%m-%d %H:%M"
+  #skin: classic
+  #skin: dark
   skin: solarized-dark
+  #skin: solarized-light
+  #skin: solarized
 
   # generate social links in footer
   social_links:

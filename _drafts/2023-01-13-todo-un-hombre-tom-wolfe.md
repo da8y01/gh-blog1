@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Todo un hombre - Tom Wolfe"
-date: 2022-09-14 21:34:42
+date: 2023-01-13 21:34:42
 tags: review literatura "Todo un hombre - Tom Wolfe" "Todo un hombre" "Tom Wolfe" TodoUnHombre_TomWolfe TodoUnHombre TomWolfe
 ---
 

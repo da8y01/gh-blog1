@@ -1,0 +1,47 @@
+---
+layout: post
+title: "A logo (for this project)"
+date: 2022-09-21 16:48:42
+tags: logo image icon favicon icono project proyecto easy engineering EasyEngineering "Easy Engineering"
+---
+
+Es un trapecio, en cuyo lado derecho se encajan dos (2) renglones o dos pisos del inicio de dos palabras.
+Abajo en color rojo y con tipografía rígida o estructural ("Graduate"), la palabra "ENGINEERING", como se ve, en mayúsculas (size 36).
+
+Arriba, encima de la palabra de la base del trapecio, en color amarillo y con tipografía blanda y cursiva ("Pacifico"), la palabra "easy", como se ve, en letras minúsculas (size 48).
+
+El lado izquierdo del trapecio queda ocupado por un tablero de juego "triqui" (tic-tac-toe) dibujado a mano alzada, lo que se nota debido a la ligera inexactitud en los trazos.
+
+Hay unas versiones del logotipo que recortan los laterales del trapecio, de modo que solo se ven encajadas dentro del trapecio las iniciales de las dos palabras, algo como solamente "easy eng" enmarcadas dentro del trapecio recortado en sus esquinas inferiores.
+
+Main:
+<div style="text-align:center" markdown="1">
+![EasyEng_Logo_20220831_3][EasyEng_Logo_20220831_3]{: width="60%"}
+</div>
+
+Transparent:
+<div style="text-align:center" markdown="1">
+![EasyEng_Logo_20220831_3_transparent][EasyEng_Logo_20220831_3_transparent]{: width="60%"}
+</div>
+
+Cropped:
+<div style="text-align:center" markdown="1">
+![EasyEng_Logo_20220831_3_CroppedForFavicon][EasyEng_Logo_20220831_3_CroppedForFavicon]{: width="60%"}
+</div>
+
+
+
+## REFERENCIAS
+* [https://www.autodraw.com/][1]{: target="_blank"}
+* [https://favicon.io/][2]{: target="_blank"}
+
+
+
+[1]: https://www.autodraw.com/
+[2]: https://favicon.io/
+
+
+
+[EasyEng_Logo_20220831_3]: {{ site.baseurl }}/assets/EasyEng_Logo_20220831_3.png "Easy Engineering logo ver. 20220831_3"
+[EasyEng_Logo_20220831_3_transparent]: {{ site.baseurl }}/assets/EasyEng_Logo_20220831_3_transparent.png "Easy Engineering logo Transparent ver. 20220831_3"
+[EasyEng_Logo_20220831_3_CroppedForFavicon]: {{ site.baseurl }}/assets/EasyEng_Logo_20220831_3_CroppedForFavicon.png "Easy Engineering logo cropped for FavIcon ver. 20220831_3"
