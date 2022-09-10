@@ -54,7 +54,7 @@ Se usan tres (3) fuentes tipográficas, cada una configurada de diferente manera
 
 * La primera fuente tipográfica es la denominada "[Audiowide][3]{: target="_blank"}". Es un (1) archivo de extensión `.ttf` descargado y guardado en un directorio local de la misma página web. Se usa en el primer texto, del tope/arriba que dice "Cuando tu gato Aprende".
 * La segunda fuente tipográfica es la denominada "[Vujahday+Script][4]{: target="_blank"}". Es obtenida/traída remotamente o desde internet usando la etiqueta/tag o elemento HTML "[link][7]{: target="_blank"}", *The External Resource Link element*, en la sección "[head][8]{: target="_blank"}", *The Document Metadata (Header) element*, del archivo `.html`. Se usa en el segundo texto, de la mitad, que dice "Black Speech".
-* La tercera fuente tipográfica es la denominada "[Rubik+Dirt][5]{: target="_blank"}". Es la *CSS at-rule* "[import][9]{: target="_blank"}" que invoca/llama la API (Application Programming Interface) remota u on-line de [Google Fonts][1]{: target="_blank"} en el archivo de estilos personalizados `.css` para traer la fuente y ser utilizada. Se usa en el tercer texto, de abajo, que dice "de Mordor xD".
+* La tercera fuente tipográfica es la denominada "[Rubik+Dirt][5]{: target="_blank"}". Es la *CSS at-rule* "[@import][9]{: target="_blank"}" que invoca/llama la API (Application Programming Interface) remota u on-line de [Google Fonts][1]{: target="_blank"} en el archivo de estilos personalizados `.css` para traer/obtener la fuente y ser utilizada. Se usa en el tercer texto, de abajo/fondo, que dice "de Mordor xD".
 
 <div style="text-align:center" markdown="1">
 ![MemeGatoAprende_WebNoEffects][MemeGatoAprende_WebNoEffects]{: width="80%"}
