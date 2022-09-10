@@ -26,7 +26,7 @@ Transparent:
 
 Cropped:
 <div style="text-align:center" markdown="1">
-![EasyEng_Logo_20220831_3_CroppedForFavicon][EasyEng_Logo_20220831_3_CroppedForFavicon]{: width="60%"}
+![EasyEng_Logo_20220831_3_CroppedForFavicon_2][EasyEng_Logo_20220831_3_CroppedForFavicon_2]{: width="40%"}
 </div>
 
 
@@ -44,4 +44,4 @@ Cropped:
 
 [EasyEng_Logo_20220831_3]: {{ site.baseurl }}/assets/EasyEng_Logo_20220831_3.png "Easy Engineering logo ver. 20220831_3"
 [EasyEng_Logo_20220831_3_transparent]: {{ site.baseurl }}/assets/EasyEng_Logo_20220831_3_transparent.png "Easy Engineering logo Transparent ver. 20220831_3"
-[EasyEng_Logo_20220831_3_CroppedForFavicon]: {{ site.baseurl }}/assets/EasyEng_Logo_20220831_3_CroppedForFavicon.png "Easy Engineering logo cropped for FavIcon ver. 20220831_3"
+[EasyEng_Logo_20220831_3_CroppedForFavicon_2]: {{ site.baseurl }}/assets/EasyEng_Logo_20220831_3_CroppedForFavicon_2.png "Easy Engineering logo cropped for FavIcon ver. 20220831_3 2"
