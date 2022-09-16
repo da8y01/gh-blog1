@@ -3,8 +3,7 @@ layout: post
 title: "El club de lucha - Chuck Palahniuk"
 description: "Traducido del inglés por Pedro González del Campo"
 date: 2022-11-14 21:34:42
-#image: http://da8y01.github.io/gh-blog/assets/ElClubDeLucha_ChuckPalahniuk_portada.jpg
-image: http://127.0.0.1:4000/gh-blog/assets/ElClubDeLucha_ChuckPalahniuk_portada.jpg
+image: http://da8y01.github.io/gh-blog/assets/ElClubDeLucha_ChuckPalahniuk_LinkPreview.png
 tags: review literatura "El club de lucha - Chuck Palahniuk" "El club de lucha" "Chuck Palahniuk" ElClubDeLucha_ChuckPalahniuk ElClubDeLucha ChuckPalahniuk
 ---
 
@@ -15,7 +14,7 @@ tags: review literatura "El club de lucha - Chuck Palahniuk" "El club de lucha" 
 </div>
 
 
-## SINOPSIS
+## <span id="sinopsis">[SINOPSIS](#sinopsis)</span>
 
 ### <span id="cap1">[Uno](#cap1)</span>
 El narrador tiene una pistola en la boca introducida por Tyler, están en el piso 191 del edificio Parker-Morris, describe que va ser volado con explosivos hechos caseramente, que el modo en que caerá destruirá el Museo Nacional que es el verdadero objetivo de Tyler, que la Comisión de Daños del Proyecto Estragos avienta todo tipo de muebles de oficina por las ventanas hacia la calle, y que todo esto es por Marla Singer y la especie de triángulo amoroso entre Tyler, Marla y él.
@@ -41,10 +40,10 @@ Se describe la casa de Tyler donde conviven hace un mes apróximadamente, y de c
 ### <span id="cap8">[Ocho](#cap8)</span>
 El jefe devuelve al narrador para la casa, de la actitud **zen** con las demás personas del trabajo, de los *haikus*; Marla está en la casa, el narrador necesita jabón, le pide a Tyler que fabriquen jabón, Tyler le dice al narrador que le dé el recado a Marla de que se largue y vaya a comprar algunos suministros para el jabón, de la no interacción entre Tyler y Marla, de las cosas que le gustan a Marla; empiezan la fabricación de jabón hirviendo la grasa en agua y espumándola, regresa Marla con el polvo de gas, Tyler se esfuma, el narrador despacha a Marla, quedan en hablar y llamarse, Tyler reaparece, Tyler hace que el narrador le prometa tres veces que nunca le hablará a Marla de él; de la composición de la dinamita y los explosivos de gelatina, del beso en el dorso de la mano, y de la quemadura con la lejía.
 
-### <span id="cap9">[Nueve][#cap9]</span>
+### <span id="cap9">[Nueve](#cap9)</span>
 De la experiencia de la quemadura en el dorso de la mano con polvo de gas lejía donde Tyler le había dado un beso húmedo, del momento más importante de su vida, de cómo el narrador trata de aplicar la meditación guiada con el castillo de Irlanda, Tyler le cuenta de los sacrificios en la antigüedad, y del río con lejía filtrado.
 
-### <span id="cap10">[Diez][#cap10]</span>
+### <span id="cap10">[Diez](#cap10)</span>
 Habiendo parado el ascensor entre dos pisos y con la perspectiva de una cucaracha Tyler mea en una sopa del banquete que atienden, se cuenta la historia de la primera incursión de Tyler en la industria de la restauración.
 
 ### <span id="cap11">[Once](#cap11)</span>
@@ -107,7 +106,7 @@ Volviendo al inicio de la historia, el narrador se encuentra en el tejado del ed
 ### <span id="cap30">[Treinta](#cap30)</span>
 Despierta, vivo, recuperándose en un hospital, describe con la perspectiva de estar en un cielo blanco y silencioso con ángeles y un Dios detrás de un despacho; de vez en cuando ve alguien del Proyecto Estragos que lo saluda y le dice que todo marcha bien según el plan.
 
-### Agradecimientos
+### <span id="agradecimientos">[Agradecimientos](#agradecimientos)</span>
 "Gracias a Chuck Palahniuk porque tuvo las agallas inspiradoras."
 
 "Thanks to Chuck Palahniuk because he had inspiring guts."
@@ -117,13 +116,13 @@ Despierta, vivo, recuperándose en un hospital, describe con la perspectiva de e
 .
 
 
-## TÉRMINOS
+## <span id="terminos">[TÉRMINOS](#terminos)</span>
 [obús](https://dle.rae.es/ob%C3%BAs "obús") 1. m. Proyectil disparado por una pieza de artillería. 2. m. Pieza de artillería de menor longitud que el cañón en relación con su calibre.
 
 [almádena](https://dle.rae.es/alm%C3%A1dena "almádena") 1. f. Mazo de hierro con mango largo, para romper piedras.
 
 
-## REFERENCIAS
+## <span id="referencias">[REFERENCIAS](#referencias)</span>
 * [https://es.wikipedia.org/wiki/Chuck_Palahniuk][1]{: target="_blank"}
 
 

@@ -3,7 +3,7 @@ layout: post
 title: "Bueno para comer - Marvin Harris"
 description: "Bueno para comer - Marvin Harris"
 date: 2017-11-16 21:34:42
-image: https://bf36-191-95-168-29.ngrok.io/gh-blog/assets/BuenoParaComer_MarvinHarris_portada.jpg
+image: http://da8y01.github.io/gh-blog/assets/BuenoParaComer_MarvinHarris_LinkPreview.png
 tags: review literatura antropologia antropología "Bueno para comer - Marvin Harris" "Bueno para comer" "Marvin Harris" BuenoParaComer_MarvinHarris BuenoParaComer MarvinHarris
 ---
 
@@ -14,23 +14,23 @@ tags: review literatura antropologia antropología "Bueno para comer - Marvin Ha
 </div>
 
 
-## SINOPSIS
+## <span id ="sinopsis">[SINOPSIS](#sinopsis)</span>
 
-### <span id="cap1">1. ¿Bueno para pensar o bueno para comer?</span>
+### <span id="cap1">[1. ¿Bueno para pensar o bueno para comer?](#cap1)</span>
 El autor plantea que uno de los aspectos abordados son los diferentes factores y causas como nutrición, ecología, dinero para las elecciones y evitaciones alimentarias más curiosas de algunos grupos humanos.
 
-### <span id="cap2">2. Ansia de carne</span>
+### <span id="cap2">[2. Ansia de carne](#cap2)</span>
 Se exponen diferentes factores/aspectos a favor y en contra del consumo de productos de orígen animal y vegetal, se brinda información nutricional, se concluye que la preferencia de las naciones por la carne es racional y surge por la interacción entre la biología humana y la composición nutritiva de una serie de posibilidades alimentarias.
 
-### <span id="cap3">3. El enigma de la vaca sagrada</span>
+### <span id="cap3">[3. El enigma de la vaca sagrada](#cap3)</span>
 Se expone la justificación del porqué el culto y prohibición del consumo de carne de vaca en la India, y respalda la visión y explicación práctica de Ghandi. Se tienen en cuenta cifras, factores como la superpoblación, las actividades socio-económicas como la agricultura y el arado, y se repasan los beneficios de mantener la prohibición tanto religiosa como política sobre el consumo de carne de vaca.
 
-### <span id="cap4">4. El cerdo abominable</span>
+### <span id="cap4">[4. El cerdo abominable](#cap4)</span>
 Se cuestiona porqué siendo el cerdo el más efectivo en convertir carne, tanto el Antiguo Testamento como el Corán lo prohiben, se discute/diserta, del rabí Moisés Maimónides, la justificación en la porquería, después de 700 años llega la justificación científica con la triquinosis, se analiza la fórmula del Antiguo Testamento, se pone de manifiesto la falla en el argumento/razonamiento de la antropóloga Mary Douglas, se explican los factores sistema digestivo, clima, ecología, sistema de regulación del calor corporal, hábitos del cerdo.
 
 La cría de cerdos en Oriente Medio para pastores nómadas era demasiado costosa, y actualmente lo sigue siendo, se explica el declive de la ganadería porcina en esa zona, cita a Carlton Coon, la deforestación y el crecimiento demográfico, la escasa crianza de cerdo no entra en contradicción con la base ecológica del tabú, se aborda la complicación exasperante de los tres vertebrados rumiantes, explica extensiones de la fórmula y otras especies de la lista, se analiza la aversión por el cerdo de las otras civilizaciones importantes del Oriente Medio ―fenicios, egipcios y babilonios―, la prohibición y extensión del Islam por regiones bien diferenciadas, se explica la dirección en la que pueden circular los efectos de estos factores y hábitos dietéticos sobre las condiciones ecológicas y económicas de su entorno.
 
-### <span id="cap5">5. La hipofagia</span>
+### <span id="cap5">[5. La hipofagia](#cap5)</span>
 Se habla de las virtudes de las características de la carne de caballo, su uso y comparación en distintos países. Se mencionan primeros tabúes, restricciones, prohibiciones o rechazo a la carne de equino.
 
 Se describen las costumbres de los cazadores paleolíticos en la Edad de Piedra, se menciona que el clima cambia y es en Asia donde se domestica por primera vez el caballo, se explica que la contribución del caballo era la movilidad para el pastoreo disperso en grandes áreas, se describe el brebaje con leche de yegua *kumiss*, y que el caballo se domesticó más tardíamente que otros animales.
@@ -51,7 +51,7 @@ De igual forma se presenta el mercado clandestino, pero la tardanza en las inspe
 
 Teniendo en cuenta que EEUU es el primer exportador de carne de caballo con una industria envasadora que existe, la cuestión es saber porqué no se come. Se mencionan datos recientes de intentos de comercialización y los obstáculos, se menciona el caso de la carne de caballo como comida para mascotas, se menciona el fracaso de los intentos de mercado con las modalidades en filete o como carne picada o embutida. El autor señala que falta explicar la jerarquía de las principales carnes disponibles para el consumo norteamericano, y las evitaciones y preferencias.
 
-### <span id="cap6">6. San Vacuno, EE.UU.</span>
+### <span id="cap6">[6. San Vacuno, EE.UU.](#cap6)</span>
 Inicia con cifras y porcentajes del consumo de diferentes tipos de carne, y continua con contra-argumentaciones a algunas primeras explicaciones de porque la de vacuno es la preferida, y cómo ha pasado la carne de cabra a ser reemplazada por la de vaca, y la asociación que la primera ha gestado/generado con las minorías raciales y culturales pobres y explotadas, y que no hay referencias culinarias de ella.
 
 A continuación aborda las ovejas, el cordero y carnero, es decir el ganado ovino. Explica las condiciones ecológicas y demográficas que prevalecían en la colonia que favorecieron los ganados porcino y vacuno sobre cabras y ovejas.
@@ -66,7 +66,7 @@ Se menciona la hamburguesa como contribución norteamericana a la cocina mundial
 
 Finaliza el capítulo hablando acerca de el pollo, cifras y comparación de consumo con la carne de vacuno, parangón de eficiencia transformando cereales en carne con respecto al superior cerdo y la vaca, problemas técnicos y soluciones que ha superado la industria, y el crecimiento que eso ha significado. Hace notar las dinámicas e inercias de los hábitos alimentarios en general y en EEUU, y en la real eficiencia energética de algunos de los casos expuestos (transformando en carne los alimentos de origen vegetal).
 
-### <span id="cap7">7. Lactófilos y lactófobos</span>
+### <span id="cap7">[7. Lactófilos y lactófobos](#cap7)</span>
 Menciona al antropólogo Robert Lowie y la aversión de los asiáticos orientales hacia la leche, ese "alimento perfecto", y que sólo tenían la concesión al paladar norteamericano de los helados entre los postres. Menciona el aborrecimiento asiático hacia la leche, y las percepciones virtuosa y repulsiva de la leche.
 
 La leche presentada como estereotipo de alimento perfecto útil y que no hace daño (inocuo). En el período posterior a la Segunda Guerra Mundial, gran parte de las ayudas humanitarias de EEUU consistían en leche en polvo, y luego empezaron a oirse rumores de personas que enfermaban por beber leche norteamericana.
@@ -87,31 +87,32 @@ Cita: *"Desde tiempos inmemoriales, los chinos y otros pueblos del Asia oriental
 
 Se resalta el caso particular de la *«coevolución»* de la lactofilia y de la base genética de la suficiencia en lactasa como sumamente instructiva por ser tan diferente de la evolución de la mayoría de las costumbres alimentarias.
 
-### <span id="cap8">8. Bichitos</span>
+### <span id="cap8">[8. Bichitos](#cap8)</span>
 .
 
-### <span id="cap9">9. Perros, gatos, dingos y demás mascotas</span>
+### <span id="cap9">[9. Perros, gatos, dingos y demás mascotas](#cap9)</span>
 .
 
-### <span id="cap10">10. Antropofagia</span>
+### <span id="cap10">[10. Antropofagia](#cap10)</span>
 .
 
-### <span id="cap11">11. Comer mejor</span>
+### <span id="cap11">[11. Comer mejor](#cap11)</span>
 .
-
 
 
 ## COMENTARIO
 .
 
 
+## <span id ="terminos">[TÉRMINOS](#terminos)</span>
+[aparcero](https://dle.rae.es/aparcero){: target="_blank"} 1. m. y f. Persona que tiene aparcería con otra u otras. 2. m. y f. Comunero en una heredad o hacienda. 3. m. y f. Arg., Bol. y Ur. Compañero, amigo. 4. m. y f. desus. Partícipe, copartícipe. 5. f. desus. concubina.
 
-## TÉRMINOS
-aparcero, aparcería, dehesa.
+[aparcería](https://dle.rae.es/aparcer%C3%ADa){: target="_blank"} 1. f. Trato o convenio de quienes van a la parte en una granjería. 2. f. Der. Contrato mixto, que participa del de sociedad aplicado al arrendamiento de fincas rústicas, y que se celebra con gran variedad de pactos y costumbres supletorias entre el propietario y el cultivador de la tierra. 3. f. Der. Contrato de sociedad, anexo a la aparcería de fincas rústicas o independiente de ella, para repartir productos o beneficios del ganado entre el propietario de este y el que lo cuida o recría.
+
+[dehesa](https://dle.rae.es/dehesa){: target="_blank"} 1. f. Tierra generalmente acotada y arbolada, por lo común destinada a pastos.
 
 
-
-## REFERENCIAS
+## <span id ="referencias">[REFERENCIAS](#referencias)</span>
 * [https://www.alianzaeditorial.es/libro.php?id=2656986&id_col=100508][1]{: target="_blank"}
 * [https://es.wikipedia.org/wiki/Marvin_Harris][2]{: target="_blank"}
 * [http://depa.fquim.unam.mx/amyd/archivero/LibroBuenoparacomerMarvinHarris_30755.pdf][3]{: target="_blank"}
