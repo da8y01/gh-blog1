@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "Machine Learning Foundations: A Case Study Approach"
+description: "Machine Learning Foundations: A Case Study Approach"
 date: 2015-12-26 17:28:07
+image: http://da8y01.github.io/gh-blog/assets/MLSpecialization1_Title.png
 tags: machinelearning machine learning ml coursera course courses curso cursos specialization universitywashington university washington emilyfox emily fox carlosguestrin carlos guestrin specialization1 "Machine Learning Foundations A Case Study Approach" "machine learning" "University of Washington" "university washington" "emily fox" "carlos guestrin"
 ---
-
 
 
 <div style="text-align:center" markdown="1">
 ![Machine Learning Foundations A Case Study Approach][MLSpecialization1_Title]{: width="80%"}
 </div>
-
 
 
 ## Quiz 1, try 1
@@ -175,7 +175,9 @@ tags: machinelearning machine learning ml coursera course courses curso cursos s
 ![Machine Learning Specialization Course 1 - Assignment 6 Try 1 Feedback][MLSpecialization1_assignment6-1_feed]{: width="80%"}
 </div>
 
-## Grade
+
+
+## <span id="grade">[Grade](#grade)</span>
 <div style="text-align:center" markdown="1">
 ![Machine Learning Specialization Course 1 - Assignments Passed 1][MLSpecialization1_AssignmentsPassed1]{: width="80%"}
 </div>
@@ -192,7 +194,9 @@ tags: machinelearning machine learning ml coursera course courses curso cursos s
 ![Machine Learning Specialization Course 1 - Accomplishments][MLSpecialization1_Accomplishments]{: width="80%"}
 </div>
 
-## Downloads
+
+
+## <span id="downloads">[Downloads](#downloads)</span>
 * [intro.pdf][4]{: target="_blank"}
 * [regression-intro-annotated.pdf][5]{: target="_blank"}
 * [classification-annotated.pdf][6]{: target="_blank"}
@@ -211,7 +215,7 @@ tags: machinelearning machine learning ml coursera course courses curso cursos s
 
 
 
-## References
+## <span id="references">[References](#references)</span>
 * [https://www.coursera.org/][1]{: target="_blank"}
 * [https://www.coursera.org/specializations/machine-learning][2]{: target="_blank"}
 * [https://www.coursera.org/learn/ml-foundations][3]{: target="_blank"}
