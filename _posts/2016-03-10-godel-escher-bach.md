@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Gödel, Escher, Bach. un Eterno y Grácil Bucle - Douglas R. Hofstadter"
+description: "Gödel, Escher, Bach. un Eterno y Grácil Bucle - Douglas R. Hofstadter"
 date: 2016-03-10 22:56:56
-image: http://da8y01.github.io/gh-blog/assets/GodelEscherBach_front.jpg
+image: https://da8y01.github.io/gh-blog/assets/GodelEscherBach_front.jpg
 tags: review novela novel "Gödel, Escher, Bach. un Eterno y Grácil Bucle - Douglas R. Hofstadter" "Gödel, Escher, Bach. un Eterno y Grácil Bucle" "Douglas R. Hofstadter" "Gödel, Escher, Bach" GödelEscherBach GodelEscherBach DouglasRHofstadter DivulgaciónCientífica "divulgación científica"
 ---
 
