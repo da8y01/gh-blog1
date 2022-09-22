@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "Satán me quiere - Robert Irwin"
-date:   2013-12-06 18:44:34
-tags: literatura literature novela novel review satán quiere wants robert irwin
+title: "Satán me quiere - Robert Irwin"
+description: "Satán me quiere - Robert Irwin"
+date: 2013-12-06 18:44:34
+image: http://da8y01.github.io/gh-blog/assets/SatanMeQuiere_front.jpg
+tags: literatura literature novela novel review satán quiere wants robert irwin "Satán me quiere - Robert Irwin" "Satán me quiere" "Robert Irwin" SatánMeQuiere_RobertIrwin SatánMeQuiere RobertIrwin
 ---
-
 
 
 <div style="text-align:center" markdown="1">
@@ -13,13 +14,12 @@ tags: literatura literature novela novel review satán quiere wants robert irwin
 </div>
 
 
-
-## AUTOR
+## <span id="autor">[AUTOR](#autor)</span>
 Robert Irwin nació en 1946. Es autor de otras seis novelas, *The Arabian Nightmare* (1983), *The Limits of Vision* (1986), *The Mysteries of Algiers* (1989), *Prayer-Cushions of the Flesh* (1997), *El harén sublime* (Literatura Mondadori, 1998) y *Cadáver exquisito* (Literatura Mondadori, 1999). Actualmente reside en Londres.
 
 
 
-## ARGUMENTO
+## <span id="argumento">[ARGUMENTO](#argumento)</span>
 Corre el verano de 1967. Peter, un joven inglés adicto a las drogas y al pop psicodélico, ingresa en una sociedad ocultista junto a su novia, Sally, y su mejor amigo, Cosmic. Durante los primeros meses en la secta, Peter se va introduciendo en la estructura de la organización al mismo tiempo que aumenta su consumo de drogas. Ambas cosas producen en él una sumisión a los postulados de la secta y una incapacidad para distinguir la realidad de sus frecuentes alucinaciones.
 
 Sally intenta que Peter deje la sociedad, consciente de que se encuentran en manos de una secta satánica. Sin embargo, Peter renunciará a la relación con su novia en favor de la secta. En los días que siguen a esta ruptura, Cosmic es expulsado y Peter, ascendido hasta un cargo muy importante; todo parece apuntar a que Peter se convertirá en uno de los líderes. No obstante, y para sorpresa de todos, el destino de Peter y sus compañeros será mucho más extraño de lo que cualquiera hubiera podido aventurar.
@@ -28,233 +28,179 @@ Irwin ha llevado a cabo en esta novela un repaso irónico de las actitudes y vic
 
 
 
-## RESEÑAS
+## <span id="resegnas">[RESEÑAS](#resegnas)</span>
 "Una pura delicia. Alcanza momentos inolvidables; la recreación de los años sesenta en Londres son desternillantes." The Guardian
 
 "Magistral, Irwin se ha superado. Una novela para todos los públicos." Time Out
 
 
 
-## SINOPSIS
-Viernes, 12 de mayo de 1967
-
+## <span id="sinopsis">[SINOPSIS](#sinopsis)</span>
+##### Viernes, 12 de mayo de 1967
 Peter compra su cuaderno, visita bibliotecas, va donde su novia Sally que está con el amigo Cosmic, hablan, de la promesa necrofílica, de los estados de la colocada y el bajón, termina escribiendo en el diario.
 
-Sábado, 13 de mayo
-
+##### Sábado, 13 de mayo
 Un poco de estudio, vagancia con Sally, de la cosa más horrible, siesta en el cine de Arts Lab.
 
-Domingo, 14 de mayo
-
+##### Domingo, 14 de mayo
 Se levanta tarde, estudia, llegan Sally y Cosmic con mandrágora, sesión de improvisación, se imaginan una sodomizada del Diablo, Sally se pone cachonda, follan al estilo perro, menciona la beca de estudios.
 
-Lunes, 15 de mayo
-
+##### Lunes, 15 de mayo
 Sally y las minifaldas, acude a la escuela Saint Joseph con una carta para iniciar sesiones de observación, de la investigación y el trabajo, de comprar un disco.
 
-Martes, 16 de mayo
-
+##### Martes, 16 de mayo
 Al despertar se imagina que es un muerto, acude a su sesión de observación de niños en el patio de la escuela Saint Joseph, asiste a su primera Misa Negra en la Logia, basados en la carta astral leída por Laura le insinúan que es importante/elegido, trata de flirtear con Alice.
 
-Miércoles, 17 de mayo
-
+##### Miércoles, 17 de mayo
 Escucha el Aftermath de los Stones, de la belleza y fealdad, sesión de supervisión de tésis, llamado y perorata de Sally, de entregar el diario para inspección, de ver/conocer demonios.
 
-Jueves, 18 de mayo
-
+##### Jueves, 18 de mayo
 Estudio, discusión con Sally, portavoces de los estudiantes; en la logia Felton inspecciona el diario criticándolo, el ansia de cosas de Peter le recuerda su juventud a Felton, le cuenta parte de su historia y de cuándo/cómo conoció a Aleister Crowley por intermedio de Gerald Yorke, termina la reunión.
 
-Viernes, 19 de mayo
-
+##### Viernes, 19 de mayo
 Reflexiona sobre las apreciaciones de Felton respecto a su diario, se encuentra con Robert Drappers, desayunan, hablan, Robert lo molesta con la idea de las proyecciones de su mente, le cuenta/explica lo de la Logia del Libro Negro, Robert le comparte shema; va a la escuela a observar a los niños y tomar notas para la tésis, piensa en los diarios de los demás, habla con el padre acerca del cáncer de la madre, toma shema.
 
-Sábado, 20 de mayo
-
+##### Sábado, 20 de mayo
 Peter tiene pesadillas con su madre que padece de cáncer, dice que no volverá a dormir, lee, hace ejercicios astrales, pasa la tarde-noche con Sally en el bar Middle Earth donde tienen la discusión de siempre acerca de la Logia, regresan al apartamento de Peter.
 
-Domingo, 21 de mayo
-
+##### Domingo, 21 de mayo
 Peter amanece con Sally y le dice que escoja entre ella y la Logia, se va, Peter llama a su padre, va al apartamento de Mr. Cosmic, le dice que Paul McCartney ha muerto, hablan del suceso y de la música, charlan de los diarios, Cosmic le da la idea de mentirle a Sally para lidiarla junto con la Logia.
 
-Lunes, 22 de mayo
-
+##### Lunes, 22 de mayo
 Se levanta tarde, de camino a la librería Dillans coquetea con la chica ciencióloga; va a la escuela a observar a los niños y tomar apuntes, reflexiona acerca de los hijos; vuelve a casa.
 
-Martes, 23 de mayo
-
+##### Martes, 23 de mayo
 Felton revisa su diario, tienen sesión de besos, acuerdan cenar mañana, acude a la sesión de Camino, cuando llega a casa llama a Sally para posponer la cita para ir a cine para ver Elvira Mandigan.
 
-Miércoles, 24 de mayo
-
+##### Miércoles, 24 de mayo
 En la mañana escucha música, reflexiona de la música propia y distintiva, de los cantos de ballena, de bailar, de la habitación de Sally; va a observar el patio de niños para su investigación, el subdirector de la escuela le hace cuestionamientos, habla un poco de Sally; en la tarde se ocupa del diario y de prepararse para la cena; en la noche acude al restaurante a encontrarse con Felton, conversan, después llega Granville, hacen planes para Peter, se termina el día.
 
-Jueves, 25 de mayo
-
+##### Jueves, 25 de mayo
 Estudia los niños en el patio, vuelve al apartamento, va con Sally a cine, hablan, Sally trata de persuadirlo, llega temprano a la Logia del Libro Negro para que Felton revise el diario, Felton le sugiere que según el diario Sally no es la mujer adecuada para él; habla con Cosmic antes de ser convocadas a la Cámara de Rituales para la Ordenación, Peter es el primer iniciado con el nombre de "Nom Omnis Moriar", después siguen con el ejercicio frente el espejo, terminado el ejercicio habla con Alice, termina el día escribiendo en el diario.
 
-Viernes, 26 de mayo
-
+##### Viernes, 26 de mayo
 Estudia a los niños en el patio, se da cuenta que escribe cosas como si Felton estuviera observando a través de sus ojos; vuelve al apartamento, hace maletas para fin de semana, se prepara para reunión con Granville quien lo lleva a tomarse las medidas para su esmoquín; aborda el tren hacia Cambridge, escribe y lee, y charla con el tipo del vagón; en su antigua habitación de la casa de sus padres escribe, de los ambientes de la casa de sus padres y de la logia, de la función del orgasmo, del cáncer.
 
-Sábado, 27 de mayo
-
+##### Sábado, 27 de mayo
 En el desayuno los padres interrogan a Peter, recuerda algunas malas expriencias con Sally y Cosmic, sale un rato a una librería, en la tarde es su padre el que sale y lo deja solo con su madre quien pretende interrogarlo más, Sally llama a reconciliarse y tienen una conversación lacónica, piensa en la debilidad/voluntad de su madre, cuando el padre regresa en la comida hablan de temas comunes y cotidianos.
 
-Domingo, 28 de mayo
-
+##### Domingo, 28 de mayo
 Por la mañana intenta leer pero sólo piensa en Sally y se acuerda del tipo del tren, ayuda al padre a cocinar, éste le increpa a que se venga para Cambridge, Peter promete regresar la próxima semana; escribe en el tren, Sally lo recoge cariñosamente, en el apartamento cogen, hablan del diario, Peter le miente acerca de aspectos del diario; terminan el día juntos.
 
-Lunes, 29 de mayo
-
+##### Lunes, 29 de mayo
 Quedan de ir a ver Elvira Mandigan el miércoles, discuten con el casero y le da un ultimátum para retirarse, tiene supervisión con Michael acerca de su investigación, en la tarde trabaja en la biblioteca.
 
-Martes, 30 de mayo
-
+##### Martes, 30 de mayo
 Como no se puede concentrar en la tapia va a buscar apartamentos y comprar música, Felton revisa sus compras y el diario, después la sesión de Camino es dirigida por Felton y consiste en una aventura en la necrópolis de Menfis del Antiguo Egipto muy dirigida a Peter; al terminar, con la ayuda de un formulario de Penthouse, Felton y Granville ayudan a construir la candidata a próxima novia de Peter, Peter piensa que con nombre, dirección y novia nueva el viejo Peter que había empezado a escribir este diario habría desaparecido.
 
-Miércoles, 31 de mayo
-
+##### Miércoles, 31 de mayo
 No se concentra en la sesión de tapia, en la tarde empaca cosas, habla con el padre, se encuentra con Sally, en Elvira Mandigan está desconcentrado, aunque no es común van a un pub, allí hablan, terminan.
 
-Jueves, 1 de junio
-
+##### Jueves, 1 de junio
 Compra música, la digiere, al empacar se prepara un porro de opio, el amigo de Granville, Phil, lo recoge, Phil se muestra curioso, guardan las cosas en la habitación, descansa, al llevar el diario a Felton los altos cargos de la logio le dan la bienvenida, se va a la conferencia de Chalmers, después tiene una extraña conversación con Cosmic, al final cena con los residentes.
 
-Viernes, 2 de junio
-
+##### Viernes, 2 de junio
 Una lluvia torrencial lo obliga a quedarse desempeñando su nueva labor de bibliotecario, piensa en Sally, en que le dijo "malvado", divaga en las probabilidades estadísticas de que el mundo no sea lo que parece; en la cena Felton lo increpa para que lea "Hijo de la luna".
 
-Sábado, 3 de junio
-
+##### Sábado, 3 de junio
 Granville revisa el equipaje de Peter, le dan instrucciones, llegan a Herefordshire donde Julian y su mayordomo Dunn; juegan croquet, beben ginebras, de Granville y el control de las mujeres, cenan, hablan, la discusión de la americanización, de la discusión acerca de los hippies, Peter recibe la noticia de su padre de la gravedad de su madre, del "momento epifánico", de los 2 parráfos de "escritura automática", vuelve al salón de fumar donde los demás están reunidos.
 
-Domingo, 4 de junio
-
+##### Domingo, 4 de junio
 Despierta, hay oficio/invocación (a Aiwass), la ceremonia es aburrida excepto por el episodio de la cabra, desayunan/beben sangre, después desayuno normal, se despiden de los anfitriones (Julian y el mayordomo Dunn); en el camino de vuelta hablan, llegan, comen, se baña, y al final el juego sexual de seducir a una virgen con Laura.
 
-Lunes, 5 de junio
-
+##### Lunes, 5 de junio
 Asiste a la conferencia, habla con Michael de la logia, Peter lee su comunicación/exposición/ponencia, parece que pocos le entienden, está tan ocupado que piensa poco en los demás asuntos, duerme en un sleeping en una oficina de uno de los conferenciantes.
 
-Martes, 6 de junio
-
+##### Martes, 6 de junio
 Se levanta mal dormido, habla con los demás sociólogos, visita la biblioteca de la facultad, llega tarde a Londres y a Harapollo House, se duerme solo.
 
-Miércoles, 7 de junio
-
+##### Miércoles, 7 de junio
 En el desayuno busca infructuosamente a Laura, va a otra escuela por comparar, va a tomarse más medidas para el esmoquín; al regresar a Harapollo House e inusualmente no encontrar a nadie explora la casa y se da cuenta de la peculiar ala occidental, después pensando en Sally y escuchando música suena el teléfono, al contestar es su padre anunciándole de la muerte de su madre y de las indicaciones en caso de asistir al funeral, sale al jardín, al encontrarse con Felton le pide permiso para asistir al funeral y este, inesperadamente, por alguna razón, reacciona con amabilidad; estando dormido tiene un encuentro con Laura quien se identifica como su nueva madre la Dama Babalon, al levantarse ve la extraña escena del hombre con sendas herraduras en los pies corriendo, vuelve a dormir.
 
-Jueves, 8 de junio
-
+##### Jueves, 8 de junio
 No trabaja, va a la casa de Cosmic, le cuenta que su madre ha muerto, se drogan, hablan, de los espíritus de la música, de la "envidia" de Cosmic, lee el diario de Cosmic, va a sesión con Felton, le notifica que ascenderá al grado de custodio, de la conferencia con el Maestro Robert Kelley, de pensar hacia atrás, del escándalo de Sally en plena conferencia, la conferencia continúa, sigue Felton hablando de la próxima Consagración de la Virgen, Alice interpela a Peter, Laura acude al dormitorio de Peter, duerme.
 
-Viernes, 9 de junio
-
+##### Viernes, 9 de junio
 Felton le informa que ha sido asignado para ayudar a Granville, sólo tiene la mañana para investigación en el patio escolar, come con Granville, él está lúgubre, le pide a Peter que le hable, hablan de Sally y de sexo, le da la noticia de lo del ritual de Consagración de la Virgen, de tomar a Alice, terminan la comida hablando banalidades, de la carrera de Le Mans 24 horas, hacen diligencias varias como encargar el vino, al final van a un casino.
 
-Sábado, 10 de junio
-
+##### Sábado, 10 de junio
 Duerme mal, le quitan el tocadiscos, trabaja en la biblioteca, Granville le hace compañía, Peter lo lleva al Arts Lab, comen comida macrobiótica, ven películas oscuras, Granville da su visión, regresan a la logia (Harapollo House en Swiss Cottage), preparan la cámara de los rituales para la Consagración de la Vírgen del día siguiente (domingo), al final su mano derecha se ve escribiendo automáticamente de nuevo, la muerde y la golpea.
 
-Domingo, 11 de junio
-
+##### Domingo, 11 de junio
 Se consuma el ritual de Consagración de la Vírgen. Vuelve a escribir con su adolorida mano derecha, Cosmic va a su habitación con el pretexto de cambiarse de ropa, charlan, hablan de Granville y Sally, de los dopplegangers, de zombis, de ver la música a través de los elementales del vinilo; Grieves le dicce que acuda donde el Maestro, de la oficina estilo banquero del maestro, también llega Alice, inhalan cocaína, salen hacia el ritual, filman, llegan al altar central que es una cama con sábana negra, inician las oraciones, el Maestro monta a Alice, el ritual continúa, llega el turno de Peter, sodomiza a Alice en posición de perro a cuatro patas, beben soma, terminan, los presentes se dispersan, Granville le hace compañía al final, Peter se ducha; al final reflexiona que pasará en 30 años cuando repase este diario.
 
-Lunes, 12 de junio
-
+##### Lunes, 12 de junio
 Aborda un tren a Cambridge, desayuna, charla con el papá, acuden a la capilla, se efectúa el entierro, habla con el pastor, su padre lo expulsa de la casa.
 
-Martes, 13 de junio
-
+##### Martes, 13 de junio
 En el desayuno leen el correo recibido, fija la cita con Maud Boleskine después de haber pasado el día distraído en el patio de la escuela y en el café de al lado, Felton revisa su diario, Granville acude, en la sesión increpan a Cosmic por la tentativa de traición, lo dan por muerto, al final Laura practica el Beso Obsceno con él.
 
-Miércoles, 14 de junio
-
+##### Miércoles, 14 de junio
 Peter Keswick tiene la cita programada con Maud, va desanimado y con traje; Maud habla mucho de sí misma, de su trabajo como peluquera y de su afición por el kárate, no se interesa mucho por lo que Peter habla de sí mismo, ella habla poco e impreciso de su familia, Peter la acompaña a la estación de metro y se despiden para la felicidad de Peter; llega a la logia, escribe y se termina el día.
 
-Jueves, 15 de junio
-
+##### Jueves, 15 de junio
 Después de dormir con algunos sueños raros en el desayuno Felton le dice que adelantarán la inspección del diario, lo hacen, Felton le pide que concrete una nueva cita con Maud por teléfono, Peter lo hace; esperando el bus para el patio de la escuela cree ver a Cosmic, llega tarde al patio de la escuela sólo para la segunda sesión, comenta el objetivo y resultado de su investigación; al volver a la logia en vez de sesión de Camino ven el video de la grabación del ritual de Consgración de la Vírgen; al final Felton le indica que él deberá cortejar a Maud y arrebatarle su virginidad en la logia.
 
-Viernes, 16 de junio
-
+##### Viernes, 16 de junio
 Acude al patio de escuela desconcentrado, después a la peluquería de Maud, pronto sucede que Maud termina haciéndole una permanente a Peter, quedan de verse al otro día, de regreso en la logia Felton le dice que revisarán el diario ddespués del desayuno, come algo, en su habitación/celda escribe.
 
-Sábado, 17 de junio
-
+##### Sábado, 17 de junio
 Desayuno, Felton le da un fajo de billetes, le revisa el diario, le sugiere que la llame y la invite a bailar, Maud accede, él estudia distraídamente un poco; acude al piso de Maud, conoce a su roommate, describe el cuarto de Maud, van a Harapollo House, Peter le ensaña a Maud la casa, ella se muestra indiferente/poco curiosa/ignorante, en la habitación de Peter Maud intenta hacerle una mamada, van al Middle Earth, bailan; en la parada del autobús Maud golpea al extraño que le coquetea, hablan, Peter piensa en la fantasía de mujer y lo anacrónica que parece Maud; finaliza el día.
 
-Domingo, 18 de junio
-
+##### Domingo, 18 de junio
 Trabajando en la biblioteca en el piso de abajo se queda dormido y tiene sueños raros, Alice lo despierta y lo sermonea acerca de las larvas; como ahora carga el diario escribe en la biblioteca, después de la cena en su habitación lee el libro distinto que compró y escribe.
 
-Lunes, 19 de junio
-
+##### Lunes, 19 de junio
 Al acudir a la London School of Economics se da cuenta que la biblioteca sigue cerrada y hay un mitin; en la tarde va con Maud a ver "Camelot"; al final acompaña a su piso y se despiden de beso.
 
-Martes, 20 de junio
-
+##### Martes, 20 de junio
 Observa los niños en el patio escolar, Pyewhacket (su mano) escribe, en la sesión de inspección de diario Peter lee parte del diario de Granville donde éste aplica la "Mirada" con Sally, Felton le habla a Peter de que lo que importa en la logia es el Fin; Bridget (Dolor Mundi en el Camino), esposa de Charles Felton, interrumpe la inspección del diario; en la Cámara de Rituales en la sesión de Camino se ejecuta el exorcismo/purificación por el pasado episodio de Sally y después Bridgte guía el ritual de catársis de Shibbolet, Alice representa a Peter, y Peter representa a Maud; termina el día.
 
-¿Fecha? Dios sabe qué día es
-
+##### ¿Fecha? Dios sabe qué día es
 Desde un bosque en las afueras de Londres recapitula los hechos sucedidos; el día 1 (miércoles) al dirigirse en compañía de Felton y Bridget al patio escolar salta del autobús y huye, se va a buscar a Sally, mientras espera compra drogas, se encuentra con Sally, Sally habla con su amiga Patsy, duermen en el Arts Lab; el día 2 (jueves) Sally fue a la casa de Patsy y Peter donde su tutor de tesis Michael, Peter habla con su padre, luego Peter y Sally se reúnen cerca de la casa de Cosmic, Cosmic no responde, van al cuchitril de Robert Drappers, comen, se drogan, pasan el día justo para acordarse de la cita con Maud, Peter y Sally van a la peluquería, hablan con Maud, le cuentan la verdad, revisan que esté segura, se despiden, cuando empiezan a ejecutar el plan de Sally Peter se arrepiente, en un pub toman mezedrina y deciden salir de Londres caminando; en el camino hablan de muchas y variadas cosas; se encuentran un vagabundo, ven una tienda de artículos de broma, unos motociclistas, hablan de la tesis de Peter; ya en las afueras follan en un bosque; Peter revela explícitamente su naturaleza de sociólogo estudiando la "Dinámica y técnicas de refuerzo grupal en una secta de hechiceros del norte de Londres", y las verdades y mentiras del diario; continúan el recorrido hasta llegar al pueblo de Surrey (debe ser el día 3, viernes), se alojan en una habitación para pasar la noche, las drogas no los dejan dormirse rápidamente.
 
-Domingo, 6 de agosto
-
+##### Domingo, 6 de agosto
 Peter retoma el diario, Sally y él han estado "jugando a las casitas", del aburrimiento, de la liebre, comen liebre, se colocan con ácido (LSD), del trip, se cominica con Maud, le da instrucciones para que venga con ellos, de los tripis, duerme.
 
-Lunes, 7 de agosto
-
+##### Lunes, 7 de agosto
 En el desayuno Sally habla de su trip, Peter le informa que Maud vendrá, a Sally le incomoda la idea; Peter recoge a Maud, regresan a la casa, Maud llora, al darse cuenta que ha olvidado su ropa interior se va a comprar lencería, vuelve y enseña sus compras; después fuman porro, se rien, del chiste del grillo, Peter dormita y Pyewhacket (la mano escritora) escribe, fuman más porro, hablan del trip/viaje de ácido (LSD) para el otro día, comen, termina el día; Peter y Sally duerrmen, y Maud llora.
 
-Martes, 8 de agosto
-
+##### Martes, 8 de agosto
 Amanece, Maud practica kárate, almuerzan y tienen el viaje de LSD; al final se acuestan.
 
-Miércoles, 9 de agosto
-
+##### Miércoles, 9 de agosto
 Peter se despierta por la pelea de Maud y Sally, Sally cede, desayunan, Sally va a mercar, se encuentra con Brian Jones, Peter llama al padre, le cuentan lo de la profanación de la tumba de la madre, Peter les cuenta a las muchachas las noticias de la profanación que le ha dado su padre, Maud ve en el "Telegraph" el anuncio de los abogados de Julian Manciple a Peter Keswick, el día termina con Sally y Peter follando.
 
-Jueves, 10 de agosto
-
+##### Jueves, 10 de agosto
 Al empezar el día, mientras Sally prepara el desayuno, encuentra un gnomo de los de de Mr. Cosmic, de la carta a Dennis Wheatley, almuerzan, Maud tuza a Sally por petición, del crucifijo y la devoción de Peter, las chicas trabajan en la carta astral para la entrega de la virginidad de Maud, al final se duerme con una tonada procedente del bosque que resulta ser "Yesterday" de The Beatles.
 
-Viernes, 11 de agosto
-
+##### Viernes, 11 de agosto
 Peter despierta tarde, Maud practica kárate con Sally, hay un segundo gnomo, desayuna, Sally va a mercar de nuevo, sobre la realidad y lo que puede expresar en el diario, Sally vuelve tarde acompañada de Mr. Cosmic, dice que ha visto a Brian Epstein, Sally enseña su nuevo tatuaje en el cráneo, al terminar el día se emborrachan, duermen.
 
-Sábado, 12 de agosto
-
+##### Sábado, 12 de agosto
 Amanece, Maud hace ejericio, Cosmic se chuta, Sally se va de compras, Peter se queda con Maud, Peter se aburre y se da el tripi infernal, termnina el viaje, termina el día escribiendo en el diario junto con Maud.
 
-Domingo, 13 de agosto
-
+##### Domingo, 13 de agosto
 Amanece, Maud hace sus ejercicios, Cosmic ha sacado a pasear a Sally, al regresar Sally lleva la cuenta del tiempo que falta para que Maud entregue su virginidad a Peter, finalmente Maud y Peter lo hacen; por un comentario de Peter Maud revela su verdadera historia, que es la hija del Maestro Robert Kelley, de la Misión de El Cairo, del nacimiento de Maud, de que probablemente por su horóscopo y carta astral Peter sea la reencarnación de Aleister Crowley, del plan y complot para que Maud y Peter se conocieran; al final Maud le dice que no le importa si es o no Aleister Crowley.
 
-Lunes, 14 de agosto
-
+##### Lunes, 14 de agosto
 Amanece, Peter piensa en la historia que le ha contado Maud, reciben la carta respuesta de Dennis Wheatley, del infierno y la reencarnación al mismo tiempo, hablando con Cosmic comprende que ha sido enviado por la Logia del Libro Negro, Cosmic se va a buscar gnomos de jardín, Peter lee, Sally sale de compres, llega la malla de cuerpo entero para Maud; por la tarde reciben la visita de la policía por el caso de los gnomos de jardín, interrogan aparte a Sally, dicen que volverán, se van.
 
-Martes, 15 de agosto
-
+##### Martes, 15 de agosto
 Sally se enferma y Cosmic está raro, Peter trata de animar a Sally con música, llueve, Sally le dice a Peter que a pesar de la maldición lo quiere y por consiguiente a Maud, Peter habla con Cosmic y éste le revela que Sally lo sabía.
 
-Miércoles, 16 de agosto
-
+##### Miércoles, 16 de agosto
 Simplemente "espantoso".
 
-Jueves, 17 de agosto
-
+##### Jueves, 17 de agosto
 Sally sigue enferma, Cosmic va a tratar de conseguir un médico, no lo logra y trae otras cosas, Maud comunica que está embarazada, Maud arregla el cabello de Peter ccon el kit casero de permanente, Peter lee fragmentos del libro de Benjamin Spock que trajo Cosmic a una enferma Sally, dos policías vuelven, dan un vistazo a Sally, Cosmic aprovecha de esconder las drogas en el bosque, Maud cae en cuenta de la gravedad de la situación y le dice a Peter que tendrá que abrir una brecha en el círculo mágico para hacer una llamada telefónica, a la vez le entra el pánico y temiendo que los diarios los puedan incriminar ordena esconderlos como con las drogas.
 
-Sábado, 11 de octubre de 1997
-
+##### Sábado, 11 de octubre de 1997
 Después del funeral de Maud Peter retoma los diarios para escribir a grosso modo lo que ha acontecido; Maud avisó a su padre el Maestro Robert Kelley su situación, el Maestro persuade a la policía que ya pululaba el lugar, también el padre de Peter llega, hablan y no lo vuelve a ver, Sally ha muerto, Cosmic le recuerda a Peter el juramento de follar con ella muerta, Peter se niega, Cosmic lo reprocha; Peter y Maud reciben atención de la logia debido al embarazo de Maud, Peter y Maud se casan, Peter recibe la herencia de Julian y se vuelve un trabajador, Maud recibe su propia peluquería que cede con el nacimiento del pequeño Robert, Peter se siente orgulloso de la carrera política de Robert, Maud reserva todo su amor para Peter; Cosmic también se vendió se volvió también un trabajador; de que su ideología se perdió y se impusieron los otros convencionales, del encuentro a la entrada del cementerio con los evangelizadores sexuales, de las últimas palabras de Maud.
 
 
 
-## CITAS
+## <span id="citas">[CITAS](#citas)</span>
 Cuando los agentes verdaderos se administran a los pacientes adecuados se producen efectos extraños y admirables.
 
 Es una pura sensación de misterio, de tal manera que incluso lo que es misterioso resulta misterioso.
@@ -1296,12 +1242,12 @@ Espero que sea pronto.
 
 
 
-## TÉRMINOS
+## <span id="terminos">[TÉRMINOS](#terminos)</span>
 adepto, cabalístico, trincar, *carrillo*, letanía, taciturno, arcada, sensato, prudente, prudencia, absurdo, rememorar, chungo, molar, pulular, locuaz, rigor mortis, espeluznante, delicuescente, nodriza, gólem, vástago, chingar, melancólico, melancolia, **mustio**, triste, mismidad, alba, simiente, sollozo, sodomizar, sodomía, engorroso, jadeo, jadear, gimoteo, gimotear, **quid**, tapia, grotesco, flipar, bufido, susurro, susurrar, estridente, pedante, jerga, rollizo, garante, ansia, *escarceo*, *escarcear*, esoterismo, tétrico, resuello, delirante, *hasídico*, conferenciante, *hatajo*, *moflete*, *efebo*, *molicie*, *ominoso*, *efeméride*, *derviche*, *etéreo*, *onírico*, batik, *fruslería*, encorsetar, corsé, buqué, desbarrar, *fofo*, *pábulo*, vislumbre, bohemio, astuto, astucia, parodia, pulcro, almibarado, prestigioso, prestidigitación, suntuoso, deliberado, guarra, alfalga, mamparo, *sefirot*, impío, profanar, profanación, *asana*, adusto, impoluto, *paráfrasis*, *parafrasear*, estrépito, *estepa*, *erial*, *baldío*, siniestro, chorlito, superstición, *disgresión*, *ortodoxo*, vaharada, vaho, bruma, matinal, merodear, apear, carácter, efímero, iridiscencia, curry, *zumbado*, zumbido, chorrada, lóbrego, reticencia, balbucir, balbuceo, aprensión, *pigmalión*, *hierático*, *solemne*, sacrilegio, *gorronear*, estival, estío, eufórico, euforia, *efigie*, balaustre, blasón, heráldica, *bermellón*, abadía, exacerbar, austero, pomposo, menguar, jerez, cabalismo, cábala, amodorrado, modorra, sopor, *proclive*, elixir, *grimorio*, *ralo*, chabacano, *quicio*, deferencia, lúpulo, *kitsch*, *beatnik*, perplejidad, escoria, furtivo, sorna, greñas, emblema, amateur, banjo, tamtan, copulación, cópula, desvarío, *beodo*, dispéptico, exultante, bayoneta, *devaneo*, sufragio, sufragar, *gutural*, *endémico*, *ralea*, *palanquín*, marquesina, pernada, anticuario, *epifanía*, tranquillo, *tántrico*, *abigarrado*, estandarte, perecer, fenecer, *itinerante*, aberrante, aberración, atrocidad, cadencia, parsimonioso, ***cicatero***, perverso, velada, velo, obscenidad, **perífrasis**, **circunloquio**, ironía, exhalación, agonía, agonizante, evocar, masacre, *insunuación*, opulencia, resplandeciente, podredumbre, agazapar, *incauto*, *cándido*, *cautela*, atolondrado, tarantela, distraído, acusación, baptista, yacer, estruendo, porrazo, aporrear, fugaz, sendo, folk, *nornas*, *dríades*, bardo, oleaginoso, *sílfide*, altisonante, *salmodia*, *diatriba*, *despotricar*, vitriólico, vitriolo, *pueril*, *fútil*, bufonesco, *fullero*, *fullería*, júbilo, ensañar, deplorable, rimbombante, perturbar, perturbado, benevolencia, benévolo, sílex, *bazofia*, pervertido, furia, brujo, repugnante, repugnancia, *fatuo*, angustia, gesto, pederasta, *caos*, *entropía*, *entrópico*, hímen, inocencia, candor, *pelandusca*, concubina, guapo, chiste, extirpar, murmurar, murmullo, desvelar, lúgubre, apoltronar, arrellanar, huraño, abatimiento, abatido, abatir, *postramiento*, *postración*, *postrar*, *fular*, indagar, discurrir, *marasmo*, repulsión, frívolo, arrogancia, *gallardía*, *memo*, engatusar, *carantoña*, budín, banal, condescendencia, recelo, resoplido, macrobiótico, *oropel*, *arabesco*, retrospectiva, *parrafada*, floritura, acobardar, cobarde, cobardía, pretexto, aturdir, mancillado, corromper, corrompido, **karma**, miedo, neurótico, **doppelganger**, paranoia, *arrumacos*, fantasía, sintético, **valentía**, **bizarro**, delirante, delirar, delirio, ***pirar***, adrenalina, arrojo, arcano, obsceno, rapé, cortejar, mozo, hormigueo, regusto, agonía, relamer, nervioso, nerviosismo, nervios, coraje, trémulo, tremendo, aversión, *hierofante*, apariencia, glamour, *hornacina*, declamar, ensalzar, lujuria, horroroso, moral, convencional, embestir, bonachón, clímax, seccionar, acoplar, *lascivia*, mutuo, odio, **soma**, infundir, cortejo, capilla, *elucubrar*, escozor, *barullo*, frondoso, encina, azabache, tedioso, tedio, *alienar*, *alienante*, *suficiencia*, malévolo, *gnóstico*, *monda*, peñazo, calibrar, *majo*, facha, colación, farfullar, *incólume*, cuantioso, *hilarante*, malograr, *acongojar*, asentir, *apostura*, esperpento, *regodear*, inverosímil, repelente, *paria*, *tosco*, *abrupto*, abrumar, agobiar, hastío, cortejar, guirnalda, zarcillo, pretencioso, dubitativo, rumiar, bamboleo, bambolear, cernir, chiflado, devoto, regazo, *saya*, *chaladura*, *manía*, *cháchara*, solapa, *paparrucha*, desatinado, *sórdido*, ***paratáctico***, ***parataxis***, ***nefando***, prematuro, custodio, vulgar, compungido, **timorato**, *inescrutable*, *somero*, **moscardón**, arrítmico, arritmia, pánico, pelambrera, patoso, refinado, *esteta*, amargura, erigir, surcar, estrago, curtido, inquieto, preocupación, conmovedor, humildad, peculiar, albaricoque, despreciar, cortesía, *quincalla*, impasible, indiferente, imperturbable, polaina, nitidez, *pillar*, arenga, mofa, mofar, ingenuo, terrorífico, frenesí, frenético, **vestal**, tétrico, convulsivo, convulsión, *mazurca*, enfurruñado, enfurruñar, chulo, jactancioso, jactar, eludir, fardo, *rubicundo*, *kurdo*, *curdo*, zarandear, sermonear, sermón, matiz, regocijo, regocijar, exultante, trepidante, *mohínes*, *mohín*, harén, estropear, mitín, espasmódico, espasmo, depravación, circunspección, marmóreo, dicción, meticuloso, elogiar, *arrabales*, cosmopolita, barroco, reverberar, doubles entendres, seducción, seducir, rebatir, estorbo, cripticismo, *apostillar*, *dogal*, morcilla, canuto, retrógrado, *jerséis*, *jersey*, disonancia, *fortuito*, *patético*, cachondo, achaparrado, ensarzado, ensarzar, zarza, raquítico, hostigamiento, esmoquín, *frac*, mortaja, goznes, humor, *enjuto*, infestar, *epopeya*, *épico*, propiciar, *estribillo*, *refocilar*, catarsis, tartamudear, *fútil*, fiar, fiable, enrollado, rollo, mutabilidad, afrodisíaco, exagerado, exagerar, *chacota*, **mohíno**.
 
 
 
-## REFERENCIAS
+## <span id="referencias">[REFERENCIAS](#referencias)</span>
 * [http://www.amazon.com/Satan-quiere-Literatura-Spanish-Edition/dp/8439710186][1]{: target="_blank"}
 * [http://en.wikipedia.org/wiki/Robert_Irwin_(writer)][2]{: target="_blank"}
 
@@ -1309,6 +1255,7 @@ adepto, cabalístico, trincar, *carrillo*, letanía, taciturno, arcada, sensato,
 
 [1]: http://www.amazon.com/Satan-quiere-Literatura-Spanish-Edition/dp/8439710186
 [2]: http://en.wikipedia.org/wiki/Robert_Irwin_(writer)
+
 
 [SatanMeQuiere_front]: {{ site.baseurl }}/assets/SatanMeQuiere_front.jpg "Satán me quiere (portada)"
 [SatanMeQuiere_back]: {{ site.baseurl }}/assets/SatanMeQuiere_back.jpg "Satán me quiere (contra-portada)"

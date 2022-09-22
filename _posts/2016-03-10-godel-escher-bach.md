@@ -2,7 +2,7 @@
 layout: post
 title: "Gödel, Escher, Bach. un Eterno y Grácil Bucle - Douglas R. Hofstadter"
 date: 2016-03-10 22:56:56
-image: http://da8y01.github.io/gh-blog/assets/GodelEscherBach_LinkPreview.png
+image: http://da8y01.github.io/gh-blog/assets/GodelEscherBach_front.jpg
 tags: review novela novel "Gödel, Escher, Bach. un Eterno y Grácil Bucle - Douglas R. Hofstadter" "Gödel, Escher, Bach. un Eterno y Grácil Bucle" "Douglas R. Hofstadter" "Gödel, Escher, Bach" GödelEscherBach GodelEscherBach DouglasRHofstadter DivulgaciónCientífica "divulgación científica"
 ---
 
@@ -144,6 +144,17 @@ Tortuga y Aquiles se encuentran en el bosque, Aquiles va cantando alegre porque 
 A decir verdad, Aquiles, Ud. es en mi opinión un verdadero titán en el arte de la reflexión racional. Cada vez que Ud. le da un *NOMBRE* a una de mis afirmaciones, éste parece señalar el inminente derrumbe de mis esperanzas de que esa respuesta lo satisfacerá.
 
 #### <span id="capxv">[Capítulo XV: Brincos fuera del sistema](#capxv)</span>
+Quizá podría desarrollarse un sistema formal superior a TNT, el cual evadiría el ardid gödeliano, y el Teorema de Gödel, entonces, vería debilitada la eficacia de su aguijón. Si el problema básico de TNT es que contiene un "agujero" -en otras palabras, una oración que es indecidible, a saber, G- entonces, ¿por qué, simplemente, no obturar el agujero? ¿Por qué no añadir G a TNT como sexto axioma?
+
+Es de esperar que el nuevo sistema, TNT+G, sea un sistema formal superior: un sistema no solamente exento de sobrenaturales, sino también *completo*. Con seguridad, TNT+G es superior a TNT por lo menos en un aspecto: la cadena G ya no es indecidible en este nuevo sistema, puesto que es un teorema. Como la prueba de Gödel se atiene primariamente al poder expresivo de un sistema formal, no debemos sorprendernos si vemos que también nuestro nuevo sistema sucumbe. La incorporación de un axioma adicional no complica sustancialmente las propiedades aritméticas de los pares de prueba. El hecho importante respecto a éstos -consistente en que ser un par de prueba es recursivamente primitivo- se mantiente.
+
+El esquema de axioma no es suficientemente poderoso, y la construcción Gödel puede ejecutarse también aquí. A cualquier sistema, por más complejo o artificioso que fuere, se le puede asignar numeración Gödel y, en consecuencia, puede ser definida la noción de sus pares de prueba... y ésta es la red en la cual es cogido. **El problema aparece en el instante en que preguntamos: "¿Dónde incorporamos la lista de números diagonales dentro de L?"**. Es el acto de dar una lista explícita, o "cajón" de reales, lo que provoca la ruina. Y, en el caso de los sistemas formales, es el acto de dar una receta explícita de lo que supuestamente caracteriza la verdad teórico-numérica el causante de la incompletitud.
+
+Se habla de construir un sistema formal más poderoso, multifuración, incompletitud escencial, y las tres (3) condiciones para construir una cadena indecidible por vía del método Gödel de la autorreferencia. La satisfacción de estas tres condiciones asegura a todo sistema coherente que será incompleto, ya que le será aplicable la construcción de Gödel.
+
+Lo fascinante de tales sistemas es que ellos mismos cavan sus agujeros; su propia riqueza es lo que genera su destrucción. Pareciera que en los sistemas formales hay un punto crítico semejante: por debajo del mismo, un sistema es "inofensivo" y ni siquiera se propone definir formalmente la verdad aritmética, pero más allá del punto crítico, el sistema adquiere súbitamente el atributo de la autorreferencia, y como consecuencia de ello se condena a sí mismo a la incompletitud. Una vez obtenido aquel atributo de la autorreferencia, el sistema presenta un agujero que él mismo se ha practicado; el agujero toma nota de los rasgos que caracterizan al sistema y los utiliza contra este último.
+
+**... quienes se han servido de ella como munición en su batalla por mostrar que existe cierta cualidad elusiva e inefable en la inteligencia humana, la cual pasa entonces a ser algo inalcanzable por los "automátas mecánicos", esto es, por las computadoras.**
 
 #### <span id="capxvi">[Capítulo XVI: Autorref y Autorrep](#capxvi)</span>
 

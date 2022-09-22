@@ -1,19 +1,21 @@
 ---
 layout: post
-title:  "La ciudad y los perros - Mario Vargas Llosa"
-date:   2013-11-13 18:44:34
-tags: literatura literature novela novel review ciudad perros mario vargas llosa la latinoamerica
+title: "La ciudad y los perros - Mario Vargas Llosa"
+description: "La ciudad y los perros - Mario Vargas Llosa"
+date: 2013-11-13 18:44:34
+image: http://da8y01.github.io/gh-blog/assets/LaCiudadYLosPerros.jpg
+tags: literatura literature novela novel review ciudad perros mario vargas llosa la latinoamerica "La ciudad y los perros - Mario Vargas Llosa" "La ciudad y los perros" "Mario Vargas Llosa" LaCiudadYLosPerros_MarioVargasLlosa LaCiudadYLosPerros MarioVargasLlosa
 ---
-
 
 
 ![La ciudad y los perros][LaCiudadYLosPerros]{: width="40%" style="display:block; margin-left:auto; margin-right:auto"}
 
-## SINOPSIS
 
-### PRIMERA PARTE
+## <span id="sinopsis">[SINOPSIS](#sinopsis)</span>
 
-### I
+### <span id="primeraparte">[PRIMERA PARTE](#primeraparte)</span>
+
+### <span id="parte1_i">[I](#parte1_i)</span>
 Los cadetes apuestan con dados para elegir quién robará los exámenes; es el serrano Cava quien recibe la encomienda, ejecutándola rompe un vidrio y regresa al baño donde lo esperan los demás con el reproche por parte del Jaguar.
 
 Ricardito viaja a Lima por primera vez con su madre para un reencuentro de ellos con el padre.
@@ -25,7 +27,7 @@ Se describe el barrio de la calle Diego Ferré, de la mudanza de Alberto, las ve
 Cava, Boa y Rulos detrás del galpón conspiran para tirarse y después comerse una gallina, el sorteo con fósforos le toca a Cava; después del acto de la gallina conspiran para tirarse a un enano, un gordito, el grito de auxilio alerta a los otros enanos, hay riña.
 
 
-### II
+### <span id="parte1_ii">[II](#parte1_ii)</span>
 Del soldado que despierta las diferentes secciones del Colegio Militar Leoncio Prado con la corneta.
 
 El teniente Gamboa y sus suboficiales revisan la formación de los brigadieres, los pone a elegir entre 6 puntos o ángulo recto, todos eligen ángulo recto y es el suboficial Pezoa el encargado de administrar los puntapiés en los traseros.
@@ -39,7 +41,7 @@ De los brutales bautizos de los cadetes de 4º a los perros de 3º, indignados, 
 Al final del exámen por una bolita de papel que le cae a Alberto el Esclavo es consignado sábado y domingo por el teniente Gamboa.
 
 
-### III
+### <span id="parte1_iii">[III](#parte1_iii)</span>
 Se habla del estudiante del Saenz Peña amigo de Higueras que estudiaba con Tere.
 
 De la trifulca en el cine entre los de 4º y 5º cuando estaban reunidos los 3 años (3º, 4º y 5º) en el salón de actos; al final los de 4º y los demás se preparan para la retaliación.
@@ -51,7 +53,7 @@ De la competición entre 4º y 5º en escalar la soga estando presentes las barr
 De la relación de Ricardo Arana (el Esclavo) en su casa con su padre y madre, de cómo evitaba al padre, y de la pelea entre padre y madre y Ricardo; del deseo de estudiar interno debido a las circunstancias/situación.
 
 
-### IV
+### <span id="parte1_iv">[IV](#parte1_iv)</span>
 Alberto en la casa de un piso de la Quinta de Alcanfores visita a su madre; hablan de que el padre ha vuelto a repuntar, y Alberto se dispone a salir para hacer un encargo al compañero consignado.
 
 Teresa habla con su tía gorda, sebosa y sucia mientras ésta prepara la sopa acerca de que el muchacho de la casa de la esquina que estudia en el colegio militar Leoncio Prado, Arana, la ha invitado al cine.
@@ -73,7 +75,7 @@ Alberto hace la fila para estar por primera vez con la Pies Dorados.
 La plaza y luego el tranvía que va al colegio militar están atestados de cadetes; Vallano, Arróspide y el Jaguar, con presencia del mismo Alberto hablan de que la Pies Dorados había contado que Alberto había acudido a ella y pagado por una paja; ya en la cuadra el Esclavo le cuenta a Alberto que los oficiales están como fieras porque descubrieron el robo del exámen de química, y que los imaginarias de esa noche quedan consignados hasta que se descubra el responsable.
 
 
-### V
+### <span id="parte1_v">[V](#parte1_v)</span>
 El personaje piensa en Tere y se idea la forma de acompañarla a la casa de los parientes donde almorzaba a la salida del colegio.
 
 De cómo los consignados pasan el fin de semana dentro del colegio, del reducto de Paulino, y de la misa y el capellán.
@@ -87,13 +89,13 @@ Alberto y Helena, y Emilio y Ana caminan, las épocas y actitudes infantiles han
 Alberto y el Esclavo charlan tendidos en dos camas vecinas de la cuadra desierta.
 
 
-### VI
+### <span id="parte1_vi">[VI](#parte1_vi)</span>
 El Esclavo le cuenta al teniente Remigio Huarina que había visto pasar a Cava a las aulas después de romper el vidrio, refiriéndose a la noche del robo del exámen de química; luego al regresar a la cuadra joden y molestan en broma.
 
 Alberto falta a clases por irse a escribir a la glorieta, al regresar lee en el Orden del Día que se ha suspendido la cosigna para los imaginarias castigados, en la cuadra la atmósfera es diferente, se entera de que Cava fue enviado al calabozo, el Esclavo se ha ido; Alberto hace los arreglos para irse de contra inmediatamente, logra llegar donde Teresa, le pregunta por el Esclavo y se le declara.
 
 
-### VII
+### <span id="parte1_vii">[VII](#parte1_vii)</span>
 El personaje pretendiente de Teresa habla de ella, la describe, de su pulcritud, elegancia y limpieza.
 
 Se habla del Jaguar, de que se dió cuenta que se iban a llevar a Cava, y una mención de lo que el Círculo ha pasado.
@@ -105,16 +107,16 @@ Del profesor francés Fontana y cómo lo molestaban, y del momento en que Huarin
 El niño Ricardo recibe instrucciones de su padre sobre los horarios, se habla de las comidas y de ciertos paseos.
 
 
-### VIII
+### <span id="parte1_viii">[VIII](#parte1_viii)</span>
 Al despuntar el alba el teniente Gamboa despierta y se prepara para la campaña de hoy sábado, las primeras horas de esa mañana pasan, la formación, el desayuno, la formación y marcha para la campaña, los oficiales charlan; ya en el campo las instrucciones tácticas que se seguirán por cada compañía del batallón para la campaña, avanza la campaña, y cuando ya va ejecutándose la progresión y los tiros, es el capitán Garrido, el piraña, el que se topa con un cadete herido de bala en la cabeza que resulta ser el Esclavo, a quien inmediatamente se llevan al trote para atenderlo.
 
 
-### SEGUNDA PARTE
+### <span id="segundaparte">[SEGUNDA PARTE](#)</span>
 
-### I
+### <span id="parte2_i">[I](#parte2_i)</span>
 El Boa habla de la mala noche, de la perra Malpapeada, de la chilladera de la perra, de cómo pudo haber llegado al colegio, y de los apodos.
 
-A Alberto el Poeta que esta apurado para dirigirse a la enfermería a ver al Esclavo dos cadetes que tienen una apuesrta lo interrumpen para hacerle una pregunta, después de librarse, en la enfermería el enfermero no lo deja continuar hasta que Alberto lo persuade de llamar al médico, el médico le dice que no puede ver al Esclavo, que esta inconciente, y que sólo con una orden del coronel lo podría ver.
+A Alberto el Poeta que esta apurado para dirigirse a la enfermería a ver al Esclavo dos cadetes que tienen una apuesta lo interrumpen para hacerle una pregunta, después de librarse, en la enfermería el enfermero no lo deja continuar hasta que Alberto lo persuade de llamar al médico, el médico le dice que no puede ver al Esclavo, que esta inconciente, y que sólo con una orden del coronel lo podría ver.
 
 El pretendiente de Tere cuenta cómo logra verla dos o tres veces semanales escapándose anticipandamente del colegio, y de cómo eran esas caminatas al medidía.
 
@@ -133,7 +135,7 @@ Después de la extenuante formación de expulsión de Cava, Boa maltrata una pat
 Alberto y el padre del Esclavo beben las colas al frente de Paulino en "La Perlita" sin mucha charla, Paulino cierra y ellos echan a andar, charlan, al final Alberto se separa para enterarse de que el Esclavo ha muerto.
 
 
-### II
+### <span id="parte2_ii">[II](#parte2_ii)</span>
 El pretendiente de Tere cumple años en festivo, va donde su padrino a buscar regalo infructuosamente, al regresar a la casa la madre le tiene la razón de que Tere lo ha buscado y que vaya donde ella, al acudir Tere le tiene una chompa de regalo que ella misma tejió, se abrazan.
 
 Reunión entre coronel, capitán Garrido y tenientes Gamboa, Calzada, Pitaluga y Huarina; hablan de los preparativos que gestionaron para el sepelio, después entre el coronel, Garrido y Gamboa hablan de los hechos y de hipótesis, el coronel está preocupado por el alcance y repercusiones del suceso, da instrucciones, pide discreción.
@@ -143,7 +145,7 @@ El pretendiente de Tere se entera de que el amigo que le daba plata faclo Higuer
 Del sepelio de Ricardo Arana el Esclavo en la capilla del colegio franqueado por la formación con los uniformes de paño de los cadetes de la 1ª sección de 5º año, los compañeros del Esclavo; de la mujer (madre) sollozando, del pésame de Pitaluga y el coronel, de la formación afuera en la pista de desfile donde faltaba Alberto que había vuelto a entrar a la capilla, lo sacan acongojado y llora.
 
 
-### III
+### <span id="parte2_iii">[III](#parte2_iii)</span>
 El Boa cuenta que la perra Malpapeada, ahora Malpateada, ha quedado chueca, y que Alberto el Poeta ha quedado trastornado por la muerte de su "yunta" Ricardo Arana el Esclavo.
 
 Teresa espera con expectativa la visita de Alberto, Alberto uniformado se presenta en su casa, está melancólico, Teresa lo consuela cariñosamente, lo invita a almorzar, Teresa persuade a su tía, Alberto cuenta a Teresa la muerte de Arana y sucesos concernientes, almuerzan, Teresa cuenta a su tía el suceso, la tía se lamenta, Alberto al despedirse de Teresa le dice que tal vez no se vean por un tiempo y que se comuniquen con cartas.
@@ -157,7 +159,7 @@ Boa describe la irascibilidad con que se ha estado comportando el Jaguar.
 Alberto acude a la residencia del teniente Gamboa, lo recibe, allí declara que el Esclavo fue asesinado y narra algunos aspectos de cómo es la vida en las cuadras, lo que pasa, y cómo era la estadía del Esclavo y el Círculo en el colegio.
 
 
-### IV
+### <span id="parte2_iv">[IV](#parte2_iv)</span>
 El Boa cuenta cuando el Rulos le cuenta cuando se llevaron al Jaguar para interrogarlo segurmente acerca del robo de los exámenes.
 
 Al pretendiente de Tere lo van a sacar del colegio para ponerlo a trabajar pero él dice que ya sabe cómo ganar plata sin salirse del colegio, la mamá no le da importancia desde que le lleve dinero; él sigue haciendo trabajos con el flaco Higueras, el serrano Culepe y a veces otros desconocidos dependiendo del golpe.
@@ -169,7 +171,7 @@ De las veces que Teresa con dos amigas iba a la playa y se encontravban con otro
 El teniente Gamboa solicita inspección de fusiles para la 1ª sección al suboficial Pezoa, después va a hablar abiertamente con el capitán Garrido, al final interroga a un soldado que barría la cudra acerca de licor, cigarrillos, naipes, dados, etc.
 
 
-### V
+### <span id="parte2_v">[V](#parte2_v)</span>
 Boa narra la requisa de roperos sorpresa que ejecuta el teniente Gamboa, de la formación y simulación de campaña en el estadio, y de cómo los demás incriminan al Jaguar y al Boa (al Círculo).
 
 El teniente Gamboa se dirige a los calabozos del colegio que quedan detrás del corral de las gallinas entre el estadio y el muro del colegio para hablar a solas con el Jaguar, Gamboa lo incrimina por asesinato porque alguien lo ha denunciado, el Jaguar pregunta quién fue, Gamboa se lo reserva de momento.
@@ -179,7 +181,7 @@ El pretendiente llega a la casa, su madre está desconsolada, se va a la playa y
 El mayor estudia el parte entregado por el capitán Garrido elaborado por el teniente Gamboa, el mayor le hace reclamos a Gamboa, el capitán Garrido también toma sus medidas.
 
 
-### VI
+### <span id="parte2_vi">[VI](#parte2_vi)</span>
 El teniente Gamboa lee la carta de su esposa, por orden del comandante el capitán le dice que saque del calabozo al cadete Alberto Fernández y lo lleve a la oficina del coronel, charlan, acuden a la oficina del coronel, en la entrevista con el coronel se le piden pruebas de sus acusaciones al cadete Alberto Fernández Temple, no las tiene, le dan una última oportunidad de comportarse ejemplarmente para olvidar el asunto.
 
 El pretendiente y el flaco Higueras se van a trabajar con el Rajas y luego con el Carapulca, trabajando con el Carapulca hay problemas con soplones; cuando el pretendiente vuelve a la casa materna está ocupada por otras personas al igual que la casa de Teresa, se entera de que su madre Domitila ha muerto.
@@ -187,7 +189,7 @@ El pretendiente y el flaco Higueras se van a trabajar con el Rajas y luego con e
 El Poeta y el Jaguar hablan en el calabozo, el Jaguar le dice que busca al soplón y Alberto le dice que él lo denunció.
 
 
-### VII
+### <span id="parte2_vii">[VII](#parte2_vii)</span>
 El teniente Gamboa sale de la oficina del coronel, después en la secretaria de las cuadras de 5º año habla con el capitán Garrido, luego en la Prevención charla con el teniente de guardia, entra al calabozo, el Jaguar y el Poeta han peleado en silencio, el Poeta tiene la cara desfigurada, el teniente les ordena que se dirijan a la enfermería.
 
 El ladrón deambula hasta que llega a Lima a la csa de su padrino quien lo recibe y atiende, le dice que él pagó el funeral de su madre y que estuvo bien, él se queda a vivir ahí y a trabajar en la bodega del padrino; cuando el padrino se va de viaje a la sierra, la esposa del padrino lo acosa y continúanuna relación amorosa incluso cuando el marido ha regresado del viaje, finalmente el ladrón le dice a la señora que quiere entrar al Colegio Militar Leoncio Prado y que le ayude a convencer al padrino para que le pague la matrícula, y lo logra.
@@ -195,7 +197,7 @@ El ladrón deambula hasta que llega a Lima a la csa de su padrino quien lo recib
 A Alberto y al Jaguar los atienden en la enfermería, luego acuden al cuarto de Gamboa, salen, Alberto se entera de que el Jaguar no sabía que el Esclavo (Ricardo Arana) había delatado a Cava, dice que siendo así se equivicó y pide disculpas al Jaguar.
 
 
-### VIII
+### <span id="parte2_viii">[VIII](#parte2_viii)</span>
 Alberto y el Jaguar regresan a la cuadra, cuando los demás cadetes llegan y los encuentran se sorprenden y les hacen preguntas, el brigadier miraflorino Arróspide acusa al Jaguar de soplón, el Jaguar inicialmente guarda serenidad, el Boa lo defiende; sin embargo la riña no puede ser contenida, Boa la empieza con Arróspide, el Jaguar interviene, los demás cadetes también se lanzan, Alberto se protege, hasta que al final el suboficial pita pidiendo formación.
 
 El teniente Gamboa con prisa se dirige a la Prevención para enviar una carta a su mujer, de camino pasa por "La Perlita" donde Paulino lo atiende, después le entrega más partes escritos al capitán Garrido, al final como amigos el comandante Altuna lo pone confidencialmente sobreaviso de que el mayor y el coronel andan resentidos y de que se está gestando su traslado.
@@ -203,7 +205,7 @@ El teniente Gamboa con prisa se dirige a la Prevención para enviar una carta a 
 Se describe la ausencia del exiliado Jaguar, al final Alberto busca al Jaguar para hablar y pedirle amistad, el Jaguar rechaza.
 
 
-### EPÍLOGO
+### <span id="epilogo">[EPÍLOGO](#epilogo)</span>
 El teniente Gamboa está por salir debido a su traslado para Puna en Juliaca y se está despidiendo de todos incluído el capitán Garrido con quien conversa y se toma un trago en la cantina de oficiales, le pide que le preste un cadete por un rato que resulta ser el Jaguar, en la Prevención recibe un telegrama con asuntos familiares y aparece el Jaguar; afuera del colegio hablan acerca de un papel escrito por el Jaguar dirigido a Gamboa donde confiesa el asesinato del Esclavo y le solicita que lo lleve ante el coronel, Gamboa le dice que ya no es oficial del colegio, que ya no tiene potestad y además lo desdeña en parte por inoportuno, desecha el papel junto con el telegrama que le informaba del nacimiento de su hija, parte.
 
 En un caluroso e iluminado domingo de verano Alberto está listo con sobra de tiempo para el paseo a la playa con sus amigos y su chica Marcela; Alberto sale con tiempo, va por Marcela para caminar mientras Pluto los recoge en su coche a las 10:00 AM, recuerda cómo fue regresar a su barrio y reencontrase con sus amigos, cómo le presentaron a Marcela, tiene fugaces recuerdos del colegio que cada vez se van apagando más y son más distantes, Marcela le cuenta que fue a "conocer" a su antigua enamorada Teresa, pasean y charlan hasta que aparece Pluto en su auto y los recoge.
@@ -212,7 +214,7 @@ El Jaguar hablando con el flaco Higueras le cuenta cómo fue su reencuentro con 
 
 
 
-## CITAS
+## <span id="citas">[CITAS](#citas)</span>
 Confusamente, deseó perder la voluntad y la imaginación y ejecutar el plan como una máquina ciega. Pasaba días enteros abandonado a una rutina que decidía por él, empujado dulcemente a acciones que apenas notaba; ahora era distinto, se había impuesto lo de esta noche, sentía una lucidez insólita.
 
 Un movimiento próximo e inesperado devolvió a su cuerpo, como un puñetazo, el miedo que empezaba a vencer.
@@ -789,12 +791,12 @@ No tengo ni un cobre.
 
 
 
-## TÉRMINOS
+## <span id="terminos">[TÉRMINOS](#terminos)</span>
 cadete, hediondez, tibio, desmesurado, litera, serenidad, sereno, murmullo, bulla, bullicio, *batiente*, ansiedad, ***timba***, sumergido, sumergir, eludiendo, eludir, *vicuña*, encolerizar, *impávido*, *mimeógrafo*, dormitar, *estribillo*, *embotar*, lecho, hostil, soledad, *disipar*, *fulgor*, baranda, oscurecer, frágil, *patético*, escruta, *tarado*, yergue, erguir, *prócer*, *epónimo*, *sosegado*, *sosegar*, *febril*, desvariar, umbral, despreciar, *porfiado*, *porfiar*, fregado, fregar, *cojudo*, *apacible*, *asentir*, *frenético*, *frenesí*, erigir, *insolente*, *insolencia*, agazapado, agazapar, estrépito, *rampar*, *rampante*, *manducar*, *pichula*, *pánfilo*, constipar, *respingado*, *respingar*, zafar, *caracho*, desdibujado, percibir, *conmoción*, blasfemia, apaciguar, audaz, audacia, *adusto*, palidecer, cristina, **ñizca**, pizca, *melifluo*, cadencia, **garúa**, biombo, escuálido, cohibido, cohibir, *guargüero*, tapia, *chacra*, zurcido, zurcir, dócil, docilidad, *andanada*, *fundillo*, pelambre, *arcada*, colérico, pómulo, mentón, *mueca*, *insinuar*, *insinuación*, enervado, enervar, represalia, ensañamiento, avidez, *solícito*, júbilo, angustia, casual, escarapela, lívido, ánimo, *chancón*, *empollón*, redil, aturdir, aturdido, *euforia*, *eufórico*, geranios, estremecer, anhelar, anhelante, fervor, polémica, *algazara*, *calado*, extenuante, **pugilato**, perpetuo, ultraje, *cataplasma*, *carcoso*, **calistenia**, *zuza*, *cogote*, ***aspaviento***, **lisura**, **implacable**, buhardilla, *abatimiento*, *abatir*, atormentar, delatar, **balbucear**, **vociferar**, vertiginoso, cómodo, **escrúpulo**, **beato**, **beatífico**, *hurgar*, raquítico, **vehemencia**, *aséptico*, *asepsia*, *séptico*, *acicalado*, *acicalar*, **resignación**, **resignar**, desenvuelto, **ademanes**, **ademán**, *absurdo*, *solemne*, sollozo, clamar, *ventrudo*, *zambo*, **esbelto**, *cholifacio*, chisporrotear, **simpático**, **locuaz**, **locuacidad**, *obstinado*, perpetuo, penumbra, **rencor**, **cínico**, **cinismo**, *impúdico*, ***procaz***, efímero, **melancólico**, fogoso, *despectivo*, **aludido**, **aludir**, **ralo**, moral, maligno, ambular, jovial, superfluo, **cauteloso**, **cautela**, **paulatino**, *sometimiento*, *someter*, **tumefacto**, **tumefacción**, estruendo, **exacerbado**, **exacerbar**, liviano, gracioso, **acezar**, *jadear*, **tísico**, lánguido, **altanero**, **altanería**, **soberbio**, **soberbia**, **altivo**, resuello, lóbrego, siniestro, **indiferencia**, **indiferente**, laxo, **modorra**, *algarabía*, **fragor**, adular, turbación, turbar, *obsecuente*, **sibilino**, **sibila**, pugna, pugnar, ***mustio***, **calato**, anacrónico, ***huachafa***, **agobiado**, **agobiante**, **agobiar**, anegado, anegar, **desdeñar**, **desdén**, gesto, **treta**, ***energúmeno***, **letargo**, **crisma**, *malea*, *malear*, ***eriácia*** (159), *escindido*, *escindir*, acequia, acequiar, **sinuoso**, **mandil**, **vermuth**, recelo, recelar, **zozobra**, **abrumado**, **abrumar**, **aliciente**, rosquetón, ***sonso***, ***tirria***, *zumbara*, *zumbar*, **macetado**, *macetar*, *fatiga*, *fatigar*, **mezquino**, *acentuar*, enderezar, lúgubre, *exasperar*, **contrito**, **contrición**, **emancipado**, **emancipar**, lacónico, ***fofo***, *inmarcesible*, *chueco*, *torcido*, **estevado**, **esteva**, malicioso, *galantería*, tortuoso, celosía, ***gallardo***, ***gallardía***, *exangüe*, *desconcertado*, *desconcertar*, *pasmo*, *pasmar*, *perplejo*, ***pascana***, posada, **jarana**, *matoneo*, *matonear*, mollera, parapeto, ***impasible***, ***impasibilidad***, deliberado, ***zape***, puchero, pesadumbre, meloso, melosería, **zalamero**, **zalamería**, **chivato**, soplón, ***cachimba***, pipa, tunda, tundir, muelle, *vozarrón*, fusilero, **engrío**, **engreír**, **engreído**, *severo*, *severidad*, tranquilo, tranquilidad, careo, carear, ***sorna***, abjstrajo, abstraer, **grandilocuente**, **grandilocuencia**, prudente, cautivante, cautivar, *flagrante*, *flagrancia*, *flagra*, beligerante, beligerancia, fumatélico, ***bulin***, ***chingana***, *yunta*, **chaveta**, ***cuete***, ***empacho***, ***empachar***, *inasible*, injurioso, injuriar, injuria, enojoso, enojo, **paroxismo**, *estentóreo*, pérfido, mordacidad, mordaz, **atolondrado**, **ascua**, absceso, ígneo, árido, *sensato*, *hastío*, *hastiar*, **incumbe**, **incumbir**, **renguear**, **renquear**, **renco**, **enclenque**, exiliado, exilio, exiliar, **ínfula**, **huraño**, asediar, exaltado, exaltar, *efusivo*, *efusividad*, ensimismado, ensimismarse, **banal**, chato, ***moscardón***, insólito, **chistar**, obsequiosidad, obsequioso, desdoblarse, desdoblar, ***disimular***, ***disimulo***, ***delación***, estratagema, ***morisqueta***, tergiversar, deplorar, despanzurrar, hendido, hendir, hender, precaución, monótono, monotonía, invadir, zambullir, catástrofe.
 
 
 
-## REFERENCIAS
+## <span id="referencias">[REFERENCIAS](#referencias)</span>
 * [http://es.wikipedia.org/wiki/La_ciudad_y_los_perros][1]{: target="_blank"}
 * [http://es.wikipedia.org/wiki/Mario_Vargas_Llosa][2]{: target="_blank"}
 * [http://www.youtube.com/watch?v=RCT79BdF-tE][3]{: target="_blank"}
@@ -804,5 +806,7 @@ cadete, hediondez, tibio, desmesurado, litera, serenidad, sereno, murmullo, bull
 [1]: http://es.wikipedia.org/wiki/La_ciudad_y_los_perros
 [2]: http://es.wikipedia.org/wiki/Mario_Vargas_Llosa
 [3]: http://www.youtube.com/watch?v=RCT79BdF-tE
+
+
 
 [LaCiudadYLosPerros]: {{ site.baseurl }}/assets/LaCiudadYLosPerros.jpg "La ciudad y los perros"
