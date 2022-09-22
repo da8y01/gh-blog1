@@ -1,10 +1,11 @@
 ---
 layout: post
 title:  "El fin de Alice - A. M. Homes"
+description:  "El fin de Alice - A. M. Homes"
 date:   2014-03-19 18:44:34
-tags: literatura literature novela novel review fin alice am homes
+image: http://da8y01.github.io/gh-blog/assets/ElFinDeAlice_front.jpg
+tags: literatura literature novela novel review fin alice am homes "El fin de Alice - A. M. Homes" "El fin de Alice" "A. M. Homes" ElFinDeAlice_AMHomes ElFinDeAlice AMHomes
 ---
-
 
 
 <div style="text-align:center" markdown="1">
@@ -13,20 +14,19 @@ tags: literatura literature novela novel review fin alice am homes
 </div>
 
 
-
-## AUTORA
+## <span id="autora">[AUTORA](#autora)</span>
 A.M. Homes tuvo como profesoras de talleres de escritura a Grace Paley y Angela Carter. Vive en Nueva York y es profesora de la Universidad de Columbia. Ha publicado el libro de relatos "The Safety of Objects" y tres novelas: "Jack", "In a Country of Mothers" y "El fin de Alice", traducidas a muchos idiomas. Ha recibido varios galardones como la New York Foundation for the Arts Fellowship, la NEA Fellowship y el premio James Michener. Entre sus mayores influencias literarias, figuran, según afirma, "Crimen y castigo" de Dostoievski, "Lolita" de Nobokov, "La campana de cristal" de Plath, "El milagro de la rosa" de Genet y "Sympathy for the Devil" de los Rolling Stones.
 
 
 
-## ARGUMENTO
+## <span id="argumento">[ARGUMENTO](#argumento)</span>
 Chappy amaba a los niños, los amaba tanto -especialmente a Alice, una enigmática niña de 12 años- y de maneras tan prohibidas, que desde hace veintitrés años está en la cárcel. Vive allí en un infierno de cuerpos maduros y homosexualidad, en una oscura jerarquía de dominación y sometimiento, hasta que un día comienza a recibir las cartas de una joven universitaria que ha vuelto a casa por vacaciones y planea seducir a un niño de doce años, fascinada ella también por la inmadurez, por la terrible y exitante inocencia de la fruta verde. ¿Y quién puede saber de esto más que Chappy?
 
 Al comienzo, el recluso y su corresponsal no muestran todas sus cartas, en un juego de fingimientos y medias verdades. Pero poco a poco, entre mentiras, trampas y trampantojos, irá surgiendo la atroz verdad del prisionero, que se presenta como un doliente Humbert Humbert, desolada y triste víctima de sus deseos, y también la verdad de su joven corresponsal y cómplice, que ya mira con los ojos perversos de un adulto el territorio de la infancia, pero está ella misma perdida en la desolación del pasaje a la madurez, en la soledad de una tierra de nadie de la sexualidad y de la vida.
 
 
 
-## RESEÑAS
+## <span id="resegnas">[RESEÑAS](#resegnas)</span>
 "La novela de A. M. Homes ha recibido los más encendidos elogios y las más enconadas críticas. Algunos críticos se han manifestado profundamente escandalizados... Pero "El fin de Alice" cumple con el papel asignado desde siempre a la mejor literatura: suscita arduas cuestiones de orden moral y nos hace pensar en lo Otro" (Margot Livesey, Times Literary Supplement).
 
 "Desde el epígrafe de Lewis Carroll, hasta el siniestro ritmo de la frase final, la autora nos conduce seducidos por un terrorífico laberinto de espejos que nos devuelven grotescas imágenes de nosotros mismos y de los protagonistas de su libro... La mejor novela que he leído este año: desgarradora, perturbadora, emocionante, todo lo que una novela debería ser" (Elizabeth Young, The Independent).
@@ -43,7 +43,7 @@ Al comienzo, el recluso y su corresponsal no muestran todas sus cartas, en un ju
 
 
 
-## SINOPSIS
+## <span id="sinopsis">[SINOPSIS](#sinopsis)</span>
 
 ### 1
 Se introducen los personajes (sin nombres); el reo de avanzada edad y la universitaria en vacaciones. El reo describe a la joven como una depredadora carnívora que va tras su presa. De cómo la joven ha observado a su presa, y de cómo sale a buscarla por el vecindario.
@@ -94,12 +94,12 @@ En la sala del comité se describe la sala y el jurado, describen su estancia en
 De la chica, después del episodio de los fármacos la envían a Europa 21 días (3 semanas). Desayuna, van a la peluquería, van al centro comercial de compras, el padre compra los boletos, se despide de Matt; pasa los días en Europa, retorna.
 
 ### 16
-Es el siguiente día, Frazier ha vuelto a su celda, no hay desayuno, Henry pasa, intercambian palabras, los guardas llegan por Chappy, lo conducen a la sala del comité para una segunda tanda, va algo dopado, retoman el repaso de los hechos en el incidente del lago y la barca; en la cabaña Chappy empaca y tiene la intención de irse cuando se lo indiquen, al cuarto día Gwendolyn va a pedirle el favor de que las transporte al aeropuerto por una complicación de la abuela (apoplejía), en el camino los pasajeros discuten un poco, en el aeropuerto Alice hace su berrinche, Alice se va en carro con Chappy a New York, se encuentran en el hospital de New York, visitan a la abuela, van al hotel, al siguiente día Chappy está afuera todo el día, en la noche regresa, conduce hacia el norte del estado, se registra en un motel, le recomiendan un restaurante, en la sala de comité se analizan las fotos, le presentan fotos para que reconozca a Alice, en el restaurante después de hacer su pedido se encuentra con que Alice está allí, que lo ha seguido en el carro como polizón, AAlice presiona/inquiere/exhorta a Chappy para que haga cosas lujuriosas con ella en la mesa del restaurante, salen del restaurante y se dirigen a la habitación del motel en medio de la tempestad; en la habitación Alice se encierra en el baño, él se preocupa, resulta que Alice está menstruando, él intenta explicarle, pero Alice no entiende y está inconsolable, acusa a Chappy, le echa la culpa, le dice que la ha cortado; en la sala le siguen presentando fotos de ella al frente, se moja en los pantalones, Alice coge su cuchillo de caza, lo esgrime hacia él, lo amenaza, Chappy intenta explicarle y consolarla inútilmente, le preguntan insistentemente si reconoce a Alice, él asiente, Alice sigue gritando y acusando, él le arrebata el cuchillo, ella se acerca, se increpan, hasta que finalmente Chappy apuñala a Alice, después él sale de la habitación en medio de la tormenta, en la mañana él sigue afuera, la mujer de la limpieza lo encuentra; en la sala, los miembros del comité deciden simplemente continuar con la lectura del documento que describe la escena, las múltiples pruebas que lo condenan, su reacción ante la detención, etc.
+Es el siguiente día, Frazier ha vuelto a su celda, no hay desayuno, Henry pasa, intercambian palabras, los guardas llegan por Chappy, lo conducen a la sala del comité para una segunda tanda, va algo dopado, retoman el repaso de los hechos en el incidente del lago y la barca; en la cabaña Chappy empaca y tiene la intención de irse cuando se lo indiquen, al cuarto día Gwendolyn va a pedirle el favor de que las transporte al aeropuerto por una complicación de la abuela (apoplejía), en el camino los pasajeros discuten un poco, en el aeropuerto Alice hace su berrinche, Alice se va en carro con Chappy a New York, se encuentran en el hospital de New York, visitan a la abuela, van al hotel, al siguiente día Chappy está afuera todo el día, en la noche regresa, conduce hacia el norte del estado, se registra en un motel, le recomiendan un restaurante, en la sala de comité se analizan las fotos, le presentan fotos para que reconozca a Alice, en el restaurante después de hacer su pedido se encuentra con que Alice está allí, que lo ha seguido en el carro como polizón, Alice presiona/inquiere/exhorta a Chappy para que haga cosas lujuriosas con ella en la mesa del restaurante, salen del restaurante y se dirigen a la habitación del motel en medio de la tempestad; en la habitación Alice se encierra en el baño, él se preocupa, resulta que Alice está menstruando, él intenta explicarle, pero Alice no entiende y está inconsolable, acusa a Chappy, le echa la culpa, le dice que la ha cortado; en la sala le siguen presentando fotos de ella al frente, se moja en los pantalones, Alice coge su cuchillo de caza, lo esgrime hacia él, lo amenaza, Chappy intenta explicarle y consolarla inútilmente, le preguntan insistentemente si reconoce a Alice, él asiente, Alice sigue gritando y acusando, él le arrebata el cuchillo, ella se acerca, se increpan, hasta que finalmente Chappy apuñala a Alice, después él sale de la habitación en medio de la tormenta, en la mañana él sigue afuera, la mujer de la limpieza lo encuentra; en la sala, los miembros del comité deciden simplemente continuar con la lectura del documento que describe la escena, las múltiples pruebas que lo condenan, su reacción ante la detención, etc.
 Al final él dice que esa es toda la historia, que ha contado todo el cuento, que haga lo que quiera con él; le permiten pasar y quedar libre, se alegra de verle, y dice que la ha extrañado y que la ha pensado constantemente.
 
 
 
-## CITAS
+## <span id="citas">[CITAS](#citas)</span>
 castigado por satisfacer sus apetitos.
 
 Entre los de mi género, lo que más me disgusta es la relucatancia a explorar, e incluso a reconocer, una atracción distinta a la propia.
@@ -264,12 +264,12 @@ No hay un mundo real para el sonido que hago, pero es amplio y fuerte y desde el
 
 
 
-## TÉRMINOS
+## <span id="terminos">[TÉRMINOS](#terminos)</span>
 ***zafio***, **exiguo**, espeluznante, ***mendicante***, carcaj, aljaba, vaho, empapuzar, abrevadero, napia, exhortar, horadar, espetar, hirsuto, adminículo, abside, *mejunje*, ágape, **zascandilear**, linóleo, *majo*, *postilla*, cutícula, **atrabiliario**, **atrabilis**, senilidad, anafiláctico, anafilaxia, **turgencia**, **turgente**, *barullo*, conmoción, gorgorito, feble, *parangón*, asperjar, *tórrido*, renquear, renco, zoisia, apoteósis, estrépito, **despotricar**, **ingente**, voluta, cofia, pícaro, fuelle, ensalmo, lascivo, lascivia, lozano, **perorata**, supino, interludio, *insulso*, cutí, cogitación, cogitar, prolijidad, prolijo, exarcerbar, soso, mamparo, liento, parloteo, parlotear, bemol, ajado, ajar, nínfula, ninfa, horma, **desparpajo**, alijo, alijar, presidir, ímpetu, transfigurar, transfigurado, escotillón, leotardo, refocilar, cavilación, cavilar, *arrebol*, resuello, ***calistenia***, *carmín*, mejorana, caústico, *pertrechos*, **tumescencia**, berrear, sibilante, catre, jocoso, gorjeo, jocundo, jarana, perdigonado, perdigón, proscenio, tramoya, aupar, prolífico, prolijo, adrede, tesela, desportillado, desportillar, portillo, encorsetar, encorsetado, corsé, borbotear, deambular, apogeo, efluvio, lacre, libido, *fragor*, pletismógrafo, ínfimo, *histerectemia*, *histerectomía*, darjeeling, parchís, parqués, *cencerro*, paladeo, paladear, beato, santino, idilio, dicción, alarde, pringue, avezado, avezar, bruces, desdeñar, desdén, flirtear, dádiva, concubina, pavonear, musitan, musitar, apear, desconsiderado, desconsideración, famélico, birlar, rezongar, horcajadas, despatarrado, despatarrar, hurgar, trivialidad, trivial, celada, quilla, escabullir, porche, farfullar, bastidor, desbarajuste, embalaje, sinuosidad, *santiamén*, cilicio, hucha, bicúspide, apoplejía, receloso, recelo, recelar, tiovivo, farra, beicon, merceditas, atavío, surgir, surge, histérico, histeria, horror, éxtasis, tono, sórdido, evidente, conducta, picor, escozor, arrebato, arrebatamiento, tranquillo, profuso, reluctancia, renuencia, vid, visillo, zafar, ***autoestop***, precoz, holgazán, simpático, bollera, desperado, desperar, alhajas, liar, petate, rijoso, empalmar, insinuar, persuasión, persuadir, lisiado, lisiar, repiqueteo, repiquetear, escindir.
 
 
 
-## REFERENCIAS
+## <span id="referencias">[REFERENCIAS](#referencias)</span>
 * [http://en.wikipedia.org/wiki/The_End_of_Alice][1]{: target="_blank"}
 * [http://es.wikipedia.org/wiki/A.M._Homes][2]{: target="_blank"}
 * [http://www.revistaarcadia.com/Imprimir.aspx?idItem=26370][3]{: target="_blank"}
@@ -279,6 +279,7 @@ No hay un mundo real para el sonido que hago, pero es amplio y fuerte y desde el
 [1]: http://en.wikipedia.org/wiki/The_End_of_Alice
 [2]: http://es.wikipedia.org/wiki/A.M._Homes
 [3]: http://www.revistaarcadia.com/Imprimir.aspx?idItem=26370
+
 
 [ElFinDeAlice_front]: {{ site.baseurl }}/assets/ElFinDeAlice_front.jpg "El fin de Alice (portada)"
 [ElFinDeAlice_back]: {{ site.baseurl }}/assets/ElFinDeAlice_back.jpg "El fin de Alice (contra-portada)"

@@ -3,7 +3,7 @@ layout: post
 title: "El club de lucha - Chuck Palahniuk"
 description: "Traducido del inglés por Pedro González del Campo"
 date: 2022-11-14 21:34:42
-image: http://da8y01.github.io/gh-blog/assets/ElClubDeLucha_ChuckPalahniuk_LinkPreview.png
+image: http://da8y01.github.io/gh-blog/assets/ElClubDeLucha_ChuckPalahniuk_portada.jpg
 tags: review literatura "El club de lucha - Chuck Palahniuk" "El club de lucha" "Chuck Palahniuk" ElClubDeLucha_ChuckPalahniuk ElClubDeLucha ChuckPalahniuk
 ---
 
