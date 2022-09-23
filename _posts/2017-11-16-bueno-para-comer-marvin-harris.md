@@ -3,7 +3,7 @@ layout: post
 title: "Bueno para comer - Marvin Harris"
 description: "Bueno para comer - Marvin Harris"
 date: 2017-11-16 21:34:42
-image: http://da8y01.github.io/gh-blog/assets/BuenoParaComer_MarvinHarris_portada.jpg
+image: https://da8y01.github.io/gh-blog/assets/BuenoParaComer_MarvinHarris_portada.jpg
 tags: review literatura antropologia antropología "Bueno para comer - Marvin Harris" "Bueno para comer" "Marvin Harris" BuenoParaComer_MarvinHarris BuenoParaComer MarvinHarris
 ---
 
