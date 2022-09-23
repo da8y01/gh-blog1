@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "Ponche de ácido lisérgico - Tom Wolfe"
-date:   2015-02-13 13:20:51
+title: "Ponche de ácido lisérgico - Tom Wolfe"
+description: "Ponche de ácido lisérgico - Tom Wolfe"
+date: 2015-02-13 13:20:51
+image: https://da8y01.github.io/gh-blog/assets/PoncheAcidoLisergico_front.jpg
 tags: literatura literature review ponche ácido lisérgico tom wolfe electric kool-aid kool aid acid test
 ---
-
 
 
 <div style="text-align:center" markdown="1">
@@ -13,8 +14,7 @@ tags: literatura literature review ponche ácido lisérgico tom wolfe electric k
 </div>
 
 
-
-## SINOPSIS
+## <span id ="sinopsis">[SINOPSIS](#sinopsis)</span>
 Estamos en los años sesenta y Ken Kesey, el autor de *Alguien voló sobre el nido del cuco*, ha reunido a su alrededor a los "bromistas", una desmadrada corte de jóvenes radicales embarcados en novísimos poyectos de vida. Recorren los Estados Unidos de costa a costa en un autobús que conduce Neal Cassady (el mítico Moriarty de *En el camino*, de Kerouac, amado por Allen Ginsberg y por algunos de los mejores espítitus de su generación), y celebran la vida, el éxtasis orgiástico, las drogas que abren las puertas de la percepción. Y tienen a las fuerzas del orden y al F.B.I. en los talones...
 
 La utilización de monólogos interiores, diálogos y múltiples puntos de vista, recursos todos ellos provenientes de la literatura de ficción, combinados con técnicas propias del periodismo, como la investigación exhaustiva, las entrevistas minuciosas, el gusto por "la exclusiva" y un ojo agudísimo para el detalle revelador, dan como resultado este espléndido *Ponche de ácido lisérgico*. Calificada por los críticos de obra maestra de la "novela de no ficción", es la mejor crónica que se ha escrito jamás sobre el épico viaje de Ken Kesey y sus compañeros, verdadero "núcleo duro" del movimiento hippie, y une al interés de una historia fascinante, contada con escrupulosa fidelidad, la seducción de una atmósfera y unos personajes reales dignos de las mejores ficciones de Updike o de Bellow.
@@ -23,135 +23,135 @@ La utilización de monólogos interiores, diálogos y múltiples puntos de vista
 
 
 
-## AUTOR
+## <span id ="autor">[AUTOR](#autor)</span>
 Tom Wolfe, nacido en Richmond (Virginia) se reveló en los años 60 como genial reportero y agudísimo cronista. Fue el impulsor y teórico del llamado "nuevo periodismo", al que definió como el género literario más vivo de la época. La casi totalidad de su obra ha sido publicada por Anagrama: *La Izquierda Exquisita, La banda de la casa de la bomba y otras crónicas de la era pop, Los años del desmadre, El nuevo periodismo, Lo que hay que tener, La palabra pintada, ¿Quién teme al Bauhaus feroz?, Las Décadas Púrpura, En nuestro tiempo, La hoguera de las vanidades y Ponche de ácido lisérgico.*
 
 
 
-## RESUMEN POR CAPÍTULOS
+## <span id ="resumen">[RESUMEN POR CAPÍTULOS](#resumen)</span>
 
-### I. RELUCIENTES ZAPATOS NEGROS FBI
+### <span id ="capi">[I. RELUCIENTES ZAPATOS NEGROS FBI](#capi)</span>
 El narrador con sus acompañantes se desplaza en una camioneta por San Francisco, rememora el momento en que se interesó por el caso Ken Kesey, un autor que ahora tenía problemas con la ley por drogas y era prófugo, habiendo huído a México, donde el autor intentó buscarlo, para finalmente tener un corto contacto de 10 minutos en la prisión del condado de San Mateo, en Redwood City, después de haber sido detenido en San Francisco; ahora Ken Kesey saldrá de prisión y sus compañeros van por él, sin embargo primero hacen una parada en un almacen donde hay una reunión. Se habla de las tendencias, las tribus, comunidades, *freakies*, los ***hip***, y de esta nueva idea de Ken Kesey de "licenciar el ácido".
 
 
-### II. EL TÓTEM DE LA VEJIGA
+### <span id ="capii">[II. EL TÓTEM DE LA VEJIGA](#capii)</span>
 El narrador y sus acompañantes siguen un par de días más en el garaje donde acontece la reunión con los jóvenes bandera y otros personajes, algunos llegan y hablan y así pasa el tiempo; el tótem de la vejiga es una lata de aceite Shell vacía que contiene las llaves del baño de la estación de gasolina de la esquina, ya que en ese garaje no hay servicios; al final llega Kesey. De las metáforas de la vida por cualquier cosa insulsa, de trascender las memeces, y de los "Ángeles del Infierno".
 
 
-### III. EL TRAJE ELÉCTRICO
+### <span id ="capiii">[III. EL TRAJE ELÉCTRICO](#capiii)</span>
 Ken Kesey llega al garaje, inesperadamente no hay sobreexaltación sino calma, se acomoda y saluda a su familia y amigos, y empieza a hablar y responder algunas cosas; de su diente postizo en una placa dental, habla un poco de la cárcel y la jerga numérica que manejan, entonces llegan dos periodistas de *The Oracle* que parecen preocupados con la situación actual de Haight-Ashbury y la nueva controvertida postura de Ken de licenciar el ácido; habla de la epifanía que tuvo como si tuviera un traje eléctrico en medio de una tormenta en México, de ir más allá y la fé/falta de fé, y al final el narrador describe el grupo en el que está escuchando a Ken Kesey.
 
 
-### IV. ¿QUÉ LE PARECE MI BUDA?
+### <span id ="capiv">[IV. ¿QUÉ LE PARECE MI BUDA?](#capiv)</span>
 Se cuenta la historia de Ken Kesey en Perry Lane, el barrio bohemio de Stanford, su descripción y características: un grupo de casitas de madera situado en un bosque de robles, habitado por personas intelectuales e ilustres, cuyos habitantes sólo eran conocidos y recomendados personales, con sentido de comunidad. Se habla de la historia y pasado de Ken Kesey, de sus padres e infancia, de su licenciatura en la Universidad de Oregón, de la generación de posguerra muy norteamericana que representaba, de que los mitos de estos supermuchachos no eran figuras de la grecia antigua sino superhéroes de los comics. Del licenciado en psicología Vic Lovell, que para Ken Kesey era la persona más interesante de Perry Lane, quien lo introdujo en la psicología y psicoanálisis freudiano, lo que desembocaría en Ken Kesey prestandose como voluntario en los experimentos psiquiátricos con drogas en el Veterans Hospital de Menlo Park donde los médicos y científicos Batas Blancas no saben, ni entienden, ni experimentan las drogas ni sus efectos, sólo tomando datos someros, lo que se ve reflejado cuando Vic Lovell en una ocasión pregunta al Bata Blanca "¿qué le parece mi Buda?" que había dibujado; se habla de su novela *Alguien voló sobre el nido del cuco* que está basada en estas experiencias del psiquiátrico de Menlo Park, y de otras obras, trabajos y etapas de esta época de su vida. Después Ken Kesey sigue consumiendo y experimentando con drogas y las lleva a Perry Lane, donde la comunidad también experimenta y muestra empatía con esta tendencia. Al final un promotor inmobiliario compra los terrenos de Perry Lane para demoler las viejas casitas y construir casas modernas, y los periódicos y la sociedad en vez de encontrarse con el esperado cliché de "el Fin de una Época", y la oposición intelectual con acerbas y diatribas a una civilización de máquinas devoradoras típica, se encuentran con una comunidad que sin declaraciones destruyen e incendian un piano, "la cosa viva más vieja de Perry Lane", como un acto simbólico.
 
 
-### V. POLVO DE NEÓN
+### <span id ="capv">[V. POLVO DE NEÓN](#capv)</span>
 Ken Kesey está instalado en La Honda, en el Salvaje Oeste, en medio de bosque y secuoyas, en una cabaña, sin vecinos cerca, con un camino que termina en una colina calva con follaje alto que produce que la luz caiga como un lienzo puntillista de luces y sombras, como un *polvo de neón* puntillista que Sandy aprecia estando en LSD. Allí se empiezan a congregar personajes, de Perry Lane y otros, tratan de extrapolar, extraer y captar las experiencias en LSD y otras sustancias, de diferentes maneras: con grabaciones, hablando, con música, escribiendo, dibujando; Kesey se va conviertiendo en el líder y guía para los viajes; al final llaman a un compañero a La Honda para emprender un viaje al Este.
 
 
-### VI. EL AUTOBÚS
+### <span id ="capvi">[VI. EL AUTOBÚS](#capvi)</span>
 Del autobús escolar, cómo lo adquieren, cómo lo engallan, cómo lo acondicionan con el sonido, micrófonos, cámaras y demás, principalmente instalado por Sandy, cómo lo pintan y adornan, cómo hacen un par de salidas de prueba en California, al norte y demás, de las reacciones que causaban en la gente (el autobús, sus ocupantes, y demás), de la consternación, perplejidad, animadversión, confusión, rabia, simpatía, sobresalto, agravio, regocijo causada, del primer encuentro con un policía de tráfico en el bosque con un inicio de incendio, de cómo Cassady colocado en *speed* habla y monologuea sin parar al policía, de la atmósfera que habría de predominar el resto del viaje; de la parada y diálogo en San Juan de Capistrano antes de realmente partir rumbo al este, de la primera toma de ácido del viaje en Wikieup en el desierto de Arizona, de la llegada a Phoenix, de los personajes de la Gran Película, los apodos y los cuadernos; de cómo continúa el viaje y algunas paradas y lo que ellos y la demás gente tienen que lidiar, de los extraños comportamientos de la chica vampiresa Como-vino-al-mundo, del arrivo a Houston, y de cómo la chica vampiresa Como-vino-al-mundo se vuelve completamente loca.
 
 
-### VII. ÁCIDO NO AUTORIZADO
+### <span id ="capvii">[VII. ÁCIDO NO AUTORIZADO](#capvii)</span>
 El viaje continúa en el autobús a través de Norteamerica, desde Houston parten al Profundo Sur hasta llegar a Florida, el calor es descomunal, agobiante, tremendo. En Nueva Orleans del lago "segregado" Pontchartrain y el encuentro y casi altercado con los negros. A Sandy algo lo incomoda, no está plenamente conforme, a veces tiene una sensación como si no hubiera tenido un viaje lo bastante alto en todo el trayecto, uno maravilloso, y toma una dosis adicional del zumo de naranja, un ácido no autorizado; tiene un mal viaje en la parada de la casa de Dale, el primo de Kesey, al final le pasa, lo supera, y termina con un buen viaje, como en los mejores momentos del mundo de los Bromistas.
 
 
-### VIII. TOCANDO A LAS MULTITUDES
+### <span id ="capviii">[VIII. TOCANDO A LAS MULTITUDES](#capviii)</span>
 En Georgia por algunas cosas que se les ocurrieron a algunos de los Bromistas se ganaron premios al Viaje Más Horrible; Kesey convoca reunión y habla acerca de ser Bromistas pero al mismo tiempo competentes; del excelente desempeño del conductor Cassady. Llegan a Nueva York y tocan (con flauta) las expresiones e impresiones de la gente; de la fiesta con los amigos de *En el camino* en el apartamento que les había conseguido uno de los miembros de Perry Lane; la novela *A veces un gran impulso* ve la luz y las críticas oscilan, Kesey no presta mayor importancia, como sí la tiene el autobús.
 
 
-### IX. VIAJE A LA CRIPTA
+### <span id ="capix">[IX. VIAJE A LA CRIPTA](#capix)</span>
 Los Bromistas en el autobús acuden con una grandiosa expectativa al encuentro con la Liga para el Descubrimiento Espiritual, grupo de Timothy Leary en Millbrook, Nueva York, sin embargo resulta desilusionante al encontrarse con "un puñado de gente con un tenso estreñimiento". En la visita recorren el Bungalow, "la Mansión Ancestral de los Bromistas", y el "Viaje a la Cripta" ("centros de meditación"); los Bromistas realizan unas cuantas intentonas de animar las cosas en Millbrook sin resultado.
 
 
-### X. GUERRAS SOÑADAS
+### <span id ="capx">[X. GUERRAS SOÑADAS](#capx)</span>
 Emprenden el viaje de vuelta al Oeste por la ruta del norte; sin embargo un Gran Gurú de Millbrook había llevado aparte a Sandy y a Jane invitándolos a tener el viaje solos, queriendo decir sin el resto de sus revoltosos compañeros, de manera que se administran DMT, teniendo Sandy la experiencia de *fragmentos*, la sensación demente de que el mundo se había roto en multitud de fragmentos, junto con la impresión del Gran Gurú como un tipo libidinoso; de modo que en el viaje de regreso Sandy tiene visiones y reminiscencias de la experiencia con el DMT de Millbrook, llegan de nuevo a la cabaña de Kesey en La Honda y Sandy empieza a manifestar una paranoia crónica, nerviosismo y frenesí, tiene un pequeño altercado con Kesey que se sobrepasa inmediatamente, hablan, Kesey idea el juego del "Poder", al darse cuenta que Sandy está sufriendo de algo serio los Bromistas intentan atenderlo, dispensarlo, pero Sandy no mejora, empeora, empieza a hacer cosas extrañas; Kesey anuncia la salida al Instituto Esalen, un retiro balneario con aguas termales, acantilados, praderas, vista y paisajes en el Big Sur, a experimentar el Viaje del Ahora, pero aunque le prestan atención a Sandy, se preocupan por él, tratan de ayudarlo para que vuelva a ser él mismo, preparan actividades especiales pensando en él, Sandy no se recupera, su paranoia continúa, cree que le van a gastar una Monstruosa Broma, y también cree que tiene *Poder*, y en uno de sus sueños sueña con guerra entre su poder y el de Kesey, hasta que en una de estas actividades explota, huye corriendo por la autopista hasta las casas, diciendo que va a tirarse del acantilado, hasta que la policía lo atrapa reteniéndolo en una celda hasta que su hermano Chris llega de Nueva York para hacerse cargo de él, Kesey y Chris se topan en la cárcel, Chris se lleva a su hermano Sandy a Nueva York para someterlo a tratamiento.
 
 
-### XI. LO NO EXPRESADO
+### <span id ="capxi">[XI. LO NO EXPRESADO](#capxi)</span>
 Habiendo retornado a la casa de Kesey en La Honda, viven un tiempo allá. Toman la fantasía de lo No Expresado, del Ahora, del sincronismo, de la experiencia, se habla del instante supremo, del *kairós*. Se hacen comparaciones y se extiende un poco de teoría, filosofia, teología, religión, autores. De la *Gente Guapa*, hacen cosas como pintar con pintura Day-Glo fluorescente cosas como la casa, los árboles, los troncos, las hojas; tienen visitas, gente de todo tipo viene y va, trabajando en La Película se dan cuenta desilusoriamente que el material está difícil de trabajar, de la economía de *Viajes Intrépidos*, de la olla de dinero a la puerta de la casa, de la pequeña y curiosa biblioteca, del *I Ching*, del *Viaje a Oriente* de Hermann Hesse. Con la idea de Babs, reminisciendo a Vietnam, se crean los "consejos" los viernes en la noche, de la película de cada uno (Cassady, Montañesa, el Eremita, Page, Kesey...).
 
 
-### XII. LA REDADA
+### <span id ="capxii">[XII. LA REDADA](#capxii)</span>
 Se enumeran algunas cosas/hechos por los cuales ponen vigilancia a los Bromistas, enfrentan la redada, y juegan el juego de polis en su mejor juego, lo que en consecuencia genera publicidad que resultó benéfica para ellos. Llega el escritor/periodista Norman Hartweg y de cómo va cayendo en el juego de quedarse quieto hasta recibir burlas de los Bromistas, y después llega Paul Foster, tartamudo informático con doble vida, y con la llegada de Foster, Norman vuelve a reincorporarse un poco; al final se mencionan las *terapias de grupo*.
 
 
-### XIII. LOS ÁNGELES DEL INFIERNO
+### <span id ="capxiii">[XIII. LOS ÁNGELES DEL INFIERNO](#capxiii)</span>
 Se habla un poco de la relación Kesey-Montañesa; Kesey conoce a los Ángeles del Infierno a través de Hunter Thompson, hay empatía entre ellos. De la bacanal en La Honda con los Ángeles del Infierno, se forja una alianza impía entre los Bromistas y los Ángeles, de la prueba del fuego con los Ángeles superada por Kesey.
 
 
-### XIV. UN MILAGRO EN SIETE DÍAS
+### <span id ="capxiv">[XIV. UN MILAGRO EN SIETE DÍAS](#capxiv)</span>
 De los Jóvenes Turcos, la Iglesia Unitaria Californiana, las conferencias, del milagro en los siete días de conferencias, de los Camisa Deportiva, del Control, de la visión de Kesey como profeta, de la experimentación con LSD y DMT, de la práctica de la Radio Humanoide, de la *Alucilusión*, del Control.
 
 
-### XV. NUBE
+### <span id ="capxv">[XV. NUBE](#capxv)</span>
 Los Alegres Bromistas dan la bienvenida a los Beatles; mientras Kesey parlotea, Montañesa piensa en que está encinta; los Bromistas se disponen para asistir al concierto de los Beatles en el Cow Palace, llegan al concierto, de la desbandada y multitud, del Cáncer en ese concierto, cuando vuelven a La Honda hay una multitud congregada, Owsley se presenta, discute y "gana" hablando sobre drogas con el Químico Loco, se menciona un poco de la historia de Owsley y su producto, y al final se menciona *La Película* de los Beatles, imitando el viaje por Norteamérica de Kesey y los Bromistas.
 
 
-### XVI. LA BANDA PETRIFICADA
+### <span id ="capxvi">[XVI. LA BANDA PETRIFICADA](#capxvi)</span>
 La organización conocida como el Comité del Día de Vietnam invita a Kesey a hablar en una gran concentración antibélica que se organiza en Berkeley, en el campus de la Universidad de California, la fantasía de Kesey para la ocasión era irrumpir en la gran concentración antibélica remedando una invasión militar en toda regla, así que se ponen manos a la obra en preparar esta intervención, pintando el bus y otros coches, preparando su vestuario, adecuando audio y video, etc., se da la ocasión de que Barriga, que está en una especie de período de transición entre los Ángeles y los Bromistas, saque a la luz su vena artística, pero, el arte, amigo mío, no es eterno, y cuando emprenden camino hacia Berkeley sufren retrasos por paradas de la policía, no se logran encontrar con los Ángeles del Infierno en Palo Alto, y llegan tarde a la concentración, entonces las cosas se retrasan y se descoordinan un poco; en la concentración llegan, se ponen a jugar con la indumentaria preparada, y transmitir por los sistemas magnetofónicos, y al fin Kesey se acera a la tribuna de oradores, Paul Krassner, director de la revista The Realist, lo nota, hablan un poco, se experimenta esa sensación de compenetración en la conversación, Kesey sube a tarima, dice que esta concentración/marcha no servirá para parar la guerra en Vietnam, toca la canción *Hogar, hogar de las montañas* acompañado con la armónica, dice que sólo hay una cosa que puede servir de algo: *que todos la miremos de frente, que miremos de frente a la guerra, nos demos la vuelta, le demos la espalda y digamos: ¡que le den por el culo!*, y después la marcha se deshace frente a la falange en formación de flecha de la policía y la Guardia Nacional, se hace alusión a Martin Luther King, finalmente cuando la marcha dio media vuelta y los manifestantes se quedaron deambulando por el Civic Center Park de Berkeley alguien empieza a lanzar gas lacrimógeno desde un tejado y se aprecia como la *jug band* posterior Country Joe and the Fish queda petrificada.
 
 
-### XVII. PARTIDAS
+### <span id ="capxvii">[XVII. PARTIDAS](#capxvii)</span>
 En el tablón de anuncios de su casa de troncos Kesey hace alusión a enfocarse en México, y partidas como la de Montañesa, que está encinta, y la de Sandy, que requiere tratamientos clínicos.
 
 
-### XVIII. BRUJERÍA TASMANA DE COSMO
+### <span id ="capxviii">[XVIII. BRUJERÍA TASMANA DE COSMO](#capxviii)</span>
 Se narran las ideas y ejecuciones de las tres Pruebas del Ácido: en la casa de Babs, Spread, algo reservada muy al estilo de las fiestas en la cabaña de Kesey en las montañas de La Honda, después de una presentación de Rolling Stones en San José, California, en el local/viejo caserón de Big Nig, y en la marisma playa de Muir Beach habiendo abortado Stinson Beach, California; al final Kesey le dice a Owsley que se largue, él lo hace, se reestructura, se estrella en el coche, renace, sobrevive.
 
 
-### XIX. EL FESTIVAL DE LOS VIAJES
+### <span id ="capxix">[XIX. EL FESTIVAL DE LOS VIAJES](#capxix)</span>
 Las Pruebas de Ácido continúan, y originan el Festival de los Viajes donde supuestamente se emula una experiencia de LSD sin LSD; del avance de los problemas legales de Ken Kesey, del grave segundo delito por posesión de marihuana, de las advertencias de sus abogados de mantenerse al márgen (del Festival de los Viajes, de los Bromistas, etc.), de la ignoración de estas "amenazas", del rumbo a la vieja Ciudad Límite; la situación legal se complica y Kesey retoma la idea de irse a México, lo planean con la distracción de la broma de el Viaje del Suicidio.
 
 
-### XX. LA PRUEBA DEL PONCHE DE ÁCIDO LISÉRGICO
+### <span id ="capxx">[XX. LA PRUEBA DEL PONCHE DE ÁCIDO LISÉRGICO](#capxx)</span>
 Una vez Kesey huído a México Babbs se convierte en el "líder/no-capitán", pero las cosas no son iguales, y la fractura/escisión/división crece; del caso de Pancho Almohada, del traslado a Los Ángeles, de las Pruebas exitosas, de la experiencia y narración de la periodista Clair Brush, de la Prueba de Watts/¿A quién le importa?, de las entrevistas y fotos para la revista *Life*, del cartel "IN MEMORIAM" de Paul Foster aludiendo al prófugo Ken Kesey.
 
 
-### XXI. EL FUGITIVO
+### <span id ="capxxi">[XXI. EL FUGITIVO](#capxxi)</span>
 Se describe la huída de Kesey a México, el viaje, trayecto, acompañantes, de su vida/rutina/estancia en México, de la paranoia, de las huídas/escapadas selva adentro, de conocidos y nuevos integrantes que encuentran como Black Maria, del código de señales urdido, de cómo ya ha sido localizado en México, de la cabaña de escape en la selva.
 
 
-### XXII. ¡DIABLO!
+### <span id ="capxxii">[XXII. ¡DIABLO!](#capxxii)</span>
 Montañesa muy encinta comparece en los tribunales, por sumatoria de factores Babbs toma la decisión de llevar el autobús a México, fluyen hacia la cita en la playa de Mazatlán, se encuentran.
 
 
-### XXIII. LA MAREA ROJA
+### <span id ="capxxiii">[XXIII. LA MAREA ROJA](#capxxiii)</span>
 Pasan los días en México, se describe la Marea Roja, Cassady acude; de superhéroes, superhombres, übermenschen y Nietzsche, del Eterno Retorno, de la escena del traje eléctrico, de la línea del futuro.
 
 
-### XXIV. LA DETENCIÓN MEXICANA
+### <span id ="capxxiv">[XXIV. LA DETENCIÓN MEXICANA](#capxxiv)</span>
 De la detención en la carretera a Guadalajara, del escape de Kesey en un tren, del retorno a Manzanillo, de Hagen y Ram Rod en la cárcel, de las visitas, del anexo tropical La Honda en el Trópico de Cáncer, la imposibilidad de mantener en secreto la película del Fugitivo, de Black Maria y su posición en "*La jerarquía de los Bromistas*".
 
 
-### XXV. EL AGENTE SECRETO NÚMERO UNO
+### <span id ="capxxv">[XXV. EL AGENTE SECRETO NÚMERO UNO](#capxxv)</span>
 Conocen al mexicano bien vestido que tomaba fotos y buscaba a un ruso que se identifica como el Agente Secreto Número Uno, Kesey lo invita a la fiesta de despedida, el agente no aparece, los Bromistas siguen recorriendo México y haciendo Pruebas, de los termales, del engaño de Sandy para quedarse con el Ampex; Kesey planea su retorno a San Francisco, EEUU, del melodrama del cantarín Jimmy Anglund para cruzar la frontera por Brownsville, Texas, la parte más este, lo logra y ahora continua haciendo autoestop.
 
 
-### XXVI. EL JUEGO DE POLICÍAS Y LADRONES
+### <span id ="capxxvi">[XXVI. EL JUEGO DE POLICÍAS Y LADRONES](#capxxvi)</span>
 Habiendo cruzado a EEUU, Jimmy el Cantarín logra tomar un vuelo a San Francisco donde lo recogen Bromistas que burlando la ley otorgan refugio en Palo Alto; Kesey sigue participando de reuniones, fiestas y festivales de los viajes, pero con la fantasía de Mandrake, de hacer apariciones, dar declaraciones a la prensa y desaparecer, de la cumbre *underground* entre Kesey y Owsley, de la nueva moda/cultura/contra-cultura establecida en Haight-Ashbury, la captura final de Kesey en la autopista Bayshore hacia Palo Alto después de la emisión de una entrevista pregrabada para la KGO.
 
 
-### XXVII. LA LICENCIATURA
+### <span id ="capxxvii">[XXVII. LA LICENCIATURA](#capxxvii)</span>
 Kesey comparece ante el juzgado, recibe libertad bajo fianza, antes de obtenerla conoce al autor, un jovencito con uñas mágicas de LSD; Kesey sale en las pantallas de TV de San Francisco, la licenciatura de Winterland, a último momento la licenciatura de Winterland se cae, ejecutan esa licenciatura del día de Halloween en el Almacén de Harriet Street, de la lista de invitados a contactar, de la presencia de Artistas Anónimos de Norteamérica, la fiesta, la noche, el desmadre avanzan, la entrega de los diplomas de la licenciatura, de otras pruebas posteriores celebradas en ese almacén por la Compañía Calíope, aunque con otro estilo no tan Bromista, de otras presentaciones y encuentros como con el trio de jazz Las Nuevas Dimensiones, termina la escena en el Almacén de Harriet Street, Kesey y Babbs parloteando.
 
 
-### EPÍLOGO
+### <span id ="epilogo">[EPÍLOGO](#epilogo)</span>
 Se desenlaza la situación legal de Kesey, de sus condenas/penas, los Bromistas se dispersan, Neal Cassady aparece muerto al lado de una vía férrea en San Miguel de Allende, México, después algunos Bromistas empiezan a visitar la Casa de la Estufa Especial.
 
 
-### NOTA DEL AUTOR
+### <span id ="notaautor">[NOTA DEL AUTOR](#notaautor)</span>
 Se comenta el estilo/intención del libro, se hacen reconocimientos.
 
 
-### A modo de epílogo a esta edición española
+### <span id ="epilogoesp">[A modo de epílogo a esta edición española](#epilogoesp)</span>
 Se comenta que se agregan a esta edición: prólogos de Hunter S. Thompson y Jerry García, y &laquo;Adios a Neal Cassady&raquo;.
 
 
 
-## CITAS
+## <span id ="citas">[CITAS](#citas)</span>
 (quién diablos serán esos memos de beatniks)
 
 ... y yo dudo seriamente, Cool Breeze, que hoy haya un solo polizonte en San Francisco que no sepa que este vehículo enloquecido es una patrulla guerrillera del terrorífico LSD.
@@ -792,12 +792,12 @@ Neal era muy parecido a aquel personaje interpretado por Marlon Brando en *El sa
 
 
 
-## TÉRMINOS
+## <span id ="terminos">[TÉRMINOS](#terminos)</span>
 **abalorio**, ***dandy***, **impasible**, sórdido, trifulca, parafernalia, apogeo, juerga, mundano, **camelo**, roséola, memeces, memez, memo, raído, apostillar, ademán, ante, beatífico, compungido, compungir, bofia, **chirona**, colijo, colegir, palestra, perorar, perorata, inefable, sortilegio, gorjeo, aséptico, inmaculado, beduino, sarraceno, cotarro, caterva, inquina, **broza**, **barrunto**, impetuoso, **esquirol**, misántropo, dislate, acerbo, secuoyas, galimatías, ***avant-garde***, audaz, *intersubjetividad*, ***hip***, maníaco, mofletudos, moflete, **solaz**, alienado, alienar, escolástico, escolasticismo, burocrático, burocracia, espléndido, intrépido, porfiar, ulular, insensato, insensatez, sensato, sensatez, suscitar, consternación, perplejo, perplejidad, animadversión, aturdir, mustio, hatajo, salmodia, melancólico, melancolia, mandolina, fragor, parlotear, anegar, febril, soslayo, atónito, enfurruñado, enfurruñar, capitular, mascullar, aréolas, eclosión, traste, carcamal, trémulo, babuino, mentecato, lelo, majadero, **crisol**, **acrimonia**, famélico, *avieso*, peristáltico, amaina, amainar, anega, anegar, tunante, exasperar, condolencia, frenético, *escorzo*, ***satori***, esquirol, ufana, ufanar, indulgencia, adusto, escorar, pretencioso, impasible, pulcro, ápice, escaramuza, calistenia, aforismo, **espiroqueta**, ***ascética***, ***asceta***, ***ascesis***, bledo, arcén, sibilante, quinina, farfullar, **soma** (pág. 38), bohemio, afrenta, **impelido**, **impeler**, espiga, *lespedeza*, libidinoso, libido, **añublo**, abstraído, abstraer, urdiendo, urdir, alegórico, alegoría, ascético, ardid, torvo, **escaquear**, **escaque**, aunado, aunar, prosaico, adepto, ***falúa***, *arquetípico*, *arquetipo*, *enchironado*, *enchironar*, *inficionado*, *inficionar*, **bártulos**, *inocuo*, **proscrito**, **egregio**, **fruición**, *perorata*, **zumbón**, **farruco**, *insolente, insolencia*, regodeo, regodearse, impío, *embelesado*, *embelesar*, fulgor, cisma, *galvanizar*, **frufrú**, mórbido, ocre, *redil*, refunfuñar, debacle, *conspicuo*, *algarada*, liturgia, *dimanaba*, *dimanar*, recoleto, derviche, orlar, vulgaridad, vulgar, puerilidad, **epítasis**, *anglosajón*, **garito**, *sarape*, sarta, turgente, jaleo, escindir, quiasma, crisma, falacia, *abjuración, abjurar*, proscrito, *monserga*, insulso, *anacorético, anacoreta*, **contumaz**, **petimetre**, *apacible*, *argucia*, arrabal, *irredento*, *sangha*, guarache, cutre, *gredoso, greda*, postilla, homúnculo, resuello, soberbio, importunar, escayolar, exiguo, taciturno, hosco, bellaco, pamema, *desidia*, *ampulosidad, ampuloso*, enardecido, enardecer, *galvanizado, galvanizar*, síncopa, **cogorza**, autoestop, orlón, **azuzar**, **glosolalia**, *eclecticismo*, tísico, tisis, húsar, alamar, **vituperio**, **ablación**, endilgar, pueril, circunloquio, granuja, perfidia, *quid*, *escaqueo*, **brete**, *admonición*, **mirífico**, acerbo, fútil, ***barruntar***, mollera, cotilleo, ***prurito***, fandango, légamo, forúnculo, panóptico, *baldón*, melifluo, *dispersión*, *enjundia*, *albur*.
 
 
 
-## REFERENCIAS
+## <span id ="referencias">[REFERENCIAS](#referencias)</span>
 * [https://en.wikipedia.org/wiki/Tom_Wolfe][1]{: target="_blank"}
 * [https://en.wikipedia.org/wiki/The_Electric_Kool-Aid_Acid_Test][2]{: target="_blank"}
 * [http://www.tomwolfe.com/][3]{: target="_blank"}
@@ -807,6 +807,7 @@ Neal era muy parecido a aquel personaje interpretado por Marlon Brando en *El sa
 [1]: https://en.wikipedia.org/wiki/Tom_Wolfe
 [2]: https://en.wikipedia.org/wiki/The_Electric_Kool-Aid_Acid_Test
 [3]: http://www.tomwolfe.com/
+
 
 [PoncheAcidoLisergico_front]: {{ site.baseurl }}/assets/PoncheAcidoLisergico_front.jpg "Ponche de ácido lisérgico (portada)"
 [PoncheAcidoLisergico_back]: {{ site.baseurl }}/assets/PoncheAcidoLisergico_back.jpg "Ponche de ácido lisérgico (contra-portada)"
