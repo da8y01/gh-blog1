@@ -90,6 +90,7 @@ That's all, from that it is just matter of type the right IRC server commands, t
 ## References
 * [https://www.irccloud.com/][1]{: target="_blank"}
 * [https://play.google.com/store/apps/details?id=com.irccloud.android][5]{: target="_blank"}
+* [https://blog.irccloud.com/bouncer/][6]{: target="_blank"}
 * [https://wiki.znc.in/ZNC][2]{: target="_blank"}
 * [https://en.wikipedia.org/wiki/Internet_Relay_Chat][4]{: target="_blank"}
 
@@ -100,6 +101,7 @@ That's all, from that it is just matter of type the right IRC server commands, t
 [3]: https://www.irccloud.com/?/addNetwork
 [4]: https://en.wikipedia.org/wiki/Internet_Relay_Chat
 [5]: https://play.google.com/store/apps/details?id=com.irccloud.android
+[6]: https://blog.irccloud.com/bouncer/
 
 [IRCloudZNC_LinkPreview]: {{ site.baseurl }}/assets/IRCloudZNC_LinkPreview.jpg "IRCloudZNC Link Preview"
 [IRCloudZNC_JoinNetwork]: {{ site.baseurl }}/assets/IRCloudZNC_JoinNetwork.png "IRCloudZNC Join Network"
