@@ -1,16 +1,20 @@
 ---
 layout: post
-title: "Un meme (versión Web)"
-date: 2022-10-10 16:48:42
+permalink: /un-meme-version-web.html
+date: 2022-09-10 16:48:42
 tags: meme web MemeVersionWeb MemeWebVersion "Meme Versión Web" "Meme Web Version"
+title: "Un meme (versión Web)"
+image: https://da8y01.github.io/gh-blog/assets/MemeGatoAprende_WebNoEffects.png
+description: "Un meme (versión Web)"
 ---
+
 
 Se presentan tres (3) versiones de un meme, o la evolución de un meme en tres (3) fases hasta un estado satisfactorio (en cuanto a resultado y proceso).
 
 En este caso resultó más conveniente una versión Web, al menos para satisfacer las expectativas pretendidas, en cuando a resultado final, y lo que implica el proceso.
 
 
-## I. Meme Generator
+## [I. Meme Generator](https://letmegooglethat.com/?q=meme+generator+online){: target="_blank"}
 En internet hay miles de sitios con funcionalidades o servicios para "generar memes".
 
 Hay de diferente tipo y/o con diferentes opciones, con imágenes famosas predefinidas o personalizadas, con textos y estilos predefinidos o con algunas personalizaciones.
@@ -21,7 +25,8 @@ Esta versión que se muestra fue generada en un sitio de los mencionados, subien
 ![MemeGatoAprende_Generators][MemeGatoAprende_Generators]{: width="80%"}
 </div>
 
-## II. Editores de imagen y texto
+
+## [II. Editores de imagen y texto](https://letmegooglethat.com/?q=free+image+editor){: target="_blank"}
 Hay miles de programas/software tanto en internet/on-line como instalables, de escritorio o móviles que pueden ser usados como editores de imagen y texto.
 
 Esta versión del meme fue realizada con uno de esos editores, que dió resultados más cercanos a las expectativas, en cuanto a colores, estilos y posicionamiento de los textos y fuentes tipográficas usadas; esto con el enfoque de capturar la inspiración, trasmitir la idea/impresión/información deseada o necesaria, y ser coherente con el conexto del meme en sí.
@@ -61,7 +66,6 @@ Se usan tres (3) fuentes tipográficas, cada una configurada de diferente manera
 </div>
 
 
-
 ## REFERENCIAS
 * [https://fonts.google.com/][1]{: target="_blank"}
 * [https://developers.google.com/fonts/docs/getting_started][2]{: target="_blank"}
@@ -84,8 +88,6 @@ Se usan tres (3) fuentes tipográficas, cada una configurada de diferente manera
 [7]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link
 [8]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/head
 [9]: https://developer.mozilla.org/en-US/docs/Web/CSS/@import
-
-
 
 [MemeGatoAprende_Generators]: {{ site.baseurl }}/assets/MemeGatoAprende_Generators.jpg "Meme Gato Aprende, Generators"
 [MemeGatoAprende_Editors]: {{ site.baseurl }}/assets/MemeGatoAprende_Editors.jpg "Meme Gato Aprende, Editors"

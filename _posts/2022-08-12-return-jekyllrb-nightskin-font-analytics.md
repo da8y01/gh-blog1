@@ -1,12 +1,15 @@
 ---
 layout: post
-title: "Return to JekyllRb, night skin, font and analytics"
-date: 2022-08-11 12:34:42
+permalink: /return-jekyllrb-nightskin-font-analytics.html
+date: 2022-08-12 12:34:42
 tags: JekyllRb jekyll skin night NightSkin font analytics blog
+title: "Return to JekyllRb, night skin, font and analytics"
+image: https://da8y01.github.io/gh-blog/assets/JekyllrbBlog_NewFont.png
+description: "Return to JekyllRb, night skin, font and analytics"
 ---
 
 
-El restablecimiento de la configuración original de sitio estático generado tipo blog con [https://jekyllrb.com/][1]{: target="_blank"} debe hacerse y probarse desde sistema operativo Linux (o Mac) para poder correr e instalar aceptablemente los comandos y paquetes de software necesarios.
+El restablecimiento de la configuración original de sitio estático generado tipo blog con [https://jekyllrb.com/][1]{: target="_blank"} debe hacerse y probarse desde sistema operativo Linux (ó Mac, ó WSL) para poder correr e instalar aceptablemente los comandos y paquetes de software necesarios.
 * Restaurar archivos y configuración relevante (.gitignore, Gemfile, index).
 * Actualizar archivos relevantes de layouts, includes y skins. [https://github.com/jekyll/minima][2]{: target="_blank"}
 * Ensayar un nuevo skin (modificando el archivo config):
