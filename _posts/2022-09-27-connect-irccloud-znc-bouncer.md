@@ -48,6 +48,10 @@ When connecting, the web client of IRCCloud would/will throw a message telling "
 
 For now (unless the process is automated in some way, or some "script" technique is used), one must manually type the correct command in the IRCCloud (web/mobile) client interface to be able to establish the connection between the IRCCloud (web/mobile) client and the IRC (ZNC) bouncer.
 
+As seen in the preceeding image, the command is of the form:
+
+`/quote PASS <username>:<password>, or /quote PASS <username>/<network>:<password>`
+
 After entering the command, if everything that is needed/necessary works right/well, the IRCCloud (web/mobile) client must be connected to the more permanent/stable IRC (ZNC) bouncer server/connection/service.
 
 <div style="text-align:center" markdown="1">
@@ -69,6 +73,10 @@ When the mobile app throws the "Password required" popup/modal/message, the anal
 <div style="text-align:center" markdown="1">
 ![IRCloudZNC_MobilePasswordRequired][IRCloudZNC_MobilePasswordRequired]{: width="40%"}
 </div>
+
+Again, just like for the Web application client, the command is of the form:
+
+`/quote PASS <username>:<password>, or /quote PASS <username>/<network>:<password>`
 
 If everything what is needed/necessary is fine, the mobile app client must be connected to the IRC network that was pre-configured in the (ZNC) bouncer service/server.
 
