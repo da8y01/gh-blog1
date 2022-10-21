@@ -402,7 +402,13 @@ Se habla de construir un sistema formal más poderoso, multifuración, incomplet
 
 Lo fascinante de tales sistemas es que ellos mismos cavan sus agujeros; su propia riqueza es lo que genera su destrucción. Pareciera que en los sistemas formales hay un punto crítico semejante: por debajo del mismo, un sistema es "inofensivo" y ni siquiera se propone definir formalmente la verdad aritmética, pero más allá del punto crítico, el sistema adquiere súbitamente el atributo de la autorreferencia, y como consecuencia de ello se condena a sí mismo a la incompletitud. Una vez obtenido aquel atributo de la autorreferencia, el sistema presenta un agujero que él mismo se ha practicado; el agujero toma nota de los rasgos que caracterizan al sistema y los utiliza contra este último.
 
-**... quienes se han servido de ella como munición en su batalla por mostrar que existe cierta cualidad elusiva e inefable en la inteligencia humana, la cual pasa entonces a ser algo inalcanzable por los "automátas mecánicos", esto es, por las computadoras.**
+Segundo encuentro con Lucas. **... quienes se han servido de ella como munición en su batalla por mostrar que existe cierta cualidad elusiva e inefable en la inteligencia humana, la cual pasa entonces a ser algo inalcanzable por los "automátas mecánicos", esto es, por las computadoras.**
+
+Ahora bien, esto puede impresionar como una observación acerca de los sistemas formales, pero también puede ser ligeramente modificada para que se convierta en un argumento aparentemente irrefutable en contra de la posibilidad de que las inteligencias artificiales puedan llegar a reproducir el nivel humano de inteligencia.
+
+A mi juicio, dicha argumentación es errónea, pero también cautivante, y por consiguiente merecedora de que se le tome en cuenta, para refutarla. En realidad, se trató de una de las principales motivaciones primeras que me condujeron a reflexionar en los temas de este libro.
+
+Se habla de *Dragón* de M. C. Escher.
 
 
 #### <span id="capxvi">[Capítulo XVI: Autorref y Autorrep](#capxvi)</span>
