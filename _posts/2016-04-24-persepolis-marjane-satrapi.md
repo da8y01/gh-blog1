@@ -1,8 +1,11 @@
 ---
 layout: post
-title: "Persepolis - Marjane Satrapi"
+permalink: /persepolis-marjane-satrapi.html
 date: 2016-04-24 16:34:42
 tags: review literature literatura novel novela comic comics historieta historietas "novela gráfica" "graphic novel" "Persepolis - Marjane Satrapi" "Persepolis" "Marjane Satrapi" PersepolisMarjaneSatrapi Persepolis MarjaneSatrapi
+title: "Persepolis - Marjane Satrapi"
+image: https://da8y01.github.io/gh-blog/assets/Persepolis_MarjaneSatrapi_LinkPreview.jpg
+description: "Persepolis - Marjane Satrapi"
 ---
 
 
@@ -263,6 +266,7 @@ interregno.
 
 
 
+[Persepolis_MarjaneSatrapi_LinkPreview]: {{ site.baseurl }}/assets/Persepolis_MarjaneSatrapi_LinkPreview.png "Persepolis - Marjane Satrapi Link Preview"
 [Persepolis_MarjaneSatrapi_1]: {{ site.baseurl }}/assets/Persepolis_MarjaneSatrapi_1.png "Persepolis - Marjane Satrapi 1"
 [Persepolis_MarjaneSatrapi_2]: {{ site.baseurl }}/assets/Persepolis_MarjaneSatrapi_2.png "Persepolis - Marjane Satrapi 2"
 [Persepolis_MarjaneSatrapi_3]: {{ site.baseurl }}/assets/Persepolis_MarjaneSatrapi_3.png "Persepolis - Marjane Satrapi 3"

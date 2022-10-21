@@ -1,8 +1,11 @@
 ---
 layout: post
-title: "Asterios Polyp - David Mazzucchelli"
+permalink: /asterios-polyp-david-mazzucchelli.html
 date: 2016-06-07 12:18:42
 tags: review literature literatura novel novela comic comics historieta historietas "novela gráfica" "graphic novel" "Asterios Polyp - David Mazzucchelli" "Asterios Polyp" "David Mazzucchelli" AsteriosPolyp_DavidMazzucchelli AsteriosPolyp DavidMazzucchelli
+title: "Asterios Polyp - David Mazzucchelli"
+image: https://da8y01.github.io/gh-blog/assets/AsteriosPolyp_DavidMazzucchelli.jpg
+description: "Asterios Polyp - David Mazzucchelli"
 ---
 
 

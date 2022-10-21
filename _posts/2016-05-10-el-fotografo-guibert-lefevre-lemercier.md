@@ -1,8 +1,11 @@
 ---
 layout: post
-title: "El fotógrafo - Guibert, Lefévre, Lemercier"
+permalink: /el-fotografo-guibert-lefevre-lemercier.html
 date: 2016-05-10 11:07:42
 tags: review literature literatura novel novela comic comics historieta historietas "novela gráfica" "graphic novel" "El fotógrafo - Guibert, Lefévre, Lemercier" "El fotógrafo" "Guibert, Lefévre, Lemercier" ElFotógrafoGuibertLefévreLemercier ElFotógrafo GuibertLefévreLemercier
+title: "El fotógrafo - Guibert, Lefévre, Lemercier"
+image: https://da8y01.github.io/gh-blog/assets/ElFotografo_GuibertLefevreLemercier_LinkPreview.png
+description: "El fotógrafo - Guibert, Lefévre, Lemercier"
 ---
 
 
@@ -15,7 +18,7 @@ tags: review literature literatura novel novela comic comics historieta historie
 
 
 
-## SINOPSIS
+## RECORTES
 
 ### TOMO 1
 <div style="text-align:center" markdown="1">
@@ -505,6 +508,7 @@ inextricable, arduo, desgañita, desgañitarse, enclenque, palafrenero, palafré
 
 
 
+[ElFotografo_GuibertLefevreLemercier_LinkPreview]: {{ site.baseurl }}/assets/ElFotografo_GuibertLefevreLemercier_LinkPreview.png "El fotógrafo - Guibert, Lefévre, Lemercier LinkPreview"
 [ElFotografo_GuibertLefevreLemercier_1]: {{ site.baseurl }}/assets/ElFotografo_GuibertLefevreLemercier_1.png "El fotógrafo - Guibert, Lefévre, Lemercier 1"
 [ElFotografo_GuibertLefevreLemercier_2]: {{ site.baseurl }}/assets/ElFotografo_GuibertLefevreLemercier_2.png "El fotógrafo - Guibert, Lefévre, Lemercier 2"
 [ElFotografo_GuibertLefevreLemercier_3]: {{ site.baseurl }}/assets/ElFotografo_GuibertLefevreLemercier_3.png "El fotógrafo - Guibert, Lefévre, Lemercier 3"
