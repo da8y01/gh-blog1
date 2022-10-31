@@ -2,7 +2,7 @@
 layout: post
 permalink: /integrales-por-fracciones.html
 date: 2022-10-17 21:34:42
-tags: "6 Integrales por Fracciones parciales-simples" IntegralesPorFracciones IntegralesFracciones IntegralesFraccionesParcialesSimples Integrales Fracciones ParcialesSimples
+tags: IntegralesPorFracciones IntegralesFracciones IntegralesFraccionesParcialesSimples "6 Integrales por Fracciones parciales-simples" Integrales Fracciones ParcialesSimples math mathematics calculus matemáticas cálculo
 title: "6 Integrales por Fracciones parciales-simples"
 image: https://da8y01.github.io/gh-blog/assets/IntegralesPorFracciones_Bibliografia.jpg
 description: "6 Integrales por Fracciones parciales-simples"
