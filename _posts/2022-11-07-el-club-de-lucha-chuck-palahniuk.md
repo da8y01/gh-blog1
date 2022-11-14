@@ -1,6 +1,7 @@
 ---
 layout: post
-date: 2022-11-14 21:34:42
+permalink: /el-club-de-lucha.html
+date: 2022-11-07 21:34:42
 tags: review literatura "El club de lucha - Chuck Palahniuk" "El club de lucha" "Chuck Palahniuk" ElClubDeLucha_ChuckPalahniuk ElClubDeLucha ChuckPalahniuk
 title: "El club de lucha - Chuck Palahniuk"
 image: https://da8y01.github.io/gh-blog/assets/ElClubDeLucha_ChuckPalahniuk_portada.jpg
@@ -112,7 +113,7 @@ Despierta, vivo, recuperándose en un hospital, describe con la perspectiva de e
 "Thanks to Chuck Palahniuk because he had inspiring guts."
 
 
-## COMENTARIO
+## <span id="citas">[CITAS](#citas)</span>
 .
 
 

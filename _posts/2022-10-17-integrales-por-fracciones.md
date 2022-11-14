@@ -9,18 +9,18 @@ description: "6 Integrales por Fracciones parciales-simples"
 ---
 
 
-# Taller
+## <span id="taller">[Taller](#taller)</span>
 <div style="text-align:center" markdown="1">
 ![IntegralesPorFracciones_Taller][IntegralesPorFracciones_Taller]{: width="50%"}
 </div>
 
-# Bibliografía
+## <span id="biblio">[Bibliografía](#biblio)</span>
 <div style="text-align:center" markdown="1">
 ![IntegralesPorFracciones_Bibliografia][IntegralesPorFracciones_Bibliografia]{: width="50%"}
 </div>
 
 
-# Ejercicio 1
+## <span id="ejercicio1">[Ejercicio 1](#ejercicio1)</span>
 <div style="text-align:center" markdown="1">
 ![IntegralesPorFracciones_Taller_01-1][IntegralesPorFracciones_Taller_01-1]{: width="50%"}
 </div>
@@ -37,7 +37,7 @@ description: "6 Integrales por Fracciones parciales-simples"
 </div>
 
 
-# Ejercicio 2
+## <span id="ejercicio2">[Ejercicio 2](#ejercicio2)</span>
 <div style="text-align:center" markdown="1">
 ![IntegralesPorFracciones_Taller_02-1][IntegralesPorFracciones_Taller_02-1]{: width="50%"}
 </div>
@@ -51,7 +51,7 @@ description: "6 Integrales por Fracciones parciales-simples"
 </div>
 
 
-# Ejercicio 3
+## <span id="ejercicio3">[Ejercicio 3](#ejercicio3)</span>
 <div style="text-align:center" markdown="1">
 ![IntegralesPorFracciones_Taller_03-1][IntegralesPorFracciones_Taller_03-1]{: width="50%"}
 </div>
@@ -65,7 +65,7 @@ description: "6 Integrales por Fracciones parciales-simples"
 </div>
 
 
-# Ejercicio 4
+## <span id="ejercicio4">[Ejercicio 4](#ejercicio4)</span>
 <div style="text-align:center" markdown="1">
 ![IntegralesPorFracciones_Taller_04-1][IntegralesPorFracciones_Taller_04-1]{: width="50%"}
 </div>
@@ -79,7 +79,7 @@ description: "6 Integrales por Fracciones parciales-simples"
 </div>
 
 
-# Ejercicio 5
+## <span id="ejercicio5">[Ejercicio 5](#ejercicio5)</span>
 <div style="text-align:center" markdown="1">
 ![IntegralesPorFracciones_Taller_05-1][IntegralesPorFracciones_Taller_05-1]{: width="50%"}
 </div>
@@ -93,7 +93,7 @@ description: "6 Integrales por Fracciones parciales-simples"
 </div>
 
 
-# Ejercicio 6
+## <span id="ejercicio6">[Ejercicio 6](#ejercicio6)</span>
 <div style="text-align:center" markdown="1">
 ![IntegralesPorFracciones_Taller_06-1][IntegralesPorFracciones_Taller_06-1]{: width="50%"}
 </div>
