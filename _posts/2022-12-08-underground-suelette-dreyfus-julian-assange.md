@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2022-12-17 21:34:42
-tags: review literature "Underground - Suelette Dreyfus, Julian Assange" "Underground" "Suelette Dreyfus, Julian Assange" Underground_SueletteDreyfusJulianAssange Underground SueletteDreyfusJulianAssange
+permalink: /underground.html
+date: 2022-12-08 21:34:42
+tags: review literature "Underground - Suelette Dreyfus, Julian Assange" "Underground" "Suelette Dreyfus, Julian Assange" Underground_SueletteDreyfusJulianAssange Underground SueletteDreyfusJulianAssange SueletteDreyfus JulianAssange
 title: "Underground: Hacking, madness and obsession on the electronic frontier - Suelette Dreyfus, Julian Assange"
 image: https://da8y01.github.io/gh-blog/assets/Underground_SueletteDreyfusJulianAssange_impreso.jpg
 description: "Underground: Hacking, madness and obsession on the electronic frontier - Suelette Dreyfus, Julian Assange"

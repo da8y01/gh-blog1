@@ -375,7 +375,7 @@ En la página 508 en el apartado sobre suma y multiplicación sobrenaturales se 
 Sólo se aparta de la teoría habitual de los números en la forma en que maneja el concepto de infinito. La matemática sólo responde a nuestras preguntas referidas al mundo real *después* de que hemos dado el paso determinante de elegir qué clase de matemática vamos a utilizar. Adaptamos nuestra matemática al mundo, y no al revés. Si la teoría de los números es *usada* para ayudar a obtener conocimiento fáctico de los sistemas formales, los matemáticos están mostrando tácitamente, entonces, su convicción de que esas cosas etéreas llamadas "números naturales" son concretamente *parte de la realidad*, y no sólo invenciones de la imaginación. Tal vez toda formalización coherente de teoría de los números que imaginen los seres humanos implique la existencia de sobrenaturales, al ser w-incoherente: es una suposición muy insólita, pero concebible. Si esto anterior fuera así, G no tendría que ser indecidible. Habitualmente, los lógicos matemáticos creen que TNT -y sistemas similares- es w-coherente, y que la cadena Gödel que pueda construirse dentro suyo es indecidible en el interior del sistema. Esto significa que ellos pueden adoptar la resolución de agregar la cadena, o su negación, como axioma. Termina el capítulo con el décimo problema de Hilbert y las ecuaciones diofantinas. La equivalencia reside en el hecho de que esta ecuación, cuando es interpretada en un nivel matemático, afirma de sí misma que no tiene solución. A la inversa: si se le encuentra una solución, ¡a partir de ésta se podría construir el número Gödel de una demostración, dentro del sistema, de que la ecuación no tiene solución! ¡Es hermoso saber que, cuando se procede así es posible recuperar el sonido de Bach a partir de las moléculas del aire!
 
 
-#### <span id="cantatatata">[Cantatatata... de cumpleaños](#cantatatata)</span>
+#### <span id="cantatatata">[*Cantatatata... de cumpleaños*](#cantatatata)</span>
 
 <div style="text-align:center" markdown="1">
 ![Gödel, Escher, Bach][GodelEscherBach-39_CantatatataCumpleanios]{: width="50%"}
@@ -406,9 +406,40 @@ Segundo encuentro con Lucas. **... quienes se han servido de ella como munición
 
 Ahora bien, esto puede impresionar como una observación acerca de los sistemas formales, pero también puede ser ligeramente modificada para que se convierta en un argumento aparentemente irrefutable en contra de la posibilidad de que las inteligencias artificiales puedan llegar a reproducir el nivel humano de inteligencia.
 
-A mi juicio, dicha argumentación es errónea, pero también cautivante, y por consiguiente merecedora de que se le tome en cuenta, para refutarla. En realidad, se trató de una de las principales motivaciones primeras que me condujeron a reflexionar en los temas de este libro.
+A mi juicio, dicha argumentación es errónea, pero también cautivante, y por consiguiente merecedora de que se le tome en cuenta, para refutarla. En realidad, se trató de una de las principales motivaciones primeras que me condujeron a reflexionar en los temas de este libro. Continúa el enfrentamiento programa-ser humano.
 
-Se habla de *Dragón* de M. C. Escher.
+Se habla de *Dragón* de M. C. Escher. Por más ingeniosamente que se pretendan simular tres dimensiones en dos, siempre se pierde determinada "esencia de la tridimensionalidad". El dragón intenta esforzadamente sortear su bidimensionalidad.
+
+La novedad de la denominación es sumamente importante: es el primer ejemplo donde la nomenclatura usada hasta allí --la cual incluía únicamente los nombres de todos los números naturales-- tiene que ser trascendida. Y la razón para que hiciera falta una denominación nueva es que se había dado cierto género fundamentalmente *nuevo* de paso: se había topado con una especie de irregularidad. De este modo, era necesario proveer un nuevo nombre *ad hoc*.
+
+Pero esto no funcionaría: resulta que las irregularidades, por su parte, aparecen de forma irregular y haría falta un programa de segundo orden, es decir, un programa que elabore nuevos programas que elaboren nuevos nombres. "No hay sistema de notación recursivamente relacionado que asigne un nombre a todo ordinal constructivo."
+
+Luego, a menos que se tengan fuertes inclinaciones místicas, se está obligado a concluir que cada ser humano, lisa y llanamente, en algún punto chocará con los límites de su prpia capacidad para gödelizar. De aquí en más, los sistemas formales de esa complejidad, aun reconocidamente incompletos por causa de la razón Gödel, tendrán el mismo poder que los seres humanos.
+
+Además, es muy provechoso advertir que *nosotros* somos igualmente vulnerables frente a la trampa verbal que Gödel transplantó al ámbito de los formalismos matemáticos: la paradoja de Epiménedes.
+
+Bueno, éste es el tipo de argumentación "del avestruz" que aceptará con gusto quien se sienta inclinado a ver que los hombres y las mujeres aventajan a las computadoras en estas disputas intelectuales.
+
+El de la física es un sistema inexorable, del cual no hay huida posible. Sin embargo, hay una ambición más modesta que se puede satisfacer: indudablemente, uno pude saltar, desde un subsistema del propio cerebro, a otro subsistema más amplio; en ocasiones, uno puede eludir los senderos habituales.
+
+Distinción entre *percibirse* y *trascenderse*. TNT puede hablar de sí mismo, pero no puede brincar fuera de sí mismo. Un programa de computadora puede modificarse a sí mismo, pero no puede infringir sus instrucciones: todo lo más, puede transformar ciertas partes de sí mismo *siguiendo* sus instrucciones. Esto trae al recuerdo aquella ingeniosa paradoja: "¿Dios puede hacer una pidera tan pesada que él mismo no la pueda levantar?".
+
+Este impulso a brincar fuera del sistema es intenso y subyace a todos los progresos que se producen en el arte, la música y otras actividades humanas. Se mencionan los diálogos de Jauch y Galileo, y los tres personajes: Simplicio, Salviati y Sagredo. La respuesta es que este personaje aporta la ilusión de salida fuera del sistema, en cierto sentido intuitivamente atractivo.
+
+Es posible, inclusive, que la autotrascendencia sea el tema central del zen. En algún punto de este elusivo sendero puede suceder la iluminación. De todas maneras (como yo lo veo), se espera que mediante la paulatina profundización de autoconocimiento, mediante la paulatina ampliación del ámbito del "sistema", sobrevenga por último un sentimiento de unidad con todo el universo.
+
+
+#### <span id="pensamientosfumador">[*Pensamientos edificantes de un fumador de tabaco*](#pensamientosfumador)</span>
+
+<div style="text-align:center" markdown="1">
+![Gödel, Escher, Bach][GodelEscherBach-39_PensamientosFumador]{: width="50%"}
+</div>
+
+Tanto Magritte como Escher emplean gran realismo al explorar los mundos de la paradoja y la ilusión; ambos tienen un gran sentido del poder evocativo de ciertos símbolos visuales, y --algo que incluso sus admiradores son incapaces de advertir-- ambos tienen gran sentido de la gracia del trazo.
+
+Se admiran obras de René Magritte, Cangrejo fuma la pipa, JS Bach, la poesía, Cangrejo recita/declama y canta, hablan del fonógrafo rompe-Tortugas, hablan de los diálogos Pensamientos Edificantes sobre el Virus de Mosaico de Tabaco, los ribosomas, "la desconcertante habilidad de autoensamblarse espontáneamente", el Gran Fonógrafo Autoensamblador, de abandonar la "Perfección" en los fonógrafos para reforzar las defensas contra los discos de la Tortuga y construir un fonografo que *sobreviva*, Cangrejo y Tortuga cambian sus estrategias en cuanto a fonógrafos y discos, del *rotulamiento*, los mecanismos para reproducir sólo discos auténticos y la "música para infiltrar fonógrafos", el funcionamiento interno del fonógrafo defensivo, la cámara de TV en funcionamiento, el corredor infinito, el autoenglobamiento, las imágenes y patrones pulsantes producidos, el autoenglobamiento *total*.
+
+Hmm... eso me recuerda algo que el Sr. Tortuga dijo hace tiempo acerca de que la autorreferencia ocurre sólo cuando una frase habla acerca de la *totalidad* de sí misma...
 
 
 #### <span id="capxvi">[Capítulo XVI: Autorref y Autorrep](#capxvi)</span>
@@ -416,6 +447,8 @@ Se habla de *Dragón* de M. C. Escher.
 <div style="text-align:center" markdown="1">
 ![Gödel, Escher, Bach][GodelEscherBach-03_VisionPanoramica]{: width="50%"}
 </div>
+
+Las secuencias de palabras constituyen esa parte visible, mientras que la invisible consiste en el procesamiento necesario para comprenderlas. En este sentido su significación es implícita, no explícita. Lo que es especialmente importante es la capacidad de determinar el referente de una frase nominal que contenga un adjetivo demostrativo.
 
 
 #### <span id="capxvii">[Capítulo XVII: Church, Turing, Tarski y otros](#capxvii)</span>
