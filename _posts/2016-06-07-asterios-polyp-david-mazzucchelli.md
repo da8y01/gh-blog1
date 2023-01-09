@@ -245,7 +245,8 @@ https://translate.google.com/#en/es/hindsight understanding of a situation or ev
 * [https://en.wikipedia.org/wiki/David_Mazzucchelli][2]{: target="_blank"}
 * [https://es.wikipedia.org/wiki/Asterios_Polyp][3]{: target="_blank"}
 * [https://es.wikipedia.org/wiki/David_Mazzucchelli][4]{: target="_blank"}
-* [AsteriosPolyp.cbz][AsteriosPolypCbz]{: target="_blank"}
+* [https://drive.google.com/file/d/0BwP-qW2ubuj5b0JOWFRfOWxZOFE/view][5]{: target="_blank"}
+* [https://drive.google.com/file/d/0BwP-qW2ubuj5RE1LZDFITk9KdUE/view][6]{: target="_blank"}
 
 
 
@@ -253,7 +254,8 @@ https://translate.google.com/#en/es/hindsight understanding of a situation or ev
 [2]: https://en.wikipedia.org/wiki/David_Mazzucchelli
 [3]: https://es.wikipedia.org/wiki/Asterios_Polyp
 [4]: https://es.wikipedia.org/wiki/David_Mazzucchelli
-[AsteriosPolypCbz]: {{ site.baseurl }}/assets/AsteriosPolyp.cbz
+[5]: https://drive.google.com/file/d/0BwP-qW2ubuj5b0JOWFRfOWxZOFE/view
+[6]: https://drive.google.com/file/d/0BwP-qW2ubuj5RE1LZDFITk9KdUE/view
 
 [AsteriosPolyp_DavidMazzucchelli]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli.jpg "Asterios Polyp - David Mazzucchelli"
 [AsteriosPolyp_DavidMazzucchelli_Chap01]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_Chap01.png "Asterios Polyp - David Mazzucchelli Chap 01"
