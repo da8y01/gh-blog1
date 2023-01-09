@@ -450,6 +450,14 @@ Hmm... eso me recuerda algo que el Sr. Tortuga dijo hace tiempo acerca de que la
 
 Las secuencias de palabras constituyen esa parte visible, mientras que la invisible consiste en el procesamiento necesario para comprenderlas. En este sentido su significación es implícita, no explícita. Lo que es especialmente importante es la capacidad de determinar el referente de una frase nominal que contenga un adjetivo demostrativo.
 
+La construcción Quine es enteramente similar a la construcción Gödel en cuando a la forma en que genera autorreferencia a través de la descripción de otra entidad tipográfica, la cual resulta ser isomórfica a la oración Quine misma. La autorreferencialidad de esta oración es concretada de modo más directo que en la paradoja de Epiménedes: el procesamiento recóndito que se requiere es menor. Esto muestra precisamente que las expresiones indicativas del tipo "esta oración" son interpretadas de acuerdo al contexto que las rodee y también contribuye a probar que el procesamiento de tales expresiones es sumamente complejo.
+
+El programa autorreproductor que sigue ha sido formulado en un lenguaje análogo al BuD, y su base consiste en hacer *suceder* a una expresión por su propia cita (esto es, el orden opuesto al del quinereamiento, por lo cual invertiré el término "quine" para obtener "eniuq"). La belleza del esquema reside en que, cuando aparece la misma cadena en las tres líneas superiores del programa, *es* operada como un programa (porque no está entre comillas). De tal modo, en este programa una cadena funciona de dos formas: en primer lugar, como programa; en segundo lugar, como cuerpo de datos. Este es el secreto de los programas de autorreproducción y, como veremos, de las moléculas autorreproductoras. Antes de que asignemos a determinada cosa la calificación de autorrep, necesitamos contar con la certidumbre que contiene explícitamente, con la máxima extensión posible, las indicaciones necesarias para su autocopiado.
+
+En consecuencia, se debería conseguir que el programa imprimiera su propio número Gödel: un gigantesco entero cuya expansión decimal codifique el programa, carácter por carácter, mediante el empleo de codones de tres digitos. El programa se aproximará todo lo que pueda a imprimirse a sí mismo, dentro de los medios de que dispone: da salida a una copia de sí mismo dentro de otro "espacio".
+
+Esta clase de autorrep, que me fuera sugerida por Scott Kim, saca partido de un nivel del sistema que difiere del nivel al que uno normalmente se aproximaría.
+
 
 #### <span id="capxvii">[Capítulo XVII: Church, Turing, Tarski y otros](#capxvii)</span>
 
