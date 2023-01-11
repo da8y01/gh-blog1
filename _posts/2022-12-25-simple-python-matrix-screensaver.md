@@ -18,16 +18,23 @@ description: "A simple python matrix screensaver."
 import random
 import time
 
+LINE_LENGTH = 60
+ONE_SEC = 1
+
+# According to the https://www.asciitable.com/
+FIRST_CHAR = 33
+LAST_CHAR = 126
+
 line = []
 while True:
-    for i in range(70):
-        rnd_int = random.randint(33, 126)
+    for i in range(LINE_LENGTH):
+        rnd_int = random.randint(FIRST_CHAR, LAST_CHAR)
         rnd_chr = chr(rnd_int)
         line.append(rnd_chr)
 
     print(' '.join(line))
     line = []
-    time.sleep(1)
+    time.sleep(ONE_SEC)
 {% endhighlight %}
 
 
@@ -38,6 +45,5 @@ while True:
 
 [PythonLang]: https://www.python.org/
 [TheMatrix]: https://en.wikipedia.org/wiki/The_Matrix
-
 
 [SimplePythonMatrixScreensaver]: {{ site.baseurl }}/assets/SimplePythonMatrixScreensaver.png "A simple python matrix screensaver"
