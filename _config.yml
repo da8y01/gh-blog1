@@ -8,7 +8,7 @@ description: "Miscellaneous posts from easy-eng.net site."
 baseurl: /gh-blog
 url: http://da8y01.github.io
 future: false
-paginate: 10
+paginate: 15
 
 # Build settings
 markdown: kramdown

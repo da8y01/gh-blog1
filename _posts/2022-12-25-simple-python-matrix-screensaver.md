@@ -20,6 +20,7 @@ import time
 
 LINE_LENGTH = 60
 ONE_SEC = 1
+SEPARATOR_CHAR = ' '
 
 # According to the https://www.asciitable.com/
 FIRST_CHAR = 33
@@ -32,7 +33,7 @@ while True:
         rnd_chr = chr(rnd_int)
         line.append(rnd_chr)
 
-    print(' '.join(line))
+    print(SEPARATOR_CHAR.join(line))
     line = []
     time.sleep(ONE_SEC)
 {% endhighlight %}
