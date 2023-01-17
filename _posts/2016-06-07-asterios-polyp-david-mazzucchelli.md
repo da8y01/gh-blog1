@@ -204,6 +204,214 @@ description: "Asterios Polyp - David Mazzucchelli"
 ![AsteriosPolyp_DavidMazzucchelli_Chap14][AsteriosPolyp_DavidMazzucchelli_Chap14]{: width="50%"}
 </div>
 
+<div style="text-align:center" markdown="1">
+![AsteriosPolyp_DavidMazzucchelli_35][AsteriosPolyp_DavidMazzucchelli_35]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![AsteriosPolyp_DavidMazzucchelli_36][AsteriosPolyp_DavidMazzucchelli_36]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![AsteriosPolyp_DavidMazzucchelli_37][AsteriosPolyp_DavidMazzucchelli_37]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![AsteriosPolyp_DavidMazzucchelli_38][AsteriosPolyp_DavidMazzucchelli_38]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![AsteriosPolyp_DavidMazzucchelli_39][AsteriosPolyp_DavidMazzucchelli_39]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![AsteriosPolyp_DavidMazzucchelli_Chap15][AsteriosPolyp_DavidMazzucchelli_Chap15]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![AsteriosPolyp_DavidMazzucchelli_40][AsteriosPolyp_DavidMazzucchelli_40]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![AsteriosPolyp_DavidMazzucchelli_Chap16][AsteriosPolyp_DavidMazzucchelli_Chap16]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![AsteriosPolyp_DavidMazzucchelli_41][AsteriosPolyp_DavidMazzucchelli_41]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![AsteriosPolyp_DavidMazzucchelli_42][AsteriosPolyp_DavidMazzucchelli_42]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![AsteriosPolyp_DavidMazzucchelli_43][AsteriosPolyp_DavidMazzucchelli_43]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![AsteriosPolyp_DavidMazzucchelli_44][AsteriosPolyp_DavidMazzucchelli_44]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![AsteriosPolyp_DavidMazzucchelli_45][AsteriosPolyp_DavidMazzucchelli_45]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![AsteriosPolyp_DavidMazzucchelli_46][AsteriosPolyp_DavidMazzucchelli_46]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![AsteriosPolyp_DavidMazzucchelli_47][AsteriosPolyp_DavidMazzucchelli_47]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![AsteriosPolyp_DavidMazzucchelli_48][AsteriosPolyp_DavidMazzucchelli_48]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![AsteriosPolyp_DavidMazzucchelli_49][AsteriosPolyp_DavidMazzucchelli_49]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![AsteriosPolyp_DavidMazzucchelli_50][AsteriosPolyp_DavidMazzucchelli_50]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![AsteriosPolyp_DavidMazzucchelli_51][AsteriosPolyp_DavidMazzucchelli_51]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![AsteriosPolyp_DavidMazzucchelli_52][AsteriosPolyp_DavidMazzucchelli_52]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![AsteriosPolyp_DavidMazzucchelli_Chap17][AsteriosPolyp_DavidMazzucchelli_Chap17]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![AsteriosPolyp_DavidMazzucchelli_53][AsteriosPolyp_DavidMazzucchelli_53]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![AsteriosPolyp_DavidMazzucchelli_54][AsteriosPolyp_DavidMazzucchelli_54]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![AsteriosPolyp_DavidMazzucchelli_55][AsteriosPolyp_DavidMazzucchelli_55]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![AsteriosPolyp_DavidMazzucchelli_Chap18][AsteriosPolyp_DavidMazzucchelli_Chap18]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![AsteriosPolyp_DavidMazzucchelli_56][AsteriosPolyp_DavidMazzucchelli_56]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![AsteriosPolyp_DavidMazzucchelli_57][AsteriosPolyp_DavidMazzucchelli_57]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![AsteriosPolyp_DavidMazzucchelli_58][AsteriosPolyp_DavidMazzucchelli_58]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![AsteriosPolyp_DavidMazzucchelli_Chap19][AsteriosPolyp_DavidMazzucchelli_Chap19]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![AsteriosPolyp_DavidMazzucchelli_59][AsteriosPolyp_DavidMazzucchelli_59]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![AsteriosPolyp_DavidMazzucchelli_60][AsteriosPolyp_DavidMazzucchelli_60]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![AsteriosPolyp_DavidMazzucchelli_61][AsteriosPolyp_DavidMazzucchelli_61]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![AsteriosPolyp_DavidMazzucchelli_Chap20][AsteriosPolyp_DavidMazzucchelli_Chap20]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![AsteriosPolyp_DavidMazzucchelli_62][AsteriosPolyp_DavidMazzucchelli_62]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![AsteriosPolyp_DavidMazzucchelli_63][AsteriosPolyp_DavidMazzucchelli_63]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![AsteriosPolyp_DavidMazzucchelli_64][AsteriosPolyp_DavidMazzucchelli_64]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![AsteriosPolyp_DavidMazzucchelli_65][AsteriosPolyp_DavidMazzucchelli_65]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![AsteriosPolyp_DavidMazzucchelli_66][AsteriosPolyp_DavidMazzucchelli_66]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![AsteriosPolyp_DavidMazzucchelli_67][AsteriosPolyp_DavidMazzucchelli_67]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![AsteriosPolyp_DavidMazzucchelli_68][AsteriosPolyp_DavidMazzucchelli_68]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![AsteriosPolyp_DavidMazzucchelli_Chap21][AsteriosPolyp_DavidMazzucchelli_Chap21]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![AsteriosPolyp_DavidMazzucchelli_69][AsteriosPolyp_DavidMazzucchelli_69]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![AsteriosPolyp_DavidMazzucchelli_70][AsteriosPolyp_DavidMazzucchelli_70]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![AsteriosPolyp_DavidMazzucchelli_71][AsteriosPolyp_DavidMazzucchelli_71]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![AsteriosPolyp_DavidMazzucchelli_72][AsteriosPolyp_DavidMazzucchelli_72]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![AsteriosPolyp_DavidMazzucchelli_73][AsteriosPolyp_DavidMazzucchelli_73]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![AsteriosPolyp_DavidMazzucchelli_74][AsteriosPolyp_DavidMazzucchelli_74]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![AsteriosPolyp_DavidMazzucchelli_75][AsteriosPolyp_DavidMazzucchelli_75]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![AsteriosPolyp_DavidMazzucchelli_76][AsteriosPolyp_DavidMazzucchelli_76]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![AsteriosPolyp_DavidMazzucchelli_Chap22][AsteriosPolyp_DavidMazzucchelli_Chap22]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![AsteriosPolyp_DavidMazzucchelli_77][AsteriosPolyp_DavidMazzucchelli_77]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![AsteriosPolyp_DavidMazzucchelli_Chap23][AsteriosPolyp_DavidMazzucchelli_Chap23]{: width="50%"}
+</div>
+
 
 
 ## CITAS
@@ -272,6 +480,15 @@ https://translate.google.com/#en/es/hindsight understanding of a situation or ev
 [AsteriosPolyp_DavidMazzucchelli_Chap12]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_Chap12.png "Asterios Polyp - David Mazzucchelli Chap 12"
 [AsteriosPolyp_DavidMazzucchelli_Chap13]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_Chap13.png "Asterios Polyp - David Mazzucchelli Chap 13"
 [AsteriosPolyp_DavidMazzucchelli_Chap14]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_Chap14.png "Asterios Polyp - David Mazzucchelli Chap 14"
+[AsteriosPolyp_DavidMazzucchelli_Chap15]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_Chap15.png "Asterios Polyp - David Mazzucchelli Chap 15"
+[AsteriosPolyp_DavidMazzucchelli_Chap16]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_Chap16.png "Asterios Polyp - David Mazzucchelli Chap 16"
+[AsteriosPolyp_DavidMazzucchelli_Chap17]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_Chap17.png "Asterios Polyp - David Mazzucchelli Chap 17"
+[AsteriosPolyp_DavidMazzucchelli_Chap18]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_Chap18.png "Asterios Polyp - David Mazzucchelli Chap 18"
+[AsteriosPolyp_DavidMazzucchelli_Chap19]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_Chap19.png "Asterios Polyp - David Mazzucchelli Chap 19"
+[AsteriosPolyp_DavidMazzucchelli_Chap20]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_Chap20.png "Asterios Polyp - David Mazzucchelli Chap 20"
+[AsteriosPolyp_DavidMazzucchelli_Chap21]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_Chap21.png "Asterios Polyp - David Mazzucchelli Chap 21"
+[AsteriosPolyp_DavidMazzucchelli_Chap22]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_Chap22.png "Asterios Polyp - David Mazzucchelli Chap 22"
+[AsteriosPolyp_DavidMazzucchelli_Chap23]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_Chap23.png "Asterios Polyp - David Mazzucchelli Chap 23"
 [AsteriosPolyp_DavidMazzucchelli_01]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_01.png "Asterios Polyp - David Mazzucchelli 01"
 [AsteriosPolyp_DavidMazzucchelli_02]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_02.png "Asterios Polyp - David Mazzucchelli 02"
 [AsteriosPolyp_DavidMazzucchelli_03]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_03.png "Asterios Polyp - David Mazzucchelli 03"
@@ -306,3 +523,46 @@ https://translate.google.com/#en/es/hindsight understanding of a situation or ev
 [AsteriosPolyp_DavidMazzucchelli_32]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_32.png "Asterios Polyp - David Mazzucchelli 32"
 [AsteriosPolyp_DavidMazzucchelli_33]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_33.png "Asterios Polyp - David Mazzucchelli 33"
 [AsteriosPolyp_DavidMazzucchelli_34]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_34.png "Asterios Polyp - David Mazzucchelli 34"
+[AsteriosPolyp_DavidMazzucchelli_35]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_35.png "Asterios Polyp - David Mazzucchelli 35"
+[AsteriosPolyp_DavidMazzucchelli_36]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_36.png "Asterios Polyp - David Mazzucchelli 36"
+[AsteriosPolyp_DavidMazzucchelli_37]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_37.png "Asterios Polyp - David Mazzucchelli 37"
+[AsteriosPolyp_DavidMazzucchelli_38]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_38.png "Asterios Polyp - David Mazzucchelli 38"
+[AsteriosPolyp_DavidMazzucchelli_39]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_39.png "Asterios Polyp - David Mazzucchelli 39"
+[AsteriosPolyp_DavidMazzucchelli_40]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_40.png "Asterios Polyp - David Mazzucchelli 40"
+[AsteriosPolyp_DavidMazzucchelli_41]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_41.png "Asterios Polyp - David Mazzucchelli 41"
+[AsteriosPolyp_DavidMazzucchelli_42]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_42.png "Asterios Polyp - David Mazzucchelli 42"
+[AsteriosPolyp_DavidMazzucchelli_43]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_43.png "Asterios Polyp - David Mazzucchelli 43"
+[AsteriosPolyp_DavidMazzucchelli_44]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_44.png "Asterios Polyp - David Mazzucchelli 44"
+[AsteriosPolyp_DavidMazzucchelli_45]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_45.png "Asterios Polyp - David Mazzucchelli 45"
+[AsteriosPolyp_DavidMazzucchelli_46]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_46.png "Asterios Polyp - David Mazzucchelli 46"
+[AsteriosPolyp_DavidMazzucchelli_47]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_47.png "Asterios Polyp - David Mazzucchelli 47"
+[AsteriosPolyp_DavidMazzucchelli_48]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_48.png "Asterios Polyp - David Mazzucchelli 48"
+[AsteriosPolyp_DavidMazzucchelli_49]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_49.png "Asterios Polyp - David Mazzucchelli 49"
+[AsteriosPolyp_DavidMazzucchelli_50]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_50.png "Asterios Polyp - David Mazzucchelli 50"
+[AsteriosPolyp_DavidMazzucchelli_51]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_51.png "Asterios Polyp - David Mazzucchelli 51"
+[AsteriosPolyp_DavidMazzucchelli_52]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_52.png "Asterios Polyp - David Mazzucchelli 52"
+[AsteriosPolyp_DavidMazzucchelli_53]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_53.png "Asterios Polyp - David Mazzucchelli 53"
+[AsteriosPolyp_DavidMazzucchelli_54]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_54.png "Asterios Polyp - David Mazzucchelli 54"
+[AsteriosPolyp_DavidMazzucchelli_55]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_55.png "Asterios Polyp - David Mazzucchelli 55"
+[AsteriosPolyp_DavidMazzucchelli_56]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_56.png "Asterios Polyp - David Mazzucchelli 56"
+[AsteriosPolyp_DavidMazzucchelli_57]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_57.png "Asterios Polyp - David Mazzucchelli 57"
+[AsteriosPolyp_DavidMazzucchelli_58]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_58.png "Asterios Polyp - David Mazzucchelli 58"
+[AsteriosPolyp_DavidMazzucchelli_59]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_59.png "Asterios Polyp - David Mazzucchelli 59"
+[AsteriosPolyp_DavidMazzucchelli_60]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_60.png "Asterios Polyp - David Mazzucchelli 60"
+[AsteriosPolyp_DavidMazzucchelli_61]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_61.png "Asterios Polyp - David Mazzucchelli 61"
+[AsteriosPolyp_DavidMazzucchelli_62]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_62.png "Asterios Polyp - David Mazzucchelli 62"
+[AsteriosPolyp_DavidMazzucchelli_63]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_63.png "Asterios Polyp - David Mazzucchelli 63"
+[AsteriosPolyp_DavidMazzucchelli_64]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_64.png "Asterios Polyp - David Mazzucchelli 64"
+[AsteriosPolyp_DavidMazzucchelli_65]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_65.png "Asterios Polyp - David Mazzucchelli 65"
+[AsteriosPolyp_DavidMazzucchelli_66]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_66.png "Asterios Polyp - David Mazzucchelli 66"
+[AsteriosPolyp_DavidMazzucchelli_67]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_67.png "Asterios Polyp - David Mazzucchelli 67"
+[AsteriosPolyp_DavidMazzucchelli_68]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_68.png "Asterios Polyp - David Mazzucchelli 68"
+[AsteriosPolyp_DavidMazzucchelli_69]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_69.png "Asterios Polyp - David Mazzucchelli 69"
+[AsteriosPolyp_DavidMazzucchelli_70]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_70.png "Asterios Polyp - David Mazzucchelli 70"
+[AsteriosPolyp_DavidMazzucchelli_71]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_71.png "Asterios Polyp - David Mazzucchelli 71"
+[AsteriosPolyp_DavidMazzucchelli_72]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_72.png "Asterios Polyp - David Mazzucchelli 72"
+[AsteriosPolyp_DavidMazzucchelli_73]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_73.png "Asterios Polyp - David Mazzucchelli 73"
+[AsteriosPolyp_DavidMazzucchelli_74]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_74.png "Asterios Polyp - David Mazzucchelli 74"
+[AsteriosPolyp_DavidMazzucchelli_75]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_75.png "Asterios Polyp - David Mazzucchelli 75"
+[AsteriosPolyp_DavidMazzucchelli_76]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_76.png "Asterios Polyp - David Mazzucchelli 76"
+[AsteriosPolyp_DavidMazzucchelli_77]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_77.png "Asterios Polyp - David Mazzucchelli 77"

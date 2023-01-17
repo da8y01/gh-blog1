@@ -16,7 +16,7 @@ description: "Bitcoin, la moneda del futuro. Qué es, cómo funciona y por qué 
 
 Libro Bitcoin, la moneda del futuro. Español. 100 páginas.
 
-Libro corto, fácil de leer, tiene fundamentos en ciencia económica, enfoque a todo público, habla del Estado, instituciones, las libertades, dinero Fiat, bancos, inflación, deflación, Satoshi Nakamoto, trading, especuladores, tiene secciones "light", poco técnico, algunos datos históricos, citas a economistas y teorías económicas, historia, parte práctica, ejemplos y analogías, referencias y enlaces.
+Libro corto, fácil de leer, tiene fundamentos en ciencia económica, enfoque a todo público, habla del Estado, instituciones, las libertades, dinero Fiat, bancos, inflación, deflación, Satoshi Nakamoto, trading, especuladores, tiene secciones "light", poco técnico, algunos datos históricos, citas a economistas y teorías económicas, historia, parte práctica, ejemplos y analogías, glosario, referencias y enlaces.
 
 
 ## Referencias
