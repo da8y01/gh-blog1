@@ -193,6 +193,10 @@ description: "Asterios Polyp - David Mazzucchelli"
 </div>
 
 <div style="text-align:center" markdown="1">
+![AsteriosPolyp_DavidMazzucchelli_32a][AsteriosPolyp_DavidMazzucchelli_32a]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
 ![AsteriosPolyp_DavidMazzucchelli_33][AsteriosPolyp_DavidMazzucchelli_33]{: width="50%"}
 </div>
 
@@ -521,6 +525,7 @@ https://translate.google.com/#en/es/hindsight understanding of a situation or ev
 [AsteriosPolyp_DavidMazzucchelli_30]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_30.png "Asterios Polyp - David Mazzucchelli 30"
 [AsteriosPolyp_DavidMazzucchelli_31]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_31.png "Asterios Polyp - David Mazzucchelli 31"
 [AsteriosPolyp_DavidMazzucchelli_32]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_32.png "Asterios Polyp - David Mazzucchelli 32"
+[AsteriosPolyp_DavidMazzucchelli_32a]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_32a.png "Asterios Polyp - David Mazzucchelli 32a"
 [AsteriosPolyp_DavidMazzucchelli_33]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_33.png "Asterios Polyp - David Mazzucchelli 33"
 [AsteriosPolyp_DavidMazzucchelli_34]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_34.png "Asterios Polyp - David Mazzucchelli 34"
 [AsteriosPolyp_DavidMazzucchelli_35]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_35.png "Asterios Polyp - David Mazzucchelli 35"
