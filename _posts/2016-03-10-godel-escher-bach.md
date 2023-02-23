@@ -456,7 +456,63 @@ El programa autorreproductor que sigue ha sido formulado en un lenguaje análogo
 
 En consecuencia, se debería conseguir que el programa imprimiera su propio número Gödel: un gigantesco entero cuya expansión decimal codifique el programa, carácter por carácter, mediante el empleo de codones de tres digitos. El programa se aproximará todo lo que pueda a imprimirse a sí mismo, dentro de los medios de que dispone: da salida a una copia de sí mismo dentro de otro "espacio".
 
-Esta clase de autorrep, que me fuera sugerida por Scott Kim, saca partido de un nivel del sistema que difiere del nivel al que uno normalmente se aproximaría.
+De igual manera, los números Gödel juegan papeles isomórficos con respecto a las cadenas, y es gracias a ellos que podemos descubrir significaciones matemáticas en enunciados referidos a números naturales. Por consiguiente, G es un ejemplo destacado de autorref por vía de traducción... para nada el caso más transparente. En términos de programas de autorreplicación, esto integraría una *familia* de programas, todos ellos formulados en "dialectos" de un mismo lenguaje de computadora, donde cada uno puede formularse así mismo, pero de un modo ligeramente modificado, de lo cual resulta un dialecto del lenguaje original. Esta clase de autorrep, que me fuera sugerida por Scott Kim, saca partido de un nivel del sistema que difiere del nivel al que uno normalmente se aproximaría.
+
+Con la Tipogenética, únicamente pretendo aportar una visión intuitiva de los procesos centrados en torno al famoso *Dogma Central de la Biología Molecular*, enunciado por Francis Crick. Lo que se sacrifica es, por supuesto, la exactitud rigurosa; lo que se gana, así confío, es un poco de comprensión.
+
+Luego, *toda enzima está constituida por una secuencia de aminoácidos*. Con fines comparativos, pensemos cuán diferente resultaría el acertijo MU si cada nuevo *teorema*, en él, produjese a su vez, por medio de algún código, una nueva *regla de inferencia*. Cada aminiácido interno (excepción hecha de ambos extremos) tiene la posibilidad de "ensortijarse". Esta es la clave de las preferencias en materia de ligamientos; de hecho, la *orientación relativa del primero y del último segmento* de la estructura ternaria de una enzima determina la preferencia en materia de ligamiento de la enzima.
+
+La definición de gen es: *la porción de una cadena que codifica una enzima individual*. El mecanismo que descifra las cadenas y produce las enzimas que están codificadas dentro de aquéllas se denomina *ribosoma*. (En Tipogenética, la función de los ribosomas la cumple quien practica el juego.) Los ribosomas no son responsables en absoluto por la estructura *ternaria* de las enzimas, pues ésta es enteramente determinada tan pronto es creada la estructura *primaria*.
+
+Esto puede seguir a través de una cantidad indefinida de estadios. En el sistema MIU *hay* una clara distinción de niveles: sencillamente, las reglas de inferencia pertenecen a un nivel más elevado que las cadenas. Lo mismo ocurre con TNT y con todos los sistemas formales.
+
+El ADN consiste en extensos encadenamientos de moléculas relativamente simples llamadas nucleótidos; cada nucleótido consta de tres partes: (1) un grupo fosfato; (2) un azúcar llamado "ribosa" despojado de un átomo especial de oxígeno, y (3) una *base*. Sólo la base distingue los nucleótidos entre sí, por lo cual basta con especificar su base para identificar un nucleótido.
+
+Un enlace de hidrógeno se origina cuando dos compuestos moleculares son alineados de forma tal que un átomo de hidrógeno, inicialmente perteneciente a uno de aquéllos, "confunde" su origen, ya no sabe a cuál compuesto pertenece, pues fluctúa entre ambos, y vacila en cuanto a cuál de los dos incorporarse.
+
+Pero la "vida" se mueve principalmente en el exterior del núcleo, específicamente en el *citoplasma*: el "fondo" de la "figura" núcleo. Las *enzimas*, en particular, que prácticamente hacen funcionar todo el proceso vital, son elaboradas en el citoplasma por los *ribosomas*, y cumplen la mayoría de sus tareas en el citoplasma.
+
+Aquí es donde aparece el *ARN mensajero*, se encarga de trasladar la información, o mensaje, desde su sitio de almacenamiento en la cámara nuclear del ADN, hasta los ribosomas, en el citoplasma.
+
+Al pasar, digamos que "ARN" es la abreviatura de "ácido ribonucleico", el cual guarda una estrecha semejanza con el ADN, salvo que todos sus nucleótidos poseen ese átomo particular de oxígeno, en el grupo azúcar, del que carecen los nucleotidos del ADN; de ahí que en su caso se suprima el prefijo "deoxi".
+
+Usualmente, el ARN no asume la forma de extensas cadenas dobles, pese a que puede hacerlo; se lo encuentra así, por lo común, en la forma helicoidal que tambien caracteriza al ADN pero, a diferencia de éste, se presenta en extensas cadenas curvadas un tanto caprichosamente.
+
+Las enzimas pertenecen a la categoría general de las biomoléculas llamadas *proteínas*, y la tarea de los ribosomas es elaborar todas las proteínas, no solamente las enzimas. Las proteínas que no son enzimas son un género mucho más pasivo de seres; muchas de ellas, por ejemplo, son moléculas *estructurales*, lo cual significa que actúan como las vigas, soportes y elementos similares en las construcciones: mantienen reunidas las distintas partes de la célula.
+
+Un aminoácido es una pequeña molécula de la misma complejidad, aproximadamente, que un nucleótido: de aquí que las secciones constructivas de las proteínas y de los ácidos nucleicos (ADN, ARN) sean, también aproximadamente, del mismo tamaño.
+
+Podría decirse que este proceso de traducción está ubicado en el corazón mismo de la vida, y que son muchos los misterios conectados con él.
+
+En verdad, uno de los principales problemas de la biología molecular contemporánea consiste en la determinación de reglas que permitan predecir la estructura ternaria de una proteína a partir de su estructura primaria, cuando ésta es conocida.
+
+En otras palabras, la contribución de un aminoácido indivdual, en la genética real, a la totalidad de las funciones de la enzima no es "independiente del contexto". 
+
+La dilucidación de la *función* de una enzima, dada su *estructura* primaria, o inclusive la ternaria, es otro de los grandes problemas de la biología molecular contemporánea.
+
+Para adquirir una comprensión intuitiva y eficaz de cómo interactúan las partes --abreviando: para poder seguir adelante-- es forzoso, a menudo, renunciar a la exactitud  que brinda una imagen microscópica e independiente de contexto, sencillamente a causa de que no se la puede manejar. Pero no se renuncia, en ese momento, a la convicción de que tal explicación, en principio, existe.
+
+Lo llamativo es que el Código Genético está almacenado --¿dónde si no?-- en el propio ADN.
+
+Dicho sea de paso, el enlace entre un aminoácido y su vecino, en una proteína, es un enlace covalente muy firme, denominado "enlace peptídico". Por este motivo, las enzimas son llamadas en ocasiones  "polpéptidos".
+
+Además, las moléculas del ARNt se parecen a las proteínas (y difieren de las cadenas de ARNm) en este particular: tienen estructuras ternarias fijas y bien definidas, determinadas por su estructura primaria.
+
+En cierto sentido, las moléculas del ARNt contienen la esencia del mensaje *exterior* del ADN, puesto que son las claves del proceso de traducción. Pero, a su vez, también provienen del ADN.
+
+no hay forma de que el ADN se alce a sí mismo mediante el uso de sus propios "ganchos".
+
+El esfuerzo de obviar la necesidad de toda clase de mensaje exterior es semejante al del dragón de Escher, el cual procura lo más empeñosamente que puede, dentro del contexto bidimensional del mundo al que está confinado, pasar a ser tridimensional. Sus ensayos son muy meritorios, pero está descontado que jamás lo conseguirá, por más aprpximadas que sean sus imitaciones de la tridimensionalidad.
+
+La música no es una mera secuencia lineal de notas; nuestra mente percibe la música en un nivel mucho más elevado que ése. A las notas las articulamos en frases, a las frases en melodías, a las melodías en movimientos y a los movimientos en composiciones.
+
+Recordemos que el ARNm proviene de la transcripción del ADN; las enzimas que son responsables de este proceso son llamadas *polimerasas ARN* ("-asa" es un sufijo genérico aplicado a las enzimas).
+
+Los ribosomas están formados por dos tipos de cosas: (1) diversas clases de proteínas, y (2) otra clase de ARN, llamado *ARN ribosómico* (ARNr).
+
+Todas las enzimas son *catalizadoras*, lo cual significa que, en cierto sentido, lo que hacen no va más allá de *acelerar selectivamente* distintos procesos químicos de la célula, en lugar de provocar la ocurrencia de hechos que sin su intervención no habrían tenido lugar.
+
+... pese a la circunstancia de que, teóricamente hablando, no es nula la probabilidad de que un proceso celular suceda espontáneamente, sin la ayuda de catalizadores. Este punto es calificado como *activo*, y las moléculas con las que se combina por intermediación del mismo son llamadas *sustratos*. "señuelos": otros tipos de moléculas, que pueden amoldarse al sitio activo y obturarlo, engañando a la enzima y volviéndola inactiva.
 
 
 #### <span id="capxvii">[Capítulo XVII: Church, Turing, Tarski y otros](#capxvii)</span>
