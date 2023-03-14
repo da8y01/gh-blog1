@@ -17,6 +17,14 @@ tags: review novela novel "Gödel, Escher, Bach. un Eterno y Grácil Bucle - Dou
 
 ## <span id="sinopsis">[SINOPSIS](#sinopsis)</span>
 
+### <span id="indice">[Índice](#indice)</span>
+
+<div style="text-align:center" markdown="1">
+![Gödel, Escher, Bach][GodelEscherBach-01_Indice1]{: width="40%"}
+![Gödel, Escher, Bach][GodelEscherBach-02_Indice2]{: width="40%"}
+</div>
+
+
 ### <span id="panoramica">[Visión panorámica](#panoramica)</span>
 
 <div style="text-align:center" markdown="1">
@@ -432,7 +440,7 @@ Es posible, inclusive, que la autotrascendencia sea el tema central del zen. En 
 #### <span id="pensamientosfumador">[*Pensamientos edificantes de un fumador de tabaco*](#pensamientosfumador)</span>
 
 <div style="text-align:center" markdown="1">
-![Gödel, Escher, Bach][GodelEscherBach-39_PensamientosFumador]{: width="50%"}
+![Gödel, Escher, Bach][GodelEscherBach-41_PensamientosEdificantesFumadorTabaco]{: width="50%"}
 </div>
 
 Tanto Magritte como Escher emplean gran realismo al explorar los mundos de la paradoja y la ilusión; ambos tienen un gran sentido del poder evocativo de ciertos símbolos visuales, y --algo que incluso sus admiradores son incapaces de advertir-- ambos tienen gran sentido de la gracia del trazo.
@@ -445,7 +453,7 @@ Hmm... eso me recuerda algo que el Sr. Tortuga dijo hace tiempo acerca de que la
 #### <span id="capxvi">[Capítulo XVI: Autorref y Autorrep](#capxvi)</span>
 
 <div style="text-align:center" markdown="1">
-![Gödel, Escher, Bach][GodelEscherBach-03_VisionPanoramica]{: width="50%"}
+![Gödel, Escher, Bach][GodelEscherBach-42_CapXVI]{: width="50%"}
 </div>
 
 Las secuencias de palabras constituyen esa parte visible, mientras que la invisible consiste en el procesamiento necesario para comprenderlas. En este sentido su significación es implícita, no explícita. Lo que es especialmente importante es la capacidad de determinar el referente de una frase nominal que contenga un adjetivo demostrativo.
@@ -514,67 +522,106 @@ Todas las enzimas son *catalizadoras*, lo cual significa que, en cierto sentido,
 
 ... pese a la circunstancia de que, teóricamente hablando, no es nula la probabilidad de que un proceso celular suceda espontáneamente, sin la ayuda de catalizadores. Este punto es calificado como *activo*, y las moléculas con las que se combina por intermediación del mismo son llamadas *sustratos*. "señuelos": otros tipos de moléculas, que pueden amoldarse al sitio activo y obturarlo, engañando a la enzima y volviéndola inactiva.
 
+Sin embargo, la mayor parte de las enzimas efectúan esencialmente una sola tarea, y no una secuencia de tareas. Otra diferencia saliente entre las tipoenzimas y las bioenzimas es ésta: mientras que las tipo enzimas operan únicamente sobre cadenas, las bioenzimas pueden hacerlo sobre el ADN, el ARN, otras proteínas, los ribosomas, sobre membranas celulares y, en fin, sobre lo que fuere que pertenezca a la célula. En otras palabras, las enzimas son los mecanismos unviersales para lograr que se hagan cosas en la celula.
+
+Hay una analogía bioquímica de la dicotomía uso-mención: cuando el ADN es manejado como una simple secuencia de entidades químicas que deben ser copiadas, ello se asemeja a la *mención* de símbolos tipográficos; cuando el ADN dicta las operaciones que han de ser cumplidas, la semejanza es con el *uso* de las símbolos tipográficos.
+
+¿Nos sería posible, en principio, aprender a leer talez piezas de información, directamente, en una cadena de ADN, sin necesidad de pasar por el proceso físico de la *epigénesis*, es decir, la extracción física del fenotipo desde el genotipo?
+
+Con atajos o sin ellos, lo cierto es que la seudoepigénesis está completamente fuera de alcance en la actualidad, con una notable excepción: en la especie *Felis catus*, está comprobado a través de profundas indagaciones que es posible, por cierto, leer el fenotipo directamente en el genotipo.
+
+Son como las heterarquías de que hablamos en el Capítulo V, en la cuales un sustrato lo suficientemente complejo permite que aparezcan Bucles Extraños de alto nivel, recíproca y cíclicamente imbricados, y tabicados por completo con respecto a los niveles más bajos.
+
+*Siempre es posible diseñar una cadena de ADN que, en caso de ser introducida en una célula, al ser transcripta, generaría la producción de proteínas que destruirían la célula (o el ADN), de lo cual resultaría la no reproducción de ese ADN.*
+
+Esto despierta una imagen más bien graciosa, por lo menos desde la perspectiva de la evolución: una especie invasora de virus ingresa a una célula valiéndose de ciertos recursos subrepticios y, a continuación, ¡se asegura prolijamente de que sean producidas proteínas cuyo efecto consista en destruir ese mismo virus! Es una forma de suicidio --o de enunciado de Epiménides-- en el nivel molecular.
+
+Sin embargo, sirve para demostrar el espíritu, si no la letra, de los mecanismos de protección y de subversión que han desarrollado las celúlas y sus invasores.
+
+Dicho al márgen, las palabras "fago" y "virus" son sinónimas, y significan "agresor de las células bacteriales".
+
+... pero no perseguiremos estas posibilidades.
+
+Ya hemos hablado del término análogo a los fagos que se autoanulan: a saber, las cadenas del tipo Gödel, las cuales afirman su propia improducibilidad en el interior de los sistemas formales.
+
+Se habla de *diferenciación* y *morfogénesis* celular, retroalimentación y prealimentación según condiciones celulares, las acciones de *inhibición* y *represión*, *represores* e *inductores* a nivel proteínico.
+
+Tómese note de que la naturaleza, aparentemente, ¡*ama* la doble negación! Es probable que haya alguna razón profunda para ello.
+
+aminoácidos: triptófano, isoleucina.
+
+Existe la explicación de que la diferencia entre dos células contiguas que comparten exactamente el mismo genotipo y, pese a ello, cumplen funciones diferentes, se debe a que diferentes segmentos de su genomio han sido reprimidos, y por consiguiente tienen diferentes *juegos operativos* de proteínas. Tal hipótesis puede dar razón de las extraordinarias diferencias entre las células de los distintos órganos de un cuerpo humano.
+
+Por el momento, debemos conformarnos con un sentimiento de asombro y de reverencia, antes bien que con una respuesta. Experimentar ese sentimiento quizá sea más satisfactorio que contar con una respuesta, al menos por un tiempo.
+
+
+#### <span id="magnificangrejorealidad">[*El Magnificangrejo, en realidad*](#magnificangrejorealidad)</span>
+
+<div style="text-align:center" markdown="1">
+![Gödel, Escher, Bach][GodelEscherBach-43_MagnificangrejoRealidad]{: width="50%"}
+</div>
+
+Aquiles, Tortuga y Cangrejo se encuentran de camino a la casa de té en la cima del cerro, de la carta del matemático indio Nayunamar, de la interpretación de TNT como notas musicales, mención al músico John Cage, del enunciado TNT musical propuesto por Aquiles que Cangrejo finalmente escapa de tocar en su flauta.
+
+Muy bien dicho, Aquiles. Ciertamente tiene Ud. una conciencia de primera clase acerca de su propio funcionamiento mental.
+
+Tengo plena confianza en que todo lo que Nuyanamar hizo a su manera tiene un perfecto paralelo dentro de la matemática ortodoxa. En mi opinión, no hay ninguna manera de hacer matemática que sea fundamentalmente diferente de lo que nosotros conocemos.
+
+... y del reflejo de los rayos solares en las hojas y capullos nuevos.
+
+Nunca he compuesto nada antes, y debo decir que componer es muy diferente a como yo había imaginado que era.
+
+¡Espero que no le haya disgustado mi pieza!
+
+Uno no siempre entiende cuál es la raíz de la belleza.
+
+Eso crearía un efecto sutil e inusual.
+
+Quizá sea ésta una ocasión en que las palabras no son capaces de transmitir lo que el espíritu puede sentir.
+
+El sentido de la Belleza es un dominio exclusivo de las Mentes Conscientes, mentes que a través de la exeriencia de la vida han conquistado una profundidad que trasciende la explicación por cualquier simple conjunto de reglas.
+
+Nunca subestime la potencialidad de su capacidad de comprensión.
+
+Pero no sé qué tiene que ver esto con el precio del té en China.
+
+Oh, sí. De hecho, es un té primo.
+
 
 #### <span id="capxvii">[Capítulo XVII: Church, Turing, Tarski y otros](#capxvii)</span>
 
 <div style="text-align:center" markdown="1">
-![Gödel, Escher, Bach][GodelEscherBach-03_VisionPanoramica]{: width="50%"}
+![Gödel, Escher, Bach][GodelEscherBach-44_CapXVII]{: width="50%"}
 </div>
+
+la de que todos los aspectos del pensamiento pueden ser vistos como una descripción de alto nivel de un sistema que, en un bajo nivel, es gobernado por reglas simples e, inclusive, formales.
 
 
 #### <span id="capxviii">[Capítulo XVIII: Inteligencia Artificial: mirada retrospectiva](#capxviii)</span>
 
 <div style="text-align:center" markdown="1">
-![Gödel, Escher, Bach][GodelEscherBach-03_VisionPanoramica]{: width="50%"}
+![Gödel, Escher, Bach][GodelEscherBach-46_CapXVIII]{: width="50%"}
 </div>
 
 
 #### <span id="capxix">[Capítulo XIX: Inteligencia Artificial: mirada prospectiva](#capxix)</span>
 
 <div style="text-align:center" markdown="1">
-![Gödel, Escher, Bach][GodelEscherBach-03_VisionPanoramica]{: width="50%"}
+![Gödel, Escher, Bach][GodelEscherBach-48_CapXIX]{: width="50%"}
 </div>
 
 
 #### <span id="capxx">[Capítulo XX: Bucles Extraños o Jerarquías Enredadas](#capxx)</span>
 
 <div style="text-align:center" markdown="1">
-![Gödel, Escher, Bach][GodelEscherBach-03_VisionPanoramica]{: width="50%"}
+![Gödel, Escher, Bach][GodelEscherBach-50_CapXX]{: width="50%"}
 </div>
 
 
-### Notas
+### <span id="notas">[Notas](#notas)</span>
 
 <div style="text-align:center" markdown="1">
-![Gödel, Escher, Bach][GodelEscherBach-03_VisionPanoramica]{: width="50%"}
-</div>
-
-
-### Listas de ilustraciones
-
-<div style="text-align:center" markdown="1">
-![Gödel, Escher, Bach][GodelEscherBach-03_VisionPanoramica]{: width="50%"}
-</div>
-
-
-### Bibliografía
-
-<div style="text-align:center" markdown="1">
-![Gödel, Escher, Bach][GodelEscherBach-03_VisionPanoramica]{: width="50%"}
-</div>
-
-
-### Créditos
-
-<div style="text-align:center" markdown="1">
-![Gödel, Escher, Bach][GodelEscherBach-03_VisionPanoramica]{: width="50%"}
-</div>
-
-
-### Indice analítico
-
-<div style="text-align:center" markdown="1">
-![Gödel, Escher, Bach][GodelEscherBach-03_VisionPanoramica]{: width="50%"}
+![Gödel, Escher, Bach][GodelEscherBach-52_Notas]{: width="50%"}
 </div>
 
 
@@ -843,35 +890,45 @@ retruécano, paráfrasis, holismo, reduccionismo, marrullería, aberrante, **con
 [GodelEscherBach-08_Introduccion]: {{ site.baseurl }}/assets/GodelEscherBach-08_Introduccion.jpg "Gödel, Escher, Bach (Índice 1)"
 [GodelEscherBach-09_KurtGodel]: {{ site.baseurl }}/assets/GodelEscherBach-09_KurtGodel.jpg "Gödel, Escher, Bach (Índice 1)"
 [GodelEscherBach-10_InvencionTresVoces]: {{ site.baseurl }}/assets/GodelEscherBach-10_InvencionTresVoces.jpg "Gödel, Escher, Bach (Índice 1)"
-[GodelEscherBach-11_CapI]: {{ site.baseurl }}/assets/GodelEscherBach-11_CapI.jpg "Gödel, Escher, Bach (Índice 1)"
+[GodelEscherBach-11_CapI]: {{ site.baseurl }}/assets/GodelEscherBach-11_CapI.jpg "Gödel, Escher, Bach (Cap I)"
 [GodelEscherBach-12_InvencionDosVoces]: {{ site.baseurl }}/assets/GodelEscherBach-12_InvencionDosVoces.jpg "Gödel, Escher, Bach (Índice 1)"
-[GodelEscherBach-13_CapII]: {{ site.baseurl }}/assets/GodelEscherBach-13_CapII.jpg "Gödel, Escher, Bach (Índice 1)"
+[GodelEscherBach-13_CapII]: {{ site.baseurl }}/assets/GodelEscherBach-13_CapII.jpg "Gödel, Escher, Bach (Cap II)"
 [GodelEscherBach-14_SonataAquilesSolo]: {{ site.baseurl }}/assets/GodelEscherBach-14_SonataAquilesSolo.jpg "Gödel, Escher, Bach (Índice 1)"
-[GodelEscherBach-15_CapIII]: {{ site.baseurl }}/assets/GodelEscherBach-15_CapIII.jpg "Gödel, Escher, Bach (Índice 1)"
+[GodelEscherBach-15_CapIII]: {{ site.baseurl }}/assets/GodelEscherBach-15_CapIII.jpg "Gödel, Escher, Bach (Cap III)"
 [GodelEscherBach-16_ContraCrostipunctus]: {{ site.baseurl }}/assets/GodelEscherBach-16_ContraCrostipunctus.jpg "Gödel, Escher, Bach (Índice 1)"
-[GodelEscherBach-17_CapIV]: {{ site.baseurl }}/assets/GodelEscherBach-17_CapIV.jpg "Gödel, Escher, Bach (Índice 1)"
+[GodelEscherBach-17_CapIV]: {{ site.baseurl }}/assets/GodelEscherBach-17_CapIV.jpg "Gödel, Escher, Bach (Cap IV)"
 [GodelEscherBach-18_PequenioLaberintoArmonico]: {{ site.baseurl }}/assets/GodelEscherBach-18_PequenioLaberintoArmonico.jpg "Gödel, Escher, Bach (Índice 1)"
-[GodelEscherBach-19_CapV]: {{ site.baseurl }}/assets/GodelEscherBach-19_CapV.jpg "Gödel, Escher, Bach (Índice 1)"
+[GodelEscherBach-19_CapV]: {{ site.baseurl }}/assets/GodelEscherBach-19_CapV.jpg "Gödel, Escher, Bach (Cap V)"
 [GodelEscherBach-20_CanonAumentacionIntervalica]: {{ site.baseurl }}/assets/GodelEscherBach-20_CanonAumentacionIntervalica.jpg "Gödel, Escher, Bach (Índice 1)"
-[GodelEscherBach-21_CapVI]: {{ site.baseurl }}/assets/GodelEscherBach-21_CapVI.jpg "Gödel, Escher, Bach (Índice 1)"
+[GodelEscherBach-21_CapVI]: {{ site.baseurl }}/assets/GodelEscherBach-21_CapVI.jpg "Gödel, Escher, Bach (Cap VI)"
 [GodelEscherBach-22_FantasiaCromaticaFuria]: {{ site.baseurl }}/assets/GodelEscherBach-22_FantasiaCromaticaFuria.jpg "Gödel, Escher, Bach (Índice 1)"
-[GodelEscherBach-23_CapVII]: {{ site.baseurl }}/assets/GodelEscherBach-23_CapVII.jpg "Gödel, Escher, Bach (Índice 1)"
+[GodelEscherBach-23_CapVII]: {{ site.baseurl }}/assets/GodelEscherBach-23_CapVII.jpg "Gödel, Escher, Bach (Cap VII)"
 [GodelEscherBach-24_CanonCangrejo]: {{ site.baseurl }}/assets/GodelEscherBach-24_CanonCangrejo.jpg "Gödel, Escher, Bach (Índice 1)"
-[GodelEscherBach-25_CapVIII]: {{ site.baseurl }}/assets/GodelEscherBach-25_CapVIII.jpg "Gödel, Escher, Bach (Índice 1)"
+[GodelEscherBach-25_CapVIII]: {{ site.baseurl }}/assets/GodelEscherBach-25_CapVIII.jpg "Gödel, Escher, Bach (Cap VIII)"
 [GodelEscherBach-26_UnaOfrendaMU]: {{ site.baseurl }}/assets/GodelEscherBach-26_UnaOfrendaMU.jpg "Gödel, Escher, Bach (Índice 1)"
-[GodelEscherBach-27_CapIX]: {{ site.baseurl }}/assets/GodelEscherBach-27_CapIX.jpg "Gödel, Escher, Bach (Índice 1)"
+[GodelEscherBach-27_CapIX]: {{ site.baseurl }}/assets/GodelEscherBach-27_CapIX.jpg "Gödel, Escher, Bach (Cap IX)"
 [GodelEscherBach-28_ParteII]: {{ site.baseurl }}/assets/GodelEscherBach-28_ParteII.jpg "Gödel, Escher, Bach (Índice 1)"
 [GodelEscherBach-29_PreludioY]: {{ site.baseurl }}/assets/GodelEscherBach-29_PreludioY.jpg "Gödel, Escher, Bach (Índice 1)"
-[GodelEscherBach-30_CapX]: {{ site.baseurl }}/assets/GodelEscherBach-30_CapX.jpg "Gödel, Escher, Bach (Índice 1)"
+[GodelEscherBach-30_CapX]: {{ site.baseurl }}/assets/GodelEscherBach-30_CapX.jpg "Gödel, Escher, Bach (Cap X)"
 [GodelEscherBach-31_Furmiga]: {{ site.baseurl }}/assets/GodelEscherBach-31_Furmiga.jpg "Gödel, Escher, Bach (Índice 1)"
-[GodelEscherBach-32_CapXI]: {{ site.baseurl }}/assets/GodelEscherBach-32_CapXI.jpg "Gödel, Escher, Bach (Índice 1)"
+[GodelEscherBach-32_CapXI]: {{ site.baseurl }}/assets/GodelEscherBach-32_CapXI.jpg "Gödel, Escher, Bach (Cap XI)"
 [GodelEscherBach-33_SuiteAngloFrancoGermanicoEspaniola]: {{ site.baseurl }}/assets/GodelEscherBach-33_SuiteAngloFrancoGermanicoEspaniola.jpg "Gödel, Escher, Bach (Índice 1)"
-[GodelEscherBach-34_CapXII]: {{ site.baseurl }}/assets/GodelEscherBach-34_CapXII.jpg "Gödel, Escher, Bach (Índice 1)"
+[GodelEscherBach-34_CapXII]: {{ site.baseurl }}/assets/GodelEscherBach-34_CapXII.jpg "Gödel, Escher, Bach (Cap XII)"
 [GodelEscherBach-35_AriaVariacionesDiversas]: {{ site.baseurl }}/assets/GodelEscherBach-35_AriaVariacionesDiversas.jpg "Gödel, Escher, Bach (Índice 1)"
-[GodelEscherBach-36_CapXIII]: {{ site.baseurl }}/assets/GodelEscherBach-36_CapXIII.jpg "Gödel, Escher, Bach (Índice 1)"
+[GodelEscherBach-36_CapXIII]: {{ site.baseurl }}/assets/GodelEscherBach-36_CapXIII.jpg "Gödel, Escher, Bach (Cap XIII)"
 [GodelEscherBach-37_AireCuerdaG]: {{ site.baseurl }}/assets/GodelEscherBach-37_AireCuerdaG.jpg "Gödel, Escher, Bach (Índice 1)"
-[GodelEscherBach-38_CapXIV]: {{ site.baseurl }}/assets/GodelEscherBach-38_CapXIV.jpg "Gödel, Escher, Bach (Índice 1)"
+[GodelEscherBach-38_CapXIV]: {{ site.baseurl }}/assets/GodelEscherBach-38_CapXIV.jpg "Gödel, Escher, Bach (Cap XIV)"
 [GodelEscherBach-39_CantatatataCumpleanios]: {{ site.baseurl }}/assets/GodelEscherBach-39_CantatatataCumpleanios.jpg "Gödel, Escher, Bach (Índice 1)"
-[GodelEscherBach-40_CapXV]: {{ site.baseurl }}/assets/GodelEscherBach-40_CapXV.jpg "Gödel, Escher, Bach (Índice 1)"
-[GodelEscherBach-41_Indice1]: {{ site.baseurl }}/assets/GodelEscherBach-41_Indice1.jpg "Gödel, Escher, Bach (Índice 1)"
-[GodelEscherBach-42_Indice1]: {{ site.baseurl }}/assets/GodelEscherBach-42_Indice1.jpg "Gödel, Escher, Bach (Índice 1)"
+[GodelEscherBach-40_CapXV]: {{ site.baseurl }}/assets/GodelEscherBach-40_CapXV.jpg "Gödel, Escher, Bach (Cap XV)"
+[GodelEscherBach-41_PensamientosEdificantesFumadorTabaco]: {{ site.baseurl }}/assets/GodelEscherBach-41_PensamientosEdificantesFumadorTabaco.jpg "Gödel, Escher, Bach (Índice 1)"
+[GodelEscherBach-42_CapXVI]: {{ site.baseurl }}/assets/GodelEscherBach-42_CapXVI.jpg "Gödel, Escher, Bach (Cap XVI)"
+[GodelEscherBach-43_MagnificangrejoRealidad]: {{ site.baseurl }}/assets/GodelEscherBach-43_MagnificangrejoRealidad.jpg "Gödel, Escher, Bach (Índice 1)"
+[GodelEscherBach-44_CapXVII]: {{ site.baseurl }}/assets/GodelEscherBach-44_CapXVII.jpg "Gödel, Escher, Bach (Cap XVII)"
+[GodelEscherBach-45_SHRDLUJugueteriaHombre]: {{ site.baseurl }}/assets/GodelEscherBach-45_SHRDLUJugueteriaHombre.jpg "Gödel, Escher, Bach (Índice 1)"
+[GodelEscherBach-46_CapXVIII]: {{ site.baseurl }}/assets/GodelEscherBach-46_CapXVIII.jpg "Gödel, Escher, Bach (Cap XVIII)"
+[GodelEscherBach-47_Contrafactus]: {{ site.baseurl }}/assets/GodelEscherBach-47_Contrafactus.jpg "Gödel, Escher, Bach (Índice 1)"
+[GodelEscherBach-48_CapXIX]: {{ site.baseurl }}/assets/GodelEscherBach-48_CapXIX.jpg "Gödel, Escher, Bach (Cap XIX)"
+[GodelEscherBach-49_CanonPerezoso]: {{ site.baseurl }}/assets/GodelEscherBach-49_CanonPerezoso.jpg "Gödel, Escher, Bach (Índice 1)"
+[GodelEscherBach-50_CapXX]: {{ site.baseurl }}/assets/GodelEscherBach-50_CapXX.jpg "Gödel, Escher, Bach (Cap XX)"
+[GodelEscherBach-51_RicercarSeisVoces]: {{ site.baseurl }}/assets/GodelEscherBach-51_RicercarSeisVoces.jpg "Gödel, Escher, Bach (Índice 1)"
+[GodelEscherBach-52_Notas]: {{ site.baseurl }}/assets/GodelEscherBach-52_Notas.jpg "Gödel, Escher, Bach (Notas)"
