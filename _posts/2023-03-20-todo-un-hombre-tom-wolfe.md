@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /todo-un-hombre-tom-wolfe.html
-date: 2023-01-13 21:34:42
+date: 2023-03-20 21:34:42
 tags: review literatura "Todo un hombre - Tom Wolfe" "Todo un hombre" "Tom Wolfe" TodoUnHombre_TomWolfe TodoUnHombre TomWolfe
 title: "Todo un hombre - Tom Wolfe"
 image: https://da8y01.github.io/gh-blog/assets/TodoUnHombre_TomWolfe_portada.jpg
