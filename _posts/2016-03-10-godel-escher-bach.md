@@ -596,6 +596,38 @@ Oh, sí. De hecho, es un té primo.
 
 la de que todos los aspectos del pensamiento pueden ser vistos como una descripción de alto nivel de un sistema que, en un bajo nivel, es gobernado por reglas simples e, inclusive, formales.
 
+Y si la "matemática" es definida como aquello que los matemáticos disfrutan ejercitando, las propiedades del cerebro no son entonces matemáticas.
+
+Esto es lo que la investigación en materia de Inteligencia Artificial espera descubrir, y se trata de algo cuyo tono difiere por completo de la investigación matemática. A menudo, los investigadores de IA están dotados de una sólida formación matemática, y los matemáticos pueden sentirse intrigados por el funcionamiento de su propio cerebro.
+
+El objetivo de IA es averiguar qué sucede cuando la mente, silenciosa e invisiblemente, elige, de entre una miríada de alternativas, la que tiene mayor sentido para ser aplicada a una situación sumamente compleja. En muchas circunstancias de la vida real, el razonamiento deductivo es inadecuado, no porque brinde respuestas *erróneas*, sino porque pueden ser formulados muchísimos enunciados correctos pero *no pertinentes*.
+
+la Tesis Church-Turing es, indudablemente, uno de los elementos conceptuales de mayor importancia en la filosofía de la matemática, del cerebro y del pensamiento.
+
+O sea que los bucles compuestos por tales operaciones, parece, son la única herramienta que permite explorar el mundo de los números.
+
+La Tesis Church-Turing no es un hecho demostrable en el sentido en que lo es un teorema matemático: es una hipótesis acerca de los procesos que utiliza el cerebro humano.
+
+La idea, aquí, es que tal vez tenemos un potencial subconsciente para hacer cosas que trascienden los procesos conscientes.
+
+Ahora bien, a veces un hecho del que se podría pensar que, aún cuando no sea provechoso, hace que la gente crédula se torne algo más escéptica, tiene en realidad un efecto inverso: produce un impacto en algún punto vulnerable de aquélla, presionándola con la insinuación de que hay una faceta irracional en la naturaleza humana. Tal fue el caso con los desvaríos de Ramanuyan: muchas personas educadas, ansiosos por depositar su confianza en algo así, consideraron que las facultades inuitivas de Ramanuyan eran evidencia de una penetración mísitica de la Verdad, y que su falibilidad contribuía, si contribuía a alguna cosa, a fortalecer esa fé, antes que a debilitarla.
+
+Hay un sentido, no obstante, en el cual la generalización de Hardy es "la de aspecto más matemático". ¿Podrá ser programado alguna vez este sentido estético de la matemática?
+
+"Lo que yo creo es que todos los matemáticos, en el fondo, piensan mediante las mismas modalidades, y que Ramanuyan no fue una excepción al respecto."
+
+*capacidad de generalización, un sentimiento de la forma y una aptitud para la rápida modificación de sus hipótesis*
+
+Pero creo que es importante disipar la idea de que aquéllos emplean algún método misterioso e inanalizable.
+
+Probablemente se pueda elaborar un prolijo diseño que muestre cómo varían los lapsos de respuesta de un calculista relámpago según las dimensiones de los números comprendidos, y de las operaciones involucradas, y a partir de allí deducir algunos rasgos de los algortimos empleados.
+
+En resumen, esta versión afirma que, cuando hacemos cualquier cómputo, nuestra actividad mental puede ser reflejada ismórficamente por algún programa BuL.
+
+Más exactamente, la suposición consiste en que hay entidades software que cumplen las funciones de diversas construcciones matemáticas, y que son activadas en formas que pueden ser reflejadas con exactitud dentro de BuL.
+
+Las raíces simbolizan los complejos procesos que tienen lugar por debajo del nivel consciente de la mente, procesos cuyos efectos inciden sobre el modo en que pensamos, pero de los cuales no nos apercibimos. Se trata de los "patrones desencadenantes de símbolos", aludidos en los Capítulos XI y XII.
+
 
 #### <span id="capxviii">[Capítulo XVIII: Inteligencia Artificial: mirada retrospectiva](#capxviii)</span>
 

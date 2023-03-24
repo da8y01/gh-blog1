@@ -13,7 +13,7 @@ description: "Watchmen - Alan Moore, Dave Gibbons"
 ![WatchmenDCComics_front][WatchmenDCComics_front]{: width="50%"}
 </div>
 
-***
+## <span id="Chap01">[Chapter I](#Chap01)</span>
 
 <div style="text-align:center" markdown="1">
 ![WatchmenDCComics_chapter01][WatchmenDCComics_chapter01]{: width="50%"}
@@ -31,7 +31,7 @@ description: "Watchmen - Alan Moore, Dave Gibbons"
 ![WatchmenDCComics_chapter01_03][WatchmenDCComics_chapter01_03]{: width="40%"}
 </div>
 
-***
+## <span id="Chap02">[Chapter II](#Chap02)</span>
 
 <div style="text-align:center" markdown="1">
 ![WatchmenDCComics_chapter02][WatchmenDCComics_chapter02]{: width="50%"}
@@ -81,7 +81,7 @@ description: "Watchmen - Alan Moore, Dave Gibbons"
 ![WatchmenDCComics_chapter02_11][WatchmenDCComics_chapter02_11]{: width="40%"}
 </div>
 
-***
+## <span id="Chap03">[Chapter III](#Chap03)</span>
 
 <div style="text-align:center" markdown="1">
 ![WatchmenDCComics_chapter03][WatchmenDCComics_chapter03]{: width="50%"}
@@ -159,61 +159,59 @@ description: "Watchmen - Alan Moore, Dave Gibbons"
 ![WatchmenDCComics_chapter03_18][WatchmenDCComics_chapter03_18]{: width="40%"}
 </div>
 
-***
+## <span id="Chap04">[Chapter IV](#Chap04)</span>
 
 <div style="text-align:center" markdown="1">
 ![WatchmenDCComics_chapter04][WatchmenDCComics_chapter04]{: width="50%"}
 </div>
 
-***
+## <span id="Chap05">[Chapter V](#Chap05)</span>
 
 <div style="text-align:center" markdown="1">
 ![WatchmenDCComics_chapter05][WatchmenDCComics_chapter05]{: width="50%"}
 </div>
 
-***
+## <span id="Chap06">[Chapter VI](#Chap06)</span>
 
 <div style="text-align:center" markdown="1">
 ![WatchmenDCComics_chapter06][WatchmenDCComics_chapter06]{: width="50%"}
 </div>
 
-***
+## <span id="Chap07">[Chapter VII](#Chap07)</span>
 
 <div style="text-align:center" markdown="1">
 ![WatchmenDCComics_chapter07][WatchmenDCComics_chapter07]{: width="50%"}
 </div>
 
-***
+## <span id="Chap08">[Chapter VIII](#Chap08)</span>
 
 <div style="text-align:center" markdown="1">
 ![WatchmenDCComics_chapter08][WatchmenDCComics_chapter08]{: width="50%"}
 </div>
 
-***
+## <span id="Chap09">[Chapter IX](#Chap09)</span>
 
 <div style="text-align:center" markdown="1">
 ![WatchmenDCComics_chapter09][WatchmenDCComics_chapter09]{: width="50%"}
 </div>
 
-***
+## <span id="Chap10">[Chapter X](#Chap10)</span>
 
 <div style="text-align:center" markdown="1">
 ![WatchmenDCComics_chapter10][WatchmenDCComics_chapter10]{: width="50%"}
 </div>
 
-***
+## <span id="Chap11">[Chapter XI](#Chap11)</span>
 
 <div style="text-align:center" markdown="1">
 ![WatchmenDCComics_chapter11][WatchmenDCComics_chapter11]{: width="50%"}
 </div>
 
-***
+## <span id="Chap12">[Chapter XII](#Chap12)</span>
 
 <div style="text-align:center" markdown="1">
 ![WatchmenDCComics_chapter12][WatchmenDCComics_chapter12]{: width="50%"}
 </div>
-
-***
 
 <div style="text-align:center" markdown="1">
 ![WatchmenDCComics_back][WatchmenDCComics_back]{: width="50%"}
