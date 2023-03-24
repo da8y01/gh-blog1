@@ -14,7 +14,7 @@ description: "Feynman Lectures on Computation - Richard Phillips Feynman (englis
 ![RPFLecturesComputation_Portada][RPFLecturesComputation_Portada]{: width="40%"}
 </div>
 
-***
+## <span id="Contents">[Contents | Índice](#Contents)</span>
 
 <div style="text-align:center" markdown="1">
 ![RPFLecturesComputation_Contents1][RPFLecturesComputation_Contents1]{: width="30%"}
@@ -27,13 +27,13 @@ description: "Feynman Lectures on Computation - Richard Phillips Feynman (englis
 ![RPFLecturesComputation_Indice2][RPFLecturesComputation_Indice2]{: width="40%"}
 </div>
 
-***
+## <span id="Preface">[Preface | Prefacio](#Preface)</span>
 
 <div style="text-align:center" markdown="1">
-![RPFLecturesComputation_Prologo][RPFLecturesComputation_Prologo]{: width="50%"}
+![RPFLecturesComputation_Prefacio][RPFLecturesComputation_Prefacio]{: width="50%"}
 </div>
 
-***
+## <span id="Chap1">[1. Introduction to Computers | Introducción a los computadores](#Chap1)</span>
 
 <div style="text-align:center" markdown="1">
 ![RPFLecturesComputation_Cap1][RPFLecturesComputation_Cap1]{: width="50%"}
@@ -63,7 +63,7 @@ description: "Feynman Lectures on Computation - Richard Phillips Feynman (englis
 ![RPFLecturesComputation_Chap1-3_1_Pag18][RPFLecturesComputation_Chap1-3_1_Pag18]{: width="50%"}
 </div>
 
-***
+## <span id="Chap2">[2. Computer Organization | Organización del computador](#Chap2)</span>
 
 <div style="text-align:center" markdown="1">
 ![RPFLecturesComputation_Cap2][RPFLecturesComputation_Cap2]{: width="50%"}
@@ -169,7 +169,7 @@ description: "Feynman Lectures on Computation - Richard Phillips Feynman (englis
 ![RPFLecturesComputation_Chap2-6_2_Pag50][RPFLecturesComputation_Chap2-6_2_Pag50]{: width="50%"}
 </div>
 
-***
+## <span id="Chap3">[3. The Theory of Computation | La teoría de la computación](#Chap3)</span>
 
 <div style="text-align:center" markdown="1">
 ![RPFLecturesComputation_Cap3][RPFLecturesComputation_Cap3]{: width="50%"}
@@ -247,31 +247,31 @@ description: "Feynman Lectures on Computation - Richard Phillips Feynman (englis
 ![RPFLecturesComputation_Chap3-4_6_Pag71][RPFLecturesComputation_Chap3-4_6_Pag71]{: width="50%"}
 </div>
 
-***
+## <span id="Chap4">[4. Coding and Information Theory | Codificación y teoría de la información](#Chap4)</span>
 
 <div style="text-align:center" markdown="1">
 ![RPFLecturesComputation_Cap4][RPFLecturesComputation_Cap4]{: width="50%"}
 </div>
 
-***
+## <span id="Chap5">[5. Reversible Computation and the Thermodynamics of Computing | Computación reversible y la termodinámica de la computación](#Chap5)</span>
 
 <div style="text-align:center" markdown="1">
 ![RPFLecturesComputation_Cap5][RPFLecturesComputation_Cap5]{: width="50%"}
 </div>
 
-***
+## <span id="Chap6">[6. Quantum Mechanical Computers | Computadores mecanocuánticos](#Chap6)</span>
 
 <div style="text-align:center" markdown="1">
 ![RPFLecturesComputation_Cap6][RPFLecturesComputation_Cap6]{: width="50%"}
 </div>
 
-***
+## <span id="Chap7">[7. Physical Aspects of Computation | Aspectos físicos de la computación](#Chap7)</span>
 
 <div style="text-align:center" markdown="1">
 ![RPFLecturesComputation_Cap7][RPFLecturesComputation_Cap7]{: width="50%"}
 </div>
 
-***
+## <span id="Afterword">[Afterword: Memories of Richard Feynman | Epílogo: Recuerdo de Richard Feynman](#Afterword)</span>
 
 <div style="text-align:center" markdown="1">
 ![RPFLecturesComputation_Epilogo][RPFLecturesComputation_Epilogo]{: width="50%"}
@@ -279,19 +279,16 @@ description: "Feynman Lectures on Computation - Richard Phillips Feynman (englis
 
 
 
-## <span id="comentario">[COMENTARIO](#comentario)</span>
-.
-
-
-
 ## <span id="referencias">[REFERENCIAS](#referencias)</span>
 * [https://en.wikipedia.org/wiki/Richard_Feynman][1]{: target="_blank"}
 * [https://es.wikipedia.org/wiki/Richard_Feynman][2]{: target="_blank"}
+* [http://da8y01.github.io/gh-blog/assets/epdf.tips_feynman-lectures-on-computation.djvu][RPFLecturesComputation_djvu]{: target="_blank"}
 
 
 
 [1]: https://en.wikipedia.org/wiki/Richard_Feynman
 [2]: https://es.wikipedia.org/wiki/Richard_Feynman
+[RPFLecturesComputation_djvu]: {{ site.baseurl }}/assets/epdf.tips_feynman-lectures-on-computation.djvu
 
 [RPFLecturesComputation_preview]: {{ site.baseurl }}/assets/RPFLecturesComputation_preview.png "Feynman Lectures on Computation - Richard P. Feynman (preview)"
 [RPFLecturesComputation_Digital]: {{ site.baseurl }}/assets/RPFLecturesComputation_Digital.png "Feynman Lectures on Computation - Richard P. Feynman (Digital)"
@@ -301,7 +298,7 @@ description: "Feynman Lectures on Computation - Richard Phillips Feynman (englis
 [RPFLecturesComputation_Contents3]: {{ site.baseurl }}/assets/RPFLecturesComputation_Contents3.png "Feynman Lectures on Computation - Richard P. Feynman (Contents 3)"
 [RPFLecturesComputation_Indice1]: {{ site.baseurl }}/assets/RPFLecturesComputation_Indice1.jpeg "Feynman Lectures on Computation - Richard P. Feynman (Índice 1)"
 [RPFLecturesComputation_Indice2]: {{ site.baseurl }}/assets/RPFLecturesComputation_Indice2.jpeg "Feynman Lectures on Computation - Richard P. Feynman (Índice 2)"
-[RPFLecturesComputation_Prologo]: {{ site.baseurl }}/assets/RPFLecturesComputation_Prologo.jpeg "Feynman Lectures on Computation - Richard P. Feynman (Prologo)"
+[RPFLecturesComputation_Prefacio]: {{ site.baseurl }}/assets/RPFLecturesComputation_Prefacio.jpeg "Feynman Lectures on Computation - Richard P. Feynman (Prefacio)"
 [RPFLecturesComputation_Cap1]: {{ site.baseurl }}/assets/RPFLecturesComputation_Cap1.jpeg "Feynman Lectures on Computation - Richard P. Feynman (Capítulo 1)"
 [RPFLecturesComputation_Chap1-2_1_Pag11]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap1-2_1_Pag11.jpg "Feynman Lectures on Computation - Richard P. Feynman (1.2 pag 11)"
 [RPFLecturesComputation_Chap1-2_2_Pag13]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap1-2_2_Pag13.jpg "Feynman Lectures on Computation - Richard P. Feynman (1.2 pag 13)"
