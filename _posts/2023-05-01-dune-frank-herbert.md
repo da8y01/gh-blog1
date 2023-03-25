@@ -103,13 +103,37 @@ description: "Dune - Frank Patrick Herbert"
 
 ### <span id="Apendices3">[III. Informe sobre los motivos y propósitos de la Bene Gesserit](#Apendices3)</span>
 
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_Apendices3_01][DuneFrankHerbert_Apendices3_01]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_Apendices3_02][DuneFrankHerbert_Apendices3_02]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_Apendices3_03][DuneFrankHerbert_Apendices3_03]{: width="50%"}
+</div>
+
 ### <span id="Apendices4">[IV. El almanaque Al-Ashraf](#Apendices4)</span>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_Apendices4_01][DuneFrankHerbert_Apendices4_01]{: width="50%"}
+</div>
 
 ## <span id="TerminologiaImperio">[Terminología del Imperio](#TerminologiaImperio)</span>
 
 ## <span id="Mapa">[Mapa](#Mapa)</span>
 
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_Mapa][DuneFrankHerbert_Mapa]{: width="50%"}
+</div>
+
 ## <span id="Autor">[Autor](#Autor)</span>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_Autor][DuneFrankHerbert_Autor]{: width="50%"}
+</div>
 
 
 
@@ -144,3 +168,9 @@ description: "Dune - Frank Patrick Herbert"
 [DuneFrankHerbert_Apendices2_12]: {{ site.baseurl }}/assets/DuneFrankHerbert_Apendices2_12.png "Dune - Frank Herbert (Apéndices II, 12)"
 [DuneFrankHerbert_Apendices2_13]: {{ site.baseurl }}/assets/DuneFrankHerbert_Apendices2_13.png "Dune - Frank Herbert (Apéndices II, 13)"
 [DuneFrankHerbert_Apendices2_14]: {{ site.baseurl }}/assets/DuneFrankHerbert_Apendices2_14.png "Dune - Frank Herbert (Apéndices II, 14)"
+[DuneFrankHerbert_Apendices3_01]: {{ site.baseurl }}/assets/DuneFrankHerbert_Apendices3_01.png "Dune - Frank Herbert (Apéndices III, 01)"
+[DuneFrankHerbert_Apendices3_02]: {{ site.baseurl }}/assets/DuneFrankHerbert_Apendices3_02.png "Dune - Frank Herbert (Apéndices III, 02)"
+[DuneFrankHerbert_Apendices3_03]: {{ site.baseurl }}/assets/DuneFrankHerbert_Apendices3_03.png "Dune - Frank Herbert (Apéndices III, 03)"
+[DuneFrankHerbert_Apendices4_01]: {{ site.baseurl }}/assets/DuneFrankHerbert_Apendices4_01.png "Dune - Frank Herbert (Apéndices IV, 01)"
+[DuneFrankHerbert_Mapa]: {{ site.baseurl }}/assets/DuneFrankHerbert_Mapa.png "Dune - Frank Herbert (Mapa)"
+[DuneFrankHerbert_Autor]: {{ site.baseurl }}/assets/DuneFrankHerbert_Autor.png "Dune - Frank Herbert (Autor)"
