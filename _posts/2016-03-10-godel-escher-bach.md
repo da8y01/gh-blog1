@@ -626,7 +626,37 @@ En resumen, esta versión afirma que, cuando hacemos cualquier cómputo, nuestra
 
 Más exactamente, la suposición consiste en que hay entidades software que cumplen las funciones de diversas construcciones matemáticas, y que son activadas en formas que pueden ser reflejadas con exactitud dentro de BuL.
 
+Un problema de teoría de los números, luego de enunciado, está completo en y por sí; un problema del mundo real, en cambio, nunca queda confiablemente tabicado con respecto a ninguna región del mundo.
+
 Las raíces simbolizan los complejos procesos que tienen lugar por debajo del nivel consciente de la mente, procesos cuyos efectos inciden sobre el modo en que pensamos, pero de los cuales no nos apercibimos. Se trata de los "patrones desencadenantes de símbolos", aludidos en los Capítulos XI y XII.
+
+Además, sería en vano esforzarse por tender una correspondencia entre la estructura interna de un símbolo, y un rango específico dado del mundo real.
+
+Sin embargo, en el nivel superior emerge una interpretación significativa: una correspondencia entre las grandes "nubes" de actividad neuronal, a las cuales hemos estado llamando "símbolos", y el mundo real.
+
+No así en el cerebro, donde los hechos de nivel neuronal *no* están sujetos a una interpretación del tipo mundo real.
+
+Estos estratos inferiores del programa podrán ser entendidos solamente en virtud de su relación catalítica con los estratos situados encima suyo, y no en función de alguna vinculación directa con el mundo exterior.
+
+Los procesos que desarrollan razonamientos deductivos pueden ser programados en, esencialmente, un solo nivel; por definición, en consecuencia, son separables. De acuerdo a mi hipótesis, entonces, los procesos de la imaginación y del pensamiento analógico requieren diversas capas de sustratos y, en consecuencia, son intrínsicamente no separables.
+
+El hecho de que el nivel más bajo esté compuesto por neuronas en interacción no fuerza de ninguna manera la aparición de un nivel significativo más alto. La significación de alto nivel es un accesorio opcional de una red neuronal, un accesorio que es generado como consecuencia de las presiones ambientales de la evolución.
+
+La flecha dirigida hacia arriba indica que puede aparecer un sustrato que carezca de un nivel mayor de significación, pero no a la recíproca: el nivel más alto debe derivarse de las propiedades de un nivel más bajo.
+
+Esta versión se limita a extender ese razonamiento de sentido común a los procesos cerebrales; en resumen, expresa la fe de que el cerebro opera en una forma que es, en principio, comprensible. Es una muestra de fe reduccionista.
+
+*Cuál es la profundidad con que debe copiarse el cerebro es algo que todavía no está claro.*
+
+Pareciera a veces como si cada paso hacia IA, en lugar de producir algo que cualquiera aceptaría como inteligencia real, simplemente revelara qué cosa *no* es la inteligencia real. Si la inteligencia implica aprendizaje, creatividad, respuestas emocionales, sentido de la belleza, sentido de sí mismo, queda por delante un largo camino que debe ser recorrido, y es posible que ello se logre únicamente cuando hayamos duplicado totalmente un cerebro vivo.
+
+Creer en las versiones intermedias permite cierto grado de dilución del tema. Por supuesto, modificar la posición de acuerdo a las conveniencias lo hace todo más cómodo.
+
+En segundo lugar, dichos adherentes sostendrán, es posible, que la apreciación de cualidades tales como la belleza es una de las propiedades vinculadas a la elusividad del espíritu y, por consiguiente, inherentemente asequible sólo a los seres humanos, no a las simples máquinas.
+
+Este punto de vista tiende a prevalecer entre determinada gente dispuesta a ver una amenaza a los valores humanos en cualquier cosa que se asocie remotamente con los números o con la exactitud. Es muy lamentable que esta gente no estime la profundidad, la complejidad y la belleza envueltas en la exploración de estructuras abstractas tales como la mente humana, donde, por cierto, se llega a un contacto íntimo con las interrogaciones últimas acerca de qué es el ser humano.
+
+Quizá sienten que la apreciación de la belleza requiere un elemento de iraccionalidad, por lo tanto incompatible con la sustancia misma de las computadoras.
 
 
 #### <span id="capxviii">[Capítulo XVIII: Inteligencia Artificial: mirada retrospectiva](#capxviii)</span>
@@ -901,6 +931,8 @@ retruécano, paráfrasis, holismo, reduccionismo, marrullería, aberrante, **con
 * [https://es.wikipedia.org/wiki/Douglas_Hofstadter][2]{: target="_blank"}
 * [https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach][3]{: target="_blank"}
 * [https://en.wikipedia.org/wiki/Douglas_Hofstadter][4]{: target="_blank"}
+* [https://en.wikipedia.org/wiki/Douglas_Hofstadter][5]{: target="_blank"}
+* [http://da8y01.github.io/gh-blog/assets/GEBen.pdf][GEBen_pdf]{: target="_blank"}
 
 
 
@@ -908,6 +940,8 @@ retruécano, paráfrasis, holismo, reduccionismo, marrullería, aberrante, **con
 [2]: https://es.wikipedia.org/wiki/Douglas_Hofstadter
 [3]: https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach
 [4]: https://en.wikipedia.org/wiki/Douglas_Hofstadter
+[5]: https://en.wikipedia.org/wiki/Douglas_Hofstadter
+[GEBen_pdf]: {{ site.baseurl }}/assets/GEBen.pdf
 
 [GodelEscherBach_firstedition]: {{ site.baseurl }}/assets/GodelEscherBach_firstedition.jpg "Gödel, Escher, Bach (first edition)"
 [GodelEscherBach_front]: {{ site.baseurl }}/assets/GodelEscherBach_front.jpg "Gödel, Escher, Bach"
