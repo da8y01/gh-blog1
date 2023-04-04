@@ -930,7 +930,6 @@ retruécano, paráfrasis, holismo, reduccionismo, marrullería, aberrante, **con
 * [https://es.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach:_un_Eterno_y_Gr%C3%A1cil_Bucle][1]{: target="_blank"}
 * [https://es.wikipedia.org/wiki/Douglas_Hofstadter][2]{: target="_blank"}
 * [https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach][3]{: target="_blank"}
-* [https://en.wikipedia.org/wiki/Douglas_Hofstadter][4]{: target="_blank"}
 * [https://en.wikipedia.org/wiki/Douglas_Hofstadter][5]{: target="_blank"}
 * [http://da8y01.github.io/gh-blog/assets/GEBen.pdf][GEBen_pdf]{: target="_blank"}
 
