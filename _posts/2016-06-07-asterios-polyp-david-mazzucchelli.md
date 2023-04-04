@@ -49,7 +49,11 @@ description: "Asterios Polyp - David Mazzucchelli"
 </div>
 
 <div style="text-align:center" markdown="1">
-![AsteriosPolyp_DavidMazzucchelli_03][AsteriosPolyp_DavidMazzucchelli_03]{: width="50%"}
+![AsteriosPolyp_DavidMazzucchelli_Chap06_01][AsteriosPolyp_DavidMazzucchelli_Chap06_01]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![AsteriosPolyp_DavidMazzucchelli_Chap06_02][AsteriosPolyp_DavidMazzucchelli_Chap06_02]{: width="50%"}
 </div>
 
 <div style="text-align:center" markdown="1">
@@ -495,7 +499,8 @@ https://translate.google.com/#en/es/hindsight understanding of a situation or ev
 [AsteriosPolyp_DavidMazzucchelli_Chap23]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_Chap23.png "Asterios Polyp - David Mazzucchelli Chap 23"
 [AsteriosPolyp_DavidMazzucchelli_01]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_01.png "Asterios Polyp - David Mazzucchelli 01"
 [AsteriosPolyp_DavidMazzucchelli_02]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_02.png "Asterios Polyp - David Mazzucchelli 02"
-[AsteriosPolyp_DavidMazzucchelli_03]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_03.png "Asterios Polyp - David Mazzucchelli 03"
+[AsteriosPolyp_DavidMazzucchelli_Chap06_01]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_Chap06_01.png "Asterios Polyp - David Mazzucchelli (Chapter 6, 1)"
+[AsteriosPolyp_DavidMazzucchelli_Chap06_02]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_Chap06_02.png "Asterios Polyp - David Mazzucchelli (Chapter 6, 2)"
 [AsteriosPolyp_DavidMazzucchelli_04]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_04.png "Asterios Polyp - David Mazzucchelli 04"
 [AsteriosPolyp_DavidMazzucchelli_05]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_05.png "Asterios Polyp - David Mazzucchelli 05"
 [AsteriosPolyp_DavidMazzucchelli_06]: {{ site.baseurl }}/assets/AsteriosPolyp_DavidMazzucchelli_06.png "Asterios Polyp - David Mazzucchelli 06"
