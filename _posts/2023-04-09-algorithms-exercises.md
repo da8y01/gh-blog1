@@ -1,0 +1,266 @@
+---
+layout: post
+permalink: /algorithms-exercises.html
+date: 2023-04-09 11:14:34
+tags: python algorithms exercises
+title: "Three algorithms exercises"
+image: https://da8y01.github.io/gh-blog/assets/AlgorithmsExercisesPreview.png
+description: "Three python algorithms exercises."
+---
+
+
+## <span id="Exercise1">[Exercise 1](#Exercise1)</span>
+
+<div style="text-align:center" markdown="1">
+![AlgorithmsExercises1][AlgorithmsExercises1]{: width="50%"}
+</div>
+
+{% highlight python %}
+# Algo_FindLongestRepeatedSequence.py
+
+# Tiene un arreglo (llamado myArray) con 10 elementos (enteros en el rango de 1 a 9). 
+# Escriba un programa en Java que imprima el número que tiene más ocurrencias seguidas en el arreglo y también imprimir la cantidad de veces que aparece en la secuencia.
+
+# El código que llena el arreglo ya está escrito, pero puede editarlo para probar con otros valores. 
+# Con el botón de refrescar puede recuperar el valor original que será utilizado para evaluar la pregunta como correcta o incorrecta durante la ejecución.
+
+# Su programa debe analizar el arreglo de izquierda a derecha para que en caso de que dos números cumplan la condición, 
+# el que aparece por primera vez de izquierda a derecha será el que se imprima. 
+# La salida de los datos para el arreglo en el ejemplo (1,2,2,5,4,6,7,8,8,8) sería la siguiente:
+# Longest: 3
+# Number: 8
+
+# En el ejemplo, la secuencia más larga la tiene el número 8 con una secuencia de tres ochos seguidos. 
+# Tenga en cuenta que el código que escriba debe imprimir los resultados exactamente como se muestra con el fin de que la pregunta sea considerada válida.
+
+import random
+
+LENGHT = 10
+
+
+def fillArray():
+    a = []
+    for i in range(LENGHT):
+        a.append(random.randint(1, 9))
+    # return a
+    return [1,2,2,5,4,6,7,8,8,8]
+
+def findLongestRepeatedSequence(a):
+    print("myArray", a)
+    longest = {}
+    current = {}
+
+    for elm in a:
+        if not current or not longest:
+            current['Number'] = elm
+            current['Longest'] = 1
+            longest['Number'] = current['Number']
+            longest['Longest'] = current['Longest']
+            continue
+
+        if elm == current['Number']:
+            current['Longest'] = current['Longest'] + 1
+            if current['Longest'] > longest['Longest']:
+                longest['Number'] = current['Number']
+                longest['Longest'] = current['Longest']
+        else:
+            current['Number'] = elm
+            current['Longest'] = 1
+
+    return longest
+
+
+if __name__ == '__main__':
+    myArray = fillArray()
+    print("Result", findLongestRepeatedSequence(myArray))
+{% endhighlight %}
+
+<div style="text-align:center" markdown="1">
+![AlgorithmsExercises1_Output][AlgorithmsExercises1_Output]{: width="50%"}
+</div>
+
+
+## <span id="Exercise2">[Exercise 2](#Exercise2)</span>
+
+<div style="text-align:center" markdown="1">
+![AlgorithmsExercises2][AlgorithmsExercises2]{: width="50%"}
+</div>
+
+{% highlight python %}
+# https://community.turing.com/
+# Jump Start event, Thursday 2023-03-30
+# Problem 1
+
+# Cleanup Strings
+# A string s can have consecutive repeated letters. 
+# Your job is to remove the least number of letters to make the number of consecutive repeated letters less than four. 
+# Return the final string.
+# The answer will always be unique.
+
+# Example:
+# Input: s = "tuuuuuriiiiiing"
+# Output: s = "tuuuriiing"
+
+# Constraints:
+# 1 <= s.lenght <= 10^5
+# s consists only of lowercase letters
+
+def solution(s: str) -> str:
+    # write your solution here
+    print("Input", s)
+    clone = []
+    current = {}
+
+    for elm in a:
+        if not current:
+            current['element'] = elm
+            current['sequence'] = 1
+            clone.append(elm)
+            continue
+
+        if elm == current['element']:
+            current['sequence'] = current['sequence'] + 1
+            if current['sequence'] > 3:
+                continue
+        else:
+            current['element'] = elm
+            current['sequence'] = 1
+        clone.append(elm)
+
+    return ''.join(str(x) for x in clone)
+
+# R E A D M E
+# DO NOT CHANGE the code below, we use it to grade your submission. If changed your submission will be failed automatically.
+if __name__ == '__main__':
+    # a = input()
+    # a = 'abbcccddddeeeeeffffffggggggghhhhhhhh'
+    # a = '122333444455555666666777777788888888999999999'
+    a = 'tuuuuuriiiiiing'
+    output = solution(a)
+    print("Output", output)
+{% endhighlight %}
+
+<div style="text-align:center" markdown="1">
+![AlgorithmsExercises2_Output][AlgorithmsExercises2_Output]{: width="50%"}
+</div>
+
+
+## <span id="Exercise3">[Exercise 3](#Exercise3)</span>
+
+<div style="text-align:center" markdown="1">
+![AlgorithmsExercises3][AlgorithmsExercises3]{: width="50%"}
+</div>
+
+{% highlight python %}
+# https://community.turing.com/
+# Jump Start event, Thursday 2023-03-30
+# Problem 2
+
+# Suppose you are given two strings s and t String t is generated by random shuffling string s and then adding one more letter at a random position. 
+# Return the letter that was added to t.
+
+# Example 1:
+# Input: s = "abcd", t = "ceadb"
+# Output: "e"
+
+# Explanation:
+# 'cadb' was produced by random shuffling "abcd" and "e" was added in as the second letter.
+
+# Example 2:
+# Input: s = "abbdd", t = "dabadb"
+# Output: "a"
+
+# Example 3:
+# Input: s = "", t = "y"
+# Output: "y"
+
+# Example 4:
+# Input: s = "aaaa", t = "aabaa"
+# Output: "b"
+
+# Example 5:
+# Input: s = "ac", t = "aac"
+# Output: "a"
+
+
+import random
+
+
+def frequencyTable(lst):
+    # print("lst", lst)
+    freq = {}
+    for k in lst:
+        if k in freq:
+            freq[k] = freq[k] + 1
+        else:
+            freq[k] = 1
+    # print("freq", freq)
+    return freq
+
+def compareTables(dict1, dict2):
+    print("dict1", dict1)
+    print("dict2", dict2)
+    sorted1 = sorted(dict1)
+    sorted2 = sorted(dict2)
+    print("sorted1", sorted1)
+    print("sorted2", sorted2)
+    result = sorted2[-1]
+
+    print("result", result)
+    for i in range(len(sorted1)):
+        if sorted1[i] != sorted2[i]:
+            result = sorted2[i]
+        else:
+            if dict1[sorted1[i]] != dict2[sorted2[i]]:
+                result = sorted2[i]
+                break
+
+    return result
+
+def findTheDifference(s: str, t: str) -> str:
+    return compareTables(frequencyTable(s), frequencyTable(t))
+
+
+if __name__ == '__main__':
+    # s = input().strip()
+    # concatenated = (s + chr(random.randint(97, 122)))
+    # t = ''.join(random.sample(concatenated, len(concatenated)))
+
+    s = "abcd"
+    t = "ceadb"
+    
+    # s = "abbdd"
+    # t = "dabadb"
+
+    # s = ""
+    # t = "y"
+
+    # s = "aaaa"
+    # t = "aabaa"
+
+    # s = "ac"
+    # t = "aac"
+    print("s", s)
+    print("t", t)
+
+    print(findTheDifference(s, t))
+{% endhighlight %}
+
+<div style="text-align:center" markdown="1">
+![AlgorithmsExercises3_Output][AlgorithmsExercises3_Output]{: width="50%"}
+</div>
+
+
+## References
+* [https://community.turing.com/][CommunityTuring]{: target="_blank"}
+
+
+[CommunityTuring]: https://community.turing.com/
+
+[AlgorithmsExercisesPreview]: {{ site.baseurl }}/assets/AlgorithmsExercisesPreview.png "Algorithms Exercises Preview"
+[AlgorithmsExercises1]: {{ site.baseurl }}/assets/AlgorithmsExercises1.jpeg "Algorithms Exercises 1"
+[AlgorithmsExercises2]: {{ site.baseurl }}/assets/AlgorithmsExercises2.png "Algorithms Exercises 2"
+[AlgorithmsExercises3]: {{ site.baseurl }}/assets/AlgorithmsExercises3.png "Algorithms Exercises 3"
+[AlgorithmsExercises1_Output]: {{ site.baseurl }}/assets/AlgorithmsExercises1_Output.png "Algorithms Exercises 1 Output"
+[AlgorithmsExercises2_Output]: {{ site.baseurl }}/assets/AlgorithmsExercises2_Output.png "Algorithms Exercises 2 Output"
+[AlgorithmsExercises3_Output]: {{ site.baseurl }}/assets/AlgorithmsExercises3_Output.png "Algorithms Exercises 3 Output"

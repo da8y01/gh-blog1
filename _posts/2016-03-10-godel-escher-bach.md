@@ -658,12 +658,231 @@ Este punto de vista tiende a prevalecer entre determinada gente dispuesta a ver 
 
 Quizá sienten que la apreciación de la belleza requiere un elemento de iraccionalidad, por lo tanto incompatible con la sustancia misma de las computadoras.
 
+Esto ilustra el modo en que el funcionamiento sin equivocaciones en un nivel puede estar dando fundamento a la manipulación simbólica operada en un nivel más alto... y los objetivos de este nivel superior puede que no tengan nada que ver con la difusión de la Verdad.
+
+una creencia incorrecta, afirmada en el ámbito del software de una mente, sustentada en el hardware de un cerebro que funciona sin equivocarse. *El cerebro es racional, la mente puede no serlo.*
+
+Si en el nivel máximo de alguien está ocupado en demostrar koans de budismo booleano o en meditar sobre los teoremas del álgebra zen, sus neuronas están funcionando racionalmente.
+
+Por lo mismo, los procesos simbólicos de alto nivel que crean, en el cerebro, la experiencia de apreciación de la belleza, son perfectamente racionales en el nivel básico, donde tiene lugar el funcionamiento sin equivocaciones; cualquier irracionalidad, en caso de que la haya, se produce en el nivel más alto, y es un epifenómeno --una consecuencia-- de los acontecimientos de nivel más bajo.
+
+Por supuesto que no: nuestra confusión gastronómica es un estado de alto nivel que descansa por completo en la eficiente excitación de miles de neuronas, a través de maneras sumamente organizadas.
+
+La conducta visible puede aparecer como racional o como irracional, pero por debajo suyo y dándole concreción habrá un hardware confiable y lógico.
+
+Ahora bien, muchos de los programas que son desarrollados en IA tienen muy poco en común con los programas que generan verdades de teoría de los números: programas con reglas de inferencia inflexibles y grupos fijos de axiomas.
+
+Pero esto no contradice el hecho de que todos estos fenómenos descansan en el correcto funcionamiento de su hardware subyacente, tal cual como el cerebro descansa en el correcto funcionamiento de sus neuronas.
+
+Sin embargo, es perfectamente verosímil que los procesos del pensamiento lógico, como puede serlo un razonamiento proposicional, surjan como *consecuencia* de la inteligencia general de un programa de IA, y no por haber sido *preprogramados*.
+
+En otras palabras, todas las inteligencias no son sino variaciones de un mismo tema.
+
+La proposición según la cual es imposible contar con un procedimiento de decisión para aplicar a la *teoremidad* en todo sistema formal que tenga el poder de TNT es conocida como *Teoremas de Church*.
+
+La proposición según la cual es imposible contar con un procedimiento de decisión para aplicar a las *verdades* teórico-numéricas --si es que existen tales verdades, cosa que uno pone en duda luego de recorrer todas las bifurcaciones de TNT-- es una consecuencia inmediata del *Teorema de Tarski*.
+
+El paso crucial es recordar que toda propiedad que puede ser verificada mediante un programa BuL finalizable está *representada* en TNT. Esto significa que la propiedad de teoremidad TNT estaría representada (por oposición a estar simplemente expresada) en el interior de TNT.
+
+El problema es creado por la suposición de que la teoremidad es representada por alguna fórmula de TNT; en consecuencia, debemos retroceder sobre nuestros pasos y suprimir dicha suposición.
+
+Por supuesto, esto conduce a la conclusión de que dicha fórmula debe ser, simultáneamente, verdadera y falsa (o, simultáneamente, ninguna de ambas cosas).
+
+Si la fórmula T de Tarski realmente existiera, ¡habría entonces un enunciado *relativo a números naturales* que sería a la vez verdadero y falso! Este es el obstáculo.
+
+Mientras que siempre nos es posible esconder bajo la alfombra la paradoja de Epiménides en su formulación idomática, diciendo que su contenido (su verdad) es abstracto, ¡ya no es así cuando la paradoja se convierte en un enunciado concreto referente a números!
+
+Tómese nota de que esto hace de la verdad una propiedad considerablemente más elusiva que la de teoremidad, pues esta última *es* expresable.
+
+estamos respondiendo a algún género de significación interior de la pintura, un elemento multidimensional aprisionado, de alguna manera, dentro de esas dos dimensiones.
+
+Tal vez sea por ello que la significación interior sea algo que descubre más cosas de sí misma a medida que pasa el tiempo.
+
+de algún modo, el hecho de que esté involucrada su *significación* se relaciona crucialmente con la dificultad de establecer si una cadena es o no un teorema de TNT.
+
+Por lo tanto, las propiedades "semánticas" están vinculadas con búsquedas no finalizables ya que, en un sentido importante, *la significación de un objeto no está situada* en el objeto mismo. Esto no equivale a sostener que no es posible captar la significación de ningún objeto hasta el fin de los tiempos, pues a medida que el tiempo pasa la significación se va manifestando más y más.
+
+Así, otra manera de caracterizar la diferencia entre propiedades "sintácticas" y "semánticas" (dentro de los límites del sentido propuesto) es la observación de que las primeras residen inequívocamente dentro del objeto bajo examen, en tanto que las segundas dependen de sus relaciones con una clase potencialmente infinita de otros objetos: en consecuencia, no se las puede localizar en forma nítida. En principio, no hay ningún elemento críptico u oculto en las propiedades sintácticas; en cambio, la esencia de las propiedades semánticas es lo recóndito.
+
+Es probable que, en cada persona, se movilicen diferentes niveles de intérpretes, según las circunstancias.
+
+Pareciera, pues, que esta noción de belleza es sumamente difícil de fijar. Por esta razón es que opté por vincular a la belleza, en el *Magnificangrejo*, con la verdad, la cual, como hemos palpado, es por su parte una de las nociones más inasibles de la metamatemática.
+
+En un nivel, es un enunciado *a propósito de sí mismo* que sería verdadero si fuese falso, y falso si fuese verdadero. En el otro nivel --que prefiero llamar *sustrato aritmético*-- es un enunciado *a propósito de los números enteros* que es verdadero si, y sólo si, es falso.
+
+Por lo tanto, se debe buscar el *sustrato neural* de la paradoja de Epiménides: un nivel más bajo, donde encontramos acontecimientos físicos chocando entre sí. Es decir, dos acontecimientos que, por su naturaleza, no pueden ocurrir simultáneamente. Si existe este sustrato físico, la razón por la cual no podemos hallarle pies ni cabeza al enunciado de Epiménides es que nuestros cerebros están tratando de complementar una tarea imposible.
+
+Pero si sucede que el acto de clasificación desbarata la codificación del enunciado --cosa que, de ordinario, jamás ocurre-- nos sentimos en apuros...
+
+Tal resolución involucra el abandono de la noción de que el cerebro puede aportar una representación totalmente rigurosa del concepto de verdad. Lo novedoso de esto reside en su sugerencia de que es imposible, por razones enteramente *físicas*, un modelamiento cabal de la verdad: específicamente, este modelamiento requeriría que en el cerebro se produzcan acontecimientos que, desde el punto de vista físico, son incompatibles entre sí.
+
+
+#### <span id="SHRDLUJugueteriaHombre">[*SHRDLU, juguetería del hombre*](#SHRDLUJugueteriaHombre)</span>
+
+<div style="text-align:center" markdown="1">
+![Gödel, Escher, Bach][GodelEscherBach-45_SHRDLUJugueteriaHombre]{: width="50%"}
+</div>
+
+Aquiles, Tortuga y Cangrejo se encuentran de camino a la casa de té en la cima del cerro, de la carta del matemático indio Nayunamar, de la interpretación de TNT como notas musicales, mención al músico John Cage, del enunciado TNT musical propuesto por Aquiles que Cangrejo finalmente escapa de tocar en su flauta.
+
+*Tigera se asoma por sobre su hombro y proporciona, según lo prometido, una especie de comentario sobre la marcha.*
+
+*La mano de SHRDLU tiene que depositar el bloque rojo para tomar el azul más alto.*
+
+*Note la complicada estructura sintáctica en la que "ése" es en realidad el objeto de una frase encajada dos niveles más profundo.*
+
+*El sistema deductivo de SHRDLU encuentra un ejemplo, por lo cual sabe que esto es posible.*
+
+*SHRDLU no tiene manera de ver los detalles de sus programas, aun cuando estos definen en último término sus capacidades.*
+
+*La posesión permanece como una propiedad desconocida de los objetos acerca de la cual puede ser instruído.*
+
+*Una orden es ejecutada, aun cuando tenga el aspecto de una pregunta.*
+
+*Manteniendo el rastro de partes seleccionadas del árbol original de subobjetivos, SHRDLU logra cierto entendimiento de sus propios motivos.*
+
+*SHRDLU recuerda lo que hizo, no cómo fue expresada la petición.*
+
+*Esta es una descripción de los subobjetivos de más alto nivel usados para alcanzar el objetivo.*
+
+*Anteriormente en el diálogo, la información acerca de "poseer" fue aceptada al pie de la letra. Pero SHRDLU sabe que cuenta con información completa acerca de las propiedades básicas de los objetos, incluyendo localización. Verifica todos los enunciados acerca de ellos para ver si está de acuerdo o en desacuerdo.*
+
+*Las rutinas de respuesta tienen verificaciones especiales para este tipo de "pregunta falaz" que presupone cosas que no son.*
+
 
 #### <span id="capxviii">[Capítulo XVIII: Inteligencia Artificial: mirada retrospectiva](#capxviii)</span>
 
 <div style="text-align:center" markdown="1">
 ![Gödel, Escher, Bach][GodelEscherBach-46_CapXVIII]{: width="50%"}
 </div>
+
+donde inventa la teoría de las máquinas Turing y demuestra el carácter irresoluble del problema de la detención.
+
+de los testimonios que ella cita, se obtiene la impresión de que Turing no tuvo nada de convencional, y de que en cierto sentido careció completamente de tacto, pero que fue tan honesto y recto que ello lo hizo vulnerable al mundo. Fue un tanto excéntríco, dado a entregar toda su energía a las orientaciones más dispares.
+
+Uno de los atractivos del artículo consiste en ver cómo Turing sigue las huellas de cada una de las líneas de pensamiento, haciendo aflorar, frecuentemente, una aparente contradicción en algún estadio, para luego resolverla mediante el refinamiento de sus conceptos, en un nivel de análisis más profundo.
+
+"No obstante, pienso que a fines de este siglo el uso de las palabras y la opinión general de la gente educada se habrán modificado tanto que será posible hablar de máquinas pensantes sin esperar que se susciten contradicciones."
+
+*La objeción de conciencia.* "Sólo cuando una máquina pueda escribir un soneto o componer un concierto gracias a que experimenta pensamientos y emociones, y no por una reunión casual de símbolos, aceptaremos que la máquina se equipara con el cerebro en cuanto a que, además de enunciar algo, sabe que lo ha hecho. Ningún mecanismo (como no sea a través de meras señales artificiales: una simple estratagema) puede sentir complacencia ante sus propios aciertos, aflicción cuando se funden sus válvulas, halago cuando es elogiado, autosubestimación frente a sus equivocaciones, inquietudes sexuales, cólera o depresión cuando sus deseos no se cumplen."
+
+*Argumento basado en la continuidad del sistema nervioso*. EL sistema nervioso no es, por cierto, una máquina de estados discretos. Un pequeño error en la información relativa a las dimensiones del impulso nervioso que llega a una neurona puede significar una gran diferencia en las dimensiones del impulso de salida. Sienso así, puede sostenerse que no cabe confiar en la posibilidad de imitar el comportamiento del sistema nervioso mediante un sistema de estados discretos.
+
+*Argumento basado en la percepción extrasensorial.* Practiquemos el juego de la imitación, teniendo como testigo a un hombre calificado como receptor telepático. El interrogador puede plantear preguntas de esta clase: "¿A qué palo pertenece la carta que tengo en mi mano derecho?" El testigo, empleado la telepatía o la clarividencia, proporciona 130 respuestas correctas sobre 400 cartas. La máquina sólo puede hacer conjeturas al azar, y quizá obtenga 104 aciertos.
+
+Mi punto de vista personal, opuesto al de Turing, es que la percepción extrasensorial no existe; Turing se resistía a aceptar la realidad de la misma, pero su admirable integridad científica lo llevó a considerarla, aceptando así los efectos de lo que él veía como una poderosa evidencia estadística en favor de la percepción extrasensorial. No estoy de acuerdo con este criterio, pese a lo cual estimo que se trata de una cuestión extraordinariamente compleja y atractiva.
+
+Principalmente, áquellos se atienen a conjeturas sagaces acerca de la naturaleza de la entrada (que analizan muy superficialmente) y propinan respuestas seleccionadas con cuidado de entre un extenso repertorio previamente envasado. Las respuestas pueden estar envasadas sólo a medias: por ejemplo, un molde con espacios en blanco para llenar.
+
+Esto equivale a la admisión de que esta clase de programa se basa en una perspicaz mixtura de bravata y estratagema audaz, volcadas a aprovecharse de la credulidad de la gente.
+
+Quizá sintieron un temor reverente, al ver cómo fluían "pensamientos" de un hardware estrictamente físico. De todas maneras, sabemos que, casi un siglo después, cuando se construyeron las primeras computadoras electrónicas, sus inventores experimentaron el sentimiento místico y sobrecogido de encontrarse en presencia de otra clase de "ser pensante".
+
+Es muy triste que nos sintamos blasé con tanta rapidez.
+
+El núcleo irrefutable de la inteligencia siempre reside en esa zona contigua que todavía no ha sido programada.
+
+Aunque las reglas heurísticas no son rigurosas a modo de las reglas oficiales, abren atajos que permiten la captación de lo que está sucediendo en el tablero, cosa que no ocurre con las reglas oficiales.
+
+Se predijo alguna vez que un programa dotado de determinada heurística básica, aunada a la velocidad deslumbrante y a la exactitud de una computadora para efectuar anticipaciones y analizar cada posible movida, derrotaría fácilmente a los jugadores humanos de más alto nivel: esta profecía, aun después de veinticinco años de intensos esfuerzos por parte de diversos equipos de investigación, está muy lejos de haberse cumplido.
+
+En cierto sentido, lo que hay aquí es un juego de palabras; pero si el conocimiento "aplanado" aporta respuestas más eficaces que la anticipación real, aún cuando conduzca ocasionalmente a equivocaciones, algo se ha ganado. Ahora bien, esta destilación del conocimiento en formas perfeccionadas de utilización es precisamente algo en lo cual sobresale la inteligencia.
+
+El recurso de Samuel consistió en usar medios tanto *dinámicos* (anticipación) como *estáticos* (sin anticipación) para la evaluación de cualquier situación dada de tablero. La estrategia de Samuel consistió en seleccionar, en forma evolutiva, valores cada vez mejores de aquellos parámetros.
+
+El objetivo de *E*, la evaluación estática, era más artificioso: en cada movida, los parámetros variables eran levemente reajustados de modo que *E* se aproximará con la mayor exactitud posible a *D*. La consecuencia era la codificación parcial, en los valores de los parámetros de evaluación estática, del conocimiento obtenido dinámicamente gracias al trazado del árbol.
+
+Por lo tanto, en el esquema de Samuel tiene lugar un intrincado género de retroalimentación, donde el programa está tratando permanentemente de "aplanar" la evaluación anticipatoria dentro de una fórmula estática simple; y esta fórmula, a su vez, juega un papel clave en la evaluación dinámica anticipatoria.
+
+Es una combinación de penetraciones en lo que es el juego de damas, cómo pensar acerca de éste y cómo efectuar la programación.
+
+emplean sus intuiciones, y no existe ninguna forma conocida dee arrojar luz sobre las propias intuiciones; cuando mucho, uno puede, por vía de introspección, apelar a la "impresión" o a la "metaintuición" --una intuición a propósito de las intuiciones propias-- como guía, y tratar de describir a qué cree uno que se refieren las propias intuiciones.
+
+Esto no es en absoluto paradójico; no más que el hecho de que una computadora programada para calcular Pi despiste a su programador vomitando, interminablemente, dígitos de Pi.
+
+... una nauseabunda experiencia musical, aunque no carente de interés, particularmente en materia de conversiones rítmicas. "The Grenadiers" está compuesta en tiempo de 2/4, en la tonalidad de Fa mayor. "Johnny" está compuesta en tiempo de 6/8, en la tonalidad de Mi menor. El cambio de 2/4 a 6/8 puede ser apreciado con claridad, pero a un músico humano le sería muy difícil ejecutarlo. La moulación de la tonalidad de Fa mayor a la de Mi menor, que implica un cambio de dos notas en la escala, es discordante; sin duda, una transición más breve habría sido una elección mejor.
+
+El programa carece de estructuras análogas a los "símbolos" del cerebro, por lo cual no se puede afirmar, en el sentido que fuere, que está "pensando" en lo que está haciendo.
+
+¿Hasta dónde rastreamos, por lo común, el "yo" de una oración? La respuesta, según creo, es que buscamos en un ser consciente a quien adjudicarle la autoría de aquélla.
+
+En la mayoría de las ocasiones, la fuerza conductora que hay detrás de ese tipo de piezas es un intelecto humano, y la función de la computadora reside en su utilización, con mayor o menor ingenuidad, como *herramienta* que concrete una idea creada por un ser humano.
+
+Se trataba de versiones del cálculo de predicados, el cual es una extensión del cálculo proposicional que abarca cuantificadores.
+
+Un recurso promisorio, cuando es formulado un programa así, consiste en infundirle un sentido de dirección, de modo que, en lugar de vagar por todo el campo, el programa actúe exclusivamente dentro de recorridos "pertinentes": aquellos que, por aplicación de algún criterio razonable, parecen conducir hacia la cadena buscada.
+
+tal es el contenido de los Teoremas limitativos, puesto que si siempre se pudiese saber qué camino seguir, se podría construir un algoritmo para la demostración del teorema que se quiera, y ello sería violatorio del Teorema de Church. No existe semejante algortimo.
+
+Con todo, lo anterior no significa que sea totalmente imposible desarrollar ninguna intuición relativa a cuál es y a cuál no es una ruta más fértil; en los hechos, los mejores programas cuentan con una heurística muy elaborada, que les permite efectuar deducciones en materia de cálculo de predicados a velocidades comparables a las de los seres humanos expertos.
+
+Pese a la infinitud de la pila de objetivos, a Aquiles se le concedió su deseo. ¡Victoria de la reducción del problema!
+
+Contar con un objetivo facilita el desarrollo de una estrategia para el logro del mismo, lo cual configura una filosofía totalmente distinta a la de la anticipación mecánica.
+
+Los buenos jugadores de ajedrez que han competido con programas de anticipación quedan con la impresión de que estos últimos son muy débiles en cuanto a la formulación de planes o de estrategias.
+
+De este modo, la utilidad de la reducción del problema depende de cómo nos representamos mentalmente el problema del cual se trate.
+
+Todo esto no es sentido como paradójico, en lo más mínimo, ni provoca ningún sentimiento de extrañeza.
+
+Los pasillos, calles, etc.,actúan como canales que acepto sin gran resistencia, de modo que una parte del acto de decidir cómo percibir la situación implica simplemente la aceptación de lo que es impuesto.
+
+Y, cuando el espacio del problema es sólo ligeramente diferente del espacio físico, es común que las personas no atinen a acertar con lo que cabe hacer, tal cual como los perros que se ponen a ladrar.
+
+En algún sentido, todos los problemas son versiones abastractas del problema perro-hueso. Muchos problemas no residen en el espacio físico sino en determinado género de espacio conceptual.
+
+Es probable que estos relámpagos intuitivos provengan del corazón mismo de la inteligencia y, obvio es decirlo, su fuente es un secreto rigurosamente protegido de nuestro receloso cerebro.
+
+Esto puede ser expresado en lenguaje matemático como la búsqueda de una adecuada *métrica* (función de distancia) entre estados.
+
+De todas maneras, en IA hay una angustiosa carencia de programas que puedan "retornar sobre sus pasos" y echar un vistazo sobre lo que están haciendo, de donde surgiría una perspectiva que los reorientaría con respecto a la tarea entre manos.
+
+Sería capaz de detener el funcionamiento dentro de una sistemática determinada y, si es necesario, crear un nuevo sistema de reglas para que enmarquen, durante un lapso, el trabajo.
+
+En la primera, uno se encaja en el interior de determinado enmarcamiento fijo; en la segunda, siempre es posible alejarse unos pasos y observar panorámicamente las cosas. Esto último equivale a elegir una representación dentro de la cual actuar; y actuar dentro de las reglas del sistema es equivalente a ensayar la técnica de la reducción del problema en el interior de tal enmarcamiento seleccionado. Los comentarios de Hardy a propósito del estilo de Ramanuyan --en particular, su disposición a modificar sus propias hipótesis-- ilustran esta interacción, en el pensamiento creativo, entre la vía M y la vía I.
+
+Tampoco es capaz de advertir que está ocurriendo una y otra vez la misma cosa en su sistema, pues advertirlo constituiría un brinco fuera del sistema, por muy pequeña que fuere la medida en que ello ocurra. Lisa y llanamente, la avispa no se percata de la similitud de las repeticiones.
+
+Este fenómeno (el de no caer en la cuenta de la identidad que caracteriza ciertos hechos repetitivos) se vuelve interesante cuando nos lo aplicamos a nosotros mismos. ¿Existen situaciones repetidas, que se producen muchas veces en nuestras vidas y a las que manejamos en cada ocasión de la misma tonta manera, porque carecemos de la amplitud de panorama necesaria para percibir su similitud?
+
+Es difícil decidir si nuestro sentido de la proximidad matemática está dotado de objetividad, o universalidad, o bien si es, en su mayor medida, un accidente del desarrollo histórico.
+
+Este programa cuenta con un sentido de "adónde dirigirse", una suerte de "gradiente de complejidad" que lo guía desde las expresiones complejas por lo general así consideradas hasta las más simples.
+
+Se apoya en un conjunto de aptitudes diferentes, tal como debe estarlo la inteligencia, en general: un vasto cuerpo de conocimientos, la técnica de reducción de problemas, una gran cantidad de recursos heurísticos, y también algunos recursos especiales.
+
+Quizá esto pueda ser explicado, en parte, diciendo que el sentido de lo "interesante" fue transmitido por Lenat a una gran cantidad de reglas, las cuales pueden haber recogido el nivel formativo de aquél, propio del siglo veinte; como sea, se trata de algo impresionante. El programa pareció perder su impulso luego de su muy respetable hazaña. Una cosa interesante, con relación a ello, es que fue incapaz de desarrollar o de perfeccionar su propio sentido de lo que es interesante.
+
+Esta *representación del conocimiento* es la cuestión esencial en IA.
+
+El hecho de que el ser humano almacene hechos de una manera más complicada era algo conocido desde hace mucho por los psicólogos, y descubierto sólo en épocas recientes por la investigación en IA, la cual se encuentra ahora estudiando los problemas del conocimiento articulado "en bloques", y la diferencia entre tipos procedimentales y declarativos de conocimiento, la cual se relaciona, como vimos en el Capítulo XI, con la diferencia entre el conocimiento accesible a la introspección, y el inaccesible a esta última.
+
+"En cuanto se intenta codificar aspectos de determinada complejidad como datos, se está obligado a desarrollar el equivalente de un nuevo lenguaje, o formalismo. Así, en los hechos, la estructura de datos se transforma en algo semejante a un programa, con alguna pieza del programa en función de intérprete; es perfectamente posible representar en forma directa la misma información, desde el comienzo, en forma procedimental, y obviar ese nivel adicional de interpretación."
+
+En consecuencia, el alegato en favor de la exclusividad de las representaciones procedimentales pierde todo fundamento en el contexto celular. Surge de aquí la insinuación de que es provechoso estar en condiciones de variar entre representaciones procedimentales y declarativas.
+
+"En la tierra, vemos que hay dos moléculas, una de las cuales es apta para la replicación [ADN] y la otra para la acción [proteínas]. ¿Es posible idear un sistema donde una molécula realice ambas tareas, o hay quizá poderosos argumentos, provistos por el análisis de sistemas, según los cuales (si es que existen) la división de la tarea en dos otorga una gran ventaja? No conozco la respuesta a esta interrogación."
+
+Es como querer sacar un solo hilo de una telaraña: quien lo pretenda, arruinará el conjunto.
+
+En este sentido, el nuevo conocimiento requiere de cierto plazo para ser incorporado.
+
+Está claro que el conocimiento explícito del sistema no está tan cercano a la modularidad como el conocimiento implícito.
+
+Existen varias escuelas de pensamiento interesadas en la forma más adecuada de representar el conocimiento, y manipularlo.
+
+Entonces, los mecanismos automáticos de razonamiento se hacen cargo de la operación, en una forma orientada hacia un objetivo y usando para ello diversos métodos de reducción de problemas.
+
+Examinando la lista de hechos conocidos --llamada frecuentemente *base de datos*--...
+
+Este proceso ha recibido el nombre de *encadenamiento hacia atrás*, puesto que se inicia planteando su objetivo y hace su camino hacia atrás, presumiblemente en dirección a cosas que pueden ser ya conocidas.
+
+Este puede dar salida impresa, en tal circunstancia, a la expresión "No lo sé" u otra similar. El hecho de que ciertas preguntas queden abiertas es análogo, naturalmente, al de la incompletitud que aqueja a determinados sistemas formales muy bien conocidos.
+
+Esto no quiere decir que los procesos de pensamiento análogico no puedan ser aprisionados dentro de un molde semejante, sino que no se prestan naturalmente a ser constreñidos por esa clase de formalismo.
+
+Cuando un ser humano incurre en un olvido, lo más probable es que ello signifique que se ha perdido un señalador de alto nivel, y no que la información haya sido suprimida o destruída. Esto esclarece la enorme importancia de seguirle la pista a las formas en las cuales almacenamos las experiencias adquiridas, pues nunca se sabe con antelación cuáles serán las circunstancias, o el ángulo exigido, bajo los cuales necesitaremos recuperar alguna parte de lo que tenemos almacenado.
 
 
 #### <span id="capxix">[Capítulo XIX: Inteligencia Artificial: mirada prospectiva](#capxix)</span>
