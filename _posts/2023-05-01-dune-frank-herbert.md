@@ -115,6 +115,150 @@ Las palabras de la vieja mujer perdieron bruscamente aquella especial claridad p
 
 En una estancia de Giedi Prime están reunidos el Barón Vladimir Harkonen, el Mentat Piter y el heredero Feyd-Rautha. El Barón manipula una esfera con una representación del planeta Arrakis. Se presentan los planes en contra de la Casa Atreides según los nuevos eventos que se van desarrollando.
 
+### <span id="Capitulo3">[Capítulo 3](#Capitulo3)</span>
+
+Después de la pruaba *gom jabbar*, la Reverenda Madre Gaius Helen Mohiam Censor Superior de la escuela Bene Gesserit y la madre Jessica hablan en una estancia de Castel Caladan, hacen que Paul se presente para dialogar sobre sus sueños, la vieja mujer se despide.
+
+«La Reverenda Madre debe combinar las artes de seducción de una cortesana con la intocable majestad de una diosa virgen, manteniendo estos atributos en tensión tanto tiempo como subsistan los poderes de su juventud. Pues una vez se hayan ido belleza y juventud, descubrirá que el lugar intermedio ocupado antes por la tensión se ha convertido en una fuente de astucia y de recursos infinitos».
+
+Una jovencita delgada, de cabellos color bronce, con el cuerpo torturado por los vientos de la pubertad, había entrado en el estudio de la Reverenda Madre Gaius Helen Mohiam, Censor Superior de la escuela Bene Gesserit en Wallach IX.
+
+Una hija Atreides hubiera podido casarse con un heredero Harkonnen, y la brecha hubiera quedado cerrada. Complicaste las cosas de forma impredecible. Ahora corremos el riesgo de perder ambas líneas genéticas.
+
+Y ya sería malo sin las complicaciones de una cultura comercial feudal que da la espalda a cualquier ciencia.
+
+Paul obedeció con reluctante lentitud.
+
+«Quien se somete, domina».
+
+El sauce se somete al viento y prospera hasta el día en que habrá a su alrededor tantos sauces que formarán una barrera contra el viento. Esta es la finalidad del sauce.
+
+Experimentó una súbita rabia contra ella: fatua vieja bruja con su boca llena de tópicos.
+
+Un imperceptible signo de comprensión pasó entre las dos.
+
+Lágrimas más intranquilizadoras que cualquier otra palabra o signo que se hubiera intercambiado entre ellos aquel día.
+
+### <span id="Capitulo4">[Capítulo 4](#Capitulo4)</span>
+
+En la sala de ejercicios de Castel Caladan Paul estudia mapas y documentación sobre Arrakis; recibe las visitas de los amigos/mentores mentat Thufir Hawat y maestro de armas Gurney Halleck.
+
+¿Cuántas veces tendré que decirle que nunca debe dar la espalda a una puerta?
+
+Paul alzó los ojos hacia aquel hombre canoso que se había detenido en el ángulo de la mesa. Los ojos de Hawat eran dos polos de atracción en un rostro oscuro y arrugado.
+
+—¿Triste? ¡Tonterías! Dejar a los amigos resulta triste. Pero un lugar es sólo un lugar —contempló los mapas sobre la mesa—. Y Arrakis es simplemente otro lugar.
+
+Soplan a setecientos kilómetros por hora, arrastrando consigo cualquier cosa móvil que encuentren en su camino: arena, polvo, cualquier cosa. Arrancan la carne de tus huesos y reducen éstos a astillas.
+
+No hay mucho que los distinga de la gente de los graben y sink. Todos llevan ropas flotantes. Y apestan como demonios en cualquier lugar cerrado. Esto es debido a las ropas que llevan (las llaman «destiltrajes»)… cuya misión es recuperar el agua de sus cuerpos.
+
+Y Paul se había sentido más impresionado por su tono —ondulante y con una melodía a modo de cantinela— que por sus palabras.
+
+Graba esto en tu memoria: un mundo se sostiene por cuatro cosas… —alzó cuatro nudosos dedos—… la erudición de los sabios, la justicia del grande, las plegarias de los justos y el coraje del valeroso. Pero todo esto no es nada… —cerró sus dedos en un puño—… sin un gobernante que conozca el arte de gobernar. ¡Haz de esto tu ciencia!
+
+Cerró sus ojos, llamando a las palabras, y cuando habló su voz adquirió inconscientemente algo del tono de la vieja mujer—: «Tú, Paul Atreides, descendiente de reyes, hijo de un duque, debes aprender a gobernar. Esto es algo que no hizo ninguno de tus antecesores». —
+
+—Dijo que un gobernante debe aprender a persuadir y no a obligar. Dijo que debe ofrecer el hogar más confortable y el mejor café del mundo para atraer a los mejores hombres.
+
+Hablaba del lenguaje de las rocas y de las cosas que crecen, el lenguaje que uno no puede oír sólo con los oídos. Y yo le dije que eso era lo que el doctor Yueh llama el Misterio de la Vida.
+
+Dijo que el Misterio de la Vida no es un problema que hay que resolver, sino una realidad que hay que experimentar. Entonces le cité la Primera Ley del Mentat: «Un proceso no puede ser comprendido más que interrumpiéndolo. La comprensión debe fluir al mismo tiempo que el proceso, debe unirse a él y caminar con él».
+
+—Mi padre me ha hablado de Salusa Secundus —dijo Paul—. ¿No crees, Thufir, que es muy parecido a Arrakis… quizá no tan malo, pero muy parecido?
+
+Date la vuelta y no te sientes ofreciendo la espalda a la puerta. No es que crea que haya ningún peligro en el castillo, es sólo un hábito que me gustaría que adquirieses.
+
+Recordó otra vez lo que le había dicho la vieja mujer acerca de que un mundo es la suma de muchas cosas: la gente, la tierra, las cosas que crecen, las lunas, las mareas, los soles… aquella suma desconocida llamada naturaleza, un término vago desprovisto ahora de significado.
+
+Se volvió, sonriendo, y la cicatriz de estigma que seguía la línea de su mandíbula se estremeció.
+
+—Así que ni siquiera me das los buenos días, malvado diablillo —dijo Halleck—. ¿Qué clase de dardo has clavado en el corazón del viejo Hawat? Se ha cruzado conmigo en el vestíbulo como si corriera a los funerales de su peor enemigo.
+
+Paul sonrió. Entre todos los hombres de su padre, Gurney era el que más le gustaba: conocía sus cambios de humor, sus debilidades, su carácter. Era para él un amigo más que una espada mercenaria.
+
+Gurney se tiró de la oreja izquierda.
+
+¡Soy un demonio infernal en busca de la venganza!
+
+Paul empuñó otra espada, cimbreó la hoja con sus manos, y se colocó en posición de aguile, con un pie delante.
+
+https://dle.rae.es/prurito prurito 1. m. Deseo persistente y excesivo de hacer algo de la mejor manera posible. 2. m. Med. Comezón, picazón.
+
+—¿Humor? —la voz de Halleck sonó ultrajada incluso a través del filtro del escudo—. ¿Qué tiene que ver tu humor con esto? Uno combate cuando es necesario… ¡no cuando está de humor! El humor es algo para el ganado, o para hacer el amor, o para tocar el baliset. No para combatir.
+
+¿Es una traición?, se preguntó Paul. ¡No, Gurney no!
+
+Fintó hacia un lado, lanzó a su vez un ataque con la espada y al mismo instante avanzó el puñal a la altura del cuello de Halleck. Detuvo la hoja a dos centímetros de la yugular.
+
+—Nos reuniríamos ambos en la muerte —dijo Halleck—. Pero debo admitir que combates un poco mejor cuando estás bajo presión. Ahora estás realmente de humor —y sonrió lobunamente, haciendo que la cicatriz de estigma de su mentón se crispara.
+
+—Me merecía esto, Gurney. Pero mi padre se hubiera puesto furioso si me hubieses herido. No quiero que seas castigado por mis errores.
+
+—En este caso —dijo Halleck— el error hubiera sido también mío. Y no tienes que preocuparte por una o dos cicatrices de entrenamiento. Eres afortunado por tener tan pocas. En cuanto a tu padre… el Duque me castigaría tan sólo si fallara en hacerte un combatiente de primera clase. Y hubiera fallado si no te hubiera explicado el error que cometías hablando de humor en algo tan serio como esto.
+
+Paul asintió. Se maravilló ante la insólita seriedad de la actitud de Halleck, su firme resolución.
+
+Y Paul sintió una repentina vergüenza por haber dudado de Halleck aunque fuera por un solo instante.
+
+Cuán pronto ha asumido este muchacho su condición de hombre, pensó Halleck. Cuán pronto ha debido aprender esta brutal necesidad de la prudencia, este hecho que se graba en tu mente y te advierte: «Desconfía incluso de tus allegados».
+
+Paul se alzó sobre la punta de los pies para distender sus músculos. Adoptó una actitud solemne, con la repentina comprensión de que su vida se deslizaba hacia rápidos cambios.
+
+Soy un frutal bien cuidado, pensó. Lleno de buenos sentimientos y de habilidades y de todas esas hermosas cosas que crecen en mi… para que algún otro pueda recolectarlas.
+
+Paul esquivó un golpe lento del muñeco y lanzó un entretisser con la izquierda.
+
+Y comenzó a pensar en Paul, y se preguntó si el muchacho, algunas noches, no habría escuchado con terror los ruidos de su propia almohada.
+
+—Si los deseos fueran peces —murmuró— todos arrojaríamos nuestras redes.
+
+Era una frase de su madre que se repetía a si mismo siempre que sentía las tinieblas del mañana cernirse sobre él.
+
+### <span id="Capitulo5">[Capítulo 5](#Capitulo5)</span>
+
+En una estancia de Giedi Prime están reunidos el Barón Vladimir Harkonen, el Mentat Piter y el heredero Feyd-Rautha. El Barón manipula una esfera con una representación del planeta Arrakis. Se presentan los planes en contra de la Casa Atreides según los nuevos eventos que se van desarrollando.
+
+### <span id="Capitulo6">[Capítulo 6](#Capitulo6)</span>
+
+En una estancia de Giedi Prime están reunidos el Barón Vladimir Harkonen, el Mentat Piter y el heredero Feyd-Rautha. El Barón manipula una esfera con una representación del planeta Arrakis. Se presentan los planes en contra de la Casa Atreides según los nuevos eventos que se van desarrollando.
+
+### <span id="Capitulo7">[Capítulo 7](#Capitulo7)</span>
+
+En una estancia de Giedi Prime están reunidos el Barón Vladimir Harkonen, el Mentat Piter y el heredero Feyd-Rautha. El Barón manipula una esfera con una representación del planeta Arrakis. Se presentan los planes en contra de la Casa Atreides según los nuevos eventos que se van desarrollando.
+
+### <span id="Capitulo8">[Capítulo 8](#Capitulo8)</span>
+
+En una estancia de Giedi Prime están reunidos el Barón Vladimir Harkonen, el Mentat Piter y el heredero Feyd-Rautha. El Barón manipula una esfera con una representación del planeta Arrakis. Se presentan los planes en contra de la Casa Atreides según los nuevos eventos que se van desarrollando.
+
+### <span id="Capitulo9">[Capítulo 9](#Capitulo9)</span>
+
+En una estancia de Giedi Prime están reunidos el Barón Vladimir Harkonen, el Mentat Piter y el heredero Feyd-Rautha. El Barón manipula una esfera con una representación del planeta Arrakis. Se presentan los planes en contra de la Casa Atreides según los nuevos eventos que se van desarrollando.
+
+### <span id="Capitulo10">[Capítulo 10](#Capitulo10)</span>
+
+En una estancia de Giedi Prime están reunidos el Barón Vladimir Harkonen, el Mentat Piter y el heredero Feyd-Rautha. El Barón manipula una esfera con una representación del planeta Arrakis. Se presentan los planes en contra de la Casa Atreides según los nuevos eventos que se van desarrollando.
+
+### <span id="Capitulo11">[Capítulo 11](#Capitulo11)</span>
+
+En una estancia de Giedi Prime están reunidos el Barón Vladimir Harkonen, el Mentat Piter y el heredero Feyd-Rautha. El Barón manipula una esfera con una representación del planeta Arrakis. Se presentan los planes en contra de la Casa Atreides según los nuevos eventos que se van desarrollando.
+
+### <span id="Capitulo12">[Capítulo 12](#Capitulo12)</span>
+
+En una estancia de Giedi Prime están reunidos el Barón Vladimir Harkonen, el Mentat Piter y el heredero Feyd-Rautha. El Barón manipula una esfera con una representación del planeta Arrakis. Se presentan los planes en contra de la Casa Atreides según los nuevos eventos que se van desarrollando.
+
+### <span id="Capitulo13">[Capítulo 13](#Capitulo13)</span>
+
+En una estancia de Giedi Prime están reunidos el Barón Vladimir Harkonen, el Mentat Piter y el heredero Feyd-Rautha. El Barón manipula una esfera con una representación del planeta Arrakis. Se presentan los planes en contra de la Casa Atreides según los nuevos eventos que se van desarrollando.
+
+### <span id="Capitulo14">[Capítulo 14](#Capitulo14)</span>
+
+En una estancia de Giedi Prime están reunidos el Barón Vladimir Harkonen, el Mentat Piter y el heredero Feyd-Rautha. El Barón manipula una esfera con una representación del planeta Arrakis. Se presentan los planes en contra de la Casa Atreides según los nuevos eventos que se van desarrollando.
+
+### <span id="Capitulo15">[Capítulo 15](#Capitulo15)</span>
+
+En una estancia de Giedi Prime están reunidos el Barón Vladimir Harkonen, el Mentat Piter y el heredero Feyd-Rautha. El Barón manipula una esfera con una representación del planeta Arrakis. Se presentan los planes en contra de la Casa Atreides según los nuevos eventos que se van desarrollando.
+
 ## <span id="LibroSegundoMuadDib">[Libro segundo: Muad’Dib](#LibroSegundoMuadDib)</span>
 
 ## <span id="LibroTerceroProfeta">[Libro tercero: el profeta](#LibroTerceroProfeta)</span>
