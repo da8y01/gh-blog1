@@ -12,7 +12,7 @@ description: "Three python algorithms exercises."
 ## <span id="Exercise1">[Exercise 1](#Exercise1)</span>
 
 <div style="text-align:center" markdown="1">
-![AlgorithmsExercises1][AlgorithmsExercises1]{: width="50%"}
+![AlgorithmsExercises1][AlgorithmsExercises1]{: width="60%"}
 </div>
 
 {% highlight python %}
@@ -76,14 +76,14 @@ if __name__ == '__main__':
 {% endhighlight %}
 
 <div style="text-align:center" markdown="1">
-![AlgorithmsExercises1_Output][AlgorithmsExercises1_Output]{: width="50%"}
+![AlgorithmsExercises1_Output][AlgorithmsExercises1_Output]{: width="60%"}
 </div>
 
 
 ## <span id="Exercise2">[Exercise 2](#Exercise2)</span>
 
 <div style="text-align:center" markdown="1">
-![AlgorithmsExercises2][AlgorithmsExercises2]{: width="50%"}
+![AlgorithmsExercises2][AlgorithmsExercises2]{: width="60%"}
 </div>
 
 {% highlight python %}
@@ -141,14 +141,14 @@ if __name__ == '__main__':
 {% endhighlight %}
 
 <div style="text-align:center" markdown="1">
-![AlgorithmsExercises2_Output][AlgorithmsExercises2_Output]{: width="50%"}
+![AlgorithmsExercises2_Output][AlgorithmsExercises2_Output]{: width="60%"}
 </div>
 
 
 ## <span id="Exercise3">[Exercise 3](#Exercise3)</span>
 
 <div style="text-align:center" markdown="1">
-![AlgorithmsExercises3][AlgorithmsExercises3]{: width="50%"}
+![AlgorithmsExercises3][AlgorithmsExercises3]{: width="60%"}
 </div>
 
 {% highlight python %}
@@ -247,7 +247,7 @@ if __name__ == '__main__':
 {% endhighlight %}
 
 <div style="text-align:center" markdown="1">
-![AlgorithmsExercises3_Output][AlgorithmsExercises3_Output]{: width="50%"}
+![AlgorithmsExercises3_Output][AlgorithmsExercises3_Output]{: width="60%"}
 </div>
 
 
