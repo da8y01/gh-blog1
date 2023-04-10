@@ -723,8 +723,6 @@ Tal resolución involucra el abandono de la noción de que el cerebro puede apor
 ![Gödel, Escher, Bach][GodelEscherBach-45_SHRDLUJugueteriaHombre]{: width="50%"}
 </div>
 
-Aquiles, Tortuga y Cangrejo se encuentran de camino a la casa de té en la cima del cerro, de la carta del matemático indio Nayunamar, de la interpretación de TNT como notas musicales, mención al músico John Cage, del enunciado TNT musical propuesto por Aquiles que Cangrejo finalmente escapa de tocar en su flauta.
-
 *Tigera se asoma por sobre su hombro y proporciona, según lo prometido, una especie de comentario sobre la marcha.*
 
 *La mano de SHRDLU tiene que depositar el bloque rojo para tomar el azul más alto.*
@@ -884,12 +882,174 @@ Esto no quiere decir que los procesos de pensamiento análogico no puedan ser ap
 
 Cuando un ser humano incurre en un olvido, lo más probable es que ello signifique que se ha perdido un señalador de alto nivel, y no que la información haya sido suprimida o destruída. Esto esclarece la enorme importancia de seguirle la pista a las formas en las cuales almacenamos las experiencias adquiridas, pues nunca se sabe con antelación cuáles serán las circunstancias, o el ángulo exigido, bajo los cuales necesitaremos recuperar alguna parte de lo que tenemos almacenado.
 
+Había un fuerte elemento humorístico, y simultáneamente de misterio, en conseguir que una computadora generase algo que corrientemente es considerado una creación artística.
+
+El programa se parecía al proverbial mono que aprieta las teclas de una máquina de escribir, pero, a diferencia de esta situación, aquí la operación se cumplía sobre diversos niveles en la estructura lingüística, simultáneamente, y no sólo sobre el nivel de las letras.
+
+El efecto es fuertemente surrealista y por momentos recuerda un poco al del haiku, como por ejemplo la pauta que siguen las cuatro oraciones consecutivas del final.
+
+Hay aquí, según creo, un principio general: uno se aburre de algo, no cuando agotó su repertorio de conducta, sino cuando tiene delineados los límites del espacio que contiene a la conducta. El espacio de comportamiento de una persona es, prácticamente, lo suficientemente complejo como para que pueda seguir sorprendiendo a los demás; pero no ocurrió así con mi programa.
+
+Por ejemplo, la idea consistía en que ciertas clases de actos pudiesen ser realizados únicamente por objetos animados, o que sólo ciertos tipos de abstracción pudiesen ejercer influencia sobre los acontencimientos, etc.
+
+Las preposiciones comunes --"de", "en", etc.-- tenían varias entradas distintas, correspondientes a sus distintos usos. La salida, ahora, comenzó a ser mucho más comprensible, y eso la hizo divertida en otro sentido.
+
+Las números 10 a 12 fueron elegidas para mostrar que hubo, ocasionalmente, arranques de absoluta lucidez.
+
+Generosamente, se podría decir que conciernen a sí mismos en tanto que "objetos de lenguaje" puros, algo semejante a segmentos de escultura abstracta hechos, no de piedra, sino de palabras; como alternativa, se podría decir que son pura cháchara seudointelectual.
+
+A pesar de ello, mi elección de vocabulario estuvo dirigida a producir efectos humorísticos. El tono de la salida es difícil de caracterizar.
+
+En particular, se siente una absoluta falta de imaaginación visual por detrás de las palabras.
+
+Yo estaba muy divertido con lo disparatado de la salida, y también sumamente orgulloso de mi logro, y trataba de describirlo a mis amigos como similar a la fijación de reglas para la elaboración de parábolas, en árabe, mediante pinceladas individuales: una exageración, pero me complacía verlo de tal modo.
+
+Por supuesto, no me dejé llevar por la fantasía de que hubiera un ser consciente detrás de las oraciones; lejos de ello, yo era la persona que mejor sabía en el mundo las razones por las cuales este programa se encontraba terriblemente alejado del pensamiento real.
+
+El Teorema de Tesler viene muy a propósito en este instante: tan pronto como ese nivel de capacidad de manipulación idomática hubo sido mecanizado, quedó en claro que no constituía inteligencia.
+
+Lo que permanece ahora en mi mente, cuando examino este programa doce años más tarde, es la inexistencia de todo sentido imaginativo por detrás de lo que se estaba diciendo.
+
+Las palabras eran símbolos formales vacíos, tan vacíos como --o quizá más todavía-- la m y la g del sistema mg.
+
+Esta idea de un lenguaje donde los enunciados falsos sean no gramaticales es antigua.
+
+Es muy atractiva porque la gramática pasa a contar con una bola de cristal en su seno: uno se limita a formular el enunicado que le interesa, y verifica si es gramatical... Realmente, Comenius fue aun más allá, pues en su lenguaje las enunciados falsos no sólo eran no gramaticales, ¡sino también inexpresables!
+
+Una rara casualidad; la manifestación de un error, el cual dio lugar a que el programa imprimiera, en lugar de una palabra idomática referida a un objeto, el número *interno* asignado en el programa al "nódulo" (un átomo Lisp, en realidad) donde estaba almacenada toda la información concerniente a ese objeto específico.
+
+De modo que tenemos aquí una "ventana" abierta sobre un nivel inferior de los fundamentos de la mente zen, un nivel que debería haber permanecido invisible. Lamentablemente, no contamos con semejantes ventanas que transparenten los niveles inferiores de las mentes zen humanas.
+
+La secuencia de acciones, aunque un tanto caprichosa, se deriva de un procedimiento recursivo Lisp, denominado "CASCADA", el cual genera cadenas de acciones asociadas entre sí en forma vagamente casual.
+
+Porque la forma, en música, es expresiva, expresiva de algunas extrañas regiones subconscientes de nuestras mentes.
+
+No, la gran música no surgirá de un formalismo tan sencillo como una gramática RTA. Sí puede surgir seudomúsica, lo mismo que seudocuentos de hadas --y se tratará de una exploración valiosa por parte de quienes la efectúen--, pero los secretos de la significación musical reposan en un sitio muchísimo más profundo que la pura sintaxis.
+
+La "gramática" será una gramática total del pensamiento y no, exclusivamente, una gramática de la música.
+
+Allí, por ese entonces, gran parte de la investigación en IA estaba dedicada a los llamados *mundos de bloques*, un dominio relativemente simple, donde los problemas relativos al manejo simultáneo del lenguaje y de la visión por las computadoras podían coordinarse con facilidad.
+
+Winograd halló que tal estrategia de desarrollo independiente de los módulos planteaba dificultades fundamentales. Lo que formuló fue un enfoque radical, que desafiaba la teoría de que la inteligencia puede ser compartimentada en piezas independientes o semi-independientes.
+
+Su programa SHRDLU --que recibió su nombre del antiguo código "ETAOIN SHRDLU", usado por los linotipistas para indicar los errores tipográficos en las columnas de los periódicos-- no separa los problemas en nítidas partes conceptuales.
+
+Algunos críticos han señalado que este programa está tan entremezclado que no representa para nada una "teoría" sobre el lenguaje, ni contribuye de ninguna manera a produndizar nuestro conocimiento de los procesos del pensamiento.
+
+Si un recorrido del árbol no consigue obtener el fin buscado, el programa PLANNER "retornará" e intentará otra ruta. En todo lo concerniente a PLANNER, la palabra mágica es "retorno".
+
+**If one path-in the tree fails to achieve the desired goal, then the PLANNER program will "backtrack" and try another route. "Backtracking" is the magic word as far as PLANNER is concerned.**
+
+"La definición de cada palabra es un programa al cual se apela en un punto adecuado del análisis, y que puede efectuar computaciones discrecionales que abarquen la oración y la situación física presente."
+
+Tal vez no haga falta decir que la formulación de un programa que pueda manejar en plenitud las cinco palabras cumbre de un idioma --en español, "de", "el", "la", "y" y "a"-- equivaldría a la resolución de todo el problema de IA, e implicaría, entonces, conocer qué son la inteligencia y la conciencia.
+
+Exactamente igual que Codogne Madame d'Or Migas, SHRDLU no sabe nada con respecto a los niveles más bajos que lo constituyen; su conocimiento es, en su mayor medida, *procedimental*.
+
+Por el contrario, en SHRDLU, *todas* las palabras se representaron como programas. Este ejemplo demuestra que a pesar de la equivalencia teórica de datos y programas, la elección de unos en lugar de otros tiene, en la práctica, consecuencias principales.
+
+Es interesante el hecho de que, en los lenguajes naturales, la sintáxis y la semántica estén así profundamente imbricadas.
+
+"La solución reside en proporcionar un lenguaje interno que contenga los bucles y verificaciones propios de sus originales, y donde la representación del proceso sea tan simple como la descripción."
+
+De esta forma (puesto que el intérprete PLANNER es, por su parte, formulado en Lisp), fue insertado un nuevo nivel intermedio --PLANNER-- entre el lenguaje de nivel máximo (inglés) y el lenguaje de nivel mínimo (lenguaje de máquina). Una vez elaborado un programa PLANNER a partir de un fragmento de oración inglesa, puede ser remitido al intérprete PLANNER, y entonces los niveles superiores de SHRDLU quedan en libertad de ocuparse de otras tareas.
+
+A causa de que es muy poco lo que sabemos de la inteligencia natural, nos es difícil determinar qué nivel de un sistema artificialmente inteligente tiene que ejecutar tal parte de una tarea.
+
+
+#### <span id="Contrafactus">[*Contrafactus*](#Contrafactus)</span>
+
+<div style="text-align:center" markdown="1">
+![Gödel, Escher, Bach][GodelEscherBach-47_Contrafactus]{: width="50%"}
+</div>
+
+Supuestamente Cangrejo, Aquiles, Tortuga y Sr. Perezoso se reúnen en casa para ver el partido de fútbol en TV. Se habla de la Subjun-TV, de las contrafácticas, del "casi", del modo subjuntivo.
+
+Aquiles: Yo voy por Local, siempre lo hago.
+Sr. Perezoso: Qué convencional. Yo nunca voy por Local. Mientras más cerca vive un equipo de las antípodas, más grito por él.
+
+Bueno, parece que nuevamente tenemos la oportunidad de ver a Local y Forasteros enfrentados sobre el césped para medir sus fuerzas, en una rivalidad que ya es casi cuestión de piel.
+
+Locutor: Gambetas lleva el balón. Amaga un pase para Leñeros quien se lleva la defensa consigo. Remates se abre por la derecha, libre de marcaje. Gambetas le cruza el balón con un pase raso. Remates lo domina, entra en el área, queda solo frente al portero, y...
+
+Cangrejo: ¡En absoluto! Es una nueva clase de TV, que puede operar en el modo subjuntivo. Son particularmente indicadas para partidos de fútbol y cosas por el estilo. Yo ya tengo la mía.
+
+Aquiles: ¿Podría mostrarnos lo que quiere decir? Me temo que no entiendo muy bien de qué se trata toda esa conversación acerca de "transmitir en el modo subjuntivo".
+Cangrejo: Oh, realmente es muy simple. Ud. puede descubrirlo por sí mismo. Yo voy a ir a la cocina a preparar un poco de papas fritas, que sé que son la debilidad del Sr. Perezoso.
+
+Sr. Perezoso: ¡OTRA de esas confusas hipotéticas! ¿Por qué siempre están Uds. evadiéndose a sus absurdos mundos de fantasía? Si yo fuera Ud., me mantendría firmemente apegado a la realidad. "Nada de sinsentido subjuntivo" es mi lema. Y no lo abandonaría ni aunque alguien me ofreciera cien --no, ciento doce-- papas fritas.
+
+¡Así es como hubiera sido si los balones de fútbol fueran esferoides ovalados en lugar de esferas!
+
+Sr. Perezoso: De lo más decepcionante, Sr. Cangrejo, para serle franco. Parece tener grandes desperfectos. Realiza absurdas excursiones al sinsentido por lo menos la mitad de las veces. Si fuera mía, se la daría inmediatamente a alguien como Ud., Sr. Cangrejo. Pero por supuesto no es mía.
+
+Aquiles: Es un invento sumamente extraño. Traté de reproducir una jugada para ver cómo hubiera sido bajo diferentes condiciones climáticas, pero el aparato parece tener voluntad propia. En lugar de cambiar el clima, cambió la forma del balón de fútbol: le dio FORMA OVALADA en lugar de FORMA DE BALÓN DE FÚTBOL. Ahora dígame ¿cómo puede un balón de fútbol no tener la forma de balón de fútbol? Es una contradicción de términos. ¡Qué absurdo!
+
+La recibe, va a anotar, ¡pero le golpean la mano haciéndole perder puntería! ¡El árbitro sanciona falta sobre el formidable Fortunatos otorgando dos tiros libres a favor de Forasteros!
+
+Tortuga: ¿Cómo se hubiera visto la última jugada si el espacio fuera tetradimensional?
+
+Luego retrocede con una expresión de satisfacción en su rostro.
+
+Cangrejo: No necesito saber el número del canal. En vez de eso, lo sintetizo codificando en estos selectores la situación hipotética que deseo ver representada. Técnicamente, esto se llama "sintonizar un canal mediante sus parámetros contrafácticos". Siempre hay un gran número de canales transmitiendo toda clase de mundos concebibles. Todos los canales que presentan mundos que están "próximos" entre sí, tienen números de referencia que también están próximos entre sí.
+
+Cangrejo: Oh, eso fue porque había sintonizado un canal que está muy próximo al Canal Realidad, pero ligeramente desviado. De modo que de vez en cuando se desvía de la realidad. Es casi imposible sintonizar EXACTAMENTE el Canal Realidad. Pero eso es perfecto, ya que este canal es tan desabrido. ¡Todas sus repeticiones son al pie de la letra! ¿Se imagina? ¡Qué aburrido!
+
+Por ejemplo, ¿cómo se habría visto la última jugada si la suma no fuera conmutativa?
+
+Cangrejo: Pero vea, puedo hacerlo CASI tan bien como eso. ¿No le gustaría ver cómo habría sido la última jugada si 13 no fuera un número primo?
+Sr. Perezoso: ¡No gracias! ¡ESO no tiene ningún sentido! En todo caso, si yo fuera la última jugada, me estaría cansando ya de ser disfrazada una y otra vez para satisfacer los deseos de su descabellado generador de conceptos. ¡Sigamos con el partido!
+
+Normalmente yo no participo en esas frivolidades, pero un impulso loco se apoderó de mí, y compré un boleto.
+
+Aquiles: ¡Fantástico! ¡Nunca antes había conocido a alguien que se hubiera ganado algo en una lotería!
+
+¡Seguro que eso también cuenta como un acierto, si es que cualquier cosa cuenta!
+
+Yo creo que mi número estaba mucho más cerca que el SUYO, pero Ud. no puede ir contra la corriente.
+
+Parece como si nosotros mismos hibiéramos estado viviendo en alguna clase de mundo hipotético que podría haber existido si las circunstancias hubieran sido tan sólo levemente diferentes...
+
+Oh, bueno, eso no tiene ninguna importancia, en el hockey sobre vapor pentadimensional plutoniano.
+
 
 #### <span id="capxix">[Capítulo XIX: Inteligencia Artificial: mirada prospectiva](#capxix)</span>
 
 <div style="text-align:center" markdown="1">
 ![Gödel, Escher, Bach][GodelEscherBach-48_CapXIX]{: width="50%"}
 </div>
+
+A través de la reflexión cotidiana, constantemente estamos elaborando variantes mentales de las situaciones con que nos enfrentamos, de las ideas que se nos presentan o de los hechos que suceden; dejamos intocados algunos rasgos, pero otros los "retocamos".
+
+¿Cuáles son los hechos percibidos, en algún profundo nivel intuitivo, como estrechamente relacionados con los efectivamente sucedidos? ¿Qué versiones alternativas de los acontecimientos emergen en nuestra mente, fuera de todo pensamiento consciente, cuando escuchamos un relato?
+
+Después de todo, es obvio que cualquier cosa que no haya sucedido no sucedió. No hay grados de "no acaecimiento"; y lo mismo vale para las situaciones "casi".
+
+Sin embargo el "casi" reside en la mente, no en los acontecimientos externos.
+
+Hay algo que nos permite imaginar, con más facilidad en este caso que en los otros, que "todas las otras cosas permanecen igual".
+
+¿De qué se tratan los medios que nos brindan certidumbres sólidas acerca de cuando es "razonable" y cuándo es "disparatado" efectuar retoques?
+
+¡Qué mediocre y muerta es una mente que en una negación sólo ve una barrera opaca! Una mente viva puede ver allí un mundo abierto de posibilidades.
+
+Creo que las situaciones "casi" y las subjuntividades inconscientemente elaboradas son representativas de parte de las más pródigas fuentes potenciales de penetración en los modos a través de los cuales los seres humanos organizan, y ordenan en categorías, su percepción del mundo.
+
+"Son nuestras la capacidad, la necesidad, de contradecir o 'in-decir' el mundo, de imaginarlo y verbalizarlo de otra manera... Necesitamos una palabra para designar el poder y la compulsión que fuerzan al lenguaje a plantear la 'otredad'... Quizá la palabra sea 'alteridad', y permita definir 'lo que no es el caso', las proposiciones contrafácticas: las imágenes y las formas de la voluntad y de la evasión que insuflamos a nuestro ser mental y gracias a las cuales elaboramos el ámbito, cambiante y en buena medida ficticio, de nuestra existencia somática y social..."
+
+"Es inverosímil que el hombre, tal como lo conocemos, hubiese podido sobrevivir sin los recursos ficticios, contrafácticos y antideterministas del lenguaje, sin la capacidad semántica, generada y almacenada en las áreas 'superfluas' de la corteza, de concebir y articular posibilidades situadas más allá del circuito de la decadencia orgánica y de la muerte."
+
+La construcción de "mundos subjuntivos" se produce en forma tan casual, tan natural, que muy difícilmente advertimos que lo estamos haciendo.
+
+Cuando procedemos así, ganamos un tipo intangible de perspectiva acerca de la realidad.
+
+El Sr. Perezoso es un ejemplo divertido de variación con respecto a la realidad: un ser pensante despojado de la capacidad de introducirse en la subjuntividad (al menos, un ser que *sostiene* estar despojado de tal capacidad, ¡aunque podemos registrar que todo lo dicho por él está plagado de contrafactibilidades!)
+
+¡Pensemos cuán inconmesurablemente más pobre sería nuestra vida mental si no tuviéramos la capacidad creativa de abandonar el cerco de la realidad para desplazarnos hacia el grato "si"!
+
+Observé, con todo, que ciertos desplazamientos resultaban grandemente disparatados en una situación y muy normales en otras.
+
+Nuestra representación mental de una situación es construída estrato por estrato.
 
 
 #### <span id="capxx">[Capítulo XX: Bucles Extraños o Jerarquías Enredadas](#capxx)</span>

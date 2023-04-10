@@ -204,6 +204,18 @@ description: "Feynman Lectures on Computation - Richard Phillips Feynman (englis
 </div>
 
 <div style="text-align:center" markdown="1">
+![RPFLecturesComputation_3-3_term1-01][RPFLecturesComputation_3-3_term1-01]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![RPFLecturesComputation_3-3_term1-02][RPFLecturesComputation_3-3_term1-02]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![RPFLecturesComputation_3-3_term1-03][RPFLecturesComputation_3-3_term1-03]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
 ![RPFLecturesComputation_Chap3-3_3_Pag61][RPFLecturesComputation_Chap3-3_3_Pag61]{: width="50%"}
 </div>
 
@@ -340,6 +352,9 @@ description: "Feynman Lectures on Computation - Richard Phillips Feynman (englis
 [RPFLecturesComputation_Chap3-2_1_Pag55]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap3-2_1_Pag55.jpg "Feynman Lectures on Computation - Richard P. Feynman (3.2 pag 55)"
 [RPFLecturesComputation_Chap3-3_1_Pag60]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap3-3_1_Pag60.jpg "Feynman Lectures on Computation - Richard P. Feynman (3.3 pag 60)"
 [RPFLecturesComputation_Chap3-3_2_Pag61]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap3-3_2_Pag61.jpg "Feynman Lectures on Computation - Richard P. Feynman (3.3 pag 61)"
+[RPFLecturesComputation_3-3_term1-01]: {{ site.baseurl }}/assets/RPFLecturesComputation_3-3_term1-01.jpg "Feynman Lectures on Computation - Richard P. Feynman (3.3 pag 61, term 1)"
+[RPFLecturesComputation_3-3_term1-02]: {{ site.baseurl }}/assets/RPFLecturesComputation_3-3_term1-02.jpg "Feynman Lectures on Computation - Richard P. Feynman (3.3 pag 61, term 2)"
+[RPFLecturesComputation_3-3_term1-03]: {{ site.baseurl }}/assets/RPFLecturesComputation_3-3_term1-03.jpg "Feynman Lectures on Computation - Richard P. Feynman (3.3 pag 61, term 3)"
 [RPFLecturesComputation_Chap3-3_3_Pag61]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap3-3_3_Pag61.jpg "Feynman Lectures on Computation - Richard P. Feynman (3.3 pag 61)"
 [RPFLecturesComputation_Chap3-3_4_Pag61]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap3-3_4_Pag61.jpg "Feynman Lectures on Computation - Richard P. Feynman (3.3 pag 61)"
 [RPFLecturesComputation_Chap3-3_5_Pag61]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap3-3_5_Pag61.jpg "Feynman Lectures on Computation - Richard P. Feynman (3.3 pag 61)"
