@@ -2,16 +2,17 @@
 layout: post
 permalink: /dune-frank-herbert.html
 date: 2023-05-01 20:15:42
-tags: review literatura Dune "Dune - Frank Herbert" "Frank Herbert" FrankHerbert
+tags: review literatura Dune "Dune - Frank Herbert" "Frank Herbert" FrankHerbert Frank Herbert
 title: "Dune - Frank Herbert"
 image: https://da8y01.github.io/gh-blog/assets/DuneFrankHerbert_Cubierta.jpg
-description: "Dune - Frank Patrick Herbert"
+description: "Dune - Frank Patrick Herbert."
 ---
 
 
 <div style="text-align:center" markdown="1">
 ![DuneFrankHerbert_Cubierta][DuneFrankHerbert_Cubierta]{: width="50%"}
 </div>
+
 
 ## <span id="LibroPrimeroDune">[Libro primero: Dune](#LibroPrimeroDune)</span>
 
@@ -259,124 +260,382 @@ En una estancia de Giedi Prime están reunidos el Barón Vladimir Harkonen, el M
 
 En una estancia de Giedi Prime están reunidos el Barón Vladimir Harkonen, el Mentat Piter y el heredero Feyd-Rautha. El Barón manipula una esfera con una representación del planeta Arrakis. Se presentan los planes en contra de la Casa Atreides según los nuevos eventos que se van desarrollando.
 
+
 ## <span id="LibroSegundoMuadDib">[Libro segundo: Muad’Dib](#LibroSegundoMuadDib)</span>
 
+
 ## <span id="LibroTerceroProfeta">[Libro tercero: el profeta](#LibroTerceroProfeta)</span>
+
 
 ## <span id="Apendices">[Apéndices](#Apendices)</span>
 
 ### <span id="Apendices1">[I. La ecología de Dune](#Apendices1)</span>
 
 <div style="text-align:center" markdown="1">
-![DuneFrankHerbert_Apendices1_01][DuneFrankHerbert_Apendices1_01]{: width="50%"}
+![DuneFrankHerbert_Apendices1_01][DuneFrankHerbert_Apendices1_01]{: width="60%"}
 </div>
 
 <div style="text-align:center" markdown="1">
-![DuneFrankHerbert_Apendices1_02][DuneFrankHerbert_Apendices1_02]{: width="50%"}
+![DuneFrankHerbert_Apendices1_02][DuneFrankHerbert_Apendices1_02]{: width="60%"}
 </div>
 
 <div style="text-align:center" markdown="1">
-![DuneFrankHerbert_Apendices1_03][DuneFrankHerbert_Apendices1_03]{: width="50%"}
+![DuneFrankHerbert_Apendices1_03][DuneFrankHerbert_Apendices1_03]{: width="60%"}
 </div>
 
 <div style="text-align:center" markdown="1">
-![DuneFrankHerbert_Apendices1_04][DuneFrankHerbert_Apendices1_04]{: width="50%"}
+![DuneFrankHerbert_Apendices1_04][DuneFrankHerbert_Apendices1_04]{: width="60%"}
 </div>
 
 <div style="text-align:center" markdown="1">
-![DuneFrankHerbert_Apendices1_05][DuneFrankHerbert_Apendices1_05]{: width="50%"}
+![DuneFrankHerbert_Apendices1_05][DuneFrankHerbert_Apendices1_05]{: width="60%"}
 </div>
 
 ### <span id="Apendices2">[II. La religión de Dune](#Apendices2)</span>
 
 <div style="text-align:center" markdown="1">
-![DuneFrankHerbert_Apendices2_01][DuneFrankHerbert_Apendices2_01]{: width="50%"}
+![DuneFrankHerbert_Apendices2_01][DuneFrankHerbert_Apendices2_01]{: width="60%"}
 </div>
 
 <div style="text-align:center" markdown="1">
-![DuneFrankHerbert_Apendices2_02][DuneFrankHerbert_Apendices2_02]{: width="50%"}
+![DuneFrankHerbert_Apendices2_02][DuneFrankHerbert_Apendices2_02]{: width="60%"}
 </div>
 
 <div style="text-align:center" markdown="1">
-![DuneFrankHerbert_Apendices2_03][DuneFrankHerbert_Apendices2_03]{: width="50%"}
+![DuneFrankHerbert_Apendices2_03][DuneFrankHerbert_Apendices2_03]{: width="60%"}
 </div>
 
 <div style="text-align:center" markdown="1">
-![DuneFrankHerbert_Apendices2_04][DuneFrankHerbert_Apendices2_04]{: width="50%"}
+![DuneFrankHerbert_Apendices2_04][DuneFrankHerbert_Apendices2_04]{: width="60%"}
 </div>
 
 <div style="text-align:center" markdown="1">
-![DuneFrankHerbert_Apendices2_05][DuneFrankHerbert_Apendices2_05]{: width="50%"}
+![DuneFrankHerbert_Apendices2_05][DuneFrankHerbert_Apendices2_05]{: width="60%"}
 </div>
 
 <div style="text-align:center" markdown="1">
-![DuneFrankHerbert_Apendices2_06][DuneFrankHerbert_Apendices2_06]{: width="50%"}
+![DuneFrankHerbert_Apendices2_06][DuneFrankHerbert_Apendices2_06]{: width="60%"}
 </div>
 
 <div style="text-align:center" markdown="1">
-![DuneFrankHerbert_Apendices2_07][DuneFrankHerbert_Apendices2_07]{: width="50%"}
+![DuneFrankHerbert_Apendices2_07][DuneFrankHerbert_Apendices2_07]{: width="60%"}
 </div>
 
 <div style="text-align:center" markdown="1">
-![DuneFrankHerbert_Apendices2_08][DuneFrankHerbert_Apendices2_08]{: width="50%"}
+![DuneFrankHerbert_Apendices2_08][DuneFrankHerbert_Apendices2_08]{: width="60%"}
 </div>
 
 <div style="text-align:center" markdown="1">
-![DuneFrankHerbert_Apendices2_09][DuneFrankHerbert_Apendices2_09]{: width="50%"}
+![DuneFrankHerbert_Apendices2_09][DuneFrankHerbert_Apendices2_09]{: width="60%"}
 </div>
 
 <div style="text-align:center" markdown="1">
-![DuneFrankHerbert_Apendices2_10][DuneFrankHerbert_Apendices2_10]{: width="50%"}
+![DuneFrankHerbert_Apendices2_10][DuneFrankHerbert_Apendices2_10]{: width="60%"}
 </div>
 
 <div style="text-align:center" markdown="1">
-![DuneFrankHerbert_Apendices2_11][DuneFrankHerbert_Apendices2_11]{: width="50%"}
+![DuneFrankHerbert_Apendices2_11][DuneFrankHerbert_Apendices2_11]{: width="60%"}
 </div>
 
 <div style="text-align:center" markdown="1">
-![DuneFrankHerbert_Apendices2_12][DuneFrankHerbert_Apendices2_12]{: width="50%"}
+![DuneFrankHerbert_Apendices2_12][DuneFrankHerbert_Apendices2_12]{: width="60%"}
 </div>
 
 <div style="text-align:center" markdown="1">
-![DuneFrankHerbert_Apendices2_13][DuneFrankHerbert_Apendices2_13]{: width="50%"}
+![DuneFrankHerbert_Apendices2_13][DuneFrankHerbert_Apendices2_13]{: width="60%"}
 </div>
 
 <div style="text-align:center" markdown="1">
-![DuneFrankHerbert_Apendices2_14][DuneFrankHerbert_Apendices2_14]{: width="50%"}
+![DuneFrankHerbert_Apendices2_14][DuneFrankHerbert_Apendices2_14]{: width="60%"}
 </div>
 
 ### <span id="Apendices3">[III. Informe sobre los motivos y propósitos de la Bene Gesserit](#Apendices3)</span>
 
 <div style="text-align:center" markdown="1">
-![DuneFrankHerbert_Apendices3_01][DuneFrankHerbert_Apendices3_01]{: width="50%"}
+![DuneFrankHerbert_Apendices3_01][DuneFrankHerbert_Apendices3_01]{: width="60%"}
 </div>
 
 <div style="text-align:center" markdown="1">
-![DuneFrankHerbert_Apendices3_02][DuneFrankHerbert_Apendices3_02]{: width="50%"}
+![DuneFrankHerbert_Apendices3_02][DuneFrankHerbert_Apendices3_02]{: width="60%"}
 </div>
 
 <div style="text-align:center" markdown="1">
-![DuneFrankHerbert_Apendices3_03][DuneFrankHerbert_Apendices3_03]{: width="50%"}
+![DuneFrankHerbert_Apendices3_03][DuneFrankHerbert_Apendices3_03]{: width="60%"}
 </div>
 
 ### <span id="Apendices4">[IV. El almanaque Al-Ashraf](#Apendices4)</span>
 
 <div style="text-align:center" markdown="1">
-![DuneFrankHerbert_Apendices4_01][DuneFrankHerbert_Apendices4_01]{: width="50%"}
+![DuneFrankHerbert_Apendices4_01][DuneFrankHerbert_Apendices4_01]{: width="60%"}
 </div>
 
+
 ## <span id="TerminologiaImperio">[Terminología del Imperio](#TerminologiaImperio)</span>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_01][DuneFrankHerbert_TerminologiaImperio_01]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_02][DuneFrankHerbert_TerminologiaImperio_02]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_03][DuneFrankHerbert_TerminologiaImperio_03]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_04][DuneFrankHerbert_TerminologiaImperio_04]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_05][DuneFrankHerbert_TerminologiaImperio_05]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_06][DuneFrankHerbert_TerminologiaImperio_06]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_07][DuneFrankHerbert_TerminologiaImperio_07]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_08][DuneFrankHerbert_TerminologiaImperio_08]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_09][DuneFrankHerbert_TerminologiaImperio_09]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_10][DuneFrankHerbert_TerminologiaImperio_10]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_11][DuneFrankHerbert_TerminologiaImperio_11]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_12][DuneFrankHerbert_TerminologiaImperio_12]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_13][DuneFrankHerbert_TerminologiaImperio_13]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_14][DuneFrankHerbert_TerminologiaImperio_14]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_15][DuneFrankHerbert_TerminologiaImperio_15]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_16][DuneFrankHerbert_TerminologiaImperio_16]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_17][DuneFrankHerbert_TerminologiaImperio_17]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_18][DuneFrankHerbert_TerminologiaImperio_18]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_19][DuneFrankHerbert_TerminologiaImperio_19]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_20][DuneFrankHerbert_TerminologiaImperio_20]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_21][DuneFrankHerbert_TerminologiaImperio_21]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_22][DuneFrankHerbert_TerminologiaImperio_22]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_23][DuneFrankHerbert_TerminologiaImperio_23]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_24][DuneFrankHerbert_TerminologiaImperio_24]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_25][DuneFrankHerbert_TerminologiaImperio_25]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_26][DuneFrankHerbert_TerminologiaImperio_26]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_27][DuneFrankHerbert_TerminologiaImperio_27]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_28][DuneFrankHerbert_TerminologiaImperio_28]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_29][DuneFrankHerbert_TerminologiaImperio_29]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_30][DuneFrankHerbert_TerminologiaImperio_30]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_31][DuneFrankHerbert_TerminologiaImperio_31]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_32][DuneFrankHerbert_TerminologiaImperio_32]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_33][DuneFrankHerbert_TerminologiaImperio_33]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_34][DuneFrankHerbert_TerminologiaImperio_34]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_35][DuneFrankHerbert_TerminologiaImperio_35]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_36][DuneFrankHerbert_TerminologiaImperio_36]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_37][DuneFrankHerbert_TerminologiaImperio_37]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_38][DuneFrankHerbert_TerminologiaImperio_38]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_39][DuneFrankHerbert_TerminologiaImperio_39]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_40][DuneFrankHerbert_TerminologiaImperio_40]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_41][DuneFrankHerbert_TerminologiaImperio_41]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_42][DuneFrankHerbert_TerminologiaImperio_42]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_43][DuneFrankHerbert_TerminologiaImperio_43]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_44][DuneFrankHerbert_TerminologiaImperio_44]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_45][DuneFrankHerbert_TerminologiaImperio_45]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_46][DuneFrankHerbert_TerminologiaImperio_46]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_47][DuneFrankHerbert_TerminologiaImperio_47]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_48][DuneFrankHerbert_TerminologiaImperio_48]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_49][DuneFrankHerbert_TerminologiaImperio_49]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_50][DuneFrankHerbert_TerminologiaImperio_50]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_51][DuneFrankHerbert_TerminologiaImperio_51]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_52][DuneFrankHerbert_TerminologiaImperio_52]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_53][DuneFrankHerbert_TerminologiaImperio_53]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_54][DuneFrankHerbert_TerminologiaImperio_54]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_55][DuneFrankHerbert_TerminologiaImperio_55]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_56][DuneFrankHerbert_TerminologiaImperio_56]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_57][DuneFrankHerbert_TerminologiaImperio_57]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_58][DuneFrankHerbert_TerminologiaImperio_58]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_59][DuneFrankHerbert_TerminologiaImperio_59]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_60][DuneFrankHerbert_TerminologiaImperio_60]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_61][DuneFrankHerbert_TerminologiaImperio_61]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_62][DuneFrankHerbert_TerminologiaImperio_62]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_TerminologiaImperio_63][DuneFrankHerbert_TerminologiaImperio_63]{: width="60%"}
+</div>
+
 
 ## <span id="Mapa">[Mapa](#Mapa)</span>
 
 <div style="text-align:center" markdown="1">
-![DuneFrankHerbert_Mapa][DuneFrankHerbert_Mapa]{: width="50%"}
+![DuneFrankHerbert_Mapa][DuneFrankHerbert_Mapa]{: width="60%"}
 </div>
+
 
 ## <span id="Autor">[Autor](#Autor)</span>
 
 <div style="text-align:center" markdown="1">
-![DuneFrankHerbert_Autor][DuneFrankHerbert_Autor]{: width="50%"}
+![DuneFrankHerbert_Autor][DuneFrankHerbert_Autor]{: width="60%"}
 </div>
 
 
@@ -393,28 +652,91 @@ En una estancia de Giedi Prime están reunidos el Barón Vladimir Harkonen, el M
 [FrankHerbert_Dune_epub]: {{ site.baseurl }}/assets/FrankHerbert_Dune.epub
 
 [DuneFrankHerbert_Cubierta]: {{ site.baseurl }}/assets/DuneFrankHerbert_Cubierta.png "Dune - Frank Herbert (Cubierta)"
-[DuneFrankHerbert_Apendices1_01]: {{ site.baseurl }}/assets/DuneFrankHerbert_Apendices1_01.png "Dune - Frank Herbert (Apéndices I, 01)"
-[DuneFrankHerbert_Apendices1_02]: {{ site.baseurl }}/assets/DuneFrankHerbert_Apendices1_02.png "Dune - Frank Herbert (Apéndices I, 02)"
-[DuneFrankHerbert_Apendices1_03]: {{ site.baseurl }}/assets/DuneFrankHerbert_Apendices1_03.png "Dune - Frank Herbert (Apéndices I, 03)"
-[DuneFrankHerbert_Apendices1_04]: {{ site.baseurl }}/assets/DuneFrankHerbert_Apendices1_04.png "Dune - Frank Herbert (Apéndices I, 04)"
-[DuneFrankHerbert_Apendices1_05]: {{ site.baseurl }}/assets/DuneFrankHerbert_Apendices1_05.png "Dune - Frank Herbert (Apéndices I, 05)"
-[DuneFrankHerbert_Apendices2_01]: {{ site.baseurl }}/assets/DuneFrankHerbert_Apendices2_01.png "Dune - Frank Herbert (Apéndices II, 01)"
-[DuneFrankHerbert_Apendices2_02]: {{ site.baseurl }}/assets/DuneFrankHerbert_Apendices2_02.png "Dune - Frank Herbert (Apéndices II, 02)"
-[DuneFrankHerbert_Apendices2_03]: {{ site.baseurl }}/assets/DuneFrankHerbert_Apendices2_03.png "Dune - Frank Herbert (Apéndices II, 03)"
-[DuneFrankHerbert_Apendices2_04]: {{ site.baseurl }}/assets/DuneFrankHerbert_Apendices2_04.png "Dune - Frank Herbert (Apéndices II, 04)"
-[DuneFrankHerbert_Apendices2_05]: {{ site.baseurl }}/assets/DuneFrankHerbert_Apendices2_05.png "Dune - Frank Herbert (Apéndices II, 05)"
-[DuneFrankHerbert_Apendices2_06]: {{ site.baseurl }}/assets/DuneFrankHerbert_Apendices2_06.png "Dune - Frank Herbert (Apéndices II, 06)"
-[DuneFrankHerbert_Apendices2_07]: {{ site.baseurl }}/assets/DuneFrankHerbert_Apendices2_07.png "Dune - Frank Herbert (Apéndices II, 07)"
-[DuneFrankHerbert_Apendices2_08]: {{ site.baseurl }}/assets/DuneFrankHerbert_Apendices2_08.png "Dune - Frank Herbert (Apéndices II, 08)"
-[DuneFrankHerbert_Apendices2_09]: {{ site.baseurl }}/assets/DuneFrankHerbert_Apendices2_09.png "Dune - Frank Herbert (Apéndices II, 09)"
+[DuneFrankHerbert_Apendices1_01]: {{ site.baseurl }}/assets/DuneFrankHerbert_Apendices1_01.png "Dune - Frank Herbert (Apéndices I, 1)"
+[DuneFrankHerbert_Apendices1_02]: {{ site.baseurl }}/assets/DuneFrankHerbert_Apendices1_02.png "Dune - Frank Herbert (Apéndices I, 2)"
+[DuneFrankHerbert_Apendices1_03]: {{ site.baseurl }}/assets/DuneFrankHerbert_Apendices1_03.png "Dune - Frank Herbert (Apéndices I, 3)"
+[DuneFrankHerbert_Apendices1_04]: {{ site.baseurl }}/assets/DuneFrankHerbert_Apendices1_04.png "Dune - Frank Herbert (Apéndices I, 4)"
+[DuneFrankHerbert_Apendices1_05]: {{ site.baseurl }}/assets/DuneFrankHerbert_Apendices1_05.png "Dune - Frank Herbert (Apéndices I, 5)"
+[DuneFrankHerbert_Apendices2_01]: {{ site.baseurl }}/assets/DuneFrankHerbert_Apendices2_01.png "Dune - Frank Herbert (Apéndices II, 1)"
+[DuneFrankHerbert_Apendices2_02]: {{ site.baseurl }}/assets/DuneFrankHerbert_Apendices2_02.png "Dune - Frank Herbert (Apéndices II, 2)"
+[DuneFrankHerbert_Apendices2_03]: {{ site.baseurl }}/assets/DuneFrankHerbert_Apendices2_03.png "Dune - Frank Herbert (Apéndices II, 3)"
+[DuneFrankHerbert_Apendices2_04]: {{ site.baseurl }}/assets/DuneFrankHerbert_Apendices2_04.png "Dune - Frank Herbert (Apéndices II, 4)"
+[DuneFrankHerbert_Apendices2_05]: {{ site.baseurl }}/assets/DuneFrankHerbert_Apendices2_05.png "Dune - Frank Herbert (Apéndices II, 5)"
+[DuneFrankHerbert_Apendices2_06]: {{ site.baseurl }}/assets/DuneFrankHerbert_Apendices2_06.png "Dune - Frank Herbert (Apéndices II, 6)"
+[DuneFrankHerbert_Apendices2_07]: {{ site.baseurl }}/assets/DuneFrankHerbert_Apendices2_07.png "Dune - Frank Herbert (Apéndices II, 7)"
+[DuneFrankHerbert_Apendices2_08]: {{ site.baseurl }}/assets/DuneFrankHerbert_Apendices2_08.png "Dune - Frank Herbert (Apéndices II, 8)"
+[DuneFrankHerbert_Apendices2_09]: {{ site.baseurl }}/assets/DuneFrankHerbert_Apendices2_09.png "Dune - Frank Herbert (Apéndices II, 9)"
 [DuneFrankHerbert_Apendices2_10]: {{ site.baseurl }}/assets/DuneFrankHerbert_Apendices2_10.png "Dune - Frank Herbert (Apéndices II, 10)"
 [DuneFrankHerbert_Apendices2_11]: {{ site.baseurl }}/assets/DuneFrankHerbert_Apendices2_11.png "Dune - Frank Herbert (Apéndices II, 11)"
 [DuneFrankHerbert_Apendices2_12]: {{ site.baseurl }}/assets/DuneFrankHerbert_Apendices2_12.png "Dune - Frank Herbert (Apéndices II, 12)"
 [DuneFrankHerbert_Apendices2_13]: {{ site.baseurl }}/assets/DuneFrankHerbert_Apendices2_13.png "Dune - Frank Herbert (Apéndices II, 13)"
 [DuneFrankHerbert_Apendices2_14]: {{ site.baseurl }}/assets/DuneFrankHerbert_Apendices2_14.png "Dune - Frank Herbert (Apéndices II, 14)"
-[DuneFrankHerbert_Apendices3_01]: {{ site.baseurl }}/assets/DuneFrankHerbert_Apendices3_01.png "Dune - Frank Herbert (Apéndices III, 01)"
-[DuneFrankHerbert_Apendices3_02]: {{ site.baseurl }}/assets/DuneFrankHerbert_Apendices3_02.png "Dune - Frank Herbert (Apéndices III, 02)"
-[DuneFrankHerbert_Apendices3_03]: {{ site.baseurl }}/assets/DuneFrankHerbert_Apendices3_03.png "Dune - Frank Herbert (Apéndices III, 03)"
-[DuneFrankHerbert_Apendices4_01]: {{ site.baseurl }}/assets/DuneFrankHerbert_Apendices4_01.png "Dune - Frank Herbert (Apéndices IV, 01)"
+[DuneFrankHerbert_Apendices3_01]: {{ site.baseurl }}/assets/DuneFrankHerbert_Apendices3_01.png "Dune - Frank Herbert (Apéndices III, 1)"
+[DuneFrankHerbert_Apendices3_02]: {{ site.baseurl }}/assets/DuneFrankHerbert_Apendices3_02.png "Dune - Frank Herbert (Apéndices III, 2)"
+[DuneFrankHerbert_Apendices3_03]: {{ site.baseurl }}/assets/DuneFrankHerbert_Apendices3_03.png "Dune - Frank Herbert (Apéndices III, 3)"
+[DuneFrankHerbert_Apendices4_01]: {{ site.baseurl }}/assets/DuneFrankHerbert_Apendices4_01.png "Dune - Frank Herbert (Apéndices IV, 1)"
+[DuneFrankHerbert_TerminologiaImperio_01]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_01.png "Dune - Frank Herbert (Terminologia del Imperio, 1)"
+[DuneFrankHerbert_TerminologiaImperio_02]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_02.png "Dune - Frank Herbert (Terminologia del Imperio, 2)"
+[DuneFrankHerbert_TerminologiaImperio_03]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_03.png "Dune - Frank Herbert (Terminologia del Imperio, 3)"
+[DuneFrankHerbert_TerminologiaImperio_04]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_04.png "Dune - Frank Herbert (Terminologia del Imperio, 4)"
+[DuneFrankHerbert_TerminologiaImperio_05]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_05.png "Dune - Frank Herbert (Terminologia del Imperio, 5)"
+[DuneFrankHerbert_TerminologiaImperio_06]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_06.png "Dune - Frank Herbert (Terminologia del Imperio, 6)"
+[DuneFrankHerbert_TerminologiaImperio_07]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_07.png "Dune - Frank Herbert (Terminologia del Imperio, 7)"
+[DuneFrankHerbert_TerminologiaImperio_08]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_08.png "Dune - Frank Herbert (Terminologia del Imperio, 8)"
+[DuneFrankHerbert_TerminologiaImperio_09]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_09.png "Dune - Frank Herbert (Terminologia del Imperio, 9)"
+[DuneFrankHerbert_TerminologiaImperio_10]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_10.png "Dune - Frank Herbert (Terminologia del Imperio, 10)"
+[DuneFrankHerbert_TerminologiaImperio_11]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_11.png "Dune - Frank Herbert (Terminologia del Imperio, 11)"
+[DuneFrankHerbert_TerminologiaImperio_12]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_12.png "Dune - Frank Herbert (Terminologia del Imperio, 12)"
+[DuneFrankHerbert_TerminologiaImperio_13]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_13.png "Dune - Frank Herbert (Terminologia del Imperio, 13)"
+[DuneFrankHerbert_TerminologiaImperio_14]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_14.png "Dune - Frank Herbert (Terminologia del Imperio, 14)"
+[DuneFrankHerbert_TerminologiaImperio_15]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_15.png "Dune - Frank Herbert (Terminologia del Imperio, 15)"
+[DuneFrankHerbert_TerminologiaImperio_16]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_16.png "Dune - Frank Herbert (Terminologia del Imperio, 16)"
+[DuneFrankHerbert_TerminologiaImperio_17]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_17.png "Dune - Frank Herbert (Terminologia del Imperio, 17)"
+[DuneFrankHerbert_TerminologiaImperio_18]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_18.png "Dune - Frank Herbert (Terminologia del Imperio, 18)"
+[DuneFrankHerbert_TerminologiaImperio_19]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_19.png "Dune - Frank Herbert (Terminologia del Imperio, 19)"
+[DuneFrankHerbert_TerminologiaImperio_20]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_20.png "Dune - Frank Herbert (Terminologia del Imperio, 20)"
+[DuneFrankHerbert_TerminologiaImperio_21]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_21.png "Dune - Frank Herbert (Terminologia del Imperio, 21)"
+[DuneFrankHerbert_TerminologiaImperio_22]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_22.png "Dune - Frank Herbert (Terminologia del Imperio, 22)"
+[DuneFrankHerbert_TerminologiaImperio_23]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_23.png "Dune - Frank Herbert (Terminologia del Imperio, 23)"
+[DuneFrankHerbert_TerminologiaImperio_24]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_24.png "Dune - Frank Herbert (Terminologia del Imperio, 24)"
+[DuneFrankHerbert_TerminologiaImperio_25]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_25.png "Dune - Frank Herbert (Terminologia del Imperio, 25)"
+[DuneFrankHerbert_TerminologiaImperio_26]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_26.png "Dune - Frank Herbert (Terminologia del Imperio, 26)"
+[DuneFrankHerbert_TerminologiaImperio_27]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_27.png "Dune - Frank Herbert (Terminologia del Imperio, 27)"
+[DuneFrankHerbert_TerminologiaImperio_28]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_28.png "Dune - Frank Herbert (Terminologia del Imperio, 28)"
+[DuneFrankHerbert_TerminologiaImperio_29]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_29.png "Dune - Frank Herbert (Terminologia del Imperio, 29)"
+[DuneFrankHerbert_TerminologiaImperio_30]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_30.png "Dune - Frank Herbert (Terminologia del Imperio, 30)"
+[DuneFrankHerbert_TerminologiaImperio_31]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_31.png "Dune - Frank Herbert (Terminologia del Imperio, 31)"
+[DuneFrankHerbert_TerminologiaImperio_32]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_32.png "Dune - Frank Herbert (Terminologia del Imperio, 32)"
+[DuneFrankHerbert_TerminologiaImperio_33]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_33.png "Dune - Frank Herbert (Terminologia del Imperio, 33)"
+[DuneFrankHerbert_TerminologiaImperio_34]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_34.png "Dune - Frank Herbert (Terminologia del Imperio, 34)"
+[DuneFrankHerbert_TerminologiaImperio_35]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_35.png "Dune - Frank Herbert (Terminologia del Imperio, 35)"
+[DuneFrankHerbert_TerminologiaImperio_36]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_36.png "Dune - Frank Herbert (Terminologia del Imperio, 36)"
+[DuneFrankHerbert_TerminologiaImperio_37]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_37.png "Dune - Frank Herbert (Terminologia del Imperio, 37)"
+[DuneFrankHerbert_TerminologiaImperio_38]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_38.png "Dune - Frank Herbert (Terminologia del Imperio, 38)"
+[DuneFrankHerbert_TerminologiaImperio_39]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_39.png "Dune - Frank Herbert (Terminologia del Imperio, 39)"
+[DuneFrankHerbert_TerminologiaImperio_40]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_40.png "Dune - Frank Herbert (Terminologia del Imperio, 40)"
+[DuneFrankHerbert_TerminologiaImperio_41]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_41.png "Dune - Frank Herbert (Terminologia del Imperio, 41)"
+[DuneFrankHerbert_TerminologiaImperio_42]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_42.png "Dune - Frank Herbert (Terminologia del Imperio, 42)"
+[DuneFrankHerbert_TerminologiaImperio_43]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_43.png "Dune - Frank Herbert (Terminologia del Imperio, 43)"
+[DuneFrankHerbert_TerminologiaImperio_44]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_44.png "Dune - Frank Herbert (Terminologia del Imperio, 44)"
+[DuneFrankHerbert_TerminologiaImperio_45]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_45.png "Dune - Frank Herbert (Terminologia del Imperio, 45)"
+[DuneFrankHerbert_TerminologiaImperio_46]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_46.png "Dune - Frank Herbert (Terminologia del Imperio, 46)"
+[DuneFrankHerbert_TerminologiaImperio_47]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_47.png "Dune - Frank Herbert (Terminologia del Imperio, 47)"
+[DuneFrankHerbert_TerminologiaImperio_48]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_48.png "Dune - Frank Herbert (Terminologia del Imperio, 48)"
+[DuneFrankHerbert_TerminologiaImperio_49]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_49.png "Dune - Frank Herbert (Terminologia del Imperio, 49)"
+[DuneFrankHerbert_TerminologiaImperio_50]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_50.png "Dune - Frank Herbert (Terminologia del Imperio, 50)"
+[DuneFrankHerbert_TerminologiaImperio_51]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_51.png "Dune - Frank Herbert (Terminologia del Imperio, 51)"
+[DuneFrankHerbert_TerminologiaImperio_52]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_52.png "Dune - Frank Herbert (Terminologia del Imperio, 52)"
+[DuneFrankHerbert_TerminologiaImperio_53]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_53.png "Dune - Frank Herbert (Terminologia del Imperio, 53)"
+[DuneFrankHerbert_TerminologiaImperio_54]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_54.png "Dune - Frank Herbert (Terminologia del Imperio, 54)"
+[DuneFrankHerbert_TerminologiaImperio_55]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_55.png "Dune - Frank Herbert (Terminologia del Imperio, 55)"
+[DuneFrankHerbert_TerminologiaImperio_56]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_56.png "Dune - Frank Herbert (Terminologia del Imperio, 56)"
+[DuneFrankHerbert_TerminologiaImperio_57]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_57.png "Dune - Frank Herbert (Terminologia del Imperio, 57)"
+[DuneFrankHerbert_TerminologiaImperio_58]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_58.png "Dune - Frank Herbert (Terminologia del Imperio, 58)"
+[DuneFrankHerbert_TerminologiaImperio_59]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_59.png "Dune - Frank Herbert (Terminologia del Imperio, 59)"
+[DuneFrankHerbert_TerminologiaImperio_60]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_60.png "Dune - Frank Herbert (Terminologia del Imperio, 60)"
+[DuneFrankHerbert_TerminologiaImperio_61]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_61.png "Dune - Frank Herbert (Terminologia del Imperio, 61)"
+[DuneFrankHerbert_TerminologiaImperio_62]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_62.png "Dune - Frank Herbert (Terminologia del Imperio, 62)"
+[DuneFrankHerbert_TerminologiaImperio_63]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_63.png "Dune - Frank Herbert (Terminologia del Imperio, 63)"
 [DuneFrankHerbert_Mapa]: {{ site.baseurl }}/assets/DuneFrankHerbert_Mapa.png "Dune - Frank Herbert (Mapa)"
 [DuneFrankHerbert_Autor]: {{ site.baseurl }}/assets/DuneFrankHerbert_Autor.png "Dune - Frank Herbert (Autor)"

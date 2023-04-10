@@ -105,6 +105,7 @@ if __name__ == '__main__':
 # 1 <= s.lenght <= 10^5
 # s consists only of lowercase letters
 
+
 def solution(s: str) -> str:
     # write your solution here
     print("Input", s)
@@ -181,7 +182,6 @@ if __name__ == '__main__':
 # Example 5:
 # Input: s = "ac", t = "aac"
 # Output: "a"
-
 
 import random
 
