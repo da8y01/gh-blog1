@@ -914,7 +914,7 @@ Las palabras eran símbolos formales vacíos, tan vacíos como --o quizá más t
 
 Esta idea de un lenguaje donde los enunciados falsos sean no gramaticales es antigua.
 
-Es muy atractiva porque la gramática pasa a contar con una bola de cristal en su seno: uno se limita a formular el enunicado que le interesa, y verifica si es gramatical... Realmente, Comenius fue aun más allá, pues en su lenguaje las enunciados falsos no sólo eran no gramaticales, ¡sino también inexpresables!
+Es muy atractiva porque la gramática pasa a contar con una bola de cristal en su seno: uno se limita a formular el enunciado que le interesa, y verifica si es gramatical... Realmente, Comenius fue aun más allá, pues en su lenguaje las enunciados falsos no sólo eran no gramaticales, ¡sino también inexpresables!
 
 Una rara casualidad; la manifestación de un error, el cual dio lugar a que el programa imprimiera, en lugar de una palabra idomática referida a un objeto, el número *interno* asignado en el programa al "nódulo" (un átomo Lisp, en realidad) donde estaba almacenada toda la información concerniente a ese objeto específico.
 
@@ -1027,6 +1027,8 @@ Después de todo, es obvio que cualquier cosa que no haya sucedido no sucedió. 
 
 Sin embargo el "casi" reside en la mente, no en los acontecimientos externos.
 
+Lo destacado por el comentario de The New Yorker no es que tales contrafactibilidades sean *falsas*; va más allá, sugiriendo que quienquiera acaricie ideas así --las de modificar el sexo o el número de un ser humano determinado-- tiene que ser alguien un tanto trastornado.
+
 Hay algo que nos permite imaginar, con más facilidad en este caso que en los otros, que "todas las otras cosas permanecen igual".
 
 ¿De qué se tratan los medios que nos brindan certidumbres sólidas acerca de cuando es "razonable" y cuándo es "disparatado" efectuar retoques?
@@ -1035,9 +1037,9 @@ Hay algo que nos permite imaginar, con más facilidad en este caso que en los ot
 
 Creo que las situaciones "casi" y las subjuntividades inconscientemente elaboradas son representativas de parte de las más pródigas fuentes potenciales de penetración en los modos a través de los cuales los seres humanos organizan, y ordenan en categorías, su percepción del mundo.
 
-"Son nuestras la capacidad, la necesidad, de contradecir o 'in-decir' el mundo, de imaginarlo y verbalizarlo de otra manera... Necesitamos una palabra para designar el poder y la compulsión que fuerzan al lenguaje a plantear la 'otredad'... Quizá la palabra sea 'alteridad', y permita definir 'lo que no es el caso', las proposiciones contrafácticas: las imágenes y las formas de la voluntad y de la evasión que insuflamos a nuestro ser mental y gracias a las cuales elaboramos el ámbito, cambiante y en buena medida ficticio, de nuestra existencia somática y social..."
-
-"Es inverosímil que el hombre, tal como lo conocemos, hubiese podido sobrevivir sin los recursos ficticios, contrafácticos y antideterministas del lenguaje, sin la capacidad semántica, generada y almacenada en las áreas 'superfluas' de la corteza, de concebir y articular posibilidades situadas más allá del circuito de la decadencia orgánica y de la muerte."
+"Es perfectamente posible que los centros generadores del lenguaje sean lo hipotético, lo "imaginario", lo condicional, la sintaxis de la contrafactibilidad y de la contingencia... -Estos- hacen algo más que ocasionar perplejidades filosóficas y gramaticales. Lo mismo que las formas verbales de futuro, con las cuales se percibe que aquéllos están emparentados para formar, en conjunto, el conjunto más extenso de las "suposiciones" o "alternativas", tales proposiciones "sí" son fundamentales para la dinámica de la emotividad humana...
+Son nuestras la capacidad, la necesidad, de contradecir o 'in-decir' el mundo, de imaginarlo y verbalizarlo de otra manera... Necesitamos una palabra para designar el poder y la compulsión que fuerzan al lenguaje a plantear la 'otredad'... Quizá la palabra sea 'alteridad', y permita definir 'lo que no es el caso', las proposiciones contrafácticas: las imágenes y las formas de la voluntad y de la evasión que insuflamos a nuestro ser mental y gracias a las cuales elaboramos el ámbito, cambiante y en buena medida ficticio, de nuestra existencia somática y social...
+Es inverosímil que el hombre, tal como lo conocemos, hubiese podido sobrevivir sin los recursos ficticios, contrafácticos y antideterministas del lenguaje, sin la capacidad semántica, generada y almacenada en las áreas 'superfluas' de la corteza, de concebir y articular posibilidades situadas más allá del circuito de la decadencia orgánica y de la muerte."
 
 La construcción de "mundos subjuntivos" se produce en forma tan casual, tan natural, que muy difícilmente advertimos que lo estamos haciendo.
 
@@ -1047,9 +1049,87 @@ El Sr. Perezoso es un ejemplo divertido de variación con respecto a la realidad
 
 ¡Pensemos cuán inconmesurablemente más pobre sería nuestra vida mental si no tuviéramos la capacidad creativa de abandonar el cerco de la realidad para desplazarnos hacia el grato "si"!
 
+Una forma de avanzar en nuestra perspectiva de esta métrica mental es la de "enfrentar fuego con fuego". Esto es cumplido en el Diálogo, donde se le requiere a nuestra "capacidad subjuntiva" que imagine un mundo donde la noción misma de capacidad subjuntiva es desplazada, por comparación con lo que esperábamos.
+
+En realidad, fue inspirada por una observación absulatamente corriente y casual que me hiciera una persona sentada junto a mi en un partido de fútbol.
+
 Observé, con todo, que ciertos desplazamientos resultaban grandemente disparatados en una situación y muy normales en otras.
 
+Ello significa que cualquiera de estos elementos puede variar (incluída la "constante"); sin embargo, hay una jerarquía de la variabilidad.
+
+Tiene escaso sentido pensar en mantener fija a *v* en tanto *c* y *p* varían, pues *c* y *p* establecen el contexto dentro del cual *v* adquiere significado.
+
 Nuestra representación mental de una situación es construída estrato por estrato.
+
+... a las cuales se "desata" mentalmente, y no se tiene inconveniente en desplazar más allá de sus valores reales, durante un breve lapso de tiempo.
+
+La palabra *marco* está de moda actualmente en IA, y puede ser definida como *instrumentación computacional de contexto*, expresión acuñada, lo mismo que muchas ideas a propósito de marcos, por Marvin Minsky, pese a que el concepto genérico existe desde hace un buen número de años. En lenguaje marco, se puede decir que las representaciones mentales de situaciones involucran marcos incluidos unos dentro de otros. Cada uno de los diversos ingredientes de una situación tiene su propio marco.
+
+Supongámonos frente a un gran número de muebles del tipo de las cómodas con cajones.
+
+Ahora bien, los submarcos son, a su vez, cómodas con cajones; entonces, ¿cómo introducir una cómoda, con cajones completa en el hueco previsto para un solo cajón dentro de otra cómoda con cajones? Es sencillo: se encoge y distorsiona la segúnda cómoda puesto que, al fin y al cabo, esto es meramente mental, no material.
+
+La vívida imagen surrealista de comprimir y aplastar una cómoda de modo que pueda amoldarse a un receptáculo de forma arbitraria es, tal vez, muy importante, pues insinúa que nuestros conceptos son comprimidos y aplastados por los contextos en los cuales los obligamos a ingresar.
+
+La tesis de representar el conocimiento a través de marcos reposa en la idea de que el mundo consiste en subsistemas cuasi contiguos, cada uno de los cuales puede servir de contexto a otros sin sufrir una excesiva desorganización, o sin generar una excesiva desorganización durante el proceso.
+
+La existencia de valores sustitutos permite que el proceso recursivo de rellenar los huecos pueda finalizar.
+
+A causa de que marcos diferentes pueden ser arbitrariamente introducidos en los receptáculos de otros marcos, existen grandes posibilidades de conflicto o "colisión".
+
+Estos son problemas profundos y difíciles de teoría del marco, para los cuales no tengo respuesta.
+
+Estos fascinantes problemas son planteados a los reconocedores de patrones, ya humanos, ya mecánicos. (También se los podría aplicar en IET: inteligencias extraterrestres).
+
+Un programa de resolución de problemas Bongard tendrá varios estadios, a través de los cuales los datos en bruto se van convirtiendo paulatinamente en descripciones.
+
+Los estadios finales cuentan con una propiedad a la que denomino *tentatividad*, la cual significa simplemente que el modo en que es representada una imagen siempre es tentativa.
+
+Las ideas presentadas a continuación tienen también una cualidad tentativa. De modo, pues, que la noción del lector acerca de cómo funciona todo esto puede también experimentar revisiones a medidad que vaya leyendo. Pero ello forma parte del espítitu de esta exposición.
+
+Este es aproximadamente el punto donde, en los seres humanos, se encuentran lo consciente y lo inconsciente.
+
+Cabe hacer notar que quien hubiese oído una descripción semejante no estaría en condiciones de *reconstruir* el dibujo original, pero sí de *reconocer* los dibujos que cuenten con esa propiedad. Es algo un tanto análogo al estilo musical: se puede ser un reconocedor infalible de Mozart y al mismo tiempo incapaz de componer nada que impresione como propio de Mozart.
+
+Es muy difícil saber *a priori* qué corresponde desechar y qué corresponde retener; por lo tanto, es necesario codificar algún género de método, por vía heurística, que permita una conciliación inteligente de aquellas dos tendencias.
+
+Desi es un agente especial, presente en todos los niveles del programa. (En realidad, puede haber diferentes clases de Desi en los diferentes niveles.)
+
+Lo primero que tiene lugar después del preprocesamiento es un esfuerzo por elaborar un molde, o esquema de descripción: un *formato uniforme* para aplicar a las descripciones de todas las cajas de un problema.
+
+... de otro modo, estaremos introduciendo en el mundo un "seudo orden" superfluo y carente de sentido.
+
+*Los "nódulos" son asociados mediante "enlaces", que a su vez pueden ser enlazados. Si se considera como verbo a un enlace, y a los nódulos que éste asocia como sujeto y objeto, es posible extraer ciertas oraciones de este diagrama.*
+
+¡Pero en esto reside toda la cuestión de optar por la elaboración de descripciones en lugar de la sola utilización de los datos en bruto!
+
+No nos es necesaio presentar la solución completa del problema 49; basta con mostrar la permanente interacción, ejercida en todas direcciones, de las descripciones individuales, los moldes, el detector de similitud y la red conceptual.
+
+Adviértase que se puede hablar de todo lo que integra la red, sean nódulos o enlaces; en este sentido, ningún elemento de la red está ubicado en un nivel superior a ningún otro.
+
+La red de conceptos, es, por fuerza, muy vasta; aparentemente, se limita a almacenar conocimientos de modo estático, o declarativo, pero esto no es más que la mitad del cuento.
+
+De tal modo, una de las principales funciones de la red conceptual es permitir que las conjeturas erróneas sean ligeramente modificadas gracias a su deslizamiento hacia variaciones que puedan ser correctas.
+
+Uno tiene que ser capaz de contraer los conceptos, cuando es adecuado hacerlo. Nada ha de ser absolutamente rígido. Por otro lado, sin embargo, las cosas no deben diluirse tanto que nada conserve el menor significado.
+
+... éste emplea una heurística general, consistente en *someter a prueba ideas que han funcionado recientemente*.
+
+Una forma de que el programa pueda determinar esto es que tanto el cancepto de "sucesión lineal" como el de "segmento lineal" sean conocidos, y que sean contiguos dentro de la red conceptual. Otra forma es que *invente* el concepto de "sucesión lineal": una sugerencia capciosa, para decir lo menos.
+
+Es conveniente almacenar las representaciones anteriores, en lugar de olvidarlas y verse luego quizá en la necesidad de reconstruirlas, pues nada garantiza que una representación más reciente sea mejor que una anterior. Así, junto con cada representación anterior han de almacenarse algunas de las razones existentes para aprobarla o desaprobarla.
+
+Hay tal valumen de variedad que es dificultoso saber por dónde empezar. ¡Pero ese hecho mismo constituye una pista! La pista dice, específicamente, que muy probablemente la distinción de clase repose en un nivel de abstracción más alto que el de la descripción geométrica. Esta observación le señala al programa que debe construir *descripciones de descripciones*; esto es, *metadescripciones*.
+
+(La graciosa expresión "maláfora" fue acuñada por el periodisya Lawrence Harrison: surge del cruce entre un "malogro" y una "métafora". Es un excelente ejemplo de "recombinación de ideas").
+
+Cuando es difícil construir un molde porque el preprocesador encuentra en exceso de diversidad, ello servirá como indicio de que los conceptos están involucrados en un nivel de abstracción más alto que el conocido por el preprocesador.
+
+Así, ambas nociones son complementarias: el enfocamiento se aplica a los objetos (a los sustantivos poco más o menos), y el filtrado a los conceptos (a los adjetivos, poco más o menos).
+
+Hay descubrimientos en todos los niveles posibles de complejidad. La teoría de **(Thomas?)** Kuhn en el sentido de que ciertos acontecimientos inusuales, llamados "mutaciones paradigmáticas", señalan la distinción entre ciencia "normal" y "revoluciones conceptuales", por lo visto no es acertada ya que podemos ver la aparición de mutaciones paradigmáticas en toda la extensión del sistema, y en todo momento. La fluidez de las descripciones asegura que las mutaciones paradigmáticas tengan lugar en todas las escalas.
+
+Por supuesto, algunos descubrimientos son más "revolucionarios" que otros, porque tienen efectos más amplios.
 
 
 #### <span id="capxx">[Capítulo XX: Bucles Extraños o Jerarquías Enredadas](#capxx)</span>

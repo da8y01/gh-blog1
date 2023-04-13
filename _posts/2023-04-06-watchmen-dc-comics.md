@@ -488,6 +488,10 @@ description: "Watchmen - Alan Moore, Dave Gibbons"
 ![WatchmenDCComics_chapter05_42][WatchmenDCComics_chapter05_42]{: width="40%"}
 </div>
 
+<div style="text-align:center" markdown="1">
+![WatchmenDCComics_chapter05_43][WatchmenDCComics_chapter05_43]{: width="40%"}
+</div>
+
 
 ## <span id="Chap06">[Chapter VI](#Chap06)</span>
 
@@ -673,6 +677,7 @@ description: "Watchmen - Alan Moore, Dave Gibbons"
 [WatchmenDCComics_chapter05_40]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter05_40.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter V, 40)"
 [WatchmenDCComics_chapter05_41]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter05_41.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter V, 41)"
 [WatchmenDCComics_chapter05_42]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter05_42.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter V, 42)"
+[WatchmenDCComics_chapter05_43]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter05_43.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter V, 43)"
 [WatchmenDCComics_chapter06]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter06.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter VI)"
 [WatchmenDCComics_chapter07]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter07.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter VII)"
 [WatchmenDCComics_chapter08]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter08.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter VIII)"
