@@ -14,6 +14,10 @@ description: "Dune - Frank Patrick Herbert."
 </div>
 
 
+A la gente cuyo trabajo va más allá del campo de las ideas y penetra en la «realidad material»: a los ecólogos de las tierras áridas, dondequiera que estén, en cualquier tiempo donde trabajen, dedico esta tentativa de extrapolación con humildad y admiración.
+
+FRANK HERBERT, 1965
+
 ## <span id="LibroPrimeroDune">[Libro primero: Dune](#LibroPrimeroDune)</span>
 
 ### <span id="Capitulo1">[Capítulo 1](#Capitulo1)</span>
@@ -115,6 +119,34 @@ Las palabras de la vieja mujer perdieron bruscamente aquella especial claridad p
 ### <span id="Capitulo2">[Capítulo 2](#Capitulo2)</span>
 
 En una estancia de Giedi Prime están reunidos el Barón Vladimir Harkonen, el Mentat Piter y el heredero Feyd-Rautha. El Barón manipula una esfera con una representación del planeta Arrakis. Se presentan los planes en contra de la Casa Atreides según los nuevos eventos que se van desarrollando.
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_Capitulo02_01][DuneFrankHerbert_Capitulo02_01]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_Capitulo02_02][DuneFrankHerbert_Capitulo02_02]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_Capitulo02_03][DuneFrankHerbert_Capitulo02_03]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_Capitulo02_04][DuneFrankHerbert_Capitulo02_04]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_Capitulo02_05][DuneFrankHerbert_Capitulo02_05]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_Capitulo02_06][DuneFrankHerbert_Capitulo02_06]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_Capitulo02_07][DuneFrankHerbert_Capitulo02_07]{: width="60%"}
+</div>
 
 ### <span id="Capitulo3">[Capítulo 3](#Capitulo3)</span>
 
@@ -218,15 +250,149 @@ Era una frase de su madre que se repetía a si mismo siempre que sentía las tin
 
 ### <span id="Capitulo5">[Capítulo 5](#Capitulo5)</span>
 
-En una estancia de Giedi Prime están reunidos el Barón Vladimir Harkonen, el Mentat Piter y el heredero Feyd-Rautha. El Barón manipula una esfera con una representación del planeta Arrakis. Se presentan los planes en contra de la Casa Atreides según los nuevos eventos que se van desarrollando.
+A continuación, en la misma estancia, Paul recibe al Dr. Yueh, próximo a cometer traición contra la casa Atreides, debido a una extorsión de los Harkonnen. El Dr. Yueh, disimulando sus recelos, obsequia la pequeña biblia a Paul.
+
+Paul levantó la cabeza y vio la envarada figura del hombre, de pie a algunos pasos de él, y de una sola ojeada observó sus arrugadas ropas negras, el bloque cuadrado de su cabeza de labios empurpurados y bigote caído, el tatuaje diamantino del Condicionamiento Imperial en la frente, el largo cabello negro cayendo sobre su hombro izquierdo, sujeto por el anillo de plata de la Escuela Suk.
+
+Y se recordó a sí mismo: No debo fallar. Lo que hago lo hago con la seguridad de que mi Wanna no sufrirá más a causa de esas bestias Harkonnen.
+
+Y Yueh pensó: ¿Qué es lo que estoy diciendo? Soy hipócrita conmigo mismo.
+
+—¿Los Fremen? —Yueh tamborileó con los dedos sobre la mesa, después se dio cuenta de que Paul observaba aquel nervioso gesto y retiró la mano.
+
+Tienen un dicho: «La educación viene de la ciudad, la sabiduría del desierto».
+
+—Todo el mundo lo dice —dijo Yueh—. Componen poemas a sus cuchillos. Sus mujeres son tan salvajes como sus hombres. Incluso los chicos Fremen son violentos y peligrosos. No creo que se te permita mezclarte con ellos.
+
+—Si es económicamente realizable —dijo Yueh—. Arrakis posee muchos y costosos peligros. —Se atusó el caído bigote—.
+
+Paul lo observó. Yueh notó que el muchacho no hacía el menor gesto para tocarlo y pensó: Es cauteloso.
+
+Yueh observó a Paul mientras éste ensayaba el accionamiento, y pensó: De este modo salvo mi conciencia. Le ofrezco la ayuda de la religión antes de traicionarle. Así podré decirme que ha ido donde yo no puedo ir.
+
+Abridla por el Kalima cuatrocientos sesenta y siete… donde dice: «El agua es el inicio de toda vida».
+
+—Quizá encontréis interesante este libro —dijo Yueh—. Hay mucha verdad histórica, y también mucha filosofía ética.
+
+Por un momento, cuando Yueh había gritado, Paul había temido que le pidiera que se lo devolviese.
 
 ### <span id="Capitulo6">[Capítulo 6](#Capitulo6)</span>
 
-En una estancia de Giedi Prime están reunidos el Barón Vladimir Harkonen, el Mentat Piter y el heredero Feyd-Rautha. El Barón manipula una esfera con una representación del planeta Arrakis. Se presentan los planes en contra de la Casa Atreides según los nuevos eventos que se van desarrollando.
+El padre, Duque Leto Atreides, visita a su hijo Paul en la estancia; conversan, acerca del viaje a Arrakis, y el rol de la casa Atreides en el planeta, con la melange, los Fremen, la CHOAM.
+
+Observadlo: un hombre marcado por el Destino, una figura solitaria cuya luz fue oscurecida por la gloria de su hijo. Pero uno puede preguntarse: ¿qué es el hijo, sino la extensión del padre?
+
+El Duque era alto, de piel olivácea. Su rostro largo y delgado estaba tallado en ángulos duros, suavizados tan sólo por los profundos ojos grises. Llevaba un negro uniforme de trabajo, con el halcón heráldico rojo bordado en el pecho. Un cinturón escudo de plata, patinada por el uso, ceñía su delgada cintura.
+
+Se sentía cansado, haciendo un duro esfuerzo por no mostrar su fatiga.
+
+—No muy duro —dijo Paul—. Todo es tan… —se alzó de hombros.
+
+El Duque se forzó a hacer un gesto casual, se sentó en el borde de la mesa y sonrió. Toda una serie de frases hechas se dibujaron en su mente… el tipo de frases usadas para calmar los temores de sus hombres antes de una batalla. Pero no dejó que ninguna se formara en su boca, enfrentado a un único pensamiento:
+
+El Duque observó la desazón de su hijo.
+
+—Hawat me ha dicho que ella te había asustado con sus advertencias acerca de Arrakis —dijo el Duque—. No dejes que los temores de una mujer ofusquen tu mente. Ninguna mujer quiere que sus seres queridos se vean expuestos al peligro. Tras esas advertencias había la mano de tu madre. Tómalo como un signo de su amor por ti.
+
+La verdad podría ser peor que todo lo que haya imaginado, pero cada peligro es valioso si uno está preparado para afrontarlo. Y si hay algo de lo que mi hijo nunca se ha mantenido alejado es de la necesidad de enfrentarse al peligro. Pero pese a todo hay que esperar aún; es muy joven.
+
+Pero todo esto no es nada al lado de la melange. Un puñado de especia basta para comprar una casa en Tulipe. No puede ser manufacturada, tiene que ser extraída de Arrakis. Es única, y sus propiedades geriátricas son indiscutibles.
+
+El Duque se permitió un momento de amarga satisfacción, mirando a su hijo y pensando cuán penetrante, cuán entrenada había sido aquella observación. Asintió.
+
+A fin de cuentas, los beneficios son lo único que cuenta. ¡Al diablo la Gran Convención! ¡No vas a dejar que nadie te reduzca a la miseria! —Una dura sonrisa apareció en la boca del Duque—. Todos se inclinarán hacia la otra parte, sin apoyar nada de lo que yo haga.
+
+—¡Paul! —el Duque frunció el ceño—. Sabemos dónde está la trampa… y cuál es el primer paso para evadirla. Esto es como un combate singular, hijo, sólo que a gran escala… fintas en las fintas de las fintas… en un combate sin fin. Nuestra tarea es burlar la intriga. Sabemos que los Harkonnen han almacenado melange, de modo que hagámonos otra pregunta: ¿Quién más ha estado almacenándola? Esta será la lista de nuestros enemigos.
+
+—¿Para informar a nuestros enemigos que sabemos de quién es la mano que empuña el cuchillo? Ah, Paul, ahora… ahora vemos el cuchillo. ¿Quién puede saber quién lo empuñará mañana?
+
+—El Emperador —dijo Paul—. Esto significa los Sardaukar.
+
+—Disfrazados con uniformes Harkonnen, sin duda —dijo el Duque—. Pero los mismos soldados fanáticos pese a todo.
+
+—Esto es lo que quieren hacer creer: que los Sardaukar son tan sólo gentes reclutadas por el Emperador y magníficamente entrenadas desde muy jóvenes. Ocasionalmente se oyen murmuraciones acerca de los cuadros de entrenamiento del Emperador, pero el equilibrio de nuestra civilización ha permanecido siempre igual...
+
+—¡Pero todos los informes acerca de Salusa Secundus dicen que S. S. es un mundo infernal!
+
+—Indudablemente. Pero, si tú tuvieras que crear una raza de hombres fuertes, duros y feroces, ¿qué condiciones ambientales les impondrías?
+
+—¿Cómo es posible asegurar la lealtad de unos hombres como esos?
+
+—Existen medios infalibles: jugar con la convicción de su propia superioridad, la mística de la secta secreta, el espíritu de las penalidades sufridas en común. Puede hacerse. Ha funcionado en muchos mundos y en muchas épocas.
+
+Los ojos de Paul se desorbitaron.
+
+—Imagino que Gurney es más bien parco en sus cumplidos. De todos modos, y son sus propias palabras, me ha asegurado que distingues perfectamente la diferencia entre la punta y el filo de la hoja de una espada.
+
+—Gurney dice que no es artístico matar con la punta; hay que hacerlo con el filo.
+
+—Gurney es un romántico —gruñó el Duque. Las palabras de su hijo sobre el mejor modo de matar le turbaban—. Preferiría que nunca te vieras obligado a matar… pero si te ves enfrentado a ello, mata como puedas… con el filo o con la punta. —Miró a las vidrieras del techo, sobre las que tamborileaba la lluvia.
+
+—Vigilaré nuestras pantallas e intentaré ver a uno de los hombres de la Cofradía.
+
+—No lo hagas. Ni siquiera sus agentes ven nunca a un hombre de la Cofradía. La Cofradía es tan celosa de su anonimato como de su monopolio. Nunca hagas nada que pueda comprometer nuestros privilegios, Paul.
+
+—¿Crees que tal vez se ocultan porque han sufrido mutaciones y ya no tienen… aspecto humano?
+
+—¿Quién sabe? —el Duque se alzó de hombros—. Es un misterio que probablemente ninguno de nosotros va a resolver. Tenemos otros problemas más inmediatos… uno de ellos tú.
+
+—Llega un día —dijo el Duque— en que el potencial Mentat debe ser informado de su condición. Ya no es posible seguir adiestrándolo. Es el propio Mentat quien debe elegir entre continuar o abandonar el adiestramiento. Algunos pueden continuar; algunos otros son incapaces de hacerlo. Sólo el potencial Mentat puede decidir por sí mismo lo que quiere hacer.
+
+Paul se frotó la mandíbula. Todo el adiestramiento especial que le habían dado Hawat y su madre —la mnemotecnia, la focalización de la consciencia, el control muscular y la agudización de las sensibilidades, el estudio de las lenguas y las entonaciones de las palabras— todo adquiría para él, ahora, un nuevo significado.
+
+—Algún día serás un Duque, hijo —dijo su padre—. Un Duque Mentat sería algo formidable. ¿Puedes decidir ahora… o necesitas algo de tiempo?
+
+—Formidable, de veras —murmuró el Duque, y Paul vio insinuarse en su rostro una sonrisa de orgullo. Aquella sonrisa impresionó a Paul: por un instante creyó ver, en el rostro del Duque, los rasgos de una calavera. Paul cerró los ojos, sintiendo de nuevo la impresión de aquella terrible finalidad. Quizá ser un Mentat sea un terrible destino, pensó.
+
+Pero, al mismo tiempo que formulaba este pensamiento, su nueva consciencia lo rechazó.
 
 ### <span id="Capitulo7">[Capítulo 7](#Capitulo7)</span>
 
-En una estancia de Giedi Prime están reunidos el Barón Vladimir Harkonen, el Mentat Piter y el heredero Feyd-Rautha. El Barón manipula una esfera con una representación del planeta Arrakis. Se presentan los planes en contra de la Casa Atreides según los nuevos eventos que se van desarrollando.
+Ya en el Gran Salón de la pequeña ciudad Arrakeen de Arrakis, Dama Jessica observa la descarga de cajas y paquetes. Llega el Duque Leto, conversan, de la disposición de adornos, habitaciones y asuntos pendientes; en seguida se presenta la nativa Fremen Shadout Mapes para servirle a Jessica, le entrega el cuchillo de diente de gusano Shai-Hulud, "crys". Mapes prosigue trabajando, Jessica se retira a las habitaciones del ala sur al encuentro de su hijo Paul.
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_Capitulo07_01][DuneFrankHerbert_Capitulo07_01]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_Capitulo07_02][DuneFrankHerbert_Capitulo07_02]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_Capitulo07_03][DuneFrankHerbert_Capitulo07_03]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_Capitulo07_04][DuneFrankHerbert_Capitulo07_04]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_Capitulo07_05][DuneFrankHerbert_Capitulo07_05]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_Capitulo07_06][DuneFrankHerbert_Capitulo07_06]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_Capitulo07_07][DuneFrankHerbert_Capitulo07_07]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_Capitulo07_08][DuneFrankHerbert_Capitulo07_08]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_Capitulo07_09][DuneFrankHerbert_Capitulo07_09]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_Capitulo07_10][DuneFrankHerbert_Capitulo07_10]{: width="60%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![DuneFrankHerbert_Capitulo07_11][DuneFrankHerbert_Capitulo07_11]{: width="60%"}
+</div>
 
 ### <span id="Capitulo8">[Capítulo 8](#Capitulo8)</span>
 
@@ -740,3 +906,21 @@ En una estancia de Giedi Prime están reunidos el Barón Vladimir Harkonen, el M
 [DuneFrankHerbert_TerminologiaImperio_63]: {{ site.baseurl }}/assets/DuneFrankHerbert_TerminologiaImperio_63.png "Dune - Frank Herbert (Terminologia del Imperio, 63)"
 [DuneFrankHerbert_Mapa]: {{ site.baseurl }}/assets/DuneFrankHerbert_Mapa.png "Dune - Frank Herbert (Mapa)"
 [DuneFrankHerbert_Autor]: {{ site.baseurl }}/assets/DuneFrankHerbert_Autor.png "Dune - Frank Herbert (Autor)"
+[DuneFrankHerbert_Capitulo02_01]: {{ site.baseurl }}/assets/DuneFrankHerbert_Capitulo02_01.png "Dune - Frank Herbert (Capítulo 2, 1)"
+[DuneFrankHerbert_Capitulo02_02]: {{ site.baseurl }}/assets/DuneFrankHerbert_Capitulo02_02.png "Dune - Frank Herbert (Capítulo 2, 2)"
+[DuneFrankHerbert_Capitulo02_03]: {{ site.baseurl }}/assets/DuneFrankHerbert_Capitulo02_03.png "Dune - Frank Herbert (Capítulo 2, 3)"
+[DuneFrankHerbert_Capitulo02_04]: {{ site.baseurl }}/assets/DuneFrankHerbert_Capitulo02_04.jpeg "Dune - Frank Herbert (Capítulo 2, 4)"
+[DuneFrankHerbert_Capitulo02_05]: {{ site.baseurl }}/assets/DuneFrankHerbert_Capitulo02_05.jpeg "Dune - Frank Herbert (Capítulo 2, 5)"
+[DuneFrankHerbert_Capitulo02_06]: {{ site.baseurl }}/assets/DuneFrankHerbert_Capitulo02_06.jpeg "Dune - Frank Herbert (Capítulo 2, 6)"
+[DuneFrankHerbert_Capitulo02_07]: {{ site.baseurl }}/assets/DuneFrankHerbert_Capitulo02_07.jpeg "Dune - Frank Herbert (Capítulo 2, 7)"
+[DuneFrankHerbert_Capitulo07_01]: {{ site.baseurl }}/assets/DuneFrankHerbert_Capitulo07_01.png "Dune - Frank Herbert (Capítulo 7, 1)"
+[DuneFrankHerbert_Capitulo07_02]: {{ site.baseurl }}/assets/DuneFrankHerbert_Capitulo07_02.png "Dune - Frank Herbert (Capítulo 7, 2)"
+[DuneFrankHerbert_Capitulo07_03]: {{ site.baseurl }}/assets/DuneFrankHerbert_Capitulo07_03.png "Dune - Frank Herbert (Capítulo 7, 3)"
+[DuneFrankHerbert_Capitulo07_04]: {{ site.baseurl }}/assets/DuneFrankHerbert_Capitulo07_04.png "Dune - Frank Herbert (Capítulo 7, 4)"
+[DuneFrankHerbert_Capitulo07_05]: {{ site.baseurl }}/assets/DuneFrankHerbert_Capitulo07_05.png "Dune - Frank Herbert (Capítulo 7, 5)"
+[DuneFrankHerbert_Capitulo07_06]: {{ site.baseurl }}/assets/DuneFrankHerbert_Capitulo07_06.png "Dune - Frank Herbert (Capítulo 7, 6)"
+[DuneFrankHerbert_Capitulo07_07]: {{ site.baseurl }}/assets/DuneFrankHerbert_Capitulo07_07.png "Dune - Frank Herbert (Capítulo 7, 7)"
+[DuneFrankHerbert_Capitulo07_08]: {{ site.baseurl }}/assets/DuneFrankHerbert_Capitulo07_08.png "Dune - Frank Herbert (Capítulo 7, 8)"
+[DuneFrankHerbert_Capitulo07_09]: {{ site.baseurl }}/assets/DuneFrankHerbert_Capitulo07_09.png "Dune - Frank Herbert (Capítulo 7, 9)"
+[DuneFrankHerbert_Capitulo07_10]: {{ site.baseurl }}/assets/DuneFrankHerbert_Capitulo07_10.png "Dune - Frank Herbert (Capítulo 7, 10)"
+[DuneFrankHerbert_Capitulo07_11]: {{ site.baseurl }}/assets/DuneFrankHerbert_Capitulo07_11.png "Dune - Frank Herbert (Capítulo 7, 11)"
