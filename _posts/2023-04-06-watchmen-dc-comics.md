@@ -492,11 +492,219 @@ description: "Watchmen - Alan Moore, Dave Gibbons"
 ![WatchmenDCComics_chapter05_43][WatchmenDCComics_chapter05_43]{: width="40%"}
 </div>
 
+<div style="text-align:center" markdown="1">
+![WatchmenDCComics_chapter05_44][WatchmenDCComics_chapter05_44]{: width="40%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![WatchmenDCComics_chapter05_45][WatchmenDCComics_chapter05_45]{: width="40%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![WatchmenDCComics_chapter05_46][WatchmenDCComics_chapter05_46]{: width="40%"}
+</div>
+
 
 ## <span id="Chap06">[Chapter VI](#Chap06)</span>
 
 <div style="text-align:center" markdown="1">
 ![WatchmenDCComics_chapter06][WatchmenDCComics_chapter06]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![WatchmenDCComics_chapter06_01][WatchmenDCComics_chapter06_01]{: width="40%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![WatchmenDCComics_chapter06_02][WatchmenDCComics_chapter06_02]{: width="40%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![WatchmenDCComics_chapter06_03][WatchmenDCComics_chapter06_03]{: width="40%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![WatchmenDCComics_chapter06_04][WatchmenDCComics_chapter06_04]{: width="40%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![WatchmenDCComics_chapter06_05][WatchmenDCComics_chapter06_05]{: width="40%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![WatchmenDCComics_chapter06_06][WatchmenDCComics_chapter06_06]{: width="40%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![WatchmenDCComics_chapter06_07][WatchmenDCComics_chapter06_07]{: width="40%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![WatchmenDCComics_chapter06_08][WatchmenDCComics_chapter06_08]{: width="40%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![WatchmenDCComics_chapter06_09][WatchmenDCComics_chapter06_09]{: width="40%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![WatchmenDCComics_chapter06_10][WatchmenDCComics_chapter06_10]{: width="40%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![WatchmenDCComics_chapter06_11][WatchmenDCComics_chapter06_11]{: width="40%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![WatchmenDCComics_chapter06_12][WatchmenDCComics_chapter06_12]{: width="40%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![WatchmenDCComics_chapter06_13][WatchmenDCComics_chapter06_13]{: width="40%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![WatchmenDCComics_chapter06_14][WatchmenDCComics_chapter06_14]{: width="40%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![WatchmenDCComics_chapter06_15][WatchmenDCComics_chapter06_15]{: width="40%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![WatchmenDCComics_chapter06_16][WatchmenDCComics_chapter06_16]{: width="40%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![WatchmenDCComics_chapter06_17][WatchmenDCComics_chapter06_17]{: width="40%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![WatchmenDCComics_chapter06_18][WatchmenDCComics_chapter06_18]{: width="40%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![WatchmenDCComics_chapter06_19][WatchmenDCComics_chapter06_19]{: width="40%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![WatchmenDCComics_chapter06_20][WatchmenDCComics_chapter06_20]{: width="40%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![WatchmenDCComics_chapter06_21][WatchmenDCComics_chapter06_21]{: width="40%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![WatchmenDCComics_chapter06_22][WatchmenDCComics_chapter06_22]{: width="40%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![WatchmenDCComics_chapter06_23][WatchmenDCComics_chapter06_23]{: width="40%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![WatchmenDCComics_chapter06_24][WatchmenDCComics_chapter06_24]{: width="40%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![WatchmenDCComics_chapter06_25][WatchmenDCComics_chapter06_25]{: width="40%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![WatchmenDCComics_chapter06_26][WatchmenDCComics_chapter06_26]{: width="40%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![WatchmenDCComics_chapter06_27][WatchmenDCComics_chapter06_27]{: width="40%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![WatchmenDCComics_chapter06_28][WatchmenDCComics_chapter06_28]{: width="40%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![WatchmenDCComics_chapter06_29][WatchmenDCComics_chapter06_29]{: width="40%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![WatchmenDCComics_chapter06_30][WatchmenDCComics_chapter06_30]{: width="40%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![WatchmenDCComics_chapter06_31][WatchmenDCComics_chapter06_31]{: width="40%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![WatchmenDCComics_chapter06_32][WatchmenDCComics_chapter06_32]{: width="40%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![WatchmenDCComics_chapter06_33][WatchmenDCComics_chapter06_33]{: width="40%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![WatchmenDCComics_chapter06_34][WatchmenDCComics_chapter06_34]{: width="40%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![WatchmenDCComics_chapter06_35][WatchmenDCComics_chapter06_35]{: width="40%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![WatchmenDCComics_chapter06_36][WatchmenDCComics_chapter06_36]{: width="40%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![WatchmenDCComics_chapter06_37][WatchmenDCComics_chapter06_37]{: width="40%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![WatchmenDCComics_chapter06_38][WatchmenDCComics_chapter06_38]{: width="40%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![WatchmenDCComics_chapter06_39][WatchmenDCComics_chapter06_39]{: width="40%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![WatchmenDCComics_chapter06_40][WatchmenDCComics_chapter06_40]{: width="40%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![WatchmenDCComics_chapter06_41][WatchmenDCComics_chapter06_41]{: width="40%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![WatchmenDCComics_chapter06_42][WatchmenDCComics_chapter06_42]{: width="40%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![WatchmenDCComics_chapter06_43][WatchmenDCComics_chapter06_43]{: width="40%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![WatchmenDCComics_chapter06_44][WatchmenDCComics_chapter06_44]{: width="40%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![WatchmenDCComics_chapter06_45][WatchmenDCComics_chapter06_45]{: width="40%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![WatchmenDCComics_chapter06_46][WatchmenDCComics_chapter06_46]{: width="40%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![WatchmenDCComics_chapter06_47][WatchmenDCComics_chapter06_47]{: width="40%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![WatchmenDCComics_chapter06_48][WatchmenDCComics_chapter06_48]{: width="40%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![WatchmenDCComics_chapter06_49][WatchmenDCComics_chapter06_49]{: width="40%"}
 </div>
 
 
@@ -678,7 +886,59 @@ description: "Watchmen - Alan Moore, Dave Gibbons"
 [WatchmenDCComics_chapter05_41]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter05_41.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter V, 41)"
 [WatchmenDCComics_chapter05_42]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter05_42.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter V, 42)"
 [WatchmenDCComics_chapter05_43]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter05_43.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter V, 43)"
+[WatchmenDCComics_chapter05_44]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter05_44.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter V, 44)"
+[WatchmenDCComics_chapter05_45]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter05_45.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter V, 45)"
+[WatchmenDCComics_chapter05_46]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter05_46.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter V, 46)"
 [WatchmenDCComics_chapter06]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter06.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter VI)"
+[WatchmenDCComics_chapter06_01]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter06_01.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter VI, 1)"
+[WatchmenDCComics_chapter06_02]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter06_02.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter VI, 2)"
+[WatchmenDCComics_chapter06_03]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter06_03.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter VI, 3)"
+[WatchmenDCComics_chapter06_04]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter06_04.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter VI, 4)"
+[WatchmenDCComics_chapter06_05]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter06_05.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter VI, 5)"
+[WatchmenDCComics_chapter06_06]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter06_06.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter VI, 6)"
+[WatchmenDCComics_chapter06_07]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter06_07.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter VI, 7)"
+[WatchmenDCComics_chapter06_08]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter06_08.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter VI, 8)"
+[WatchmenDCComics_chapter06_09]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter06_09.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter VI, 9)"
+[WatchmenDCComics_chapter06_10]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter06_10.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter VI, 10)"
+[WatchmenDCComics_chapter06_11]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter06_11.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter VI, 11)"
+[WatchmenDCComics_chapter06_12]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter06_12.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter VI, 12)"
+[WatchmenDCComics_chapter06_13]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter06_13.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter VI, 13)"
+[WatchmenDCComics_chapter06_14]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter06_14.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter VI, 14)"
+[WatchmenDCComics_chapter06_15]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter06_15.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter VI, 15)"
+[WatchmenDCComics_chapter06_16]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter06_16.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter VI, 16)"
+[WatchmenDCComics_chapter06_17]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter06_17.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter VI, 17)"
+[WatchmenDCComics_chapter06_18]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter06_18.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter VI, 18)"
+[WatchmenDCComics_chapter06_19]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter06_19.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter VI, 19)"
+[WatchmenDCComics_chapter06_20]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter06_20.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter VI, 20)"
+[WatchmenDCComics_chapter06_21]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter06_21.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter VI, 21)"
+[WatchmenDCComics_chapter06_22]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter06_22.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter VI, 22)"
+[WatchmenDCComics_chapter06_23]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter06_23.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter VI, 23)"
+[WatchmenDCComics_chapter06_24]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter06_24.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter VI, 24)"
+[WatchmenDCComics_chapter06_25]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter06_25.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter VI, 25)"
+[WatchmenDCComics_chapter06_26]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter06_26.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter VI, 26)"
+[WatchmenDCComics_chapter06_27]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter06_27.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter VI, 27)"
+[WatchmenDCComics_chapter06_28]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter06_28.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter VI, 28)"
+[WatchmenDCComics_chapter06_29]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter06_29.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter VI, 29)"
+[WatchmenDCComics_chapter06_30]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter06_30.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter VI, 30)"
+[WatchmenDCComics_chapter06_31]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter06_31.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter VI, 31)"
+[WatchmenDCComics_chapter06_32]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter06_32.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter VI, 32)"
+[WatchmenDCComics_chapter06_33]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter06_33.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter VI, 33)"
+[WatchmenDCComics_chapter06_34]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter06_34.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter VI, 34)"
+[WatchmenDCComics_chapter06_35]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter06_35.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter VI, 35)"
+[WatchmenDCComics_chapter06_36]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter06_36.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter VI, 36)"
+[WatchmenDCComics_chapter06_37]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter06_37.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter VI, 37)"
+[WatchmenDCComics_chapter06_38]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter06_38.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter VI, 38)"
+[WatchmenDCComics_chapter06_39]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter06_39.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter VI, 39)"
+[WatchmenDCComics_chapter06_40]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter06_40.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter VI, 40)"
+[WatchmenDCComics_chapter06_41]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter06_41.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter VI, 41)"
+[WatchmenDCComics_chapter06_42]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter06_42.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter VI, 42)"
+[WatchmenDCComics_chapter06_43]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter06_43.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter VI, 43)"
+[WatchmenDCComics_chapter06_44]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter06_44.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter VI, 44)"
+[WatchmenDCComics_chapter06_45]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter06_45.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter VI, 45)"
+[WatchmenDCComics_chapter06_46]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter06_46.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter VI, 46)"
+[WatchmenDCComics_chapter06_47]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter06_47.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter VI, 47)"
+[WatchmenDCComics_chapter06_48]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter06_48.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter VI, 48)"
+[WatchmenDCComics_chapter06_49]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter06_49.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter VI, 49)"
 [WatchmenDCComics_chapter07]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter07.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter VII)"
 [WatchmenDCComics_chapter08]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter08.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter VIII)"
 [WatchmenDCComics_chapter09]: {{ site.baseurl }}/assets/WatchmenDCComics_chapter09.jpeg "Watchmen - Alan Moore, Dave Gibbons (Chapter IX)"
