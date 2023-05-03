@@ -396,11 +396,117 @@ Ya en el Gran Salón de la pequeña ciudad Arrakeen de Arrakis, Dama Jessica obs
 
 ### <span id="Capitulo8">[Capítulo 8](#Capitulo8)</span>
 
-En una estancia de Giedi Prime están reunidos el Barón Vladimir Harkonen, el Mentat Piter y el heredero Feyd-Rautha. El Barón manipula una esfera con una representación del planeta Arrakis. Se presentan los planes en contra de la Casa Atreides según los nuevos eventos que se van desarrollando.
+Jessica llega a una estancia esperando encontrar a su hijo Paul, en la sala externa encuentra al Dr. Yueh Wellington; Yueh le informa que Paul descansa en la otra habitación, Jessica da un vistazo, conversan.
+
+Visto así, de espaldas, parecía un esqueleto desprovisto de carne, envuelto en ropas negras demasiado amplias, una marioneta esperando moverse bajo las órdenes de un invisible marionetista. Sólo la cabeza parecía viva, con los largos cabellos color ébano, sujetos por el anillo de plata de la Escuela Suk, cayéndole sobre los hombros y agitándose ligeramente cuando se inclinaba para seguir mejor algún movimiento del exterior.
+
+Yueh aventuró una débil sonrisa, pensando: Creo que ha resultado. Ahora pensará que lo poco usual de mi modo de comportarme es debido al azaramiento. No buscará razones más profundas, puesto que ya tiene la respuesta.
+
+Yueh se alzó de hombros. Desde hacía tiempo se había dado cuenta de que Jessica no tenía el don completo de Decidora de Verdad como había tenido su Wanna.
+
+Una barrera-pantalla las separaba de la gente que pasaba, envuelta en sus ropas, por la calle.
+
+Miran esos árboles y piensan: «Aquí hay un centenar de nosotros». Eso es lo que piensan.
+
+Ella le miró, perpleja y cejijunta.
+
+—Pero algunos entre esa gente miran a los árboles con esperanza.
+
+—Esperan que caiga algún dátil, pero no es la estación.
+
+—Miramos este lugar con ojos demasiado críticos —dijo ella—. Hay aquí tanta esperanza como peligro. La especia puede hacernos ricos. Con un tesoro tan grande, podríamos transformar completamente este mundo.
+
+Y se rio silenciosamente para sí misma: ¿A quién intento convencer? Su risa resonó entre todas sus compulsiones, emergiendo secamente, sin alegría.
+
+—Pero uno no puede comprar la seguridad —dijo.
+
+Yueh giró su rostro para ocultarlo de ella. ¡Si al menos fuera posible odiar a esa gente en vez de amarla!
+
+La crueldad de los Harkonnen era tortuosa.
+
+La claridad que atravesaba las persianas ponía una trama de luz y sombras en el rostro y el cubrecama.
+
+pero los aguzados rasgos del padre iban mostrándose cada vez más acusados, como la madurez emergiendo de la adolescencia.
+
+¿Acaso existe alguna explicación Bene Gesserit?
+
+Por primera vez se sintió presa del pensamiento de que tal vez él formaba parte de un plan mucho más vasto y complejo de lo que su mente fuera nunca capaz de concebir.
+
+—Qué delicioso abandono hay en el sueño de un niño.
+
+—Si los adultos pudieran relajarse también así… —dijo el hombre maquinalmente.
+
+hojas polvorientas y ramas sarmentosas. El oscuro cielo colgaba sobre el declive como una mancha, y la lechosa luz del sol arrakeno inundaba la escena de reflejos plateados, como los del crys que guardaba en su seno.
+
+—¿Qué hubieran revelado? ¿Una planta extraña… o un animal? ¿Cómo identificarlo? —miró de nuevo hacia afuera—. El agua se detiene. Algo la absorbe e impide que fluya. Estoy segura de ello.
+
+—El aire frío arrastra muy poca humedad, Wellington. Hay cosas, tras el velo de los Harkonnen, que merecen investigarse a fondo, y no todas están relacionadas directamente con la especia.
+
+—¿Ignoráis que mi esposa, mi Wanna…? —dijo. Se interrumpió, sintiendo que las palabras se ahogaban en su garganta. Luego—: Ella… —las palabras se negaron a salir. Se sintió ganado por el pánico, cerró fuertemente los ojos, notando la agonía en su pecho hasta que una mano tocó suavemente su brazo.
+
+—Hemos sido desarraigados —dijo Yueh—. Es por eso por lo que nos sentimos tan incómodos.
+
+—Y es tan fácil matar una planta desarraigada —dijo ella—. Especialmente cuando es plantada en un suelo hostil.
+
+La gente sabe muy bien que si vienen otros a beber, el precio del agua subirá y los más pobres morirán.
+
+Ha habido importantes e inexplicados desembolsos de dinero del tesoro últimamente. Esas sumas sólo significan una cosa: corrupción en las altas esferas. —Agitó su cabeza—. Allá donde va Thufir Hawat, lo acompañan la muerte y la traición.
+
+—Lo estáis insultando.
+
+¿Insultando? Lo alabo. Muerte y traición son nuestra única esperanza ahora.
+
+—¿Qué queréis decir? —se sentía impresionado por su tono cínico, por aquella amargura que nunca antes había descubierto en ella.
+
+Pero el auténtico veneno, instalado en lo más profundo de sus mentes, es el conocimiento de que fue un Atreides quien desterró a un Harkonnen por cobardía después de la Batalla de Corrin.
+
+—Las viejas rencillas —murmuró Yueh. Y por un instante gustó el ácido sabor del odio.
+
+La ironía era que todo aquel odio mortal fuera a florecer allí, en Arrakis, única fuente en todo el universo de la melange, la prolongadora de vida, la droga de salud.
+
+Se alzó de hombros.
+
+—La futilidad. —La miró—. ¿Recordáis vuestra primera toma de especia?
+
+—Tenía sabor a canela.
+
+Es como la vida… cada vez sabe a algo distinto.
+
+El cuerpo, identificando que una cosa es buena para él, interpreta el sabor como agradable… ligeramente eufórico. Y, como la vida, no puede ser sintetizada.
+
+**—Creo que hubiera sido más juicioso para nosotros convertirnos en renegados, huir lo más lejos posible del Imperio —dijo ella.**
+
+Y… —suspiró—… motivando a la gente, forzando a alguien a hacer algo, una se crea una actitud cínica hacia la humanidad. Degrada cualquier cosa que toques. Si yo le hubiera empujado a ello… en realidad no hubiera sido él quien lo hubiera hecho.
+
+Llevó una mano a su boca y tragó convulsivamente. Nunca había estado tan cerca de hablar, de confesar su secreto papel.
+
+Jessica dejó caer los brazos, se dirigió hacia la puerta que conducía al vestíbulo y se detuvo un momento, vacilante, en el umbral. Durante todo el tiempo que hemos estado hablando ha estado ocultándome algo, pensó.
+
+Pero esto podría avergonzarlo, le asustaría saber lo fácil que es leer en él. Debo confiar un poco más en mis amigos.
 
 ### <span id="Capitulo9">[Capítulo 9](#Capitulo9)</span>
 
-En una estancia de Giedi Prime están reunidos el Barón Vladimir Harkonen, el Mentat Piter y el heredero Feyd-Rautha. El Barón manipula una esfera con una representación del planeta Arrakis. Se presentan los planes en contra de la Casa Atreides según los nuevos eventos que se van desarrollando.
+Paul en la pequeña estancia finge dormir, se dispone a explorar la casa pero un cazador-buscador lo acecha, en el momento en que la fremen Shadout Mapes abre la puerta de la estancia, Paul logra aferrar y desactivar el mortal objeto, habla con Mapes, sale de la habitación.
+
+Para los demás, diremos que Muad’Dib aprendió rápidamente porque la primera enseñanza que recibió fue la certeza básica de que podía aprender. Muad’Dib sabía que cada experiencia lleva en sí misma su lección.
+
+La conversación crecía y disminuía en intensidad.
+
+Suavemente, Paul se sentó en la cama.
+
+La habitación parecía haber sido concebida para seducirlo.
+
+La habitación y aquel planeta.
+
+Era un viejo librofilm, anterior al descubrimiento de la especia.
+
+Sabía que el doctor Yueh habría encontrado algo para leer y permanecía en la estancia.
+
+Paul se deslizó fuera de la cama, dirigiéndose hacia la librería que se abría al cuarto trastero.
+
+Ahora Paul se había sumido en una inmovilidad catatónica, sabiendo que disponía tan sólo de su habilidad para afrontar el peligro.
+
+Hizo una pausa para que su visión mnemotécnica registrara el patrón de su aspecto en su memoria: rostro de tonalidad oscura, arrugado, ojos totalmente azules, sin blanco. Le aplicó la etiqueta: La Shadout Mapes.
 
 ### <span id="Capitulo10">[Capítulo 10](#Capitulo10)</span>
 

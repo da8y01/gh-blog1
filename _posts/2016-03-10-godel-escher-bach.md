@@ -102,6 +102,8 @@ Se introducen los *sistemas formales*, el desafío "¿Puede usted producir MU?",
 
 Al final el diálogo a dos voces entre Aquiles y el Sr. Tortuga acera del juego de distancias infinitas y proposiciones.
 
+*Solvitur ambulando*
+
 
 #### <span id="capii">[Capítulo II: Significado y forma en matemática](#capii)</span>
 
@@ -209,6 +211,8 @@ Se presenta el cálculo proposicional, sus símbolos y reglas, sus interpretacio
 </div>
 
 En el diálogo *Canon cangrejo* Aquiles y Tortuga se encuentran paseando en el parque, comienza la charla, en la mitad aparece Cangrejo con la trágica anécdota del grande polanés con el laúd de una sola cuerda y la cangresca y golpe en el ojo, luego continúa la charla donde había quedado con la estructura hacia atrás avanzando hasta como comenzó.
+
+*Disputandum non est de gustibus*
 
 
 #### <span id="capviii">[Capítulo VIII: Teoría de los números tipográfica](#capviii)</span>
@@ -1121,15 +1125,200 @@ Es conveniente almacenar las representaciones anteriores, en lugar de olvidarlas
 
 Hay tal valumen de variedad que es dificultoso saber por dónde empezar. ¡Pero ese hecho mismo constituye una pista! La pista dice, específicamente, que muy probablemente la distinción de clase repose en un nivel de abstracción más alto que el de la descripción geométrica. Esta observación le señala al programa que debe construir *descripciones de descripciones*; esto es, *metadescripciones*.
 
-(La graciosa expresión "maláfora" fue acuñada por el periodisya Lawrence Harrison: surge del cruce entre un "malogro" y una "métafora". Es un excelente ejemplo de "recombinación de ideas").
+Sí, es verdad, pero es importante contar con la posibilidad de resolver estos problemas a través de diferentes rutas.
+
+(La graciosa expresión "maláfora" fue acuñada por el periodista Lawrence Harrison: surge del cruce entre un "malogro" y una "métafora". Es un excelente ejemplo de "recombinación de ideas").
 
 Cuando es difícil construir un molde porque el preprocesador encuentra en exceso de diversidad, ello servirá como indicio de que los conceptos están involucrados en un nivel de abstracción más alto que el conocido por el preprocesador.
 
 Así, ambas nociones son complementarias: el enfocamiento se aplica a los objetos (a los sustantivos poco más o menos), y el filtrado a los conceptos (a los adjetivos, poco más o menos).
 
+El mundo de los problemas de Bongard puede ser considerado un diminuto lugar donde se practica la "ciencia": es decir, donde el propósito perseguido es el discernimiento de patrones en el mundo.
+
 Hay descubrimientos en todos los niveles posibles de complejidad. La teoría de **(Thomas?)** Kuhn en el sentido de que ciertos acontecimientos inusuales, llamados "mutaciones paradigmáticas", señalan la distinción entre ciencia "normal" y "revoluciones conceptuales", por lo visto no es acertada ya que podemos ver la aparición de mutaciones paradigmáticas en toda la extensión del sistema, y en todo momento. La fluidez de las descripciones asegura que las mutaciones paradigmáticas tengan lugar en todas las escalas.
 
 Por supuesto, algunos descubrimientos son más "revolucionarios" que otros, porque tienen efectos más amplios.
+
+Por la misma razón, la ciencia real no divide entre períodos "normales" y "revoluciones conceptuales"; por el contrario, las mutaciones paradigmáticas se encuentran por doquier: las hay de mayor y menor dimensión, y en diferentes niveles.
+
+La intuición requerida para saber cuándo omitir distinciones, empender redescripciones, volver sobre lo andado, cambiar de nivel, etc. es algo que quizá se obtiene sólo después de una larga experiencia de ejercitación del pensamiento en general. Sería muy difícil definir heurísticas para aplicar a estos aspectos sustanciales del programa.
+
+A la inversa, es indudable que la comprensión de situaciones propias del mundo real depende en gran parte de la imaginación visual y de la intuición espacial; por lo tanto, contar con una forma poderosa y flexible de representar patrones del tipo de los de Bongard no pude sino contribuir a la eficacia general de los procesos del pensamiento.
+
+A falta de evidencias concretas acerca de esta posibilidad, me mantengo en la certidumbre de que los problemas de Bongard están basados en un sentido de la simplicidad que no se limita al ámbito tarráqueo de los seres humanos.
+
+En consecuencia, creo que la capacidad de resolver problemas de Bongard se asienta en un sitio muy próximo al núcleo de la inteligencia "pura", si es que existe tal cosa.
+
+Uno de los medios propuestos para enfrentar las complejidades del reconocimiento de patrones y otros desafíos planteados a los programs IA es la formalización llamada "actor", obra de Carl Hewitt (similar al lenguaje "Smalltalk" [*charla insustancial*], desarrollado por Alan Kay y otros), consistente en un programa formulado como colección de *actores* en interacción, los cuales pueden hacer circular entre sí elaborados mensajes, en todas direcciones.
+
+Cada actor tiene su manera peculiar de interpretación de cada mensaje; luego, la significación de un mensaje estará subordinada a la circunstancia de qué actor sea el interceptor del mismo.
+
+Hemos llegado al punto en que podemos ocuparnos de las formas de instrumentación de aquellos elusivos *símbolos activos* de los Capítulos XI y XII.
+
+En este sentido, llamar "símbolos" a estas síntesis marco-actor es prematuro, pero manifiesta una actitud optimista frente a las cosas.
+
+El sistema telefónico aportará nuevas inspiraciones cuando agotemos los paralelos postales.
+
+Este género de programa de "disparo inmediato" ha sido utilizado en IA, bajo el nombre de *demonio*. Lo importante aquí es la idea de contar con muchas "especies" diferentes de rutinas desencadenables que permanecen a la espera de que se las dispare.
+
+Por ejemplo, la repetición suelda de tal manera circuitos nuevos en nuestro hardware mental, que los tramos de comportamiento reiterados muchas veces pasan a quedar codificados por debajo del nivel consciente.
+
+El programa llamado "HACKER", formulado por Gerald Sussman, sintetiza y depura pequeñas subrutinas, de una forma no muy diferente con respecto a las cascadas de enzimas.
+
+En la medida en que se trate de un programa en serie, no tiene mucho sentido disponer de varias réplicas de un Desi, pero en una cabal computadora en paralelo, la regulación del número de réplicas de un subprograma sería una forma de regular el tiempo de espera previsto para que se cumpla una operación, igual que la regulación del número de réplicas de una enzima, en una célula, regular la velocidad con que es cumplida la función respectiva.
+
+La fisión es un proceso relatiamente inevitable, pues una vez "frotado" un nuevo símbolo a partir de otro anterior, se convierte en autónomo, y sus interacciones con el mundo exterior quedan reflejadas en su estructura interna particular; es decir, lo que al principio fue una réplica perfecta muy pronto pasa a ser imperfecta y luego, lentamente, se va pareciendo cada vez menos al símbolo del cual fue "frotado".
+
+Este fenómeno de la activación conjunta abre una caja de Pandora de preguntas.
+
+Se trata de un asunto de cierto interés político, además, pues mucha gente sostiene que palabras como "ministro" están fuertemente cargadas de resonancias masculinas.
+
+Mi comentario se dividirá en etapas que siguen las de la *meiosis*, que es el nombre de la división celular en la cual tiene lugar el "entrecruzamiento", o recombinación genética: la fuente de la diversidad, en la evolución.
+
+Después de pensarlo, llegué a la conclusión de que el nivel del "discurso dramático" sería el más adecuado.
+
+Hice un sinnúmero de ensayos, practicando maneras de obtener que los pares de parlamentos sucesivos tuvieran sentido cuando fuesen leídos en la otra dirección, y experimentando en la búsqueda de significados duales que me permitiesen formularlas de ese modo (por ejemplo, "En absoluto").
+
+En realidad, éste fue un punto de giro sustancial, pero yo lo ignoraba entonces.
+
+Al fin y al cabo, en el arte estricto de los cánones, a veces se renuncia a una imitación perfecta de las notas en beneficio de la elegancia o de la belleza.
+
+... ciertamente, ese leve apartamiento con respecto a la imitación estricta retenía el espítitu de los canónes cangrejo.
+
+En este punto, empecé a advertir que estaba sucediendo algo maravilloso: a saber, ¡que el Diálogo se estaba haciendo autorreferencial, sin que yo me lo hubiese propuesto!
+
+Esto me llenó de entusiasmo ya que, desde la nada, había llegado a una unidad estéticamente agradable entre Gödel, Escher y Bach.
+
+Escher, por su parte, no atribuyó ningún título a esta imagen, y es probable que esa coincidencia entre forma y contenido fuese algo que sólo yo advertí, ya que aquél había pintado mosaicos similares, utilizando muchas otras formas de animales. No obstante, por casualidad o no, esta lámina sin título era una versión en miniatura de una de las ideas principales de mi libro: la unificación de forma y contenido.
+
+--*mirabile dictu*--
+
+Este toque final realza dramáticamente la autorreferencia, y otorga al Diálogo una densidad de significación que yo no había previsto.
+
+... con la representación de dos cromosomas homólogos reunidos en su centro por un cetrómero...
+
+Hacer entrar en correspondencia la noción de "canon cangrejo musical" con la de "diálogo" implicó varias correspondencias auxiliares; en realidad, la primera correspondencia *indujo* las segundas.
+
+Lo que yo denomino *esqueleto conceptual* es una perspectiva abstraída de un concepto, siguiendo determinada dimensión.
+
+y (2) la demostración Pappus-Gelernter del Teorema Pons Asinorum, donde un triángulo es percibido en segunda instancia como dos.
+
+Un esqueleto conceptual es como un conjunto de rasgos constantes (por oposición a parámetros y variables), los cuales no habrán de experimentar desplazamientos al tener lugar una repetición subjuntiva o una operación de proyección de correspondencias. La carencia de parámetros o variables propias que permitan diversificaciones puede constituir el núcleo invariante de varias ideas diferentes.
+
+Pese a que la denominación "esqueleto conceptual" resuena como absoluta y rígida, la amplitud de su juego es grande. Hay esqueletos conceptuales en diferentes niveles de abstracción.
+
+Dijimos que los esqueletos conceptuales se presentan en diferentes niveles de abstracción; no sólo eso, sino que, además, su presencia debe extenderse a lo largo de diferentes *dimensiones* conceptuales.
+
+Como las dos cosas puestas en correspondencia son tan diferentes, es casi inevitable que la correspondencia abarque aspectos *funcionales*.
+
+¿O sí? Como observaba un amigo mío, algunos vicepresidentes tienen bastantes redondeces, ¡y casi todos ellos han sido notablemente inflados!
+
+Hay "divisiones" entre estos aspectos de mi símbolo, las cuales evitan que mis pensamientos se extiendan ilimitadamente, a la manera de las asociaciones libres. Mis divisiones mentales son importantes porque contienen y canalizan el flujo de mis pensamientos.
+
+Es particularmente interesante el caso de los intérpretes, quienes pueden expresarse en cualquiera de las lenguas que dominan, como si las divisiones entre éstas fuesen inexpugnables y, sin embargo, a voluntad, pueden derribarlas para permitir el acceso a una lengua desde otra, lo cual hace posible la traducción. Steiner, cuya educación fue trilingüe, dedica algunas páginas de *After Babel* al entremezclamiento de francés, inglés y alemán en los estratos de su mente, y al modo en que el dominio de diferentes idiomas proporciona diferentes puertas de ingreso a los conceptos.
+
+En ocasiones, la equiparación puede ser llevada varios niveles hacia abajo, lo que manifestaría un isomorfismo profundo. Otras veces, este movimiento se detiene antes, y lo que revela es una anaogía o similitud.
+
+¿Cuán profundamente son proyectados entre sí el equipo de fútbol y el automóvil, durante aquel breve segundo inicial?
+
+Un proceso donde, dados dos símbolos, algunas partes de cada uno de éstos son desalojadas, mientras que otras son conservadas, puede dar lugar a una fusión de los dos símbolos citados.
+
+La creatividad es la esencia de todo aquello que no es mecánico. Sin embargo, todo acto creativo *es* mecánico: tiene su explicación, lo mismo que la tiene un caso de hipo, ni más ni menos.
+
+Puede que ello no sea equivalente a la creatividad, pero cuando los programas dejan de ser transparentes para sus creadores, es que ha comenzado la marcha de acercamiento a la creatividad.
+
+Es una noción generalizada la de que la arbitrariedad es un ingrediente indispensable de los actos creativos. Esto puede ser cierto, pero no tiene ninguna relación con la mecanizabilidad --o, mejor, ¡la programabilidad!-- de la creatividad. El mundo es una acumulación gigantesca de arbitrariedades; cuando reflejamos dentro nuestro una parte del mundo, absorbemos algo de esa arbitrariedad.
+
+La arbitrariedad es un rasgo intrínseco del pensamiento, no algo que tiene que ser "inseminado artificialmente" a través de tiradas de dados, o bien de núcleos en desintegración, o de tablas numéricas caprichosas, o lo que a uno se le ocurra. Es un insulto a la creatividad humana suponer que descansa en recursos azarosos de tal tipo.
+
+Esto sólo prueba que no están para simular el modo en que pensamos, sino que se están aproximando a ello.
+
+Quizá la diferencia entre las ideas altamente creativas y las comunes radique en alguna motivación que combine belleza, simplicidad y armonía.
+
+El esquema es simple: las ideas superficialmente vivnculadas, por lo común, no lo están a una mayor profundidad; a la vez, las ideas profundamente vinculadas por lo común muestran disparidad en los planos de superficie. La analogía con los acordes surge con naturalidad: las notas físicamente contiguas son armónicamente distantes (por ejemplo, E-F-G [mi, fa, sol]); y las notas armónicamente contiguas son físicamente distantes (por ejemplo G-E-B [sol, mi, si]).
+
+Tal vez la presente analogía sea como un acorde de novena... amplio pero disonante.
+
+Las problemas de Bongard fueron elegidos como eje de este capítulo porque, cuando se **los** estudia, se entiende que el elusivo sentido de los patrones que los seres humanos heredamos de nuestros genes abarca todos los mencanismos de representación del conocimiento, lo cual incluye los contextos autoincluidos, los esqueletos y correspondencias conceptuales, la deslizabilidad, las descripciones y metadescripciones y sus interacciones, la fisión y fusión de símbolos, las representaciones múltiples (ajustadas a diferentes dimensiones y a diferentes niveles de abstracción), expectativas subsidiarias, y todo lo demás.
+
+En la actualidad, se puede tener la total certidumbre de que, si un programa consigue localizar patrones en un área, en otra área los pasará por alto, en tanto que para nosotros serán evidentes en ambas por igual. El lector puede recordar que ya aludí a esto en el Capítulo I, cuando dije que las máquinas no son influídas por la repetición, en tanto que las personas sí.
+
+Los seres humanos no proceden así: si un patrón aparece una y otra vez, lo identifican. SHRDLU no fue construído con el potencial necesario para formar nuevos conceptos o para reconocer patrones; no tiene el sentido de la visión panorámica, aun si se lo pone a prueba al respecto una y otra vez.
+
+Lo sorprendente del lenguaje es la imprecisión con que lo manejamos y cómo, pese a ello, nos es posible servirnos satisfactoriamente de él.
+
+El lenguaje, en manos humanas, se transforma prácticamente en un elemento fluído, pese al grano grueso de sus componentes.
+
+Recientemente, la investigación en IA relativa a la comprensión de lenguajes naturales se ha apartado un tanto de la comprensión de oraciones individuales, tomadas separadamente, y se ha acercado a áreas tales como la comprensión de narraciones infantiles simples.
+
+Margarita lloró y lloró a causa de su pesadumbre ante la destrucción de su globo.
+
+Esta es la clase de planteamiento humanístico al que se aboca Joseph Weizenbaum en su libro *Computer Power and Human Reason*.
+
+Pareciera a veces que hay una ausencia tan completa de reglas que gobiernan el comportamiento, ¡que simplemente los seres humanos *no son* gobernados por reglas! Pero esto es una ilusión, comparable a la de creer que los cristales y los metales son consecuencia de rígidas leyes subyacentes, pero que no ocurre así con los fluídos o con las flores.
+
+... ya que transmite poéticamente la rareza de la empresa que persigue IA y al mismo tiempo muestra fe en la misma. Y uno debe mantenerse con fe en este aspecto, ¡pues hay tanto por andar todavía!
+
+Para que un programa produzca la música que esos autores produjeron tendría que enfrentar al mundo por sí mismo, afánandose en atravesar el laberinto de la vida y sintiendo cada momento de esa experiencia.
+
+Tendría que haber experimentado la mezcla de elementos opuestos como la esperanza y el miedo, la angustia y el regocijo, la serenidad y la ansiedad.
+
+Aquí, y solamente aquí, se encuentran las fuentes de la significación musical.
+
+Los programas y las máquinas adquirirán emociones de la misma forma: en calidad de subproductos de su estructura, según el modo en que estén organizados, y no gracias a una programación directa.
+
+"Enamorarse" es una descripción que insertamos en un proceso complejo de un sistema complejo; ¡no tiene aplicación allí un módulo individual, interior al sistema, con la función de ser el único responsable de aquélla!
+
+Por suerte, nuestro nivel simbólico (es decir, *nosotros*) no puede tener acceso a las neuronas que están elaborando nuestro pensamiento: de no ser así, nuestro cerebro se sumiría en confusión.
+
+No se debe admitir que tenga acceso a los circuitos que están elaborando su pensamiento: de no ser así, la UCP se sumiría en confusión.
+
+En la máquina, habría dos partes separadas: una, confiable pero ininteligente; otra inteligente pero falible.
+
+De manera, pues, que si estamos en pos de respuestas correctas, dejemos actuar a la minicalculadora: ¡no pongamos en juego la inteligencia!
+
+Una vez obtenido ese estado, no podremos circunscribir el programa: éste habrá sobrepasado determinado punto crítico y tendremos que hacer frente a los hechos que hemos suscitado.
+
+El programa no responderá en absoluto a modificaciones de cualquier elemento particular de la memoria, por lo mismo que nosotros seguimos siendo exactamente los mismos a pesar de que diariamente mueren miles de neuronas en nuestro cerebro (¡!).
+
+Otra vez nos encontramos con la situación de que ello será un rasgo que surja como consecuencia del comportamiento del nivel inferior, sin emplazamiento específico en parte alguna.
+
+Se basará en la fidelidad de sus memorias y no podrá revolotear entre personalidades.
+
+Pero hay dos puntos de vista extremos en IA: uno dice que la mente humana, por razones esenciales y misteriosas, es improgramable. Según el otro, todo lo que hace falta es sencillamente ensamblar los adecuados "dispositivos heurísticos: optimizadores múltiples, recursos para el reconocimiento de patrones, álgebras planificadoras, procedimientos de tipo recursivo, y así siguiendo"; con esto bastará para obtener inteligencia.
+
+Cuando hayamos creado un programa que apruebe la verificación de Turing, veremos un "corazón", aun sabiendo que no lo hay.
+
+No hay evidencia de que seamos capaces de entender una "superinteligencia", de encontrar con qué relacionarla y, ni siquiera, de saber si el concepto tiene sentido.
+
+Una criatura cuya visión del mundo sea radicalmente diferente puede carecer de mayores puntos de contacto con nosotros.
+
+"Bach al cuadrado", por expresarlo así. ¿Y sería yo capaz de comprenderlas? Es posible que tal música exista en torno mio y que yo no la reconozca, así como los perros no pueden entender la palabra.
+
+Se comprende que, muy probablemente, los programas de IA tendrán una extraordinaria curiosidad a propósito de IA en general.
+
+Es casi imposible imaginar que el "cuerpo" donde se albergue un programa IA no lo afecte en forma profunda.
+
+En una oportunidad, Wittgenstein hizo una observación graciosa: "Si un león hablara, no lo entenderíamos" Esto me hizo pensar en el cuadro de Rousseau con el manso león y la gitana dormida, en el páramo iluminado por la luna. Sin embargo, ¿cómo lo sabe Wittgenstein?
+
+Mi sospecha es que todo programa IA, si bien no será inteligible, tiene que parecernos bastante ajeno. Por eso mismo, nos costará mucho trabajo establecer si estamos ocupándonos de un programa IA, o tan sólo de un programa "misterioso".
+
+En un nivel visceral, es probable que cada uno de nosotros tenga la mejor comprensión que puede de todo aquello, en un comienzo.
+
+¿Comprendemos que la velocidad de la luz es constante dentro de todo marco de referencia inerte? Podemos asilimarlo matemáticamente, pero nadie en el mundo tiene una intuición verdaderamente relativista.
+
+Y, tal vez, nadie llegue a comprender jamás los misterios de la inteligencia y de la conciencia, a través de un camino intuitivo. Podemos comprender a la *gente*, y es posible que no podamos llegar más allá de eso.
+
+
+#### <span id="CanonPerezoso">[*Canon perezoso*](#CanonPerezoso)</span>
+
+<div style="text-align:center" markdown="1">
+![Gödel, Escher, Bach][GodelEscherBach-49_CanonPerezoso]{: width="50%"}
+</div>
+
+Aquiles y Tortuga visitan la morada de Sr. Perezoso; Aquiles cuenta las dos carreras con Tortuga, en la que lo alcanzó y en la que no, Aquiles toca el piano con teclas invertidas.
+
+Las notas altas están a la izquierda y las notas bajas están a la derecha. Cada melodía sale invertida, como al revés. ¿Quién pudo haber pensado nunca algo tan trastocado como eso?
 
 
 #### <span id="capxx">[Capítulo XX: Bucles Extraños o Jerarquías Enredadas](#capxx)</span>
