@@ -4,7 +4,7 @@ permalink: /dune-frank-herbert.html
 date: 2023-05-01 20:15:42
 tags: review literatura Dune "Dune - Frank Herbert" "Frank Herbert" FrankHerbert Frank Herbert
 title: "Dune - Frank Herbert"
-image: https://da8y01.github.io/gh-blog/assets/DuneFrankHerbert_Cubierta.jpg
+image: https://da8y01.github.io/gh-blog/assets/DuneFrankHerbert_Cubierta.png
 description: "Dune - Frank Patrick Herbert."
 ---
 
