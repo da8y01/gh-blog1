@@ -1327,6 +1327,118 @@ Las notas altas están a la izquierda y las notas bajas están a la derecha. Cad
 ![Gödel, Escher, Bach][GodelEscherBach-50_CapXX]{: width="50%"}
 </div>
 
+Hay, y lógicamente deberá seguirlo habiendo, una completa separación entre *(i)* toda extensión y elaboración sustancial en este proceso de concreción de los anhelos humanos, y *(ii)* el desarrollo en el interior de la máquina, de una voluntad propia. Creer otra cosa es confiar en la magia, o suponer que la existencia de la voluntad humana es una ilusión, y que las acciones humanas son tan mecánicas como las de la máquina.
+
+Conclusión: *el razonamiento involucra una regresión infinita*.
+
+Puesto que, como es sabido, Dios ayuda a quienes se ayudan a sí mismos, es presumible que el diablo ayude a quienes, no se ayudan a sí mismos. ¿El Diablo se ayudará a sí mismo?
+
+*La deducción "el razonamiento es imposible" no se aplica a las personas porque, como cualquiera puede advertir, _nosotros_ nos las arreglamos para dar muchos pasos de razonamiento, en los niveles superiors que fueren. Esto muestra que los seres humanos operamos _sin necesidad de reglas_: somos "sistemas informales". Por otro lado, como argumento contrario a la posibilidad de toda implantación _mecánica_ del razonamiento, la deducción es válida, pues todo sistema mecánico de razonamiento debería depender explícitamente de reglas; entonces, no podría salirse del juego a menos que haya metarreglas que establezcan cuándo aplicar sus reglas, metametarreglas que establezcan cuándo aplicar sus metarreglas, etc. Podemos concluir que la facultad de razonar no puede ser mecanizada: es un atributo exclusivamente humano.*
+
+**Moraleja: El Diálogo de Carroll no dice nada a propósito de las diferencias entre los seres humanos y las máquinas, al fin y al cabo. (Y, por cierto, el razonamiento es mecanizable.)**
+
+A menos que seamos espiritualistas, probablemente respondamos que de nuestro cerebro: una construcción hardware que no hemos elegido ni diseñado.
+
+Las máquinas serán capaces de actos de voluntad por las mismas razones que nosotros: como resultado de la organización y de la estructura de muchos niveles de hardware y de software.
+
+**Moraleja: la argumentación de Samuel no dice nada a propósito de las diferencias entre los seres humanos y las máquinas, al fin y al cabo. (Y, por cierto, la voluntad será mecanizada.)**
+
+No se pude "pensar" a las neuronas para que funcionen de alguna forma no neuronal, mientras que sí es posible alterar el estilo de reflexión o el tema al que está abocada la mente.
+
+Las reglas software, situadas en diversos niveles, pueden cambiar; no así las reglas hardware: ¡en realidad, la flexibilidad del software de debe a la rigidez del hardware! Esto no constituye, en absoluto, una paradoja, sino un hecho simple y fundamental, asociado a los mecnismos de la inteligencia.
+
+... es transmitir algunas de las imágenes que más me ayudaron a visualizar la forma en que la conciencia brota de la jungla de neuronas...
+
+La distinción entre partida, reglas, metarreglas, metametarreglas, se ha perdido. Lo que una vez fue una esmerada disposición jerárquica se ha convertido en un Bucle Extraño O Jerarquía Enredada. Aún hay diferentes niveles, pero la distinción entre "más bajo" y "más alto" se ha borrado.
+
+Hay un nivel Inviolable, llamémosle *nivel I*, en el cual reside la intepretación de las convenciones; y hay también un nivel Enredado, el *nivel E*, donde reside la Jerarquía Enredada.
+
+Por más que el nivel E sea por sí mismo una Jerarquía Enredada, permanece bajo el control de un conjunto de convenciones ubicado fuera de él: y ésta es la cuestión importante.
+
+Cada vez que creemos haber alcanzado el punto terminal, hay una nueva variación del tema del brinco fuera del sistema, cuya delimitación requiere creatividad.
+
+Es interesante la circunstancia de que este nivel inferior es, a su vez, un entremezclamiento, en términos literales: miles de millones de células y centeranes de miles de millones de axones, reunidos en un todo.
+
+Se trata de un caso llamativo, el presente, donde un enmarañamiento software, el de los símbolos, se sustenta en un enmarañamiento hardware, el de las neuronas. Pero únicamente el enmarañamiento simbólico es una Jearquía Enredada; el neural es sólo un enmarañamiento "simple".
+
+Un enredamiento simple, como el que presenta la retroalimentación, no implica la transgresión de la distinción de niveles que se ha dado por supuesta.
+
+En este caso, algo *interior* al sistema brinca hacia afuera y actúa *sobre* el mismo, como si fuera *exterior* a éste. Lo que nos perturba aquí quizá sea un sentido mal definido de la inexactitud topológica...
+
+... aun cuando el sistema sea una abstracción, nuestra mente apela a la imaginación espacial, con la ayuda de una suerte de topología mental.
+
+El modo en que uno describa una situación enmarañada de este género depende de cuántos pasos retrospectivos se den antes de proceder a dicha descripción. Si se vuelve atrás lo suficiente, en la mayor parte de los casos quedarán a la vista las pistas que conduzcan a cosas desenmarañadas.
+
+... las reglas de nivel inferior, que en este caso equivalen a la reacción general de la sociedad. Bueno es recordar que, en sociedades como las nuestras, el sistema legal es, en cierto sentido, un gesto de urbanidad convenido colectivamente por millones de personas, y que puede ser dejado a un lado con la misma facilidad con que un río puede salirse de cauce. Se produciría entonces una aparente anarquía; sin embargo, la anarqía tiene su propio género de reglas, en forma similar a la sociedad civilizada, salvo que operan desde el fondo, no desde la cima. Un estudioso de la anarquía podría tratar de descubrir las reglas que gobiernan el desenvolvimiento de las situaciones anárquicas en el tiempo, y es muy probable que las encuentre.
+
+la pseudociencia; ésta se dedica a cuestionar gran parte de los procedimientos habituales y las creencias de la ciencia ortodoxa y a poner en discusión, por lo tanto, la objetividad científica. Propone entonces nuevas formas de interpretación de la evidencia, opuestas a las establecidas.
+
+Estamos de nuevo ante la paradoja carrolliana de la regresión infinita, bajo una máscara distinta.
+
+*ad nauseam*
+
+La explicación científica habitual de esto es que la percepción extrasensorial es un fenómeno irreal que no puede hacer frente a un escrutinio riguroso.
+
+Es decir, en vez de cuestionar el asunto que se tiene entre manos, se arrojan dudas sobre las teorías pertenecientes a un nivel superior de credibilidad.
+
+Lo que pienso es que se pueden establecer pautas orientadoras, y luego elaborar síntesis orgánicas a partir de ellas.
+
+En última instancia, hay complicados criterios para decidir si un método de evaluación de evidencia es eficaz.
+
+Uno de ellos se refiere a la "utilidad" de las ideas que llevaron al tipo de razonamiento en cuestión.
+
+Creo que el proceso por el cual decidimos qué es válido o qué es verdadero constituye un arte, y que descansa a tal profundidad en un sentido de la belleza y de simplicidad que su asiento son los principios fundamentales básicos de la lógica, o del razonamiento o de cualquier otra cosa que pueda ser objetivamente formalizada.
+
+El resultado es que la información fluye, a través de un complejo remolino, entre los diversos niveles de la pesonalidad... todo ello en procura de reconcliar lo que es con lo que desearíamos que fuera.
+
+Finalmente, la imagen total de "quién soy" es incorporada, de alguna manera enormemente compleja, dentro del conjunto de la estructura mental, y contiene una gran cantidad de incoherencias irresueltas o, probablemente, irresolubles. De aquí proviene, con toda seguridad, gran parte de la tensión dinámica que integra de modo tan significativo al ser humano.
+
+No podemos vernos la cara con nuestros propios ojos, ¿no será razonable entonces que, del mismo modo, no podamos reflejar nuestras estructuras mentales completas en los símbolos que éstas elaboran?
+
+Todos los teoremas limitativos de la metamatemática y de la teoría de la computación insinúan que, una vez alcanzado determinado punto crítico en la capacidad de representar nuestra propia estructura, llega el momento del beso de la muerte: se cierra toda posibilidad de que podamos representarnos alguna vez a nosotros mismos en forma integral.
+
+Probablemente, todos seamos incoherentes; el mundo es demasiado complicado como para que una persona pueda darse el lujo de conciliar entre sí todas sus creencias individuales. Además, tensión y confusión son importantes en un mundo donde deben adoptarse muchas decisiones rápidas. Dijo una vez Miguel de Unamuno: "Si una persona no se contradice nunca, ha de ser porque no dice nada."
+
+Las mentes zen, por su parte, se complacen en esta inconciliabilidad.
+
+Paso a paso, inexorablemente, la ciencia "occidental" ha ido avanzando hacia el estudio de la mente humana, lo cual equivale a decir del observador.
+
+En música, en particular, John Cage ha alcanzado gran influencia como elaborador de una manipulación con reminiscencias zen de los sonidos.
+
+No puedo hacer una evaluación íntegra de la obra de Cage, pero creo que gran parte de la misma ha estado dirigida a introducir la no significación en la música y, en algún sentido, a conseguir que tal no significación tenga significado. La música aleatoria se caracteriza por adentrarse en esta dirección.
+
+El arte de nuestro siglo ha experimentado muchas convolusiones de índole parecida.
+
+La obra de Piet Mondrian muestra un deslizamiento gradual desde la representación pura hasta las configuraciones más acabadamente abstractas.
+
+El conflicto entre el símbolo y lo real es notorio.
+
+La serie de cuadros de Magritte con imágenes de pipas crea fascinación y perplejidad.
+
+La idea de que una de las pipas está en una pintura dos veces autoincluída, y por lo tanto es, en alguna medida, "menos real" que la otra, es enteramente una falacia.
+
+En otras palabras: en ese instante, el mensaje verbal del cuadro se autodestruye, de una manera sumamente gödeliana.
+
+Quizá todo esto fue ensayado para destruir la noción de que el arte está situado un paso más lejos de la realidad, razón por la cual habla en "código", lo que obliga al espectador a actuar como intérprete. La idea consistió en eliminar ese paso interpretativo y dejar al desnudo al objeto para que, simplemente, *sea*, punto.
+
+Se trata del "efecto marco" que el arte -el Arte- crea en forma automática.
+
+Por supuesto, si el propósito es infundir una visión de tipo zen del mundo, en tanto que desprovista de categorías y de significaciones, quizá este arte deba ser encaminado, entonces -en función de su papel intelectualizador del zen-, para que induzca catalíticamente en el espectador la tendencia a marchar hacia el conocimiento de la filosofía que rechaza las "significaciones interiores" y abarca al mundo en su conjunto.
+
+> ... Todas las cosas, en todo tiempo y espacio, están inextricablemente conectadas entre sí. Todas las divisones, clasificaciones y distribuciiones asignadas al universo son arbitrarias. El mundo es un acontecimiento complejo, continuo y único.
+
+Tratándose de un sufijo sin prefijo, sugiere una ideología sin ideas, lo cual, pese a lo que pueda interpretar el lector, quizá sea el caso.
+
+Ismo es el espítiru del zen en el campo del arte; y, así como el objetivo central del zen es el desenmascaramiento del yo, el problema central del arte de nuestro siglo parece ser el descubrimiento de qué es el arte mismo. Todos estos estremecimientos son parte de sus crisis de identidad.
+
+Ya hemos visto que la dicotomía uso-mención, cuando es desarrollada, se transforma en el problema filosófico del dualismo símbolo-objeto, el cual, a su vez, se vincula con el misterio de la mente.
+
+¿O habrá alguna proposición gödeliana fantásticamente diabólica que nos impida, por siempre, desenmarañar nuestras mentes? A condición de que no adoptemos una definición totalmente irrazonable de "comprensión", no veo obstáculo gödeliano alguno en el camino hacia el logro de esa comprensión.
+
+Creo que el proceso de arribar a la comprensión de la demostración de Gödel, con su construcción que abarca códigos arbitrarios, isomorfismos complejos, niveles altos y bajos de interpretación, y la capacidad de autorreflejo, puede insuflar ciertas resonancias y corrientes subterráneas dentro de un conjunto de imágenes relativas a los símbolos, y a su procesamiento, que harán posible la profundización de las intuiciones referidas a las relaciones existentes entre las estructuras mentales de los diferentes niveles.
+
+La cuestión central es que no pueden existir razones *fundamentales* (esto es, gödelianas) que hagan de tales cualidades algo incomprensible.
+
 
 ### <span id="notas">[Notas](#notas)</span>
 

@@ -1,0 +1,1374 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Daniel Benítez Restrepo</title>
+  <link href="http://fonts.googleapis.com/css?family=Open+Sans:300,700|Roboto:300,400,700|Noto+Serif:400" rel="stylesheet" type="text/css">
+  <style>
+    body {
+  font-family: Roboto,Arial,sans-serif;
+  font-weight: 300;
+  background-color: #f6f6f6;
+}
+
+p {
+  display: inline;
+}
+
+a,span {
+  color: #4c92c1;
+  text-decoration: none;
+}
+
+.email,.site,.github,.phone-number,.address {
+  margin-bottom: .4em;
+  font-size: 1em;
+}
+
+ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.card {
+  /*background-color: #fefefe;
+  box-shadow: 1px 1px 14px -5px rgba(0,0,0,0.5);
+  border-radius: 2px;*/
+  margin-bottom: 15px;
+}
+
+.header.card {
+  margin-top: 15px;
+  margin-right: 15px;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  padding: 0 15px 0 20px;
+  border-bottom: 1px dashed #CFCFCF;
+}
+
+section.card {
+  padding: 15px 15px 22.5px 20px;
+}
+
+.header {
+  overflow: auto;
+  margin-left: 6px;
+  margin-right: 12px;
+}
+
+.skill {
+  font-family: Roboto,Arial,sans-serif;
+  font-size: 1em;
+  margin-bottom: .4em;
+  color: #4c92c1;
+  font-weight: 400;
+}
+
+.skills p {
+  font-size: 1em;
+}
+
+#name {
+  font-family: 'Open Sans',Arial,sans-serif;
+  font-size: 3em;
+  font-weight: 400;
+  color: #555;
+  float: left;
+  margin: .1em .1em .2em;
+}
+
+#resume-container {
+  width: 900px;
+  margin: 0 auto;
+}
+
+.section-header {
+  margin-top: 0;
+  margin-bottom: .4em;
+  font-family: 'Open Sans';
+  font-weight: 400;
+  font-size: 1.2em;
+}
+
+.left-content {
+  float: left;
+  width: 32%;
+  margin-left: 6px;
+}
+
+.left-content .section-header {
+  font-weight: 400;
+  color: #BC1B39;
+  text-transform: uppercase;
+}
+
+.left-content .section-content {
+  font-weight: 300;
+}
+
+.left-content .title {
+  font-weight: 400;
+  margin-bottom: .5em;
+  color: #4c92c1;
+}
+
+.left-content .card {
+  border-bottom: 1px dashed #CFCFCF;
+}
+
+.right-content {
+  width: 64%;
+  margin-right: 15px;
+  float: right;
+}
+
+.right-content .section-header {
+  /*color: #000;*/
+  color: #BC1B39;
+  text-transform: uppercase;
+}
+
+.right-content {
+  border-left: 1px dashed #CFCFCF;
+}
+
+.section-content {
+  overflow: auto;
+}
+
+.title {
+  font-family: Roboto,Arial,sans-serif;
+  font-size: 1em;
+  font-weight: 300;
+  margin-bottom: .2em;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+}
+
+.duration {
+  font-family: Roboto,Arial,sans-serif;
+  font-weight: 300;
+  color: #3c82b1;
+  margin-top: .2em;
+  margin-bottom: .3em;
+  text-align: right;
+}
+
+.occupation {
+  font-size: 1em;
+  font-family: Roboto,Arial,sans-serif;
+  font-weight: 400;
+  margin-bottom: .5em;
+}
+
+.languages {
+  font-family: Roboto,Arial,sans-serif;
+  font-size: 1em;
+  font-weight: 300;
+}
+
+.list {
+  list-style-type: none;
+  font-size: 1em;
+}
+
+.location {
+  font-size: 1em;
+  font-weight: 300;
+  margin-bottom: .1em;
+}
+
+.left {
+  float: left;
+  width: 45%;
+  clear: both;
+}
+
+.right {
+  float: right;
+  width: 55%;
+}
+
+ul.list {
+  list-style-type: circle;
+  padding-left: 1.1rem;
+}
+
+ul.list li {
+  line-height: 135%;
+  margin-bottom: .2em;
+}
+
+ul.list li:before {
+  display: inline-block;
+  width: 0;
+  margin-left: 0;
+}
+
+.project,.employment,.education,.skills {
+  margin-bottom: .8em;
+}
+
+.education-info .title {
+  margin-bottom: .2em;
+  line-height: 130%;
+}
+
+.education.last {
+  margin-bottom: .8em !important;
+}
+
+.education .grade {
+  font-size: 1em;
+}
+
+.project-info {
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+}
+
+.last {
+  margin-bottom: 0!important;
+}
+
+.term {
+  font-size: 1.75em;
+  font-weight: 200;
+  color: #000;
+}
+
+#skills-container,.contact {
+  margin-bottom: 0;
+}
+
+.interests,.subtitle {
+  font-size: 1em;
+  margin-bottom: .2em;
+}
+
+.project .title,.employment .title {
+  color: #4c92c1;
+  font-weight: 400;
+}
+
+.employment .summary {
+  font-size: 1em;
+  margin-bottom: .4em;
+}
+
+#awards .summary {
+  font-size: 1em;
+}
+
+#summary {
+  font-size: 1em;
+}
+
+.contact .site {
+  font-size: .9em;
+}
+
+  </style>
+</head>
+
+<body>
+  <div id='resume-container'>
+    <div class='header card'>
+      <h1 id='name'>
+          Daniel Benítez Restrepo
+        </h1>
+      <span class='term'>Computation and Systems Engineer, MP: 17950-259048 CLD</span>
+    </div>
+    <div class='left-content'>
+      <section class='card'>
+        <div class='section-header'>Contact</div>
+        <div class='section-content' id='contact'>
+          <div class='contact'>
+            <div class='address'>
+              Bogotá, Cundinamarca, CO
+            </div>
+            <div class='email'>
+              <a href='mailto:danielbenitezr@yahoo.com'>danielbenitezr@yahoo.com</a>
+            </div>
+              
+            <div class='site'>
+              LinkedIn: <a href='https://www.linkedin.com/in/daniel-b-3b070990/'>danielbenitezr</a>
+            </div>
+              
+            <div class='site'>
+              GitHub: <a href='https://github.com/da8y01'>da8y01</a>
+            </div>
+              
+            <div class='site'>
+              Bitbucket: <a href='https://bitbucket.org/01ring'>01ring</a>
+            </div>
+              
+            <div class='site'>
+              GitLab: <a href='https://gitlab.com/da8y01'>da8y01</a>
+            </div>
+              
+            <div class='phone-number last'>
+              <a href="tel:(+57) 300 000 0000">(+57) 300 000 0000</a>
+            </div>
+          </div>
+        </div>
+      </section>
+       
+      <section class='card'>
+        <div class='section-header'>Technical Skills</div>
+        <div class='section-content' id='technical-skills'>
+          <div id='skills-container'>
+            <div class='skills'>
+              <div class='skill'>Programming</div>
+               
+              <div class="level">
+                <em>Master</em>
+              </div>
+               
+              <p>
+                 Ruby,  Python,  Java,  JavaScript,  C,  C++,  C#,  VisualBasic,  assembler,  bash,  PowerShell 
+              </p>
+            </div>
+            <div class='skills'>
+              <div class='skill'>Web</div>
+               
+              <div class="level">
+                <em>Master</em>
+              </div>
+               
+              <p>
+                 Rails,  Django,  PHP,  NodeJS,  AngularJS,  Angular,  ReactJS,  Servlets/JSP/EJB,  .NET,  JavaScript,  HTML,  CSS,  CoffeeScript,  HAML,  SAAS,  Frameworks PHP: Yii, Cake, Symfony, Silex, CodeIgniter, Zend,  CMS: WordPress, Joomla, Drupal, PHPNuke, phpWebSite, DotNetNuke 
+              </p>
+            </div>
+            <div class='skills'>
+              <div class='skill'>Databases</div>
+               
+              <div class="level">
+                <em>Master</em>
+              </div>
+               
+              <p>
+                 MySQL,  Postgres,  SQL Server,  Oracle,  MongoDB 
+              </p>
+            </div>
+            <div class='skills'>
+              <div class='skill'>Mobile</div>
+               
+              <div class="level">
+                <em>Intermediate</em>
+              </div>
+               
+              <p>
+                 Android,  Ionic,  Appcelerator Titanium,  Java ME,  BlackBerry 
+              </p>
+            </div>
+            <div class='skills'>
+              <div class='skill'>Operating Systems</div>
+               
+              <div class="level">
+                <em>Master</em>
+              </div>
+               
+              <p>
+                 Linux,  Windows,  VMs and virtualization (VMware, VirtualBox, Hyper-V, KVM, LXC),  Docker containers,  CVSs y repositories (git, subversion, GitHub, BitBucket, GitLab, Unfuddle),  Cloud services (Amazon EC2, GCP, GKE, Microsoft Azure),  PaaS,  IaaS (Heroku, Hasura, Docker Hub, Amazon, Azure) 
+              </p>
+            </div>
+            <div class='skills'>
+              <div class='skill'>General IT</div>
+               
+              <div class="level">
+                <em>Master</em>
+              </div>
+               
+              <p>
+                 networking,  algorithmics,  offimatic,  architecture,  patterns,  electronics,  management 
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+       
+      <section class='card'>
+        <div class='section-header'>Education</div>
+        <div class='section-content' id='education'>
+          <div class='education last'>
+            <div class='education-info'>
+              <div class='title'>
+                Professional Career in Computation and Systems Engineering
+                <br>at  Universidad de Caldas 
+              </div>
+              <div class='duration'>
+                 Aug 2004   - Jul 2013 
+              </div>
+            </div>
+
+          </div>
+          <div class='education last'>
+            <div class='education-info'>
+              <div class='title'>
+                Virtual Course in Design and construction of indicators (2023-I A-23)
+                <br>at  National Administrative Department of Statistics - DANE 
+              </div>
+              <div class='duration'>
+                 Feb 2023   - Apr 2023 
+              </div>
+            </div>
+
+          </div>
+          <div class='education last'>
+            <div class='education-info'>
+              <div class='title'>
+                Virtual Course in Configuration of administrative records for statistical use (2023-I A-23)
+                <br>at  National Administrative Department of Statistics - DANE 
+              </div>
+              <div class='duration'>
+                 Feb 2023   - Apr 2023 
+              </div>
+            </div>
+
+          </div>
+          <div class='education last'>
+            <div class='education-info'>
+              <div class='title'>
+                Virtual Training in Environmental Research Week
+                <br>at  Environmental Institute GIS 
+              </div>
+              <div class='duration'>
+                 Sep 2022   - Sep 2022 
+              </div>
+            </div>
+
+          </div>
+          <div class='education last'>
+            <div class='education-info'>
+              <div class='title'>
+                Online Conference in PyCon Colombia 2022 Online Conference
+                <br>at  PyCon Colombia 
+              </div>
+              <div class='duration'>
+                 Jul 2022   - Jul 2022 
+              </div>
+            </div>
+
+          </div>
+          <div class='education last'>
+            <div class='education-info'>
+              <div class='title'>
+                Virtual Course in Engineering Practices for Building Quality Software
+                <br>at  University of Minnesota 
+              </div>
+              <div class='duration'>
+                 Nov 2021   - Dec 2021 
+              </div>
+            </div>
+
+          </div>
+          <div class='education last'>
+            <div class='education-info'>
+              <div class='title'>
+                Virtual Course in 2312659 - Special course on Bar and Table Basics
+                <br>at  Course offered by Servicio Nacional de Aprendizaje SENA 
+              </div>
+              <div class='duration'>
+                 Jul 2021   - Aug 2021 
+              </div>
+            </div>
+
+          </div>
+          <div class='education last'>
+            <div class='education-info'>
+              <div class='title'>
+                Classroom Course in Course 22 Introduction to Graphic Computation and Scientific Visualization
+                <br>at  BIOS (Bioinformatics and Computational Biology Center of Colombia) 
+              </div>
+              <div class='duration'>
+                 Sep 2017   - Sep 2017 
+              </div>
+            </div>
+
+          </div>
+          <div class='education last'>
+            <div class='education-info'>
+              <div class='title'>
+                Virtual Course in Xamarin Diplomado | Intermediate level
+                <br>at  Microsoft Developer Readiness 
+              </div>
+              <div class='duration'>
+                 Jan 2017   - Mar 2017 
+              </div>
+            </div>
+
+          </div>
+          <div class='education last'>
+            <div class='education-info'>
+              <div class='title'>
+                Virtual Course in Parallel programming
+                <br>at  École Polytechnique Fédérale de Lausanne 
+              </div>
+              <div class='duration'>
+                 Dec 2016   - Jan 2017 
+              </div>
+            </div>
+
+          </div>
+          <div class='education last'>
+            <div class='education-info'>
+              <div class='title'>
+                Virtual Course in Machine Learning: Regression
+                <br>at  University of Washington 
+              </div>
+              <div class='duration'>
+                 Oct 2016   - Nov 2016 
+              </div>
+            </div>
+
+          </div>
+          <div class='education last'>
+            <div class='education-info'>
+              <div class='title'>
+                Virtual Course in Functional Program Design in Scala
+                <br>at  École Polytechnique Fédérale de Lausanne 
+              </div>
+              <div class='duration'>
+                 Oct 2016   - Nov 2016 
+              </div>
+            </div>
+
+          </div>
+          <div class='education last'>
+            <div class='education-info'>
+              <div class='title'>
+                Virtual Course in Functional Programming Principles in Scala
+                <br>at  École Polytechnique Fédérale de Lausanne 
+              </div>
+              <div class='duration'>
+                 Jul 2016   - Aug 2016 
+              </div>
+            </div>
+
+          </div>
+          <div class='education last'>
+            <div class='education-info'>
+              <div class='title'>
+                Virtual Course in 1212959 - English Dot Works 1
+                <br>at  Course offered by Servicio Nacional de Aprendizaje SENA 
+              </div>
+              <div class='duration'>
+                 Jun 2016   - Jul 2016 
+              </div>
+            </div>
+
+          </div>
+          <div class='education last'>
+            <div class='education-info'>
+              <div class='title'>
+                Virtual Course in 1165235 - English Dot Works Beginner
+                <br>at  Course offered by Servicio Nacional de Aprendizaje SENA 
+              </div>
+              <div class='duration'>
+                 Apr 2016   - May 2016 
+              </div>
+            </div>
+
+          </div>
+          <div class='education last'>
+            <div class='education-info'>
+              <div class='title'>
+                Virtual Course in HTML, CSS and JavaScript
+                <br>at  The Hong Kong University of Science and Technology 
+              </div>
+              <div class='duration'>
+                 Feb 2016   - Mar 2016 
+              </div>
+            </div>
+
+          </div>
+          <div class='education last'>
+            <div class='education-info'>
+              <div class='title'>
+                Virtual Course in Machine Learning Foundations: A Case Study Approach
+                <br>at  Universidad de Washington 
+              </div>
+              <div class='duration'>
+                 Nov 2015   - Dec 2015 
+              </div>
+            </div>
+
+          </div>
+          <div class='education last'>
+            <div class='education-info'>
+              <div class='title'>
+                Virtual Course in Responsive Website Basics: Code with HTML, CSS, and JavaScript
+                <br>at  University of London &amp; Goldsmiths, University of London 
+              </div>
+              <div class='duration'>
+                 Sep 2015   - Oct 2015 
+              </div>
+            </div>
+
+          </div>
+          <div class='education last'>
+            <div class='education-info'>
+              <div class='title'>
+                Curso Virtual in The Data Scientist Toolbox
+                <br>at  Johns Hopkins University 
+              </div>
+              <div class='duration'>
+                 Jun 2015   - Jul 2015 
+              </div>
+            </div>
+
+          </div>
+          <div class='education last'>
+            <div class='education-info'>
+              <div class='title'>
+                Virtual Course in Cryptography I
+                <br>at  Stanford University 
+              </div>
+              <div class='duration'>
+                 Jan 2015   - Mar 2015 
+              </div>
+            </div>
+
+          </div>
+          <div class='education last'>
+            <div class='education-info'>
+              <div class='title'>
+                Virtual Course in M101P: MongoDB for Developers
+                <br>at  MongoDB University 
+              </div>
+              <div class='duration'>
+                 Apr 2014   - Jun 2014 
+              </div>
+            </div>
+
+          </div>
+          <div class='education last'>
+            <div class='education-info'>
+              <div class='title'>
+                Virtual Course in Web Application Architectures
+                <br>at  University of New Mexico 
+              </div>
+              <div class='duration'>
+                 Mar 2014   - Jun 2014 
+              </div>
+            </div>
+
+          </div>
+          <div class='education last'>
+            <div class='education-info'>
+              <div class='title'>
+                Virtual Course in M101JS: MongoDB for Node.js Developers
+                <br>at  MongoDB University 
+              </div>
+              <div class='duration'>
+                 Mar 2014   - May 2014 
+              </div>
+            </div>
+
+          </div>
+          <div class='education last'>
+            <div class='education-info'>
+              <div class='title'>
+                Virtual Course in M101J: MongoDB for Java Developers
+                <br>at  MongoDB University 
+              </div>
+              <div class='duration'>
+                 Mar 2014   - May 2014 
+              </div>
+            </div>
+
+          </div>
+          <div class='education last'>
+            <div class='education-info'>
+              <div class='title'>
+                Classroom Course in 42914 - Humanization of the Health Service
+                <br>at  Clínica San Francisco S.A. 
+              </div>
+              <div class='duration'>
+                 Sep 2013   - Oct 2013 
+              </div>
+            </div>
+
+          </div>
+          <div class='education last'>
+            <div class='education-info'>
+              <div class='title'>
+                Classroom Course in Mobile Devices Development on ANDROID
+                <br>at  Manizales Vive Digital program ran by PeopleContact S.A. 
+              </div>
+              <div class='duration'>
+                 Jul 2012   - Sep 2012 
+              </div>
+            </div>
+
+          </div>
+          <div class='education last'>
+            <div class='education-info'>
+              <div class='title'>
+                Classroom Course in BPO SQL/Oracle
+                <br>at  Manizales Vive Digital program ran by PeopleContact S.A. 
+              </div>
+              <div class='duration'>
+                 Jan 2012   - Sep 2012 
+              </div>
+            </div>
+
+          </div>
+          <div class='education last'>
+            <div class='education-info'>
+              <div class='title'>
+                Classroom Course in BPO .NET
+                <br>at  Manizales Vive Digital program ran by PeopleContact S.A. 
+              </div>
+              <div class='duration'>
+                 Dec 2011   - Sep 2012 
+              </div>
+            </div>
+
+          </div>
+          <div class='education last'>
+            <div class='education-info'>
+              <div class='title'>
+                Classroom Course in BPO Java
+                <br>at  Manizales Vive Digital program ran by PeopleContact S.A. 
+              </div>
+              <div class='duration'>
+                 Dec 2011   - Sep 2012 
+              </div>
+            </div>
+
+          </div>
+          <div class='education last'>
+            <div class='education-info'>
+              <div class='title'>
+                Virtual Course in Ethical Hacking free course
+                <br>at  MKit IT &amp; Security Solutions 
+              </div>
+              <div class='duration'>
+                 Feb 2012   - Mar 2012 
+              </div>
+            </div>
+
+          </div>
+          <div class='education last'>
+            <div class='education-info'>
+              <div class='title'>
+                Classroom Course in Information Systems Development using Java EE platform
+                <br>at  Course offered by SENA under the auspices of PeopleContact S.A. 
+              </div>
+              <div class='duration'>
+                 Feb 2012   - Mar 2012 
+              </div>
+            </div>
+
+          </div>
+          <div class='education last'>
+            <div class='education-info'>
+              <div class='title'>
+                Classroom Course in 322340 - BPO Databases with MySQL
+                <br>at  Course offered by SENA under the auspices of PeopleContact S.A. 
+              </div>
+              <div class='duration'>
+                 Jan 2012   - Feb 2012 
+              </div>
+            </div>
+
+          </div>
+          <div class='education last'>
+            <div class='education-info'>
+              <div class='title'>
+                Virtual Course in 21730030 - Web design with Adobe Dreamweaver CS3
+                <br>at  Course offered by Servicio Nacional de Aprendizaje SENA 
+              </div>
+              <div class='duration'>
+                 Oct 2011   - Nov 2011 
+              </div>
+            </div>
+
+          </div>
+          <div class='education last'>
+            <div class='education-info'>
+              <div class='title'>
+                Virtual Course in 21720038 - Using Adobe Photoshop CS3
+                <br>at  Course offered by Servicio Nacional de Aprendizaje SENA 
+              </div>
+              <div class='duration'>
+                 Oct 2011   - Nov 2011 
+              </div>
+            </div>
+
+          </div>
+          <div class='education last'>
+            <div class='education-info'>
+              <div class='title'>
+                Virtual Course in 21730134 - Mobile Devices Programming (MDP)
+                <br>at  Course offered by Servicio Nacional de Aprendizaje SENA 
+              </div>
+              <div class='duration'>
+                 Oct 2011   - Nov 2011 
+              </div>
+            </div>
+
+          </div>
+          <div class='education last'>
+            <div class='education-info'>
+              <div class='title'>
+                Virtual Course in Microsoft Five Stars Developer Level 5
+                <br>at  Training program from Microsoft developers community 
+              </div>
+              <div class='duration'>
+                 Mar 2011   - Apr 2011 
+              </div>
+            </div>
+
+          </div>
+          <div class='education last'>
+            <div class='education-info'>
+              <div class='title'>
+                Virtual Course in 12210039 - English Discoveries - Basic III
+                <br>at  Course offered by Servicio Nacional de Aprendizaje SENA 
+              </div>
+              <div class='duration'>
+                 Aug 2010   - Sep 2010 
+              </div>
+            </div>
+
+          </div>
+          <div class='education last'>
+            <div class='education-info'>
+              <div class='title'>
+                Virtual Course in 12210037 - English Discoveries - Basic I
+                <br>at  Course offered by Servicio Nacional de Aprendizaje SENA 
+              </div>
+              <div class='duration'>
+                 May 2010   - Jun 2010 
+              </div>
+            </div>
+
+          </div>
+          <div class='education last'>
+            <div class='education-info'>
+              <div class='title'>
+                Virtual Course in 52410017 - Flash - 2D Animation
+                <br>at  Course offered by Servicio Nacional de Aprendizaje SENA 
+              </div>
+              <div class='duration'>
+                 Feb 2010   - Apr 2010 
+              </div>
+            </div>
+
+          </div>
+          <div class='education last'>
+            <div class='education-info'>
+              <div class='title'>
+                Classroom Workshop in AJAX use on ASP.NET
+                <br>at  ExpoASI 2009 (Universidad Nacional) 
+              </div>
+              <div class='duration'>
+                 Oct 2009   - Oct 2009 
+              </div>
+            </div>
+
+          </div>
+          <div class='education last'>
+            <div class='education-info'>
+              <div class='title'>
+                Virtual Course in Web development with Ruby on Rails
+                <br>at  time4code Training 
+              </div>
+              <div class='duration'>
+                 May 2009   - Jul 2009 
+              </div>
+            </div>
+
+          </div>
+          <div class='education last'>
+            <div class='education-info'>
+              <div class='title'>
+                Classroom Workshop in DNN (DotNetNuke) and jQuery on the Web (Workshop)
+                <br>at  Microsoft Installation Festival 2009 (Universidad de Caldas) 
+              </div>
+              <div class='duration'>
+                 May 2009   - May 2009 
+              </div>
+            </div>
+
+          </div>
+          <div class='education last'>
+            <div class='education-info'>
+              <div class='title'>
+                Classroom Workshop in Microsoft Installation Festival
+                <br>at  Universidad de Caldas 
+              </div>
+              <div class='duration'>
+                 May 2009   - May 2009 
+              </div>
+            </div>
+
+          </div>
+          <div class='education last'>
+            <div class='education-info'>
+              <div class='title'>
+                Course-Classroom Workshop in Web oriented programming with .NET Basic seminar
+                <br>at  X Engineering Days from Universidad de Caldas 
+              </div>
+              <div class='duration'>
+                 Oct 2008   - Oct 2008 
+              </div>
+            </div>
+
+          </div>
+          <div class='education last'>
+            <div class='education-info'>
+              <div class='title'>
+                Classroom Course in Linux first level
+                <br>at  University of Manizales 
+              </div>
+              <div class='duration'>
+                 Jan 2001   - Jun 2001 
+              </div>
+            </div>
+
+          </div>
+          <div class='education last'>
+            <div class='education-info'>
+              <div class='title'>
+                Congress in GNU/Linux Congress Eje Cafetero
+                <br>at  University of Manizales 
+              </div>
+              <div class='duration'>
+                 May 2001   - May 2001 
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </section>
+       
+      <section class='card'>
+        <div class='section-header'>Awards</div>
+        <div class='section-content' id='awards'>
+          <div class='awards last'>
+            <div class='awards-info'>
+              <div class='title'>
+                Basic Xamarin completed <br/>Microsoft Developer Readiness
+              </div>
+              <div class='summary'>
+                Basic Xamarin course finished.
+              </div>
+              <div class='duration'>
+                 Jan 2017 
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+    <div class='right-content'>
+      <section class='card'>
+        <div class='section-header'>Summary</div>
+        <div class='section-content' id='summary'>
+          I'm a Computation and Systems Engineer from Universidad de Caldas (Manizales-Colombia). I'm an intellectual man who likes culture, science and arts. I adapt myself with ease to the circumstances, I'm a compromised, accomplished and responsible person when activities to carry out have been assigned, and my intellectual inquietude allows me to learn and research new stuff efficiently.
+        </div>
+      </section>
+      <section class='card'>
+        <div class='section-header'>Employment</div>
+        <div class='section-content' id='employment'>
+          <div class='employment'>
+            <div class='employment-info'>
+              <div class='title'>
+                <a href='https://www.ucaldas.edu.co/portal/'>
+                  		University of Caldas
+                  	</a>   Programming tutor Cycle 4A (web) 
+              </div>
+              <div class='duration'>
+                 Oct 2022   - Nov 2022 
+              </div>
+            </div>
+            <div class='info'>
+              <div class="summary">
+                The University of Caldas in compliance with the social function that corresponds to its public nature, has the mission of generating, appropriating, disseminating and applying knowledge through curricular, investigative and projection processes, to fully train citizens committed to society and culture, provide solutions to regional, national and international problems and contribute to sustainable development.
+              </div>
+               
+              <ul class="list">
+                <li>Project: MISIÓN TIC 2022 SAR I-704/2022.</li>
+                <li>Stack: LoopBack, Angular, ReactJS, HTML/JS/CSS, MongoDB.</li>
+                <li>Infrastructure: SO Windows, Microsoft Teams, Google Drive.</li>
+                <li>Concerns: Carry out accompaniment in the teaching activities in programming guided by the disciplinary trainer, Carry out work team dynamics, Manage the solution of questions and concerns made by the beneficiaries, Support the training and teaching of programming in the languages and technologies that are going to be use in the cycle, Generate at least weekly reports determined by the training operator, Sprint follow-up through the formats designed for it (Teach lead), Participate in daily follow-up meetings with their work groups, The tutor It has the responsibility of reporting any non-compliance detected in the monitoring activities, Submitting weekly reports of its management and monthly report.</li>
+              </ul>
+            </div>
+          </div>
+          <div class='employment'>
+            <div class='employment-info'>
+              <div class='title'>
+                <a href='https://10pearls.com/'>
+                  		10Pearls
+                  	</a>   Backend Developer 
+              </div>
+              <div class='duration'>
+                 May 2022   - Jun 2022 
+              </div>
+            </div>
+            <div class='info'>
+              <div class="summary">
+                We help businesses digitally transform, build new products, and accelerate digital teams.
+              </div>
+               
+              <ul class="list">
+                <li>Project: 10Pearls training program to improve English skills.</li>
+                <li>Infrastructure: Windows 10, Microsoft Teams, Microsoft Office.</li>
+                <li>Concerns: Attend English language skills improvement training.</li>
+              </ul>
+            </div>
+          </div>
+          <div class='employment'>
+            <div class='employment-info'>
+              <div class='title'>
+                <a href='https://primestone.com/'>
+                  		PrimeStone
+                  	</a>   Application Developer Analyst 
+              </div>
+              <div class='duration'>
+                 Jul 2021   - Jan 2022 
+              </div>
+            </div>
+            <div class='info'>
+              <div class="summary">
+                PrimeStone, a Trilliant company, is a proudly Colombian privately held software development company founded in 1990 by a team of industry experts, with over 25 years of experience in meter data collection, management and analytics.
+              </div>
+               
+              <ul class="list">
+                <li>Project: A static and dummy API backend server with endpoints to be consumed by clients.</li>
+                <li>Stack: NodeJS server, Angular client, HTML/CSS/JS, Docker/Docker Compose.</li>
+                <li>Infrastructure: Windows 10, Git repositories, VS Code, Team Foundation Server, Microsoft Teams, VPN.</li>
+                <li>Concerns: Development of backend API endpoint services to be used by clients, modification of Angular web application.</li>
+                <li>Project: A Interoperability Readings Dashboard to visualize metrics on devices and other data sources.</li>
+                <li>Stack: Python/Flask, Dash/NumPy/Pandas/Cognito libraries, AWS S3/Glue/Lambdas, Docker/Docker Compose.</li>
+                <li>Infrastructure: Windows 10, Git repositories, VS Code, Team Foundation Server, Microsoft Teams, VPN, AWS.</li>
+                <li>Concerns: Implementation of User Stories regarding building layers for UI, callbacks and data for the vizualization dashboard, unit tests of Python source code, implementation of authentication for Python/Flask application using Cognito library, use and activation of AWS Glue flows involving buckets, lambdas, functions, services, parsers, etc.</li>
+                <li>Project: A middleware to provide functionalities of migration and synchronization of databases.</li>
+                <li>Stack: Apache NiFi, Python/Flask, Oracle 11g, MS SQL Server 2012, PostgreSQL 9, Docker/Docker Compose.</li>
+                <li>Infrastructure: Windows 10, Git repositories, VS Code, Team Foundation Server, Microsoft Teams, VPN.</li>
+                <li>Concerns: Modification of Apache NiFi templates and Python/Flask application to manage the launch and parametrization of the data and operations flows.</li>
+              </ul>
+            </div>
+          </div>
+          <div class='employment'>
+            <div class='employment-info'>
+              <div class='title'>
+                <a href='https://www.kibernum.com/'>
+                  		Kibernum Colombia
+                  	</a>   Full-Stack Developer 
+              </div>
+              <div class='duration'>
+                 Feb 2021   - Apr 2021 
+              </div>
+            </div>
+            <div class='info'>
+              <div class="summary">
+                As one of the largest and longest established IT firms in Latin America, Kibernum offers not just engineering expertise and innovation but also the reliability to get the job done.
+              </div>
+               
+              <ul class="list">
+                <li>Project: COBIS banking platform.</li>
+                <li>Stack: SQL Server, Maven, Java, Tomcat, JBoss, AngularJS, HTML/CSS/JS.</li>
+                <li>Infrastructure: Windows 10, Git repositories, Sonar, Eclipse, COBIS Designer, Team Foundation Server, Microsoft Teams, VPN.</li>
+                <li>Concerns: Integration and customization of banking modules through debugging of application flow with Eclipse, Maven and Java, with SQL Server, AngularJS and COBIS Designer.</li>
+              </ul>
+            </div>
+          </div>
+          <div class='employment'>
+            <div class='employment-info'>
+              <div class='title'>
+                <a href='https://softdev.team/'>
+                  		Soft Dev Team
+                  	</a>   Full-Stack Developer 
+              </div>
+              <div class='duration'>
+                 Jul 2020   - Oct 2020 
+              </div>
+            </div>
+            <div class='info'>
+              <div class="summary">
+                Fully-managed On-demand Software Development Team.
+              </div>
+               
+              <ul class="list">
+                <li>Back-end development of features, MongoDB NoSQL database management, and unit and integration tests for a multiple templates management platform of cars sellers catalogs.</li>
+                <li>Development on environment with Docker, MongoDB, RabbitMQ, ElasticSearch, Google Cloud Platform infrastructure and architecture.</li>
+                <li>Development with NodeJS, Jest tests, MongoDB management, asynchronous programming with queues and RabbitMQ, advanced support of APIs, ElasticSearch, database migrations, DevOps and applications deployment.</li>
+                <li>Front-end features development for administrative dashboard web application of mobile application for resources management of a logistic company.</li>
+                <li>Front-end features development of web application with ReactJS interacting with mobile application and Firebase services.</li>
+                <li>Linux operating system, Docker, Google Cloud Platform, git, GitHub, MongoDB, RabbitMQ, ElasticSearch, NodeJS, Jest, Slack, Zoom, ReactJS, ReactNative, Jira, Notion, Monday, Scrum.</li>
+              </ul>
+            </div>
+          </div>
+          <div class='employment'>
+            <div class='employment-info'>
+              <div class='title'>
+                <a href='https://www.heinsohn.com.co/'>
+                  		Heinsohn Business Technology
+                  	</a>   Developer Engineer Junior Advanced 
+              </div>
+              <div class='duration'>
+                 Apr 2019   - Apr 2020 
+              </div>
+            </div>
+            <div class='info'>
+              <div class="summary">
+                We support our customers with IT solutions to the size of their needs.
+              </div>
+               
+              <ul class="list">
+                <li>Front-end development of a portal-type web application and dynamic administrative panel using the Angular 7 framework, use of the Material library for UX / UI interface components, consumption of APIs / endpoints / remote services.</li>
+                <li>Front-end development with the Angular framework of portal type application and administrative panel focused on patient management, clinics and medical data regarding blood sugar and insulin concentration.</li>
+                <li>Web development with the Angular framework of application type portal and administrative panel that interacts with API/backend services and with a mobile application that obtains the data supplied from a device that connects and transfers the data to the application.</li>
+                <li>Web development with Angular with an international team and advanced written and spoken English language management.</li>
+                <li>Web development with the Drupal 8 CMS for implementation of forms and data requests to external services/APIs/endpoints.</li>
+                <li>Web development with the Angular framework, JavaScript, HTML, CSS, Material.</li>
+                <li>Development using libraries for status management and RxJS functionalities.</li>
+                <li>Management of CVS git and BitBucket repositories.</li>
+                <li>Interaction with GCP (Google Cloud Platform) and GKE (Google Kubernetes Engine) cloud technologies.</li>
+                <li>Remote systems management using Microsoft Remote Desktop and VPNs technologies.</li>
+                <li>Use of Windows 10 Pro and Linux (Ubuntu) operating systems.</li>
+              </ul>
+            </div>
+          </div>
+          <div class='employment'>
+            <div class='employment-info'>
+              <div class='title'>
+                <a href='http://www.superlikers.com/'>
+                  		SuperLikers
+                  	</a>   Front-end developer 
+              </div>
+              <div class='duration'>
+                 Mar 2016   - Mar 2019 
+              </div>
+            </div>
+            <div class='info'>
+              <div class="summary">
+                Superlikers is an online platform to setup and manage 360 Fidelization Programs.
+              </div>
+               
+              <ul class="list">
+                <li>Migration, update and front-end development of web application kind of dynamic administrative panel using Angular framework in its recent versions (2, 4, 5, 6), Material library use for UX/UI interface components, consumption of remote API/endpoints/services.</li>
+                <li>Development and implementation of front-end features for a web application administrative panel kind using AngularJS framework.</li>
+                <li>Web development with AngularJS, Angular, JavaScript, jQuery, HTML, CSS, Material.</li>
+                <li>Git CVS, Unfuddle, BitBucket and GitHub repositories management.</li>
+                <li>Linux (Ubuntu) and Windows (7, 10) operating system management.</li>
+              </ul>
+            </div>
+          </div>
+          <div class='employment'>
+            <div class='employment-info'>
+              <div class='title'>
+                <a href='http://ignite.com.co/'>
+                  		Ignite Technologies
+                  	</a>   Full-stack developer 
+              </div>
+              <div class='duration'>
+                 Jun 2018   - Oct 2018 
+              </div>
+            </div>
+            <div class='info'>
+              <div class="summary">
+                We&#x27;re a colombian enterprise concerned with the design and development of innovation technologies, engineering and science products. Our focus is directed towards processes optimization based upon technology based solutions for our clients and users.
+              </div>
+               
+              <ul class="list">
+                <li>Migrate, develop and update a mobile application for food and restaurants services using the Ionic 4 framework for hybrid applications and consumption of remote API/endpoints/services.</li>
+                <li>Back-end features development to provide an administrative panel and API/endpoints/services to clients application consumption.</li>
+                <li>Mobile development with the Ionic 4 framework.</li>
+                <li>Back-end development with the Ruby on Rails framework.</li>
+                <li>PostgreSQL DataBase management.</li>
+                <li>Amazon services like EC2 instances and AMI, and S3 buckets.</li>
+                <li>Management of application servers like Unicorn and Passenger.</li>
+                <li>Git CVS and GitLab repositories management.</li>
+                <li>Linux (Ubuntu) and Windows (7, 10) operating system management.</li>
+              </ul>
+            </div>
+          </div>
+          <div class='employment'>
+            <div class='employment-info'>
+              <div class='title'>
+                <a href='http://www.mapalesoftware.com.co/'>
+                  		Mapalé Software
+                  	</a>   Developer 
+              </div>
+              <div class='duration'>
+                 Feb 2015   - Feb 2016 
+              </div>
+            </div>
+            <div class='info'>
+              <div class="summary">
+                We are a team of developers/designers/scientists/geeks who find their work very entertaining and thrilling. As a team, we develop software in different areas, with emphasis in web and mobile, but with experience in telephony projects, digital kiosks, enterprise applications, security systems, Artificial Intelligence, cryptography and even artistic installations.
+              </div>
+               
+              <ul class="list">
+                <li>Development and implementation of backend features using the Python language and the Django framework for a web application that manages subscriptions on a system and integrations with an external marketing service.</li>
+                <li>Development and implementation of backend features using NodeJS for a web application that coordinates chefs, bookings and in-house food services.</li>
+                <li>Development and implementation of features for a virtual store web application using ReactJS library and Redux framework for the frontend, and the Python language and Django framework for the backend and RESTful APIs.</li>
+                <li>Development and implementation of backend features for a web application that consumes, process and publish SOAP and REST WebServices or remote backend APIs over PHP technology.</li>
+                <li>Development and implementation of features for a virtual e-commerce clothing store using AngularJS framework for the frontend with PHP for the backend.</li>
+                <li>Development and implementation of features for a web application for reading and run smart quizes on published articles and lectures using AngularJS framework for the frontend with Ruby on Rails for the backend.</li>
+                <li>Web development with AngularJS framework, JavaScript, jQuery, HTML, CSS.</li>
+                <li>Basic handling of Silex, phinx, Doctrine frameworks, and Docker containers.</li>
+                <li>Web servers (Apache), and Postgres and MySQL databases management.</li>
+                <li>Git CVS, Bitbucket and GitHub repositories, and Heroku cloud PaaS management.</li>
+                <li>Linux operating system (Ubuntu) management.</li>
+              </ul>
+            </div>
+          </div>
+          <div class='employment'>
+            <div class='employment-info'>
+              <div class='title'>
+                <a href='https://kommit.co/'>
+                  		Kommit
+                  	</a>   Internet Developer 
+              </div>
+              <div class='duration'>
+                 May 2014   - Jan 2015 
+              </div>
+            </div>
+            <div class='info'>
+              <div class="summary">
+                We are a USA based company with roots in Latin-American. Our mission is to find and enable talented people in that region to work remotely with North American companies.
+              </div>
+               
+              <ul class="list">
+                <li>Development and implementation of back-end features for a tracing, compilation, tracking and recommendations of places, events and news of different cities web portal over Ruby on Rails technology.</li>
+                <li>Development and implementation of back-end features of a desktop application for doctors, patients and interactions management using a Google Chrome extension with AngularJS.</li>
+                <li>Memcached and Redis tools use.</li>
+                <li>MongoDB NoSQL databases management, and remote backend BaaS storage.</li>
+                <li>Web modeling with JavaScript, HTML, CSS.</li>
+                <li>Git CVS and GitHub repositories management.</li>
+                <li>Linux operating system (Ubuntu, Debian) management.</li>
+              </ul>
+            </div>
+          </div>
+          <div class='employment'>
+            <div class='employment-info'>
+              <div class='title'>
+                <a href='https://www.webdefamily.com/'>
+                  		Webde Development System
+                  	</a>   Programmer 
+              </div>
+              <div class='duration'>
+                 Jan 2014   - Mar 2014 
+              </div>
+            </div>
+            <div class='info'>
+              <div class="summary">
+                We connect your company with more clients through the internet. Marketing services focused on results.
+              </div>
+               
+              <ul class="list">
+                <li>Development and implementation of mobile app for contracts and employees management of funeral company using Appcelerator Titanium platform for mobile app development.</li>
+                <li>Development and implementation of backend API to consume, process and publish SOAP and REST WebServices over Ruby on Rails technology.</li>
+                <li>Development and implementation of web page with typical various entities management features for IT company over Ruby on Rails technology.</li>
+                <li>Web modeling with JavaScript, HTML, CSS.</li>
+                <li>Web servers and Postgres and MySQL databases management.</li>
+                <li>Git CVS, GitLab repositories, and Heroku cloud PaaS management.</li>
+                <li>Linux operating system (Ubuntu) management.</li>
+              </ul>
+            </div>
+          </div>
+          <div class='employment'>
+            <div class='employment-info'>
+              <div class='title'>
+                <a href='http://www.clinicasanfrancisco.com.co/'>
+                  		Clínica San Francisco S.A.
+                  	</a>   Systems Engineer 
+              </div>
+              <div class='duration'>
+                 Jul 2013   - Oct 2013 
+              </div>
+            </div>
+            <div class='info'>
+              <div class="summary">
+                Clínica San Francisco S.A. is a private institution offering high complexity healthcare services at the middle and north of Valle region (Tuluá, Valle del Cauca).
+              </div>
+               
+              <ul class="list">
+                <li>Development and implementation of modifications and new features of specialized healthcare services institution as is Clínica San Francisco S.A. at Tuluá, Valle del Cauca Information System.</li>
+                <li>Development and implementation of different activities focused on modify and/or add features of the SIIS (Sistema Integrado de Información en Salud) system working as web application and developed with PHP language.</li>
+                <li>PHP language web server side programming.</li>
+                <li>JavaScript/jQuery languages client side programming.</li>
+                <li>HTML/CSS web modeling.</li>
+                <li>Apache web server and Postgres database management.</li>
+                <li>NetBeans IDE use.</li>
+                <li>Subversion (svn) CVS and repositories management.</li>
+                <li>Linux operating system (Ubuntu, CentOS) management.</li>
+              </ul>
+            </div>
+          </div>
+          <div class='employment'>
+            <div class='employment-info'>
+              <div class='title'>
+                <a href='https://www.latinia.com/'>
+                  		Latinia Mobile Infrastructure
+                  	</a>   Analyst Developer 
+              </div>
+              <div class='duration'>
+                 Apr 2012   - Aug 2012 
+              </div>
+            </div>
+            <div class='info'>
+              <div class="summary">
+                Latinia is an independent software vendor (ISV), which specializes in infrastructure product development for asynchronous type financial notifications or push banking(mobile or instant messaging, email, Twitter’s DM, push notifications – Android &amp; Apple iOS), utilized mainly by leading and globally distributed financial institutions (banks, savings banks, processing and payment systems), public institutions government and service providers, distributing the same globally and acting as leaders in their respective segments and industries.
+              </div>
+               
+              <ul class="list">
+                <li>Projects implementation for both company clients as company internals; JaveEE platform usage and its JMS, JWS, etc. technologies and the respective support components stack (OS, web container, etc.).</li>
+                <li>Design and development of internal company platform to test and monitor send messages traffic with different properties (channel, attachments, quantity, intervals, etc.) using JEE platform and EJB technologies for server side, and JavaSE, JSP and Servlets technologies for test clients; work on CentOS 5 environment, Oracle 11g DB, Eclipse IDE, packaging and deployment Ant and Maven systems, and VMware Player VMs.</li>
+                <li>Implementation of sending e-mails features with and without attachments on a communications API used by financial entity using JEE platform and EJB technologies on server side, and JavaSE, JSP and Servlets technologies for test clients; work on CentOS 5 environment, Oracle 11g DB, Eclipse IDE, packaging and deployment Ant and Maven systems, and VMware Player VMs.</li>
+                <li>Development with platforms and technologies like JavaEE, EJB, JWS, JMS, JSP, Servlets, JavaSE.</li>
+                <li>Usage of Ant and Maven tools for software project management and general compilation automation, packaging and building.</li>
+                <li>WebLogic and JBoss web containers management.</li>
+                <li>Oracle 11g database management.</li>
+                <li>Eclipse IDE use.</li>
+                <li>Windows (7), Linux (CentOS), and Virtual Machines (VMs) with VMware Player operating systems management.</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </section>
+       
+      <section class='card'>
+        <div class='section-header'>Projects</div>
+        <div class='section-content' id='projects'>
+          <div class='project last'>
+            <div class='project-info'>
+              <div class='title'>Manizales-Dev is a community of local developers to build together an ecosystem around technology to bring support to individuals and organizations towards regional progress.</div>
+              <a class='content' href='http://manizales-dev.github.io/'>http://manizales-dev.github.io/</a>
+            </div>
+            <div class='info'>
+              <ul class="list">
+                <li>Participation on different meetup events organized.</li>
+                <li>Participation in NodeSchool International Day 2015 ( http://nodeschool.io/manizales/ ).</li>
+                <li>Participation in XIV Jornadas de Ingeniería, Tecnología e Innovación 2015 at Universidad de Caldas ( http://jornadas-ingenieria.gitir.co/ ).</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </section>
+           </div>
+  </div>
+</body>
+
+</html>
