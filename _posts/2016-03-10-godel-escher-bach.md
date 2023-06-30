@@ -550,6 +550,8 @@ Ya hemos hablado del término análogo a los fagos que se autoanulan: a saber, l
 
 Se habla de *diferenciación* y *morfogénesis* celular, retroalimentación y prealimentación según condiciones celulares, las acciones de *inhibición* y *represión*, *represores* e *inductores* a nivel proteínico.
 
+Ya mencioné que un enunciado de Henkin no dice nada acerca de su propia derivación: sólo afirma que existe una.
+
 Tómese note de que la naturaleza, aparentemente, ¡*ama* la doble negación! Es probable que haya alguna razón profunda para ello.
 
 aminoácidos: triptófano, isoleucina.
@@ -1438,6 +1440,28 @@ Ya hemos visto que la dicotomía uso-mención, cuando es desarrollada, se transf
 Creo que el proceso de arribar a la comprensión de la demostración de Gödel, con su construcción que abarca códigos arbitrarios, isomorfismos complejos, niveles altos y bajos de interpretación, y la capacidad de autorreflejo, puede insuflar ciertas resonancias y corrientes subterráneas dentro de un conjunto de imágenes relativas a los símbolos, y a su procesamiento, que harán posible la profundización de las intuiciones referidas a las relaciones existentes entre las estructuras mentales de los diferentes niveles.
 
 La cuestión central es que no pueden existir razones *fundamentales* (esto es, gödelianas) que hagan de tales cualidades algo incomprensible.
+
+La demostración de Gödel nos aporta el criterio de que una perspectiva de alto nivel de un sistema puede contener potencialidades explicativas que, simplemente, están ausentes en los niveles más bajos.
+
+Quien carezca de una visión panorámica de TNT no entenderá por qué no puede conseguir que G se ajuste a las reglas, a pesar de que, en tanto que proposición aritmética, no parece contener nada inusual.
+
+El único medio para explicar la no teoremidad de G es descubrir la noción de numeración Gödel, y observar a TNT en un nivel enteramente diferente. ... En el alto nivel existe un género de poder explicativo que lisa y llanamente falta, en principio, en el nivel TNT. La no teoremidad de G es, por decir así, un *hecho intrínseco de alto nivel*.
+
+Sospecho que tal es el caso con respecto a *todas* las proposiciones indecidibles; es decir: todas las proposiciones indecidibles son, en rigor, un enunciado Gödel, que afirma su propia no teoremidad en cierto sistema y a través de cierto código.
+
+Esto significa que determinados hechos podrían ser explicados sin ninguna dificultad en el alto nivel, pero no podrían ser explicados de *ningún modo* en los niveles más bajos; por muy extensa y laboriosamente que fuese formulado un enunciado de bajo nivel, no explicaría el fenómeno en cuestión.
+
+En consecuencia, tal vez aquellas cualidades sean "emergentes", en el sentido de que requieren interpretaciones que no pueden ser provistas exclusivamente por la fisiología.
+
+Esa explicación tiene su eje en la comprensión no de un nivel por vez, sino de la forma en la cual un nivel refleja su metanivel, y de las consecuencia de tal reflejamiento. Si nuestra analogía se justifica, los fenómenos "emergentes" llegarán a ser explicables en términos de una relación entre diferentes niveles de los sistemas mentales.
+
+En otras palabras, una "resonancia" de refuerzo recíproco entre los diferentes niveles.
+
+El yo se constituye como tal en el momento en que adquiere la facultad de reflejarse a sí mismo.
+
+Este acto de traducir el hardware físico de bajo nivel al software psicológico de alto nivel tiene analogía con la traducción de enunciados teórico-numéricos a enunciados metamatemáticos.
+
+Recordemos que el cruce de niveles que tiene lugar en este punto exacto de la traducción es lo que origina la incompletitud de Gödel, y también el carácter autodemostrativo del enunciado de Henkin.
 
 
 ### <span id="notas">[Notas](#notas)</span>
