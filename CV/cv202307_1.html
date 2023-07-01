@@ -1,0 +1,2449 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, user-scalable=no, minimal-ui">
+		<title>Daniel Benítez Restrepo</title>
+		<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+		<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+		<style>
+		body {
+  background: #D2D4D3;
+  font: 15px Arial, Helvetica, sans-serif;
+  line-height: 1.4;
+  color: #929292;
+}
+
+.container {
+  margin: 0 auto;
+  padding: 10%;
+}
+
+#resume {
+  border-radius: 5px;
+  border: 1px solid #C7C7C7;
+  overflow: hidden;
+}
+
+section {
+  margin-bottom: 5rem;
+}
+
+[class^="section-"] > .title {
+  text-transform: uppercase;
+  padding: 15px 0;
+  margin: 0;
+}
+
+[class^="section-"] > .title .title-icon,
+[class^="section-"] > .title span {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+[class^="section-"] > .title span {
+  margin-left: 2px;
+}
+
+[class^="section-"] > .title .title-icon {
+  background-color: whitesmoke;
+  border-radius: 50%;
+  width: 2rem;
+  height: 2rem;
+  padding: 0.4rem 0.45rem;
+}
+
+/* Sidebar */
+.sidebar {
+  padding: 2rem;
+  background: #E6EAED !important;
+  margin-bottom: -99999px;
+  padding-bottom: 99999px;
+}
+
+.sidebar, .sidebar h1 {
+  color: #656567 !important;
+}
+
+
+.sidebar h2 {
+  color: #ffffff;
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 1.5rem;
+  letter-spacing: 0.5rem;
+  font-weight: bold;
+  margin-bottom: 1rem !important;
+  background: #646466;
+  padding: 0.5rem 0.5rem 0.5rem 0.5rem !important;
+}
+
+.avatar {
+  margin: 5rem 0;
+  text-align: center;
+}
+
+.avatar img {
+  width: 90%;
+}
+
+.section-education .item {
+  margin-bottom: 3rem;
+  text-align: center;
+}
+
+.section-education .studyTitle {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 1.3rem;
+}
+.section-education .courses {
+  font-size: 1.2rem;
+}
+.section-education ul.courses {
+  list-style-type: none;
+  margin: 0.5rem 0 0.5rem 0;
+  padding: 0;
+}
+
+.section-education .ul.courses li {
+  margin:0;
+}
+
+.section-education .institution {
+  font-size: 1.2rem;
+}
+
+.section-education .date {
+  font-size: 1.2rem;
+}
+
+.sidebar a:link, .sidebar a:hover, .sidebar a:visited {
+  text-decoration: none;
+  color: #ffffff !important;
+}
+
+/* Content */
+.content {
+  padding: 0 5rem 0 5rem;
+  padding-bottom: 0px;
+  background: #FFFFFF;
+  margin-bottom: -99999px;
+  padding-bottom: 99999px;
+}
+
+.content h1 {
+  color: #3C3C3C;
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 4rem;
+  letter-spacing: 1.0rem;
+  font-weight: bold;
+}
+
+.content h2 {
+    color: #646466;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 1.5rem;
+    letter-spacing: 0.5rem;
+    font-weight: bold;
+    margin-bottom: 1rem !important;
+    background: #E6EAED;
+    padding: 0.5rem 0.5rem 0.5rem 0.5rem !important;
+}
+
+.content a:link, .content a:hover, .content a:visited {
+  text-decoration: none;
+  color: #6D6D6D;
+}
+
+/* Sections */
+.section-name {
+  margin: 0rem 0 5rem 0;
+  background: #E6EAED;
+  padding: 6rem 0 4rem 0;
+}
+
+.section-name h2 {
+  color: #6D6D6D;
+  text-transform: unset;
+  text-align: center;
+  font-size: 1.5rem;
+  letter-spacing: 0.5rem;
+  font-weight: bold;
+  margin-top: 5rem;
+  background: none;
+}
+
+.section-summary {
+  text-align: justify;
+}
+
+.section-work .item {
+  margin-bottom: 2.5rem;
+}
+
+.section-work .item .position {
+  font-weight: bold;
+  color: #252324;
+  text-transform: uppercase;
+}
+
+.section-work .item .company {
+    padding: 0.5rem 0 0.5rem 0;
+    color: #605E5F;
+    font-weight: bold;
+}
+
+.section-work .item .summary, .section-work .item .highlights {
+    font-style: italic;
+    text-align: justify;
+}
+
+.section-volunteer .item {
+  margin-bottom: 2.5rem;
+}
+
+.section-volunteer .item .position {
+  font-weight: bold;
+  color: #252324;
+  text-transform: uppercase;
+}
+
+.section-volunteer .item .company {
+    padding: 0.5rem 0 0.5rem 0;
+    color: #6D6D6D;
+    font-weight: bold;
+}
+
+.section-volunteer .item .summary, .section-volunteer .item .highlights {
+    font-style: italic;
+    text-align: justify;
+}
+
+
+.section-publications .item {
+  margin-bottom: 2.5rem;
+}
+
+.section-publications .item .name {
+  font-weight: bold;
+  color: #252324;
+  text-transform: uppercase;
+}
+
+.section-publications .item .publication {
+    padding: 0.5rem 0 0.5rem 0;
+    color: #6D6D6D;
+    font-weight: bold;
+}
+
+.section-publications .item .summary, .section-publications .item .highlights {
+    font-style: italic;
+    text-align: justify;
+}
+
+
+.section-awards .item .title {
+  font-weight: bold;
+  color: #252324;
+}
+
+.section-awards .item .date, .section-awards .item .awarder {
+  font-weight: normal;
+  color: #929292;
+}
+
+.section-awards .item .summary {
+  font-weight: normal;
+  font-style: italic;
+  text-align: justify;
+}
+
+.section-languages .item .language {
+  font-weight: bold;
+  color: #252324;
+}
+
+.section-languages .item .fluency {
+  font-weight: normal;
+  color: #929292;
+}
+
+.section-interests .title {
+  font-weight: bold;
+}
+
+.section-interests .item {
+  margin: 0.8rem 0 0.8rem 0;
+  line-height: 1.9rem;
+}
+
+.section-skills .item {
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+
+.section-contact .fa {
+  padding: 0.8rem 0 0 0;
+  color: #646466;
+  text-align: center;
+  display: block;
+  margin: 0 auto 0.8rem auto;
+}
+
+
+.section-contact ul.contact {
+  list-style-type: none;
+  margin: 0.5rem 0 0.5rem 0;
+  padding: 0;
+}
+
+.section-contact ul.contact li {
+  margin: 1rem 0 1rem 0;
+  text-align: center;
+}
+
+.section-contact ul.profiles {
+  list-style-type: none;
+  margin: 4rem 0 0.5rem 0;
+  padding: 0;
+}
+
+.section-contact ul.profiles li {
+  margin: 1rem 0 1rem 0;
+}
+
+.section-contact ul li span {
+    text-align: center;
+    display: inherit;
+}
+
+/* Print */
+@media print {
+  *, :after, :before{
+    color: #646466 !important;
+  }
+  body {
+    font: 10px Arial, Helvetica, sans-serif;
+    line-height: 1.4;
+    color: #929292 !important;
+  }
+
+  .container {
+    margin: 0 auto;
+    padding: 0;
+  }
+
+  #resume {
+    overflow: hidden;
+    border: none !important;
+  }
+
+  section {
+    margin-bottom: 5rem;
+  }
+
+  [class^="section-"] > .title {
+    text-transform: uppercase;
+    padding: 15px 0;
+    margin: 0;
+  }
+
+  [class^="section-"] > .title .title-icon,
+  [class^="section-"] > .title span {
+    display: inline-block;
+    vertical-align: middle;
+  }
+
+  [class^="section-"] > .title span {
+    margin-left: 2px;
+  }
+
+  [class^="section-"] > .title .title-icon {
+    background-color: whitesmoke;
+    border-radius: 50%;
+    width: 2rem;
+    height: 2rem;
+    padding: 0.4rem 0.45rem;
+  }
+
+  /* Sidebar */
+  .sidebar {
+    padding: 2rem 2rem 2rem 3rem;
+    background: #E6EAED !important;
+    margin-bottom: -99999px;
+    padding-bottom: 99999px;
+  }
+
+  .sidebar, .sidebar h1 {
+    color: #656567 !important;
+  }
+
+
+  .sidebar h2 {
+    color: #ffffff !important;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 1.5rem;
+    letter-spacing: 0.5rem;
+    font-weight: bold;
+    margin-bottom: 1rem !important;
+    background: #646466 !important;
+    padding: 0.5rem 0.5rem 0.5rem 0.5rem !important;
+  }
+
+  .sidebar h2 span{
+    color: #ffffff !important;
+  }
+
+  .avatar {
+    margin: 5rem 0;
+    text-align: center;
+  }
+
+  .avatar img {
+    width: 90%;
+  }
+
+  .section-education .item {
+    margin-bottom: 3rem;
+    text-align: center;
+  }
+
+  .section-education .studyTitle {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 1.3rem;
+  }
+  .section-education .courses {
+    font-size: 1.2rem;
+  }
+  .section-education ul.courses {
+    list-style-type: none;
+    margin: 0.5rem 0 0.5rem 0;
+    padding: 0;
+  }
+
+  .section-education .ul.courses li {
+    margin:0;
+  }
+
+  .section-education .institution {
+    font-size: 1.2rem;
+  }
+
+  .section-education .date {
+    font-size: 1.2rem;
+  }
+
+  .sidebar a:link, .sidebar a:hover, .sidebar a:visited {
+    text-decoration: none;
+    color: #ffffff !important;
+  }
+
+  .sidebar .section-skills .keywords span.label{
+    display: inline-block !important;
+    margin-bottom: 0.3rem !important;
+  }
+
+  /* Content */
+  .content {
+    padding: 0 3rem 0 2rem;
+    padding-bottom: 0px;
+    background: #FFFFFF;
+    margin-bottom: -99999px;
+    padding-bottom: 99999px;
+  }
+
+  .content h1 {
+    color: #3C3C3C;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 4rem;
+    letter-spacing: 1.0rem;
+    font-weight: bold;
+  }
+
+  .content h2 {
+      color: #646466 !important;
+      text-transform: uppercase;
+      text-align: center;
+      font-size: 1.5rem !important;
+      letter-spacing: 0.5rem;
+      font-weight: bold;
+      margin-bottom: 1rem !important;
+      background: #E6EAED !important;
+      padding: 0.5rem 0.5rem 0.5rem 0.5rem !important;
+  }
+
+  .content a:link, .content a:hover, .content a:visited {
+    text-decoration: none;
+    color: #6D6D6D;
+  }
+
+  /* Sections */
+  .section-name {
+    margin: 0rem 0 5rem 0 !important;
+    background: #E6EAED !important;
+    padding: 6rem 0 4rem 0 !important;
+  }
+
+  .section-name h1 {
+    font-size: 2.8rem !important;
+    font-weight: bold !important;
+  }
+
+  .section-name h2 {
+    color: #6D6D6D !important;
+    text-transform: capitalize;
+    text-align: center;
+    font-size: 1.5rem !important;
+    letter-spacing: 0.5rem;
+    font-weight: bold;
+    margin-top: 5rem;
+    background: none;
+  }
+
+  .section-summary {
+    text-align: justify;
+  }
+
+  .section-work .item {
+    margin-bottom: 2.5rem;
+  }
+
+  .section-work .item .position {
+    font-weight: bold;
+    color: #252324;
+    text-transform: uppercase;
+  }
+
+  .section-work .item .company {
+      padding: 0.5rem 0 0.5rem 0;
+      color: #605E5F;
+      font-weight: bold;
+  }
+
+  .section-work .item .summary, .section-work .item .highlights {
+      font-style: italic;
+      text-align: justify;
+  }
+
+  .section-volunteer .item {
+    margin-bottom: 2.5rem;
+  }
+
+  .section-volunteer .item .position {
+    font-weight: bold;
+    color: #252324;
+    text-transform: uppercase;
+  }
+
+  .section-volunteer .item .company {
+      padding: 0.5rem 0 0.5rem 0;
+      color: #6D6D6D;
+      font-weight: bold;
+  }
+
+  .section-volunteer .item .summary, .section-volunteer .item .highlights {
+      font-style: italic;
+      text-align: justify;
+  }
+
+
+  .section-publications .item {
+    margin-bottom: 2.5rem;
+  }
+
+  .section-publications .item .name {
+    font-weight: bold;
+    color: #252324;
+    text-transform: uppercase;
+  }
+
+  .section-publications .item .publication {
+      padding: 0.5rem 0 0.5rem 0;
+      color: #6D6D6D;
+      font-weight: bold;
+  }
+
+  .section-publications .item .summary, .section-publications .item .highlights {
+      font-style: italic;
+      text-align: justify;
+  }
+
+
+  .section-awards .item .title {
+    font-weight: bold;
+    color: #252324;
+  }
+
+  .section-awards .item .date, .section-awards .item .awarder {
+    font-weight: normal;
+    color: #929292;
+  }
+
+  .section-awards .item .summary {
+    font-weight: normal;
+    font-style: italic;
+    text-align: justify;
+  }
+
+  .section-languages .item .language {
+    font-weight: bold;
+    color: #252324;
+  }
+
+  .section-languages .item .fluency {
+    font-weight: normal;
+    color: #929292;
+  }
+
+  .section-interests .title {
+    font-weight: bold;
+  }
+
+  .section-interests .item {
+    margin: 0.8rem 0 0.8rem 0;
+    line-height: 1.9rem;
+  }
+
+  .section-skills .item {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+
+
+  .section-contact .fa {
+    padding: 0.8rem 0 0 0;
+    color: #646466 !important;
+    text-align: center;
+    display: block;
+    margin: 0 auto 0.8rem auto;
+  }
+
+
+  .section-contact ul.contact {
+    list-style-type: none;
+    margin: 0.5rem 0 0.5rem 0;
+    padding: 0;
+  }
+
+  .section-contact ul.contact li {
+    margin: 1rem 0 1rem 0;
+    text-align: center;
+  }
+
+  .section-contact ul.profiles {
+    list-style-type: none;
+    margin: 4rem 0 0.5rem 0;
+    padding: 0;
+  }
+
+  .section-contact ul.profiles li {
+    margin: 1rem 0 1rem 0;
+  }
+
+  .section-contact ul li span {
+      text-align: center;
+      display: inherit;
+  }
+}
+
+		</style>
+	</head>
+	<body>
+
+		<div class="container">
+			<div class="row" id="resume">
+				<div class="col-xs-4 sidebar">
+					    <section class="section-basic">
+					            <div class="avatar">
+					                <img src="https://da8y01.github.io/gh-blog/public/picture202201_1.jpeg" alt="Daniel Benítez Restrepo" class="img-circle">
+					            </div>
+					    </section>
+					    <section class="section-contact">
+					        <h2 class="title">
+					            <span class="">Contact</span>
+					        </h2>
+					        <ul class="contact">
+					                <li class="icon-item clearfix">
+					                    <i class="fa fa-2x fa-map-marker"></i>
+					                    2712 Circunvalar Av
+					                        BOG 170001
+					                        Bogotá
+					                        Cundinamarca
+					                        CO
+					                </li>
+					                <li class="icon-item clearfix">
+					                    <i class="fa fa-2x fa-envelope "></i>
+					                    danielbenitezr@yahoo.com
+					                </li>
+					                <li class="icon-item clearfix">
+					                    <i class="fa fa-2x fa-phone "></i>
+					                    (+57) 300 000 0000
+					                </li>
+					                <li class="icon-item clearfix">
+					                    <i class="fa fa-2x fa-link "></i>
+					                    https://da8y01.github.io/gh-blog/public/cv202307_1.html
+					                </li>
+					        </ul>
+					            <ul class="profiles">
+					                    <li class="icon-item clearfix">
+					                        <i class="fa fa-2x fa-linkedin "></i>
+					                        <span>https://www.linkedin.com/ in/ daniel-b-3b070990/ </span>
+					                    </li>
+					                    <li class="icon-item clearfix">
+					                        <i class="fa fa-2x fa-github "></i>
+					                        <span>https://github.com/ da8y01</span>
+					                    </li>
+					                    <li class="icon-item clearfix">
+					                        <i class="fa fa-2x fa-bitbucket "></i>
+					                        <span>https://bitbucket.org/ 01ring</span>
+					                    </li>
+					                    <li class="icon-item clearfix">
+					                        <i class="fa fa-2x fa-gitlab "></i>
+					                        <span>https://gitlab.com/ da8y01</span>
+					                    </li>
+					            </ul>
+					    </section>
+					<section class="section-education">
+						<h2 class="title">
+						    <span class="">Education</span>
+						</h2>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Professional Career
+								</span>
+								<span class="area">
+									Computation and Systems Engineering
+								</span>
+							</div>
+							<div class="institution">
+								Universidad de Caldas
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2004
+								</span>
+								<span class="endDate">
+									- 2013
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Virtual Course
+								</span>
+								<span class="area">
+									Design and construction of indicators (2023-I A-23)
+								</span>
+							</div>
+							<div class="institution">
+								National Administrative Department of Statistics - DANE
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2023
+								</span>
+								<span class="endDate">
+									- 2023
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Virtual Course
+								</span>
+								<span class="area">
+									Configuration of administrative records for statistical use (2023-I A-23)
+								</span>
+							</div>
+							<div class="institution">
+								National Administrative Department of Statistics - DANE
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2023
+								</span>
+								<span class="endDate">
+									- 2023
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Virtual Training
+								</span>
+								<span class="area">
+									Environmental Research Week
+								</span>
+							</div>
+							<div class="institution">
+								Environmental Institute GIS
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2022
+								</span>
+								<span class="endDate">
+									- 2022
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Online Conference
+								</span>
+								<span class="area">
+									PyCon Colombia 2022 Online Conference
+								</span>
+							</div>
+							<div class="institution">
+								PyCon Colombia
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2022
+								</span>
+								<span class="endDate">
+									- 2022
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Virtual Course
+								</span>
+								<span class="area">
+									Engineering Practices for Building Quality Software
+								</span>
+							</div>
+							<div class="institution">
+								University of Minnesota
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2021
+								</span>
+								<span class="endDate">
+									- 2021
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Virtual Course
+								</span>
+								<span class="area">
+									2312659 - Special course on Bar and Table Basics
+								</span>
+							</div>
+							<div class="institution">
+								Course offered by Servicio Nacional de Aprendizaje SENA
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2021
+								</span>
+								<span class="endDate">
+									- 2021
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Classroom Course
+								</span>
+								<span class="area">
+									Course 22 Introduction to Graphic Computation and Scientific Visualization
+								</span>
+							</div>
+							<div class="institution">
+								BIOS (Bioinformatics and Computational Biology Center of Colombia)
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2017
+								</span>
+								<span class="endDate">
+									- 2017
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Virtual Course
+								</span>
+								<span class="area">
+									Xamarin Diplomado | Intermediate level
+								</span>
+							</div>
+							<div class="institution">
+								Microsoft Developer Readiness
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2017
+								</span>
+								<span class="endDate">
+									- 2017
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Virtual Course
+								</span>
+								<span class="area">
+									Parallel programming
+								</span>
+							</div>
+							<div class="institution">
+								École Polytechnique Fédérale de Lausanne
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2016
+								</span>
+								<span class="endDate">
+									- 2017
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Virtual Course
+								</span>
+								<span class="area">
+									Machine Learning: Regression
+								</span>
+							</div>
+							<div class="institution">
+								University of Washington
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2016
+								</span>
+								<span class="endDate">
+									- 2016
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Virtual Course
+								</span>
+								<span class="area">
+									Functional Program Design in Scala
+								</span>
+							</div>
+							<div class="institution">
+								École Polytechnique Fédérale de Lausanne
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2016
+								</span>
+								<span class="endDate">
+									- 2016
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Virtual Course
+								</span>
+								<span class="area">
+									Functional Programming Principles in Scala
+								</span>
+							</div>
+							<div class="institution">
+								École Polytechnique Fédérale de Lausanne
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2016
+								</span>
+								<span class="endDate">
+									- 2016
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Virtual Course
+								</span>
+								<span class="area">
+									1212959 - English Dot Works 1
+								</span>
+							</div>
+							<div class="institution">
+								Course offered by Servicio Nacional de Aprendizaje SENA
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2016
+								</span>
+								<span class="endDate">
+									- 2016
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Virtual Course
+								</span>
+								<span class="area">
+									1165235 - English Dot Works Beginner
+								</span>
+							</div>
+							<div class="institution">
+								Course offered by Servicio Nacional de Aprendizaje SENA
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2016
+								</span>
+								<span class="endDate">
+									- 2016
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Virtual Course
+								</span>
+								<span class="area">
+									HTML, CSS and JavaScript
+								</span>
+							</div>
+							<div class="institution">
+								The Hong Kong University of Science and Technology
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2016
+								</span>
+								<span class="endDate">
+									- 2016
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Virtual Course
+								</span>
+								<span class="area">
+									Machine Learning Foundations: A Case Study Approach
+								</span>
+							</div>
+							<div class="institution">
+								Universidad de Washington
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2015
+								</span>
+								<span class="endDate">
+									- 2015
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Virtual Course
+								</span>
+								<span class="area">
+									Responsive Website Basics: Code with HTML, CSS, and JavaScript
+								</span>
+							</div>
+							<div class="institution">
+								University of London &amp; Goldsmiths, University of London
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2015
+								</span>
+								<span class="endDate">
+									- 2015
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Curso Virtual
+								</span>
+								<span class="area">
+									The Data Scientist Toolbox
+								</span>
+							</div>
+							<div class="institution">
+								Johns Hopkins University
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2015
+								</span>
+								<span class="endDate">
+									- 2015
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Virtual Course
+								</span>
+								<span class="area">
+									Cryptography I
+								</span>
+							</div>
+							<div class="institution">
+								Stanford University
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2015
+								</span>
+								<span class="endDate">
+									- 2015
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Virtual Course
+								</span>
+								<span class="area">
+									M101P: MongoDB for Developers
+								</span>
+							</div>
+							<div class="institution">
+								MongoDB University
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2014
+								</span>
+								<span class="endDate">
+									- 2014
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Virtual Course
+								</span>
+								<span class="area">
+									Web Application Architectures
+								</span>
+							</div>
+							<div class="institution">
+								University of New Mexico
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2014
+								</span>
+								<span class="endDate">
+									- 2014
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Virtual Course
+								</span>
+								<span class="area">
+									M101JS: MongoDB for Node.js Developers
+								</span>
+							</div>
+							<div class="institution">
+								MongoDB University
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2014
+								</span>
+								<span class="endDate">
+									- 2014
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Virtual Course
+								</span>
+								<span class="area">
+									M101J: MongoDB for Java Developers
+								</span>
+							</div>
+							<div class="institution">
+								MongoDB University
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2014
+								</span>
+								<span class="endDate">
+									- 2014
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Classroom Course
+								</span>
+								<span class="area">
+									42914 - Humanization of the Health Service
+								</span>
+							</div>
+							<div class="institution">
+								Clínica San Francisco S.A.
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2013
+								</span>
+								<span class="endDate">
+									- 2013
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Classroom Course
+								</span>
+								<span class="area">
+									Mobile Devices Development on ANDROID
+								</span>
+							</div>
+							<div class="institution">
+								Manizales Vive Digital program ran by PeopleContact S.A.
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2012
+								</span>
+								<span class="endDate">
+									- 2012
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Classroom Course
+								</span>
+								<span class="area">
+									BPO SQL/Oracle
+								</span>
+							</div>
+							<div class="institution">
+								Manizales Vive Digital program ran by PeopleContact S.A.
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2012
+								</span>
+								<span class="endDate">
+									- 2012
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Classroom Course
+								</span>
+								<span class="area">
+									BPO .NET
+								</span>
+							</div>
+							<div class="institution">
+								Manizales Vive Digital program ran by PeopleContact S.A.
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2011
+								</span>
+								<span class="endDate">
+									- 2012
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Classroom Course
+								</span>
+								<span class="area">
+									BPO Java
+								</span>
+							</div>
+							<div class="institution">
+								Manizales Vive Digital program ran by PeopleContact S.A.
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2011
+								</span>
+								<span class="endDate">
+									- 2012
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Virtual Course
+								</span>
+								<span class="area">
+									Ethical Hacking free course
+								</span>
+							</div>
+							<div class="institution">
+								MKit IT &amp; Security Solutions
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2012
+								</span>
+								<span class="endDate">
+									- 2012
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Classroom Course
+								</span>
+								<span class="area">
+									329366 - Information Systems Development using Java EE platform
+								</span>
+							</div>
+							<div class="institution">
+								Course offered by SENA under the auspices of PeopleContact S.A.
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2012
+								</span>
+								<span class="endDate">
+									- 2012
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Classroom Course
+								</span>
+								<span class="area">
+									322340 - BPO Databases with MySQL
+								</span>
+							</div>
+							<div class="institution">
+								Course offered by SENA under the auspices of PeopleContact S.A.
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2012
+								</span>
+								<span class="endDate">
+									- 2012
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Virtual Course
+								</span>
+								<span class="area">
+									21730030 - Web design with Adobe Dreamweaver CS3
+								</span>
+							</div>
+							<div class="institution">
+								Course offered by Servicio Nacional de Aprendizaje SENA
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2011
+								</span>
+								<span class="endDate">
+									- 2011
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Virtual Course
+								</span>
+								<span class="area">
+									21720038 - Using Adobe Photoshop CS3
+								</span>
+							</div>
+							<div class="institution">
+								Course offered by Servicio Nacional de Aprendizaje SENA
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2011
+								</span>
+								<span class="endDate">
+									- 2011
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Virtual Course
+								</span>
+								<span class="area">
+									21730134 - Mobile Devices Programming (MDP)
+								</span>
+							</div>
+							<div class="institution">
+								Course offered by Servicio Nacional de Aprendizaje SENA
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2011
+								</span>
+								<span class="endDate">
+									- 2011
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Virtual Course
+								</span>
+								<span class="area">
+									Microsoft Five Stars Developer Level 5
+								</span>
+							</div>
+							<div class="institution">
+								Training program from Microsoft developers community
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2011
+								</span>
+								<span class="endDate">
+									- 2011
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Virtual Course
+								</span>
+								<span class="area">
+									12210039 - English Discoveries - Basic III
+								</span>
+							</div>
+							<div class="institution">
+								Course offered by Servicio Nacional de Aprendizaje SENA
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2010
+								</span>
+								<span class="endDate">
+									- 2010
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Virtual Course
+								</span>
+								<span class="area">
+									12210037 - English Discoveries - Basic I
+								</span>
+							</div>
+							<div class="institution">
+								Course offered by Servicio Nacional de Aprendizaje SENA
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2010
+								</span>
+								<span class="endDate">
+									- 2010
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Virtual Course
+								</span>
+								<span class="area">
+									52410017 - Flash - 2D Animation
+								</span>
+							</div>
+							<div class="institution">
+								Course offered by Servicio Nacional de Aprendizaje SENA
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2010
+								</span>
+								<span class="endDate">
+									- 2010
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Classroom Workshop
+								</span>
+								<span class="area">
+									AJAX use on ASP.NET
+								</span>
+							</div>
+							<div class="institution">
+								ExpoASI 2009 (Universidad Nacional)
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2009
+								</span>
+								<span class="endDate">
+									- 2009
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Virtual Course
+								</span>
+								<span class="area">
+									Web development with Ruby on Rails
+								</span>
+							</div>
+							<div class="institution">
+								time4code Training
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2009
+								</span>
+								<span class="endDate">
+									- 2009
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Classroom Workshop
+								</span>
+								<span class="area">
+									DNN (DotNetNuke) and jQuery on the Web (Workshop)
+								</span>
+							</div>
+							<div class="institution">
+								Microsoft Installation Festival 2009 (Universidad de Caldas)
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2009
+								</span>
+								<span class="endDate">
+									- 2009
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Classroom Workshop
+								</span>
+								<span class="area">
+									Microsoft Installation Festival
+								</span>
+							</div>
+							<div class="institution">
+								Universidad de Caldas
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2009
+								</span>
+								<span class="endDate">
+									- 2009
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Course-Classroom Workshop
+								</span>
+								<span class="area">
+									Web oriented programming with .NET Basic seminar
+								</span>
+							</div>
+							<div class="institution">
+								X Engineering Days from Universidad de Caldas
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2008
+								</span>
+								<span class="endDate">
+									- 2008
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Classroom Course
+								</span>
+								<span class="area">
+									Linux first level
+								</span>
+							</div>
+							<div class="institution">
+								University of Manizales
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2001
+								</span>
+								<span class="endDate">
+									- 2001
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Congress
+								</span>
+								<span class="area">
+									GNU/Linux Congress Eje Cafetero
+								</span>
+							</div>
+							<div class="institution">
+								University of Manizales
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2001
+								</span>
+								<span class="endDate">
+									- 2001
+								</span>
+							</div>
+						</div>
+					</section>
+					<section class="section-skills">
+						<h2 class="title">
+						    <span class="">Skills</span>
+						</h2>
+						<div class="item">
+							<div class="name">
+								Programming
+							</div>
+							<div class="keywords">
+								<span class="label label-default">Ruby</span>
+								<span class="label label-default">Python</span>
+								<span class="label label-default">Java</span>
+								<span class="label label-default">JavaScript</span>
+								<span class="label label-default">C</span>
+								<span class="label label-default">C++</span>
+								<span class="label label-default">C#</span>
+								<span class="label label-default">VisualBasic</span>
+								<span class="label label-default">assembler</span>
+								<span class="label label-default">bash</span>
+								<span class="label label-default">PowerShell</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="name">
+								Web
+							</div>
+							<div class="keywords">
+								<span class="label label-default">Rails</span>
+								<span class="label label-default">Django</span>
+								<span class="label label-default">PHP</span>
+								<span class="label label-default">NodeJS</span>
+								<span class="label label-default">AngularJS</span>
+								<span class="label label-default">Angular</span>
+								<span class="label label-default">ReactJS</span>
+								<span class="label label-default">Servlets/JSP/EJB</span>
+								<span class="label label-default">.NET</span>
+								<span class="label label-default">JavaScript</span>
+								<span class="label label-default">HTML</span>
+								<span class="label label-default">CSS</span>
+								<span class="label label-default">CoffeeScript</span>
+								<span class="label label-default">HAML</span>
+								<span class="label label-default">SAAS</span>
+								<span class="label label-default">Frameworks PHP: Yii, Cake, Symfony, Silex, CodeIgniter, Zend</span>
+								<span class="label label-default">CMS: WordPress, Joomla, Drupal, PHPNuke, phpWebSite, DotNetNuke</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="name">
+								Databases
+							</div>
+							<div class="keywords">
+								<span class="label label-default">MySQL</span>
+								<span class="label label-default">Postgres</span>
+								<span class="label label-default">SQL Server</span>
+								<span class="label label-default">Oracle</span>
+								<span class="label label-default">MongoDB</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="name">
+								Mobile
+							</div>
+							<div class="keywords">
+								<span class="label label-default">Android</span>
+								<span class="label label-default">Ionic</span>
+								<span class="label label-default">Appcelerator Titanium</span>
+								<span class="label label-default">Java ME</span>
+								<span class="label label-default">BlackBerry</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="name">
+								Operating Systems
+							</div>
+							<div class="keywords">
+								<span class="label label-default">Linux</span>
+								<span class="label label-default">Windows</span>
+								<span class="label label-default">VMs and virtualization (VMware, VirtualBox, Hyper-V, KVM, LXC)</span>
+								<span class="label label-default">Docker containers</span>
+								<span class="label label-default">CVSs y repositories (git, subversion, GitHub, BitBucket, GitLab, Unfuddle)</span>
+								<span class="label label-default">Cloud services (Amazon EC2, GCP, GKE, Microsoft Azure)</span>
+								<span class="label label-default">PaaS</span>
+								<span class="label label-default">IaaS (Heroku, Hasura, Docker Hub, Amazon, Azure)</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="name">
+								General IT
+							</div>
+							<div class="keywords">
+								<span class="label label-default">networking</span>
+								<span class="label label-default">algorithmics</span>
+								<span class="label label-default">offimatic</span>
+								<span class="label label-default">architecture</span>
+								<span class="label label-default">patterns</span>
+								<span class="label label-default">electronics</span>
+								<span class="label label-default">management</span>
+							</div>
+						</div>
+					</section>
+				</div>
+				<div class="col-xs-8 content">
+						<section class="section-name">
+							<h1>Daniel Benítez Restrepo</h1>
+							<h2>Computation and Systems Engineer, MP: 17950-259048 CLD</h2>
+						</section>
+						<section class="section-summary">
+							<h2 class="title">
+							    <span class="">Summary</span>
+							</h2>
+							I&#x27;m a Computation and Systems Engineer from Universidad de Caldas (Manizales-Colombia). I&#x27;m an intellectual man who likes culture, science and arts. I adapt myself with ease to the circumstances, I&#x27;m a compromised, accomplished and responsible person when activities to carry out have been assigned, and my intellectual inquietude allows me to learn and research new stuff efficiently.
+						</section>
+					<section class="section-work">
+						<h2 class="title">
+						    <span class="">Experience</span>
+						</h2>
+						<div class="item">
+							<div class="position">
+								Programming tutor Cycle 4A (web)
+							</div>
+							<div class="company">
+								<span class="name">
+									University of Caldas
+								</span>
+								<span class="website">
+									| https://www.ucaldas.edu.co/portal/
+								</span>
+								<span class="date">
+									|
+									<span class="startDate">
+										Oct 2022
+									</span>
+									<span class="endDate">
+										- Nov 2022
+									</span>
+									<span class="diffDate">
+										(1 month)
+									</span>
+								</span>
+							</div>
+							<div class="summary">
+								<p>The University of Caldas in compliance with the social function that corresponds to its public nature, has the mission of generating, appropriating, disseminating and applying knowledge through curricular, investigative and projection processes, to fully train citizens committed to society and culture, provide solutions to regional, national and international problems and contribute to sustainable development.</p>
+							</div>
+							<ul class="highlights">
+								<li>Project: MISIÓN TIC 2022 SAR I-704/2022.</li>
+								<li>Stack: LoopBack, Angular, ReactJS, HTML/JS/CSS, MongoDB.</li>
+								<li>Infrastructure: SO Windows, Microsoft Teams, Google Drive.</li>
+								<li>Concerns: Carry out accompaniment in the teaching activities in programming guided by the disciplinary trainer, Carry out work team dynamics, Manage the solution of questions and concerns made by the beneficiaries, Support the training and teaching of programming in the languages and technologies that are going to be use in the cycle, Generate at least weekly reports determined by the training operator, Sprint follow-up through the formats designed for it (Teach lead), Participate in daily follow-up meetings with their work groups, The tutor It has the responsibility of reporting any non-compliance detected in the monitoring activities, Submitting weekly reports of its management and monthly report.</li>
+							</ul>
+						</div>
+						<div class="item">
+							<div class="position">
+								Backend Developer
+							</div>
+							<div class="company">
+								<span class="name">
+									10Pearls
+								</span>
+								<span class="website">
+									| https://10pearls.com/
+								</span>
+								<span class="date">
+									|
+									<span class="startDate">
+										Apr 2022
+									</span>
+									<span class="endDate">
+										- Jun 2022
+									</span>
+									<span class="diffDate">
+										(1 month)
+									</span>
+								</span>
+							</div>
+							<div class="summary">
+								<p>We help businesses digitally transform, build new products, and accelerate digital teams.</p>
+							</div>
+							<ul class="highlights">
+								<li>Project: 10Pearls training program to improve English skills.</li>
+								<li>Infrastructure: Windows 10, Microsoft Teams, Microsoft Office.</li>
+								<li>Concerns: Attend English language skills improvement training.</li>
+							</ul>
+						</div>
+						<div class="item">
+							<div class="position">
+								Application Developer Analyst
+							</div>
+							<div class="company">
+								<span class="name">
+									PrimeStone
+								</span>
+								<span class="website">
+									| https://primestone.com/
+								</span>
+								<span class="date">
+									|
+									<span class="startDate">
+										Jul 2021
+									</span>
+									<span class="endDate">
+										- Jan 2022
+									</span>
+									<span class="diffDate">
+										(6 months)
+									</span>
+								</span>
+							</div>
+							<div class="summary">
+								<p>PrimeStone, a Trilliant company, is a proudly Colombian privately held software development company founded in 1990 by a team of industry experts, with over 25 years of experience in meter data collection, management and analytics.</p>
+							</div>
+							<ul class="highlights">
+								<li>Project: A static and dummy API backend server with endpoints to be consumed by clients.</li>
+								<li>Stack: NodeJS server, Angular client, HTML/CSS/JS, Docker/Docker Compose.</li>
+								<li>Infrastructure: Windows 10, Git repositories, VS Code, Team Foundation Server, Microsoft Teams, VPN.</li>
+								<li>Concerns: Development of backend API endpoint services to be used by clients, modification of Angular web application.</li>
+								<li>Project: A Interoperability Readings Dashboard to visualize metrics on devices and other data sources.</li>
+								<li>Stack: Python/Flask, Dash/NumPy/Pandas/Cognito libraries, AWS S3/Glue/Lambdas, Docker/Docker Compose.</li>
+								<li>Infrastructure: Windows 10, Git repositories, VS Code, Team Foundation Server, Microsoft Teams, VPN, AWS.</li>
+								<li>Concerns: Implementation of User Stories regarding building layers for UI, callbacks and data for the vizualization dashboard, unit tests of Python source code, implementation of authentication for Python/Flask application using Cognito library, use and activation of AWS Glue flows involving buckets, lambdas, functions, services, parsers, etc.</li>
+								<li>Project: A middleware to provide functionalities of migration and synchronization of databases.</li>
+								<li>Stack: Apache NiFi, Python/Flask, Oracle 11g, MS SQL Server 2012, PostgreSQL 9, Docker/Docker Compose.</li>
+								<li>Infrastructure: Windows 10, Git repositories, VS Code, Team Foundation Server, Microsoft Teams, VPN.</li>
+								<li>Concerns: Modification of Apache NiFi templates and Python/Flask application to manage the launch and parametrization of the data and operations flows.</li>
+							</ul>
+						</div>
+						<div class="item">
+							<div class="position">
+								Full-Stack Developer
+							</div>
+							<div class="company">
+								<span class="name">
+									Kibernum Colombia
+								</span>
+								<span class="website">
+									| https://www.kibernum.com/
+								</span>
+								<span class="date">
+									|
+									<span class="startDate">
+										Feb 2021
+									</span>
+									<span class="endDate">
+										- Apr 2021
+									</span>
+									<span class="diffDate">
+										(2 months)
+									</span>
+								</span>
+							</div>
+							<div class="summary">
+								<p>As one of the largest and longest established IT firms in Latin America, Kibernum offers not just engineering expertise and innovation but also the reliability to get the job done.</p>
+							</div>
+							<ul class="highlights">
+								<li>Project: COBIS banking platform.</li>
+								<li>Stack: SQL Server, Maven, Java, Tomcat, JBoss, AngularJS, HTML/CSS/JS.</li>
+								<li>Infrastructure: Windows 10, Git repositories, Sonar, Eclipse, COBIS Designer, Team Foundation Server, Microsoft Teams, VPN.</li>
+								<li>Concerns: Integration and customization of banking modules through debugging of application flow with Eclipse, Maven and Java, with SQL Server, AngularJS and COBIS Designer.</li>
+							</ul>
+						</div>
+						<div class="item">
+							<div class="position">
+								Full-Stack Developer
+							</div>
+							<div class="company">
+								<span class="name">
+									Soft Dev Team
+								</span>
+								<span class="website">
+									| https://softdev.team/
+								</span>
+								<span class="date">
+									|
+									<span class="startDate">
+										Jul 2020
+									</span>
+									<span class="endDate">
+										- Oct 2020
+									</span>
+									<span class="diffDate">
+										(2 months)
+									</span>
+								</span>
+							</div>
+							<div class="summary">
+								<p>Fully-managed On-demand Software Development Team.</p>
+							</div>
+							<ul class="highlights">
+								<li>Back-end development of features, MongoDB NoSQL database management, and unit and integration tests for a multiple templates management platform of cars sellers catalogs.</li>
+								<li>Development on environment with Docker, MongoDB, RabbitMQ, ElasticSearch, Google Cloud Platform infrastructure and architecture.</li>
+								<li>Development with NodeJS, Jest tests, MongoDB management, asynchronous programming with queues and RabbitMQ, advanced support of APIs, ElasticSearch, database migrations, DevOps and applications deployment.</li>
+								<li>Front-end features development for administrative dashboard web application of mobile application for resources management of a logistic company.</li>
+								<li>Front-end features development of web application with ReactJS interacting with mobile application and Firebase services.</li>
+								<li>Linux operating system, Docker, Google Cloud Platform, git, GitHub, MongoDB, RabbitMQ, ElasticSearch, NodeJS, Jest, Slack, Zoom, ReactJS, ReactNative, Jira, Notion, Monday, Scrum.</li>
+							</ul>
+						</div>
+						<div class="item">
+							<div class="position">
+								Developer Engineer Junior Advanced
+							</div>
+							<div class="company">
+								<span class="name">
+									Heinsohn Business Technology
+								</span>
+								<span class="website">
+									| https://www.heinsohn.com.co/
+								</span>
+								<span class="date">
+									|
+									<span class="startDate">
+										Apr 2019
+									</span>
+									<span class="endDate">
+										- Apr 2020
+									</span>
+									<span class="diffDate">
+										(1 year)
+									</span>
+								</span>
+							</div>
+							<div class="summary">
+								<p>We support our customers with IT solutions to the size of their needs.</p>
+							</div>
+							<ul class="highlights">
+								<li>Front-end development of a portal-type web application and dynamic administrative panel using the Angular 7 framework, use of the Material library for UX / UI interface components, consumption of APIs / endpoints / remote services.</li>
+								<li>Front-end development with the Angular framework of portal type application and administrative panel focused on patient management, clinics and medical data regarding blood sugar and insulin concentration.</li>
+								<li>Web development with the Angular framework of application type portal and administrative panel that interacts with API/backend services and with a mobile application that obtains the data supplied from a device that connects and transfers the data to the application.</li>
+								<li>Web development with Angular with an international team and advanced written and spoken English language management.</li>
+								<li>Web development with the Drupal 8 CMS for implementation of forms and data requests to external services/APIs/endpoints.</li>
+								<li>Web development with the Angular framework, JavaScript, HTML, CSS, Material.</li>
+								<li>Development using libraries for status management and RxJS functionalities.</li>
+								<li>Management of CVS git and BitBucket repositories.</li>
+								<li>Interaction with GCP (Google Cloud Platform) and GKE (Google Kubernetes Engine) cloud technologies.</li>
+								<li>Remote systems management using Microsoft Remote Desktop and VPNs technologies.</li>
+								<li>Use of Windows 10 Pro and Linux (Ubuntu) operating systems.</li>
+							</ul>
+						</div>
+						<div class="item">
+							<div class="position">
+								Front-end developer
+							</div>
+							<div class="company">
+								<span class="name">
+									SuperLikers
+								</span>
+								<span class="website">
+									| http://www.superlikers.com/
+								</span>
+								<span class="date">
+									|
+									<span class="startDate">
+										Mar 2016
+									</span>
+									<span class="endDate">
+										- Mar 2019
+									</span>
+									<span class="diffDate">
+										(3 years)
+									</span>
+								</span>
+							</div>
+							<div class="summary">
+								<p>Superlikers is an online platform to setup and manage 360 Fidelization Programs.</p>
+							</div>
+							<ul class="highlights">
+								<li>Migration, update and front-end development of web application kind of dynamic administrative panel using Angular framework in its recent versions (2, 4, 5, 6), Material library use for UX/UI interface components, consumption of remote API/endpoints/services.</li>
+								<li>Development and implementation of front-end features for a web application administrative panel kind using AngularJS framework.</li>
+								<li>Web development with AngularJS, Angular, JavaScript, jQuery, HTML, CSS, Material.</li>
+								<li>Git CVS, Unfuddle, BitBucket and GitHub repositories management.</li>
+								<li>Linux (Ubuntu) and Windows (7, 10) operating system management.</li>
+							</ul>
+						</div>
+						<div class="item">
+							<div class="position">
+								Full-stack developer
+							</div>
+							<div class="company">
+								<span class="name">
+									Ignite Technologies
+								</span>
+								<span class="website">
+									| http://ignite.com.co/
+								</span>
+								<span class="date">
+									|
+									<span class="startDate">
+										Jun 2018
+									</span>
+									<span class="endDate">
+										- Sep 2018
+									</span>
+									<span class="diffDate">
+										(3 months)
+									</span>
+								</span>
+							</div>
+							<div class="summary">
+								<p>We&#x27;re a colombian enterprise concerned with the design and development of innovation technologies, engineering and science products. Our focus is directed towards processes optimization based upon technology based solutions for our clients and users.</p>
+							</div>
+							<ul class="highlights">
+								<li>Migrate, develop and update a mobile application for food and restaurants services using the Ionic 4 framework for hybrid applications and consumption of remote API/endpoints/services.</li>
+								<li>Back-end features development to provide an administrative panel and API/endpoints/services to clients application consumption.</li>
+								<li>Mobile development with the Ionic 4 framework.</li>
+								<li>Back-end development with the Ruby on Rails framework.</li>
+								<li>PostgreSQL DataBase management.</li>
+								<li>Amazon services like EC2 instances and AMI, and S3 buckets.</li>
+								<li>Management of application servers like Unicorn and Passenger.</li>
+								<li>Git CVS and GitLab repositories management.</li>
+								<li>Linux (Ubuntu) and Windows (7, 10) operating system management.</li>
+							</ul>
+						</div>
+						<div class="item">
+							<div class="position">
+								Developer
+							</div>
+							<div class="company">
+								<span class="name">
+									Mapalé Software
+								</span>
+								<span class="website">
+									| http://www.mapalesoftware.com.co/
+								</span>
+								<span class="date">
+									|
+									<span class="startDate">
+										Feb 2015
+									</span>
+									<span class="endDate">
+										- Feb 2016
+									</span>
+									<span class="diffDate">
+										(1 year)
+									</span>
+								</span>
+							</div>
+							<div class="summary">
+								<p>We are a team of developers/designers/scientists/geeks who find their work very entertaining and thrilling. As a team, we develop software in different areas, with emphasis in web and mobile, but with experience in telephony projects, digital kiosks, enterprise applications, security systems, Artificial Intelligence, cryptography and even artistic installations.</p>
+							</div>
+							<ul class="highlights">
+								<li>Development and implementation of backend features using the Python language and the Django framework for a web application that manages subscriptions on a system and integrations with an external marketing service.</li>
+								<li>Development and implementation of backend features using NodeJS for a web application that coordinates chefs, bookings and in-house food services.</li>
+								<li>Development and implementation of features for a virtual store web application using ReactJS library and Redux framework for the frontend, and the Python language and Django framework for the backend and RESTful APIs.</li>
+								<li>Development and implementation of backend features for a web application that consumes, process and publish SOAP and REST WebServices or remote backend APIs over PHP technology.</li>
+								<li>Development and implementation of features for a virtual e-commerce clothing store using AngularJS framework for the frontend with PHP for the backend.</li>
+								<li>Development and implementation of features for a web application for reading and run smart quizes on published articles and lectures using AngularJS framework for the frontend with Ruby on Rails for the backend.</li>
+								<li>Web development with AngularJS framework, JavaScript, jQuery, HTML, CSS.</li>
+								<li>Basic handling of Silex, phinx, Doctrine frameworks, and Docker containers.</li>
+								<li>Web servers (Apache), and Postgres and MySQL databases management.</li>
+								<li>Git CVS, Bitbucket and GitHub repositories, and Heroku cloud PaaS management.</li>
+								<li>Linux operating system (Ubuntu) management.</li>
+							</ul>
+						</div>
+						<div class="item">
+							<div class="position">
+								Software Developer
+							</div>
+							<div class="company">
+								<span class="name">
+									Kommit
+								</span>
+								<span class="website">
+									| https://kommit.co/
+								</span>
+								<span class="date">
+									|
+									<span class="startDate">
+										May 2014
+									</span>
+									<span class="endDate">
+										- Jan 2015
+									</span>
+									<span class="diffDate">
+										(7 months)
+									</span>
+								</span>
+							</div>
+							<div class="summary">
+								<p>We are a USA based company with roots in Latin-American. Our mission is to find and enable talented people in that region to work remotely with North American companies.</p>
+							</div>
+							<ul class="highlights">
+								<li>Development and implementation of back-end features for a tracing, compilation, tracking and recommendations of places, events and news of different cities web portal over Ruby on Rails technology.</li>
+								<li>Development and implementation of back-end features of a desktop application for doctors, patients and interactions management using a Google Chrome extension with AngularJS.</li>
+								<li>Memcached and Redis tools use.</li>
+								<li>MongoDB NoSQL databases management, and remote backend BaaS storage.</li>
+								<li>Web modeling with JavaScript, HTML, CSS.</li>
+								<li>Git CVS and GitHub repositories management.</li>
+								<li>Linux operating system (Ubuntu, Debian) management.</li>
+							</ul>
+						</div>
+						<div class="item">
+							<div class="position">
+								Programmer
+							</div>
+							<div class="company">
+								<span class="name">
+									Webde Development System
+								</span>
+								<span class="website">
+									| https://www.webdefamily.com/
+								</span>
+								<span class="date">
+									|
+									<span class="startDate">
+										Jan 2014
+									</span>
+									<span class="endDate">
+										- Mar 2014
+									</span>
+									<span class="diffDate">
+										(2 months)
+									</span>
+								</span>
+							</div>
+							<div class="summary">
+								<p>We connect your company with more clients through the internet. Marketing services focused on results.</p>
+							</div>
+							<ul class="highlights">
+								<li>Development and implementation of mobile app for contracts and employees management of funeral company using Appcelerator Titanium platform for mobile app development.</li>
+								<li>Development and implementation of backend API to consume, process and publish SOAP and REST WebServices over Ruby on Rails technology.</li>
+								<li>Development and implementation of web page with typical various entities management features for IT company over Ruby on Rails technology.</li>
+								<li>Web modeling with JavaScript, HTML, CSS.</li>
+								<li>Web servers and Postgres and MySQL databases management.</li>
+								<li>Git CVS, GitLab repositories, and Heroku cloud PaaS management.</li>
+								<li>Linux operating system (Ubuntu) management.</li>
+							</ul>
+						</div>
+						<div class="item">
+							<div class="position">
+								Systems Engineer
+							</div>
+							<div class="company">
+								<span class="name">
+									Clínica San Francisco S.A.
+								</span>
+								<span class="website">
+									| http://www.clinicasanfrancisco.com.co/
+								</span>
+								<span class="date">
+									|
+									<span class="startDate">
+										Jul 2013
+									</span>
+									<span class="endDate">
+										- Oct 2013
+									</span>
+									<span class="diffDate">
+										(2 months)
+									</span>
+								</span>
+							</div>
+							<div class="summary">
+								<p>Clínica San Francisco S.A. is a private institution offering high complexity healthcare services at the middle and north of Valle region (Tuluá, Valle del Cauca).</p>
+							</div>
+							<ul class="highlights">
+								<li>Development and implementation of modifications and new features of specialized healthcare services institution as is Clínica San Francisco S.A. at Tuluá, Valle del Cauca Information System.</li>
+								<li>Development and implementation of different activities focused on modify and/or add features of the SIIS (Sistema Integrado de Información en Salud) system working as web application and developed with PHP language.</li>
+								<li>PHP language web server side programming.</li>
+								<li>JavaScript/jQuery languages client side programming.</li>
+								<li>HTML/CSS web modeling.</li>
+								<li>Apache web server and Postgres database management.</li>
+								<li>NetBeans IDE use.</li>
+								<li>Subversion (svn) CVS and repositories management.</li>
+								<li>Linux operating system (Ubuntu, CentOS) management.</li>
+							</ul>
+						</div>
+						<div class="item">
+							<div class="position">
+								Analyst Developer
+							</div>
+							<div class="company">
+								<span class="name">
+									Latinia Mobile Infrastructure
+								</span>
+								<span class="website">
+									| https://www.latinia.com/
+								</span>
+								<span class="date">
+									|
+									<span class="startDate">
+										Apr 2012
+									</span>
+									<span class="endDate">
+										- Aug 2012
+									</span>
+									<span class="diffDate">
+										(4 months)
+									</span>
+								</span>
+							</div>
+							<div class="summary">
+								<p>Latinia is an independent software vendor (ISV), which specializes in infrastructure product development for asynchronous type financial notifications or push banking(mobile or instant messaging, email, Twitter’s DM, push notifications – Android &amp; Apple iOS), utilized mainly by leading and globally distributed financial institutions (banks, savings banks, processing and payment systems), public institutions government and service providers, distributing the same globally and acting as leaders in their respective segments and industries.</p>
+							</div>
+							<ul class="highlights">
+								<li>Projects implementation for both company clients as company internals; JaveEE platform usage and its JMS, JWS, etc. technologies and the respective support components stack (OS, web container, etc.).</li>
+								<li>Design and development of internal company platform to test and monitor send messages traffic with different properties (channel, attachments, quantity, intervals, etc.) using JEE platform and EJB technologies for server side, and JavaSE, JSP and Servlets technologies for test clients; work on CentOS 5 environment, Oracle 11g DB, Eclipse IDE, packaging and deployment Ant and Maven systems, and VMware Player VMs.</li>
+								<li>Implementation of sending e-mails features with and without attachments on a communications API used by financial entity using JEE platform and EJB technologies on server side, and JavaSE, JSP and Servlets technologies for test clients; work on CentOS 5 environment, Oracle 11g DB, Eclipse IDE, packaging and deployment Ant and Maven systems, and VMware Player VMs.</li>
+								<li>Development with platforms and technologies like JavaEE, EJB, JWS, JMS, JSP, Servlets, JavaSE.</li>
+								<li>Usage of Ant and Maven tools for software project management and general compilation automation, packaging and building.</li>
+								<li>WebLogic and JBoss web containers management.</li>
+								<li>Oracle 11g database management.</li>
+								<li>Eclipse IDE use.</li>
+								<li>Windows (7), Linux (CentOS), and Virtual Machines (VMs) with VMware Player operating systems management.</li>
+							</ul>
+						</div>
+					</section>
+					<section class="section-volunteer">
+						<h2 class="title">
+						    <span class="">Volunteer</span>
+						</h2>
+						<div class="item">
+							<div class="position">
+								Participant/Volunteer
+							</div>
+							<div class="company">
+								<span class="name">
+									Manizales-Dev
+								</span>
+								<span class="website">
+									| http://manizales-dev.github.io/
+								</span>
+							<span class="date">
+								| <span class="startDate">
+									Feb 2015
+								</span>
+								<span class="endDate">
+									- Apr 2016
+								</span>
+								<span class="diffDate">
+									(1 year 2 months)
+								</span>
+							</span>
+							</div>
+							<div class="summary">
+								<p>Manizales-Dev is a community of local developers to build together an ecosystem around technology to bring support to individuals and organizations towards regional progress.</p>
+							</div>
+							<ul class="highlights">
+								<li>Participation on different meetup events organized.</li>
+								<li>Participation in NodeSchool International Day 2015 ( http://nodeschool.io/manizales/ ).</li>
+								<li>Participation in XIV Jornadas de Ingeniería, Tecnología e Innovación 2015 at Universidad de Caldas ( http://jornadas-ingenieria.gitir.co/ ).</li>
+							</ul>
+						</div>
+					</section>
+					<section class="section-awards">
+						<h2 class="title">
+						    <span class="">Awards</span>
+						</h2>
+						<ul>
+							<li class="item">
+								<div class="title">
+									Basic Xamarin completed
+									<span class="date">
+										| Jan 2017
+									</span>
+									<span class="awarder">
+										| Microsoft Developer Readiness
+									</span>
+								</div>
+								<div class="summary">
+									<p>Basic Xamarin course finished.</p>
+								</div>
+							</li>
+						</ul>
+					</section>
+					<section class="section-publications">
+						<h2 class="title">
+						    <span class="">Publications</span>
+						</h2>
+						<div class="item">
+							<div class="name">
+								Mantacore Sky Blog
+							</div>
+					
+							<div class="publication">
+								<span class="publisher">
+									Mantacore Sky
+								</span>
+								<span class="website">
+									| http://da8y01.gitlab.io/gl-blog/
+								</span>
+								<span class="releaseDate">
+									| 2023-06-21
+								</span>
+							</div>
+					
+							<div class="summary">
+								<p>A miscellaneous blog (IT and literature mainly).</p>
+							</div>
+						</div>
+						<div class="item">
+							<div class="name">
+								Trashumantes website
+							</div>
+					
+							<div class="publication">
+								<span class="publisher">
+									Trashumantes
+								</span>
+								<span class="website">
+									| https://tras-humantes.net/
+								</span>
+								<span class="releaseDate">
+									| 2017-02-14
+								</span>
+							</div>
+					
+							<div class="summary">
+								<p>A personal and miscellaneous website.</p>
+							</div>
+						</div>
+						<div class="item">
+							<div class="name">
+								Easy Engineering - Blog
+							</div>
+					
+							<div class="publication">
+								<span class="publisher">
+									Easy Engineering
+								</span>
+								<span class="website">
+									| http://da8y01.github.io/gh-blog/
+								</span>
+								<span class="releaseDate">
+									| 2013-05-07
+								</span>
+							</div>
+					
+							<div class="summary">
+								<p>A blog dedicated to reading and various subjects.</p>
+							</div>
+						</div>
+					</section>
+					<section class="section-languages">
+						<h2 class="title">
+						    <span class="">Languages</span>
+						</h2>
+						<ul>
+							<li class="item">
+								<div class="language">
+									Spanish
+									<span class="fluency">
+										| <em>Native language</em>
+									</span>
+								</div>
+							</li>
+							<li class="item">
+								<div class="language">
+									English
+									<span class="fluency">
+										| <em>Intermediate. Berlitz Proficiency Test Number: 35162, Expedition date: June 2013. Level: B1.</em>
+									</span>
+								</div>
+							</li>
+							<li class="item">
+								<div class="language">
+									English
+									<span class="fluency">
+										| <em>Advanced. EF SET Certificate 70/100 C1 Advanced. Awarded on: 26 Apr 2022. https://efset.org/cert/cowZZo</em>
+									</span>
+								</div>
+							</li>
+						</ul>
+					</section>
+				</div>
+		</div>
+
+	</body>
+</html>
