@@ -1491,7 +1491,30 @@ Tenemos aquí un ejemplo de programa enteramente procesado bajo el imperio de la
 
 Esto altera radicalmente nuestro modo de considerar el programa: en esta etapa, ha entrado a jugar un papel la *significación*: la misma clase de significación que manipulamos en nuestras mentes.
 
+He aquí el vórtice del sistema, donde se cruzan todos los niveles.
+
+... tiene, pues, una especie de sentido *intuitivo* de sus funciones, y no una comprensión completa del proceso.
+
 El sentimiento de libre albedrío emana de este equilibrio entre conocimiento e ignorancia de sí mismo.
+
+No tiene pertinencia a este respecto el hecho de que el sistema esté siendo procesado en forma determinista...
+
+Percibir la presencia de un nivel es una cuestión de intuición y de preferencia estética.
+
+Ese centro de la espiral es -y debe serlo- incompleto.
+
+Así, se puede "ascender y ascender por siempre", ¡y no llegar nunca más arriba!
+
+Y es por tal razón que Gödel, Escher y Bach constituyen en este libro las tres hebras cuyo entrelazamiento forma un Eterno y Grácil Bucle.
+
+
+#### <span id="RicercarSeisVoces">[*Ricercar a seis voces*](#RicercarSeisVoces)</span>
+
+<div style="text-align:center" markdown="1">
+![Gödel, Escher, Bach][GodelEscherBach-51_RicercarSeisVoces]{: width="50%"}
+</div>
+
+.
 
 
 ### <span id="notas">[Notas](#notas)</span>
