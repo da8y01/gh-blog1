@@ -1459,9 +1459,39 @@ En otras palabras, una "resonancia" de refuerzo recíproco entre los diferentes 
 
 El yo se constituye como tal en el momento en que adquiere la facultad de reflejarse a sí mismo.
 
+Ciertamente, no nos interesa una descripción en términos de posiciones y momentos de partículas; nos interesa una descripción que relacione la actividad neural con las "señales" (fenómenos de nivel intermedio), y que relacione las señales, a su vez, con los "símbolos" y "subsistemas", incluido el presunto "símbolo del yo".
+
 Este acto de traducir el hardware físico de bajo nivel al software psicológico de alto nivel tiene analogía con la traducción de enunciados teórico-numéricos a enunciados metamatemáticos.
 
 Recordemos que el cruce de niveles que tiene lugar en este punto exacto de la traducción es lo que origina la incompletitud de Gödel, y también el carácter autodemostrativo del enunciado de Henkin.
+
+Además, debemos admitir diversos tipos de "casualidad/causality": los diversos medios gracias a los cuales un acontecimiento perteneciente a un nivel de descripción puede "causar" la ocurrencia de acontecimientos en otro nivel.
+
+> ... si uno sigue trepando por la cadena jerárquica interna del cerebro, encuentra la cima misma aquellas fuerzas organizativas globales y las propiedades dinámicas de los grandes patrones de excitación cerebral que están correlacionados con los estados mentales o actividades psiquícas...
+
+> En el modelo de cerebro que propongo, la potencia causal de una idea, o de un ideal, llega a ser exactamente tan real como lo son una molécula, una célula o un impulso nervioso.
+
+> Y también interactúan con lo que las rodea externamente, para producir, **in toto**, un avance explosivo en la evolución que deja atrás, con mucho, cualquiera de las cosas que muestre la escena evolutiva, incluyendo la aparición de la célula viva.
+
+Pese a que nadie a podido nunca apartarse lo suficiente para ver "el gran cuadro", no debemos olvidar que, de todos modos, existe.
+
+Debemos recordar que las leyes físicas son las que hacen que todo eso suceda: allí, precisamente allí, en los ocultos rincones y entresijos neurales ubicados a una distancia inalcanzable para nuestros sondeos introspectivos de alto nivel.
+
+En consecuencia, no podemose evitar que, en algún nivel de nuestra mente, nos parezca que el mármol ha "elegido" un recorrido en particular de entre una miríada de aquellos recorridos mentales; en algún otro nivel de nuestra mente, sin embargo, comprendemos institivamente que la física mental es únicamente un auxilio para nuestro modelamiento interno del mundo, y que los mecanismos responsables de las secuencias físicas reales de acontecimientos no necesitan que la naturaleza atraviese un proceso análogo de elaboración previa de variantes en algún universo hipotético (el "cerebro de Dios"), para luego elegir entre ellas.
+
+... por supuesto, es posible también que queramos atrasar el reloj, mediante el barrido de todas las modificaciones de la memoria que representen aprendizaje, en forma idéntica a como es puesto a cero el generador de números aleatorios, pero sería muy difícil considerar benévolo un acto semejante.
+
+Pero todavía no hay aquí una autoconciencia profunda, como tampoco un sentido de libre albedrío.
+
+Y este robot es capaz de modelar la situación en sus símbolos, de modo que puede observarse a sí mismo ejerciendo elecciones.
+
+Por cierto que no; a menos que nuestra mente esté afectando los resultados, la presencia de los símbolos no produce ninguna diferencia.
+
+Tenemos aquí un ejemplo de programa enteramente procesado bajo el imperio de la ley física, que aparentemente se aproxima con mayor profundidad que los casos anteriores a la esencia de la elección.
+
+Esto altera radicalmente nuestro modo de considerar el programa: en esta etapa, ha entrado a jugar un papel la *significación*: la misma clase de significación que manipulamos en nuestras mentes.
+
+El sentimiento de libre albedrío emana de este equilibrio entre conocimiento e ignorancia de sí mismo.
 
 
 ### <span id="notas">[Notas](#notas)</span>
