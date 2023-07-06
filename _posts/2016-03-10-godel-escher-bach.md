@@ -17,6 +17,9 @@ tags: review novela novel "Gödel, Escher, Bach. un Eterno y Grácil Bucle - Dou
 
 ## <span id="sinopsis">[SINOPSIS](#sinopsis)</span>
 
+***Esta sinopsis se conforma principalmente de transcripciones literales de pasajes o citas del libro, y de resúmenes o comentarios de los capítulos y secciones.***
+
+
 ### <span id="indice">[Índice](#indice)</span>
 
 <div style="text-align:center" markdown="1">
@@ -72,14 +75,18 @@ Se brindan agradecimientos y reconocimientos, a los padres, la familia, amigos, 
 Se cuenta la historia de como el rey de Prusia Federico el Grande y J. S. Bach en 1747 se conocen, la conversación con disculpas mutuas, el órgano, los nuevos pianos Silbermann, la petición del rey de una fuga a seis voces, la improvisación de Bach, la carta de Bach al rey con la Ofrenda Musical, mención general a la estructura de la obra. Se mencionan las características fundamentales de canones y fugas, cómo se estructuran, técnicas y variaciones usadas para componerlas. Se habla del "Canon Eternamente Remontante" y del concepto de *Bucles Extraños*. Se habla de M. C. Escher, de los Bucles Extraños de diferentes niveles en sus obras pictóricas, la analogía con los canones y fugas, el infinito, y los diferentes niveles (clases/tipos) de realidades ("mayor realidad", "más imaginario"). Se habla de la *paradoja de Epiménides, o paradoja del mentiroso*, de su versión en teoría de números como el Teorema de la Incompletitud de K. Gödel. Se mencionan algunos puntos históricos del desarrollo del razonamiento lógico, y se mencionan los problemas paradójicos que implica el fenómeno de la autorreferencia. Se habla de teoría de tipos y conjuntos, los fundamentos de la matemática. El interés/esfuerzos de David Hilbert y el Teorema de Incompletitud de Gödel demoliendo la intención de Hilbert. Se mencionan avances en la computación electrónica y la complejidad de una IA. Se menciona la estructura en forma de contrapunto de Diálogos y Capítulos del libro.
 
 <div style="text-align:center" markdown="1">
-![Gödel, Escher, Bach][GodelEscherBach-09_KurtGodel]{: width="40%"}
+![Gödel, Escher, Bach][GodelEscherBach-09_MCEscher]{: width="40%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![Gödel, Escher, Bach][GodelEscherBach-10_KurtGodel]{: width="40%"}
 </div>
 
 
 #### <span id="tresvoces">[*Invención a tres voces*](#tresvoces)</span>
 
 <div style="text-align:center" markdown="1">
-![Gödel, Escher, Bach][GodelEscherBach-10_InvencionTresVoces]{: width="50%"}
+![Gödel, Escher, Bach][GodelEscherBach-11_InvencionTresVoces]{: width="50%"}
 </div>
 
 Al final el diálogo entre Aquiles, Sr. Tortuga y Zenón, el teorema de que el Movimiento Implica Imposibilidad Inherente ó que el Movimiento Ultrainexiste.
@@ -88,7 +95,7 @@ Al final el diálogo entre Aquiles, Sr. Tortuga y Zenón, el teorema de que el M
 #### <span id="capi">[Capítulo I: El acertijo MU](#capi)</span>
 
 <div style="text-align:center" markdown="1">
-![Gödel, Escher, Bach][GodelEscherBach-11_CapI]{: width="50%"}
+![Gödel, Escher, Bach][GodelEscherBach-12_CapI]{: width="50%"}
 </div>
 
 Se introducen los *sistemas formales*, el desafío "¿Puede usted producir MU?", las reglas y ejemplos del juego. Se establecen distinciones en los conceptos de teorema, axioma, reglas de producción, reglas de inferencia, derivación. Se mencionan las características inherentes del sistema formulado, características/patrones de los teoremas (cadenas producibles), diferencias entre el proceso de aprendizaje/comprensión/ejecución de humanos y máquinas. Se mencionan el interior/exterior del sistema, los brincos fuera del sistema, abstraerse afuera del sistema, observar el sistema/proceso mismo, la complejidad de separar interior/exterior del sistema, formular ideas simples para emplearlas en ideas más complejas, y los sistemas formales. Se explican las vías/métodos/técnicas *Mecánica, Inteligente, Ultravía*. Se mencionan teoremidad, verificación, procedimiento de decisión.
@@ -97,7 +104,7 @@ Se introducen los *sistemas formales*, el desafío "¿Puede usted producir MU?",
 #### <span id="dosvoces">[*Invención a dos voces*](#dosvoces)</span>
 
 <div style="text-align:center" markdown="1">
-![Gödel, Escher, Bach][GodelEscherBach-12_InvencionDosVoces]{: width="50%"}
+![Gödel, Escher, Bach][GodelEscherBach-13_InvencionDosVoces]{: width="50%"}
 </div>
 
 Al final el diálogo a dos voces entre Aquiles y el Sr. Tortuga acera del juego de distancias infinitas y proposiciones.
@@ -108,7 +115,7 @@ Al final el diálogo a dos voces entre Aquiles y el Sr. Tortuga acera del juego 
 #### <span id="capii">[Capítulo II: Significado y forma en matemática](#capii)</span>
 
 <div style="text-align:center" markdown="1">
-![Gödel, Escher, Bach][GodelEscherBach-13_CapII]{: width="50%"}
+![Gödel, Escher, Bach][GodelEscherBach-14_CapII]{: width="50%"}
 </div>
 
 Se introduce el sistema mg, el procedimiento de decisión, los conceptos de isomorfismo y significación, interpretaciones significativas y no significativas, significados activos y pasivos, matemática y aritmética, el Teorema de Euclides de la infinitud de los números primos.
@@ -117,7 +124,7 @@ Se introduce el sistema mg, el procedimiento de decisión, los conceptos de isom
 #### <span id="sonata">[*Sonata para Aquiles solo...*](#sonata)</span>
 
 <div style="text-align:center" markdown="1">
-![Gödel, Escher, Bach][GodelEscherBach-14_SonataAquilesSolo]{: width="50%"}
+![Gödel, Escher, Bach][GodelEscherBach-15_SonataAquilesSolo]{: width="50%"}
 </div>
 
 Al final la sonata para Aquiles solo hablando por teléfono con el Sr. Tortuga.
@@ -126,7 +133,7 @@ Al final la sonata para Aquiles solo hablando por teléfono con el Sr. Tortuga.
 #### <span id="capiii">[Capítulo III: Figura y fondo](#capiii)</span>
 
 <div style="text-align:center" markdown="1">
-![Gödel, Escher, Bach][GodelEscherBach-15_CapIII]{: width="50%"}
+![Gödel, Escher, Bach][GodelEscherBach-16_CapIII]{: width="50%"}
 </div>
 
 Se plantea el problema de crear un sistema formal para representar los números Primos, para esto se plantea el sistema vg, similar al sistema mg, que representa la multiplicación para tener un sistema formal que capture los números Compuestos, y se plantea la posibilidad de caracterizar los Primos como el espacio negativo de los Compuestos, para entrar a la discusión de Figura y Fondo en los contextos artístico, musical y matemático; se presenta el diagrama con simbolismo visual que representa el espacio de los Teoremas y la Negación de los teoremas, se presentan los conceptos de Conjuntos recursivamente enumerables y Conjuntos recursivos, finalizando se presenta un sistema formal para representar *positivamente* los Primos.
@@ -135,7 +142,7 @@ Se plantea el problema de crear un sistema formal para representar los números 
 #### <span id="contra">[*Contracrostipunctus*](#contra)</span>
 
 <div style="text-align:center" markdown="1">
-![Gödel, Escher, Bach][GodelEscherBach-16_ContraCrostipunctus]{: width="50%"}
+![Gödel, Escher, Bach][GodelEscherBach-17_ContraCrostipunctus]{: width="50%"}
 </div>
 
 en el diálogo *Contracrostipunctus* entre Aquiles y Tortuga se presenta la historia de los Fonógrafos Perfectos del Cangrejo que son destruídos por las canciones de los discos de Tortuga especialmente diseñadas para romper los tocadiscos perfectos, así sucesivamente hasta la fabricación del sofisticado Fonógrafo Omega que tiene la capacidad de reconfigurarse según la meta-información obtenida, luego Aquiles obsequia El Grial G a Tortuga, que tiene un poema y un pentagrama musical con el Arte de la fuga de Bach que Tortuga se dispone a interpretar al revés en el violín, este diálogo tiene el acróstico JSBACH al revés.
@@ -144,7 +151,7 @@ en el diálogo *Contracrostipunctus* entre Aquiles y Tortuga se presenta la hist
 #### <span id="capiv">[Capítulo IV: Coherencia, completitud y geometría](#capiv)</span>
 
 <div style="text-align:center" markdown="1">
-![Gödel, Escher, Bach][GodelEscherBach-17_CapIV]{: width="50%"}
+![Gödel, Escher, Bach][GodelEscherBach-18_CapIV]{: width="50%"}
 </div>
 
 Se habla de la significación implícita y explícita, de la conciencia y el desciframiento de la naturaleza del isomorfismo en cuestión que subyace a la significación; los diferentes niveles de significación en el diálogo anterior *Contracrostipunctus*, del dibujo explicativo del encadenamiento de dos isomorfismos entre el fonógrafo y los sonidos codificados en el disco del Contracrostipunctus como fundamento básico del Teorema de Gödel, de los tiros y estallidos por la culata de esta anécdota; se habla de la geometría euclidiana y no-euclidiana, de los postulados de los *Elementos* de Euclides, de los términos indefinidos y la forma de definirlos por la relación que los vincula entre sí y contexto de los otros demás elementos del sistema en cuestión, de las interpretaciones múltiples y las variedades de coherencia, de los diferentes mundos imaginables e hipotéticos y sus sistemas formales y coherencia, de los sistemas formales que se introducen en otros a modo de composición y para la aplicación del acotamiento, de las diferentes capas de percepción visual como en la obra de Escher, del rol de la lógica y la matemática y teoría de números en un mundo concebible, de la noción de Completitud, complementaria a la de Coherencia, de cómo la Incompletitud puede ser hecha o deshecha por la interpretación, y de las dos formas de reajustar la interpretación de un sistema para modificar su completitud.
@@ -153,7 +160,7 @@ Se habla de la significación implícita y explícita, de la conciencia y el des
 #### <span id="laberinto">[*Pequeño laberinto armónico*](#laberinto)</span>
 
 <div style="text-align:center" markdown="1">
-![Gödel, Escher, Bach][GodelEscherBach-18_PequenioLaberintoArmonico]{: width="50%"}
+![Gödel, Escher, Bach][GodelEscherBach-19_PequenioLaberintoArmonico]{: width="50%"}
 </div>
 
 En el extenso diálogo *Pequeño laberinto armónico*, Aquiles y Totuga van a pasear a la feria, y montando en la gran rueda noria el malvado Buenafortuna los engancha llevándolos a su casa donde, mientras el Buenafortuna se ausenta, Aquiles y Tortuga leen la historia *Las Excitantes Aventuras de Aquiles y la Tortuga en Diversos Lugares del Mundo* en la página "Ginn y Tónico", en la que Aquiles enseña su colección de láminas de Escher a Tortuga, que dice que su favorita es "Convexo y Cóncavo", y hablando del Jarabe Metedor y el Tónico Sacador, tragan y se meten en dicho cuadro, donde Aquiles se aventura a coger y frotar la Lámpara de la que sale un Genio, viene la disquisición acerca de los deseos, meta-deseos, Deseo Atipo, las meta-lámparas, los meta-genios, hasta recursivamente llegar a DIOS y el acrónimo recursivo "DIOS que Imparte Órdenes al Subsiguiente", luego Aquiles pide el paradójico deseo con la intención de ver el castigo del dios del error en la cadena, provocando la "falla del sistema" y retornándolos a Tumbolia y el cuadro Reptiles con la buena fortuna y cuidado de haber sido rescatado también el tónico sacador; en este punto el tónico se pierde y Tortuga empieza a leer un libro que está en ese cuadro Reptiles con la historia de Aquiles y Tortuga en el laberinto del Mayotauro, cuando Aquiles toca las arrugadas paredes del laberinto con el bastón proveído por Tortuga hace sonar una tonada, y se discute la pieza *Pequeño Laberinto Armónico* de Bach, después al caer en un hoyo encuentran algodón de azúcar Sacarín que al comerlo los devuelve al cuadro Reptiles, y de ahí suben un nivel más moviendose perpendicularmente al plano bi-dimensional como los reptiles del cuadro, apareciendo finalmente no en la casa de Aquiles, sino en la de Tortuga.
@@ -162,7 +169,7 @@ En el extenso diálogo *Pequeño laberinto armónico*, Aquiles y Totuga van a pa
 #### <span id="capv">[Capítulo V: Estructuras y procesos recursivos](#capv)</span>
 
 <div style="text-align:center" markdown="1">
-![Gödel, Escher, Bach][GodelEscherBach-19_CapV]{: width="50%"}
+![Gödel, Escher, Bach][GodelEscherBach-20_CapV]{: width="50%"}
 </div>
 
 Se retoma el diálogo anterior *Pequeño Laberinto Armónico* para abordar la recursividad y explicar los conceptos de meter, sacar y pilas, se dan ejemplos como en la música y los programas de noticieros y entrevistas, se explican técnicas musicales y los efectos/expectativas/emociones en los oyentes, también ejemplos en los lenguajes e idiomas, como las cómicas anécdotas de los profesores en las conferencias y el idioma alemán con el verbo al final retornando una pila acumulada con los verbos, se ilustran las RTR con ejemplos de frases y una sensación somera no explícitada de NLP (Procesamiento del Lenguaje Natural), se exponen los conceptos de saneamiento del proceso recursivo y la pila, y el de heterarquía (en contraposición a jerarquía), se habla de la expansión de nódulos para analizar y entender las RTR, se muestran ejemplos de diagramas y secuencias recursivas, se presentan ejemplos de series recursivas de números, y se muestran dos sorprendentes gráficas recursivas (INT y el Diseño G), se aborda la recursividad en la física, la materia y las partículas subatómicas, se muestran diagramas de Feynman, se analizan las propiedades de reproducción y similitud de estructuras recursivas como el ADN, se continúa con la recursividad en el ámbito computacional, se exponen los conceptos de modularidad, bucles y procedimientos, esenciales en este contexto, se toman ejemplos como los programas de ajedrez y gato, al final se menciona la propiedad predictible/impredictible de ciertas secuencias recursivas.
@@ -171,7 +178,7 @@ Se retoma el diálogo anterior *Pequeño Laberinto Armónico* para abordar la re
 #### <span id="aumentacion">[*Canon por aumentación interválica*](#aumentacion)</span>
 
 <div style="text-align:center" markdown="1">
-![Gödel, Escher, Bach][GodelEscherBach-20_CanonAumentacionIntervalica]{: width="50%"}
+![Gödel, Escher, Bach][GodelEscherBach-21_CanonAumentacionIntervalica]{: width="50%"}
 </div>
 
 En el diálogo *Canon por aumentación interválica* Aquiles y Tortuga conversan en un restaurante chino sobre los haikus y la novedosa gramola de Congrejo, que peculiarmente sólo tiene un disco y varios fonógrafos que obtienen diferentes canciones de este único disco por transformaciones a un esqueleto en el patrón de surco subyacente en el disco.
@@ -180,7 +187,7 @@ En el diálogo *Canon por aumentación interválica* Aquiles y Tortuga conversan
 #### <span id="capvi">[Capítulo VI: La localización de la significación](#capvi)</span>
 
 <div style="text-align:center" markdown="1">
-![Gödel, Escher, Bach][GodelEscherBach-21_CapVI]{: width="50%"}
+![Gödel, Escher, Bach][GodelEscherBach-22_CapVI]{: width="50%"}
 </div>
 
 Se aborda la cuestión de si la significación de un mensaje es inherente a él o es producto de la interacción entre el mensaje y algún mecanismo que lo decodifique, se mencionan las concepciones de *portador de información* y *revelador de información*, las de genotipo y fenotipo que son usadas a través del capítulo y las de isomorfismos misteriosos y prosaicos, se ponen los ejemplos de los discos con obras de Bach o de John Cage enviados al espacio e interceptados por otras inteligencias, se habla de la labor histórica de decodificar mensajes como La piedra Rosetta; se plantean los tres estratos de todo mensaje (marco, exterior e interior), se mencionan los cristales aperiódicos de Schrödinger; se plantea el hecho de que para interpretar un mensaje se requiere de una "gramola" o hardware como el cerebro que es una entidad natural y universal, y de esto se deriva que son los mensajes los que tienen una significación intrínseca dada la universalidad de dicho componente universal como la inteligencia del cerebro, y se postula la forma de formular una definición de inteligencia mitigando el antropocentrismo; se exponen ejemplos de mensajes y significación como las placas en el espacio con la secuencia de Fibonacci y Lucas, los discos de Bach y Cage y el ADN.
@@ -189,7 +196,7 @@ Se aborda la cuestión de si la significación de un mensaje es inherente a él 
 #### <span id="fantasia">[*Fantasía cromática y furia*](#fantasia)</span>
 
 <div style="text-align:center" markdown="1">
-![Gödel, Escher, Bach][GodelEscherBach-22_FantasiaCromaticaFuria]{: width="50%"}
+![Gödel, Escher, Bach][GodelEscherBach-23_FantasiaCromaticaFuria]{: width="50%"}
 </div>
 
 En el diálogo *Fantasía cromática y furia* Tortuga y Aquiles discuten acerca de las contradicciones, la unión de frases y la aparentemente inofensiva palabra "y".
@@ -198,7 +205,7 @@ En el diálogo *Fantasía cromática y furia* Tortuga y Aquiles discuten acerca 
 #### <span id="capvii">[Capítulo VII: El cálculo proposicional](#capvii)</span>
 
 <div style="text-align:center" markdown="1">
-![Gödel, Escher, Bach][GodelEscherBach-23_CapVII]{: width="50%"}
+![Gödel, Escher, Bach][GodelEscherBach-24_CapVII]{: width="50%"}
 </div>
 
 Se presenta el cálculo proposicional, sus símbolos y reglas, sus interpretaciones en el metalenguaje natural español, ejercitaciones, semiinterpretaciones y ejemplos, características, se discute la coherencia, fortalezas y debilidades, Demostraciones Inteligentes en el nivel metalenguaje y Derivaciones Mecánicas dentro del sistema formal, formas de abordar las contradicciones desde diferentes perspectivas como el estudio del pensamiento humano y la matemática misma.
@@ -207,7 +214,7 @@ Se presenta el cálculo proposicional, sus símbolos y reglas, sus interpretacio
 #### <span id="cangrejo">[*Canon cangrejo*](#cangrejo)</span>
 
 <div style="text-align:center" markdown="1">
-![Gödel, Escher, Bach][GodelEscherBach-24_CanonCangrejo]{: width="50%"}
+![Gödel, Escher, Bach][GodelEscherBach-25_CanonCangrejo]{: width="50%"}
 </div>
 
 En el diálogo *Canon cangrejo* Aquiles y Tortuga se encuentran paseando en el parque, comienza la charla, en la mitad aparece Cangrejo con la trágica anécdota del grande polanés con el laúd de una sola cuerda y la cangresca y golpe en el ojo, luego continúa la charla donde había quedado con la estructura hacia atrás avanzando hasta como comenzó.
@@ -218,7 +225,7 @@ En el diálogo *Canon cangrejo* Aquiles y Tortuga se encuentran paseando en el p
 #### <span id="capviii">[Capítulo VIII: Teoría de los números tipográfica](#capviii)</span>
 
 <div style="text-align:center" markdown="1">
-![Gödel, Escher, Bach][GodelEscherBach-25_CapVIII]{: width="50%"}
+![Gödel, Escher, Bach][GodelEscherBach-26_CapVIII]{: width="50%"}
 </div>
 
 Se presenta el sistema formal TNT y lo que pretende expresar, nociones básicas de la teoría de los números naturales, se enuncian oraciones que se expresarán con símbolos del sistema formal TNT como los numerales, variables y términos, átomos y símbolos proposicionales, variables libres y cuantificadores; luego se pasa a la traducción de las oraciones simples acerca de los números naturales a notación TNT, se menciona que si el sistema pudiera distinguir entre lo verdadero y lo falso, esto dependería de la forma de la cadena, un estilo o forma de la verdad; se enuncian las reglas de TNT y más ejercicios (de traducción), se menciona que el objetivo fundamental de TNT es resolver si, y cómo. es posible caracterizar tipográficamente las cadenas verdaderas, se presentan los cinco axiomas de TNT y los cinco postulados "semiformales" de Giuseppe Peano acerca de los números naturales, se explican las restricciones de algunas de las reglas; se habla de los sistemas w-incompletos y cadenas irresolubles, se establece diferenciación entre w-incoherencia e incoherencia, se habla de la tensión y resolución, el ritmo y belleza, la sensación de puntos hito o relevantes, objetivos en una demostración, análogo a la música; al final se mencionan los esfuerzos de la escuela de David Hilbert hacia usar los "finitísticos" para demostrar la coherencia de teoría de los números, que Gödel después demostró como imposible, que para demostrar la coherencia de un sistema, se requiere como mínimo otro sistema igual de vigoroso/robusto, haciéndose inevitable la circularidad.
@@ -227,7 +234,7 @@ Se presenta el sistema formal TNT y lo que pretende expresar, nociones básicas 
 #### <span id="ofrendamu">[*Una ofrenda MU*](#ofrendamu)</span>
 
 <div style="text-align:center" markdown="1">
-![Gödel, Escher, Bach][GodelEscherBach-26_UnaOfrendaMU]{: width="50%"}
+![Gödel, Escher, Bach][GodelEscherBach-27_UnaOfrendaMU]{: width="50%"}
 </div>
 
 En el diálogo *Una ofrenda MU* Tortuga y Aquiles hablan acerca del Zen y los koans, de la técnica de "traducir" y "transcribir" y el Arte de los Cordones Zen, del proceso inverso y la forma de los cordones, de lo genuino y lo fraudulento, y si algo tiene la naturaleza de Buda.
@@ -236,7 +243,7 @@ En el diálogo *Una ofrenda MU* Tortuga y Aquiles hablan acerca del Zen y los ko
 #### <span id="capix">[Capítulo IX: Mumon y Gödel](#capix)</span>
 
 <div style="text-align:center" markdown="1">
-![Gödel, Escher, Bach][GodelEscherBach-27_CapIX]{: width="50%"}
+![Gödel, Escher, Bach][GodelEscherBach-28_CapIX]{: width="50%"}
 </div>
 
 En la primera parte del capítulo se abordan el zen y los koans, y referencias a estos en pinturas de Escher, se trata de definir el zen, una arena movediza intelectual, anarquía, sin sentido, caos, jocoso, refrescante, seductor, y cómo conduce a problemas gödelianos, lo paradójico del zen, la consideración de los koans como disparadores del estado de perplejidad necesario, pero que no contienen información para infundir la iluminación, pero sí para activar los mecanismos internos del entendimiento que conducen a ella; se habla del maestro zen monje Mumon y su obra de recopilación, comentarios y poemas acerca de 48 koans y la búsqueda de la perplejidad y el apartamiento de la lógica para encontrar el camino a la iluminación; se menciona la definicón de iluminación, la lucha del zen contra el dualismo, las palabras, la categorización, subdivisión y percepción, se menciona el *ismo* como lo que persigue el zen y cómo la iluminación disuelve los límites entre el yo y el resto del universo; se manifiestan las limitaciones del zen y los métodos axiomáticos matemáticos y su relación con Tumbolia; en el capítulo se presentan varias imágenes de Escher y su relación y/o referencia al zen y koans, así como la hemiolia o ritmo o razón métrica típica de las obras musicales en las obras de Escher, se menciona la red de Indra budista. Después el capítulo continúa retomando los sistemas formales, el sistema MIU, se hace un resumen de sus símbolos, axioma y reglas, se evidencian propiedas aritméticas en este sistema formal, y se traducen sus reglas a nociones aritméticas, se introduce el concepto de Numeración Gödel para el sistema MIU, se traducen sus símbolos y reglas a números e interpretación gödeliana, se analiza la visión tipográfica y atirmética de este sistema formal y de las cosas, se establece la relación entre reglas tipográficas de un sistema formal y reglas aritméticas para operar con números, se habla de los números MUI producibles, se continúa usando el sistema formal TNT para estudiar y responder preguntas sobre los números producibles de un sistema formal mapeado a numeración gödel, se analiza la naturaleza dual o doble interpretación o "double entendre" de ciertas cadenas del sistema formal que representan postulados/afirmaciones/preguntas sobre cadenas/teoremas del mismo sistema formal, se habla de los códigos y la significación implícita; luego se pasa a numeración Gödel el sistema formal TNT, sus símbolos, codón y justificación mnemotécnica, se expone el *Dogma Central de la Lógica Matemática*, se menciona la cadena G autoreferencial que habla de sí misma en código, y que causa la incompletitud de TNT.
@@ -245,14 +252,14 @@ En la primera parte del capítulo se abordan el zen y los koans, y referencias a
 ### <span id="parteii">[Parte II: EGB](#parteii)</span>
 
 <div style="text-align:center" markdown="1">
-![Gödel, Escher, Bach][GodelEscherBach-28_ParteII]{: width="50%"}
+![Gödel, Escher, Bach][GodelEscherBach-29_ParteII]{: width="50%"}
 </div>
 
 
 #### <span id="preludio">[*Preludio y...*](#preludio)</span>
 
 <div style="text-align:center" markdown="1">
-![Gödel, Escher, Bach][GodelEscherBach-29_PreludioY]{: width="50%"}
+![Gödel, Escher, Bach][GodelEscherBach-30_PreludioY]{: width="50%"}
 </div>
 
 Aquiles, la Toruga, Cangrejo y el Oso Hormiguero se reúnen a tomar el té y a conversar en la casa del Cangrejo, la Tortuga y Aquiles le entregan al Cangrejo el obsequio de dos discos con el *Clavecín Bien Temperado* tocado por el propio JS Bach, restaurado de las moléculas de la atmósfera por medio de la técnica recuperación-acústica, una aplicación de la Conjetura de Fermat que tuvo repercusión importante fuera de las matemáticas; luego se charla de los "modos" de escuchar una fuga, como un todo o colección de partes, y la analogía con el grabado *Cubo con Cintas Mágicas* de MC Escher.
@@ -261,7 +268,7 @@ Aquiles, la Toruga, Cangrejo y el Oso Hormiguero se reúnen a tomar el té y a c
 #### <span id="capx">[Capítulo X: Niveles de descripción y sistemas de computadora](#capx)</span>
 
 <div style="text-align:center" markdown="1">
-![Gödel, Escher, Bach][GodelEscherBach-30_CapX]{: width="50%"}
+![Gödel, Escher, Bach][GodelEscherBach-31_CapX]{: width="50%"}
 </div>
 
 El capítulo empieza evidenciando los difererentes niveles de entidades como un organismo o una emisión de TV y acotando que el nivel de realidad depende del tipo de observador, luego analiza la forma en que perciben el ajedrez un maestro y un principiante, introduciendo la concepción de bloques y de patrones, se hace notar que puede haber diferentes niveles, algunos similares y por lo general un mismo lenguaje para describirlos, siendo fuente de ambigüedades/confusiones, continúa con una breve descripción de los componentes de una computadora (memoria, UCP, dispositivos de E/S), de cómo las palabras de la memoria pueden ser interpretadas de distintas formas, incluídas como instrucciones y datos, después siguen explicaciones del lenguaje de máquina y lenguaje ensamblador, la analogía con el TNT en numeración Gödel y el TNT original, los programas de traducción, siguiendo la idea de traducir programas se abordan los lenguajes de nivel superior, se retoman los conceptos anteriores del Capítulo V de "subrutinas" y "procedimientos", se mencionan los lenguajes Algol y Lisp, las diferencias entre compiladores e intérpretes, se mencionan diferentes niveles existentes para describir programas de procesamiento, como por ejemplo los diferentes niveles y forma en que se muestra un error de un programa, luego se menciona la microprogramación y los SO, y cómo se constituyen "amortiguadores" para el usuario; se aborda el asunto de flexibilidad y rigidez en las computadoras, se mencionan los comentarios y la rigídez en la intepretación del programa, de la posibilidad de extender el lenguaje para tener más tolerancia y anticiparse a las conjeturas del usuario, se mencionan los múltiples niveles intermedios de lenguajes que deberían existir en cuanto a IA, se distingue software y hardware, se expone el ejemplo del clima para hablar sobre los niveles intermedios, se toma el ejemplo de la física nuclear y los quarks para introducir los conceptos de "sistema cercano a la descomponibilidad" y "sistema cercano a la indescomponibilidad", se habla de la superconductividad, *fonones*, *polarones* y *pares de Cooper*, del "tabicamiento", o construcción del conocimiento y comprensión en bloques como en los submarinos, y el regateo entre articulación en bloques y determinismo, la refutación a la frase ampliamente difundida de Lady Lovelace "las computadoras sólo pueden hacer lo que se les indica que hagan", los dos tipos de sistemas construídos por muchas partes: donde un comportamiento de las partes se *invalida* y donde un solo hecho de nivel bajo puede ser *magnificado* por resonancia a un nivel alto, siendo la computadora una elaborada combinación de ambos tipos, se acotan los "epifenómenos", resultados o fenómenos que surgen del conjunto sin estar localizados puntualmente, finalmente se plantean cuestiones referentes al software-hardware que son la mente y el cerebro.
@@ -270,7 +277,7 @@ El capítulo empieza evidenciando los difererentes niveles de entidades como un 
 #### <span id="furmiga">[*... furmiga*](#furmiga)</span>
 
 <div style="text-align:center" markdown="1">
-![Gödel, Escher, Bach][GodelEscherBach-31_Furmiga]{: width="50%"}
+![Gödel, Escher, Bach][GodelEscherBach-32_Furmiga]{: width="50%"}
 </div>
 
 Al terminar el preludio y continuar la fuga, continúan la disquisición acerca de las ilustraciones de la edición ilustrada de la partitura del *Clavecín Bien Temperado* de Cangrejo, discuten acerca de MU, el holismo y el reduccionismo, el Dr. Oso Hormiguero brinda cátedra acerca de las entidades colonias de hormigas desde un punto de vista reduccionista, pero en realidad en su desarrollo apelando al holismo para entender una colonia como un ser inteligente; se habla de la compoisicón de las colonias, de las castas, los equipos, de los niveles señal y símbolo activo, se hacen compáraciones con el cerebro, neuronas y excitaciones de éstas, se menciona el comportamiento dotado de finalidad, se habla de los subsistemas activos y pasivos, del término "estado" para referirse al "estado cerebral" o a la "distribución de castas", la analogía con letras y palabras de una obra de Charles Dickens, se habla del punto de órgano y la *fermata* en la música y en las fugas, se habla de las colonias Madame Cologne d'Or Migas y Johormigann Sebastmigan Fermigat, de las cualidades matemáticas de JSF y la "Conjetura Bien Tanteada" de Fourmi, al final Aquiles logra captar el nuevo giro de la fuga.
@@ -279,7 +286,7 @@ Al terminar el preludio y continuar la fuga, continúan la disquisición acerca 
 #### <span id="capxi">[Capítulo XI: Cerebro y pensamiento](#capxi)</span>
 
 <div style="text-align:center" markdown="1">
-![Gödel, Escher, Bach][GodelEscherBach-32_CapXI]{: width="50%"}
+![Gödel, Escher, Bach][GodelEscherBach-33_CapXI]{: width="50%"}
 </div>
 
 Comienza el capítulo mencionando que desde el advenimiento de las computadoras se incrementaron los intentos de producir máquinas pensantes y entender el pensamiento/inteligencia/conciencia, se acotan las nociones de *intensionalidad* y *extensionalidad*, donde la intensionalidad es esa flexibilidad, propiedad y capacidad de los conceptos y descripciones para "flotar" y conformar mundos hipotéticos imaginarios, se describen las neuronas, el cerebro y sus estructuras mayores, se habla de la correspondencia físiológica entre cerebros de organismos de diferentes jerarquías, se exponen experimentos enfocados en localizar los procesos cerebrales, con resultados negativos como en el caso de las ratas, laberintos y la corteza cerebral de Karl Lashley, y con resultados positivos como en el caso de los pacientes humanos del neurocirujano Wilder Penfield; se habla del proceso visual y del ejemplo de "célula abuela", una neurona específica dedicada a reconocer a la abuela, para introducir la noción de localización de ideas o conceptos, se introduce el "embudamiento" de los procesos neurales y algunos pros y contras de esta teoría, se estudian los módulos o bloques que intervienen en los procesos del pensamiento y su tratamiento en adelante como *símbolos* activos; luego se analizan los conceptos de clases y casos / categorías e individuos / tipos y especímenes y prototipo, la separación y desenmarañamiento de los símbolos, las características hardware-software de los símbolos en el cerebro, se menciona que la "desprendibilidad" de la inteligencia, esto es, la capacidad de no depender ni estar ligada a un hardware físico específico, es una propiedad necesaria para tenerla en otros medios o tipos de hardware que no sea el cerebro mismo, se expone la noción y/o forma de aislar un símbolo, los símbolos en los insectos que no muestran inteligencia real como en el caso de las avispas Sphex, se expone la relación entre símbolos y mundos imaginarios, y las leyes intuitivas de la física y otras disciplinas que se tienen como representación en el cerebro, finalmente se explican los conocimientos declarativo y procedimental, y la imaginación visual.
@@ -288,7 +295,7 @@ Comienza el capítulo mencionando que desde el advenimiento de las computadoras 
 #### <span id="suite">[*Suite anglofrancogermanicoespañola*](#suite)</span>
 
 <div style="text-align:center" markdown="1">
-![Gödel, Escher, Bach][GodelEscherBach-33_SuiteAngloFrancoGermanicoEspaniola]{: width="50%"}
+![Gödel, Escher, Bach][GodelEscherBach-34_SuiteAngloFrancoGermanicoEspaniola]{: width="50%"}
 </div>
 
 Un poema de Lewis Carroll en cuatro idiomas acerca de la derrota del Galimatazo.
@@ -297,7 +304,7 @@ Un poema de Lewis Carroll en cuatro idiomas acerca de la derrota del Galimatazo.
 #### <span id="capxii">[Capítulo XII: Mente y pensamiento](#capxii)</span>
 
 <div style="text-align:center" markdown="1">
-![Gödel, Escher, Bach][GodelEscherBach-34_CapXII]{: width="50%"}
+![Gödel, Escher, Bach][GodelEscherBach-35_CapXII]{: width="50%"}
 </div>
 
 Se plantea si hay una correspondencia o similitud entre las mentes, indicando que si bien encontrar mentes de personas o estados cerebrales en la misma persona iguales es imposible, hay isomorfismos parciales, como el repertorio de símbolos y los patrones de desencadenamiento, se alude a la complejidad para comparar y encontrar isomorfismos parciales en estructuras tipo red semántica o telaraña, y la observación de atributos localizados y globales, luego se retoma el poema "Jabberwocky", sus peculiaridades y dificultades al traducirlo, y el tipo de isomorfismos que son evidentes, a pesar de que los lectores tienen cerebros diferentes, debido a isomorfismos globales y locales entre los lectores de las diferentes versiones.
@@ -312,7 +319,7 @@ Se abordan los conceptos de conciencia, yo, y "subsistema"; al final se muestra 
 #### <span id="aria">[*Aria con variaciones diversas*](#aria)</span>
 
 <div style="text-align:center" markdown="1">
-![Gödel, Escher, Bach][GodelEscherBach-35_AriaVariacionesDiversas]{: width="50%"}
+![Gödel, Escher, Bach][GodelEscherBach-36_AriaVariacionesDiversas]{: width="50%"}
 </div>
 
 Aquiles padece de insomnio y llama a Tortuga que lo entretiene con teoría de números, la conjetura de Goldbach y los numeros *(in-)maravillosos*. Al final le agradece, le regala la caja de oro asiática y la policía hace una redada.
@@ -321,7 +328,7 @@ Aquiles padece de insomnio y llama a Tortuga que lo entretiene con teoría de n�
 #### <span id="capxiii">[Capítulo XIII: BuD y BuL y BuM](#capxiii)</span>
 
 <div style="text-align:center" markdown="1">
-![Gödel, Escher, Bach][GodelEscherBach-36_CapXIII]{: width="50%"}
+![Gödel, Escher, Bach][GodelEscherBach-37_CapXIII]{: width="50%"}
 </div>
 
 Se menciona que ésos son lengajes de computadora diseñados para entender las recursividades *primitiva* y *generalizada*, que serán necesarias para esclarecer la autorreferencia; se examinará la autoconciencia en ámbitos de sistemas formales, orden vs. caos, mención a "teoría recursiva de la función".
@@ -348,7 +355,7 @@ Relación entre teoría de los números y teoría de las funciones computables, 
 #### <span id="aire">[*Aire en la cuerda de G*](#aire)</span>
 
 <div style="text-align:center" markdown="1">
-![Gödel, Escher, Bach][GodelEscherBach-37_AireCuerdaG]{: width="50%"}
+![Gödel, Escher, Bach][GodelEscherBach-38_AireCuerdaG]{: width="50%"}
 </div>
 
 Aquiles y Tortuga visitan un patio tipo "Arriba y abajo", y para subir las escaleras en espiral de la torre, utilizan la técnica de uno de ellos deslizarse al otro lado de la escalera, evocando "Cinta de Moebius II" (Pág. 306). Luego se pone de manifiesto la distinción *USO-MENCIÓN*. Se introduce la operación "quinerear una frase", y se retorna al tema incial de la llamada obscena recibida a media noche por Aquiles.
@@ -357,7 +364,7 @@ Aquiles y Tortuga visitan un patio tipo "Arriba y abajo", y para subir las escal
 #### <span id="capxiv">[Capítulo XIV: Sobre proposiciones formalmente indecidibles de TNT y sistemas afines](#capxiv)</span>
 
 <div style="text-align:center" markdown="1">
-![Gödel, Escher, Bach][GodelEscherBach-38_CapXIV]{: width="50%"}
+![Gödel, Escher, Bach][GodelEscherBach-39_CapXIV]{: width="50%"}
 </div>
 
 El trabajo de Gödel es de índole técnica, dirigido a que su demostración fuese hermética y rigurosa; este capítulo, en cambio, será más intuitivo, y hará énfasis en las dos ideas claves que constituyen el corazón de la demostración. La primera idea clave es el profundo descubrimiento de que hay cadenas de TNT de las cuales se puede interpretar que hablan de otras cadenas de TNT; en síntesis, que TNT, en tanto que lenguaje, es capaz de "introspección", o de autoanálisis. De aquí proviene la numeración Gödel. La segunda idea clave consiste en que la propiedad de autoanálisis puede estar totalmente circunscrita a una cadena en particular, de manera que el único foco de atención de tal cadena sea ella misma. Este "recurso de focalización" reaparece, en esencia, en el método diagonal de Cantor.
@@ -390,7 +397,7 @@ Sólo se aparta de la teoría habitual de los números en la forma en que maneja
 #### <span id="cantatatata">[*Cantatatata... de cumpleaños*](#cantatatata)</span>
 
 <div style="text-align:center" markdown="1">
-![Gödel, Escher, Bach][GodelEscherBach-39_CantatatataCumpleanios]{: width="50%"}
+![Gödel, Escher, Bach][GodelEscherBach-40_CantatatataCumpleanios]{: width="50%"}
 </div>
 
 Tortuga y Aquiles se encuentran en el bosque, Aquiles va cantando alegre porque es su cumpleaños, el diálogo transcurre Tortuga interrogando consecutivamente a Aquiles, tratando de demostrar si es su cumpleaños. Se mencionan Esquemas de Respuesta, Brincos Fuera del sistema.
@@ -401,7 +408,7 @@ A decir verdad, Aquiles, Ud. es en mi opinión un verdadero titán en el arte de
 #### <span id="capxv">[Capítulo XV: Brincos fuera del sistema](#capxv)</span>
 
 <div style="text-align:center" markdown="1">
-![Gödel, Escher, Bach][GodelEscherBach-40_CapXV]{: width="50%"}
+![Gödel, Escher, Bach][GodelEscherBach-41_CapXV]{: width="50%"}
 </div>
 
 Quizá podría desarrollarse un sistema formal superior a TNT, el cual evadiría el ardid gödeliano, y el Teorema de Gödel, entonces, vería debilitada la eficacia de su aguijón. Si el problema básico de TNT es que contiene un "agujero" -en otras palabras, una oración que es indecidible, a saber, G- entonces, ¿por qué, simplemente, no obturar el agujero? ¿Por qué no añadir G a TNT como sexto axioma?
@@ -444,7 +451,7 @@ Es posible, inclusive, que la autotrascendencia sea el tema central del zen. En 
 #### <span id="pensamientosfumador">[*Pensamientos edificantes de un fumador de tabaco*](#pensamientosfumador)</span>
 
 <div style="text-align:center" markdown="1">
-![Gödel, Escher, Bach][GodelEscherBach-41_PensamientosEdificantesFumadorTabaco]{: width="50%"}
+![Gödel, Escher, Bach][GodelEscherBach-42_PensamientosEdificantesFumadorTabaco]{: width="50%"}
 </div>
 
 Tanto Magritte como Escher emplean gran realismo al explorar los mundos de la paradoja y la ilusión; ambos tienen un gran sentido del poder evocativo de ciertos símbolos visuales, y --algo que incluso sus admiradores son incapaces de advertir-- ambos tienen gran sentido de la gracia del trazo.
@@ -457,7 +464,7 @@ Hmm... eso me recuerda algo que el Sr. Tortuga dijo hace tiempo acerca de que la
 #### <span id="capxvi">[Capítulo XVI: Autorref y Autorrep](#capxvi)</span>
 
 <div style="text-align:center" markdown="1">
-![Gödel, Escher, Bach][GodelEscherBach-42_CapXVI]{: width="50%"}
+![Gödel, Escher, Bach][GodelEscherBach-43_CapXVI]{: width="50%"}
 </div>
 
 Las secuencias de palabras constituyen esa parte visible, mientras que la invisible consiste en el procesamiento necesario para comprenderlas. En este sentido su significación es implícita, no explícita. Lo que es especialmente importante es la capacidad de determinar el referente de una frase nominal que contenga un adjetivo demostrativo.
@@ -564,7 +571,7 @@ Por el momento, debemos conformarnos con un sentimiento de asombro y de reverenc
 #### <span id="magnificangrejorealidad">[*El Magnificangrejo, en realidad*](#magnificangrejorealidad)</span>
 
 <div style="text-align:center" markdown="1">
-![Gödel, Escher, Bach][GodelEscherBach-43_MagnificangrejoRealidad]{: width="50%"}
+![Gödel, Escher, Bach][GodelEscherBach-44_MagnificangrejoRealidad]{: width="50%"}
 </div>
 
 Aquiles, Tortuga y Cangrejo se encuentran de camino a la casa de té en la cima del cerro, de la carta del matemático indio Nayunamar, de la interpretación de TNT como notas musicales, mención al músico John Cage, del enunciado TNT musical propuesto por Aquiles que Cangrejo finalmente escapa de tocar en su flauta.
@@ -597,7 +604,7 @@ Oh, sí. De hecho, es un té primo.
 #### <span id="capxvii">[Capítulo XVII: Church, Turing, Tarski y otros](#capxvii)</span>
 
 <div style="text-align:center" markdown="1">
-![Gödel, Escher, Bach][GodelEscherBach-44_CapXVII]{: width="50%"}
+![Gödel, Escher, Bach][GodelEscherBach-45_CapXVII]{: width="50%"}
 </div>
 
 la de que todos los aspectos del pensamiento pueden ser vistos como una descripción de alto nivel de un sistema que, en un bajo nivel, es gobernado por reglas simples e, inclusive, formales.
@@ -726,7 +733,7 @@ Tal resolución involucra el abandono de la noción de que el cerebro puede apor
 #### <span id="SHRDLUJugueteriaHombre">[*SHRDLU, juguetería del hombre*](#SHRDLUJugueteriaHombre)</span>
 
 <div style="text-align:center" markdown="1">
-![Gödel, Escher, Bach][GodelEscherBach-45_SHRDLUJugueteriaHombre]{: width="50%"}
+![Gödel, Escher, Bach][GodelEscherBach-46_SHRDLUJugueteriaHombre]{: width="50%"}
 </div>
 
 *Tigera se asoma por sobre su hombro y proporciona, según lo prometido, una especie de comentario sobre la marcha.*
@@ -757,7 +764,7 @@ Tal resolución involucra el abandono de la noción de que el cerebro puede apor
 #### <span id="capxviii">[Capítulo XVIII: Inteligencia Artificial: mirada retrospectiva](#capxviii)</span>
 
 <div style="text-align:center" markdown="1">
-![Gödel, Escher, Bach][GodelEscherBach-46_CapXVIII]{: width="50%"}
+![Gödel, Escher, Bach][GodelEscherBach-47_CapXVIII]{: width="50%"}
 </div>
 
 donde inventa la teoría de las máquinas Turing y demuestra el carácter irresoluble del problema de la detención.
@@ -966,7 +973,7 @@ A causa de que es muy poco lo que sabemos de la inteligencia natural, nos es dif
 #### <span id="Contrafactus">[*Contrafactus*](#Contrafactus)</span>
 
 <div style="text-align:center" markdown="1">
-![Gödel, Escher, Bach][GodelEscherBach-47_Contrafactus]{: width="50%"}
+![Gödel, Escher, Bach][GodelEscherBach-48_Contrafactus]{: width="50%"}
 </div>
 
 Supuestamente Cangrejo, Aquiles, Tortuga y Sr. Perezoso se reúnen en casa para ver el partido de fútbol en TV. Se habla de la Subjun-TV, de las contrafácticas, del "casi", del modo subjuntivo.
@@ -1022,7 +1029,7 @@ Oh, bueno, eso no tiene ninguna importancia, en el hockey sobre vapor pentadimen
 #### <span id="capxix">[Capítulo XIX: Inteligencia Artificial: mirada prospectiva](#capxix)</span>
 
 <div style="text-align:center" markdown="1">
-![Gödel, Escher, Bach][GodelEscherBach-48_CapXIX]{: width="50%"}
+![Gödel, Escher, Bach][GodelEscherBach-49_CapXIX]{: width="50%"}
 </div>
 
 A través de la reflexión cotidiana, constantemente estamos elaborando variantes mentales de las situaciones con que nos enfrentamos, de las ideas que se nos presentan o de los hechos que suceden; dejamos intocados algunos rasgos, pero otros los "retocamos".
@@ -1315,7 +1322,7 @@ Y, tal vez, nadie llegue a comprender jamás los misterios de la inteligencia y 
 #### <span id="CanonPerezoso">[*Canon perezoso*](#CanonPerezoso)</span>
 
 <div style="text-align:center" markdown="1">
-![Gödel, Escher, Bach][GodelEscherBach-49_CanonPerezoso]{: width="50%"}
+![Gödel, Escher, Bach][GodelEscherBach-50_CanonPerezoso]{: width="50%"}
 </div>
 
 Aquiles y Tortuga visitan la morada de Sr. Perezoso; Aquiles cuenta las dos carreras con Tortuga, en la que lo alcanzó y en la que no, Aquiles toca el piano con teclas invertidas.
@@ -1326,7 +1333,7 @@ Las notas altas están a la izquierda y las notas bajas están a la derecha. Cad
 #### <span id="capxx">[Capítulo XX: Bucles Extraños o Jerarquías Enredadas](#capxx)</span>
 
 <div style="text-align:center" markdown="1">
-![Gödel, Escher, Bach][GodelEscherBach-50_CapXX]{: width="50%"}
+![Gödel, Escher, Bach][GodelEscherBach-51_CapXX]{: width="50%"}
 </div>
 
 Hay, y lógicamente deberá seguirlo habiendo, una completa separación entre *(i)* toda extensión y elaboración sustancial en este proceso de concreción de los anhelos humanos, y *(ii)* el desarrollo en el interior de la máquina, de una voluntad propia. Creer otra cosa es confiar en la magia, o suponer que la existencia de la voluntad humana es una ilusión, y que las acciones humanas son tan mecánicas como las de la máquina.
@@ -1511,17 +1518,143 @@ Y es por tal razón que Gödel, Escher y Bach constituyen en este libro las tres
 #### <span id="RicercarSeisVoces">[*Ricercar a seis voces*](#RicercarSeisVoces)</span>
 
 <div style="text-align:center" markdown="1">
-![Gödel, Escher, Bach][GodelEscherBach-51_RicercarSeisVoces]{: width="50%"}
+![Gödel, Escher, Bach][GodelEscherBach-52_RicercarSeisVoces]{: width="50%"}
 </div>
 
-.
+Me las puedo arreglar perfectamente sin tal programa.
+
+Es un régimen estricto, pero da sus frutos.
+
+Encuentro que un poco por aquí y un poco por allá me mantiene en forma para tocar el violín.
+
+Simplemente digamos que Ud. tiene una manera especial de escuchar música.
+
+Esperaba que un pianista amigo mío apareciera y tocara el continuo.
+
+Desgraciadamente, no conozco a nadie que sea un verdadero virtuoso.
+
+¡Podría dar la impresión de ser una persona más!
+
+En todo caso, hacia el final del ya mencionado Diálogo, cierto personaje sumamente gracioso cita a Marvin Minsky en relación al problema del libre albedrío. Poco después, mientras interactúa con otros dos personajes, este gracioso personaje cita nuevamente a Minsky en relación a la improvisación musical, el lenguaje de computadora Lisp, y el Teorema de Gödel -y escuche esto- ¡todo esto sin darle ni una pizca de crédito a Minsky!
+
+"Cuando sean construidas las máquinas inteligentes, no deberíamos sorprendernos de hallarlas tan confusas y obstinadas como los hombres en sus convicciones en materia de mente, conciencia, libre albedrío, y asuntos por el estilo."
+
+¡Me gusta eso! Es un pensamiento muy gracioso. ¡Un autómata pensando que tiene albedrío! ¡Eso es casi tan tonto como si yo pensara que no tengo libre albedrío!
+
+Supongo que tales fantasías las tiene toda persona normal de vez en cuando.
+
+Pero- pero- ¡no! Tal vez el artículo del Sr. C y mi perorata respondan, ambos, a una determinación mecanicista, pero me niego a aceptarlo. Puedo aceptar el determinismo físico, ¡pero no puedo aceptar la idea de que yo sea sólo una ficción dentro de la mente de algún otro!
+
+Realmente no importa si acaso Ud. tiene un *hardware* cerebral, Aquiles. Su libre albedrío puede ser igualmente libre, si su cerebro es sólo un pedazo de *software* dentro del *hardware* cerebral de algún otro. Y el cerebro de éste también podría ser el *software* de un cerebro superior...
+
+Y, sin embargo, debo admitir que gozo tratando de hallar los vacíos astutamente ocultos en su sofistería, de modo que siga adelante.
+
+Bueno, bueno -es verdad. Tiene Ud. una mente tan aguda. Yo nunca hubiera pensado en formular los hechos tan concisamente.
+
+Nada de trucos, Aquiles, ni nada de espejos: solamente el trabajo de un laborioso Autor.
+
+*Voilá*
+
+Oh, aquí somos muy tolerantes, pues somos únicamente aficionados.
+
+O despertar de lo que uno consideraba que era la vida real, y descubrir que eso también era sólo un sueño. Eso podría suceder una y otra vez nuevamente, sin que nadie pudiera decir cuándo terminaría.
+
+Van a la misma parte donde van los hipos cuando Ud. se deshace de ellos: Tumbolia. Tanto los hipos como los seres soñados son *software* suborgánicos que existen gracias a la biología del organismo anfitrión externo. El organismo anfitrión les sirve como escenario -o incluso como su universo. Ellos representan sus vidas por un tiempo -pero cuando el organismo anfitrión experimenta un gran cambio de estado -por ejemplo, despierta- entonces los suborganismos pierden su coherencia, y dejan de existir como unidades identificables separadas.
+
+Sin embargo, precisamente como esos castillos de arena que Ud. describió, todo aquello que les dio forma sigue presente.
+
+No puedo negar su sensación al respecto, pero recuerde que los seres soñados, aunque son sólo apariciones *software*, tienen la misma sensación que Ud., ni más ni menos.
+
+*Depronto, dirigiéndose a los músicos allí reunidos, les dice con acento de cierta agitación:*
+
+Y nunca se repiten exactamente, o siquiera se asemejan a las que giraban antes. Parece una fuente inagotable de belleza.
+
+Algunas son simples patrones que deslumbran a la vista; otras son convoluciones indescriptiblemente complejas que confunden y, sin embargo, simultáneamente deleitan la mente.
+
+¡Oh, qué colores más espectaculares! ¡Ahora pareciera como si alguno**s** de los patrones se me viniera**n** encima!
+
+[... el filósofo Le Mettrie] Fue un Campoeón del Materialismo. En 1747, estando en la corte de Federico el Grande, escribió un libro llamado *L'homme machine*. En él, habla acerca del hombre como una máquina, especialmente de sus facultades mentales. Ahora bien, mi Tema ha surgido de mis reflexiones acerca de la otra cara de la moneda: ¿qué hay de imbuir a una máquina con facultades mentales humanas, tales como la inteligencia?
+
+Mi punto fuerte parece consistir, sencillamente, en que soy capaz de formular Temas cuyo potencial de desarrollo queda más allá de mi propia capacidad.
+
+¿De qué otra forma podría ser llamado esto, sino una fuga ajedrecística a tres voces?
+
+Oh, ¡que *recherché*!
+
+*Sopla sus dedos una o dos veces, fija su vista en el vacío por un momento, y luego lentamente, deja caer sus dedos sobre el teclado...*
+
+Mi esfuerzo más ambicioso en este programa fue dotar a Alan Turing con seis veces mi propia habilidad musical, aunque todo ello fue hecho a través de reglas internamente codificadas. No sé cómo funcionará esta parte del programa.
+
+La memoria a menudo juega extraños trucos. Piense en esto: yo podría sugerir igualmente bien que Ud. ha sido dotado de existencia sólo hace un minuto, y que toda su recolección de experiencias le ha sido simplemente programada por algún otro ser, y no corresponde a eventos reales.
+
+*in promptu*
+
+*Aquiles:* ... Sr. Babbage: ¿tiene Ud. libre albedrío, o está Ud. gobernado por leyes subyacentes que le hacen ser, en efecto, un autómata determinista?
+*Babbage:* Ciertamente se trata de lo último; y no tengo inconveniente en decirlo.
+
+... Turing ha resultado ser un poquito más beligerante y dado a polemizar de lo que yo suponía.
+... Babbage ha resultado ser un poquito más beligerante y dado a polemizar de lo que yo suponía.
+
+... de esta forma, pueden decidir Uds. sin prejuicio cuál de nosotros fue programado y cuál el programador.
+
+Es famoso por su objetividad y sabiduría.
+
+ESE NO ES UN SONETO; ESE ES UN SIMPLE *LIMERICK*. YO NUNCA HUBIERA COMETIDO UN ERROR TAN INFANTIL.
+
+NO SE REQUIERE GRAN HABILDAD POÉTICA PARA CONOCER LA DIFERENCIA ENTRE UN *LIMERICK* Y UN SONETO.
+
+FRANCAMENTE, PREFERIRÍA SER COMPARADO CON UN HIPO, AUNQUE CAMBIA EL ESCANDIDO.
+
+Y "UN DÍA INVERNAL"? EL ESCANDIDO COINCIDE PERFECTAMENTE.
+
+https://dle.rae.es/escandir escandir Medir el verso, contar el número de pies o de sílabas de que consta.
+
+... Es evidente que la pantalla X sólo está respondiendo mecánicamente, de modo que tiene que ser Turing.
+
+No estoy seguro de quién está en cuál -pienso que ambos son programas bastante inescrutables, por cierto.
+
+La idea más importate es que debe haber un tema individual que es enunciado, al entrar, por cada "voz" o personaje diferente, tal como en una fuga musical. Luego ellos pueden desviarse hacia una conversación más libre.
+
+Existen recursos fugales tales como movimiento retrógrado, inversión, aumentación, stretto y otros más, pero uno puede escribir una fuga sin ellos.
+
+La elección de recursos hace la diferencia, en todo caso.
+
+Encuentro este comentario un tanto elusivo, francamente.
+
+Al igual que Bach, yo gozo con los acrónimos. Recursivos Acrónimos Cangrejiformes -"RACRECIR" Especialmente- Crean Infinitas Regresiones.
+
+*stretto*
+
+Vea, la autorreferencia del Diálogo es indirecta, y depende del lector conectar la forma y el contenido de lo que está leyendo.
+
+La idea es imitar la construcción autorreferencial de Gödel, la cual como Ud. sabe es INDIRECTA, y depende del isomorfismo establecido por la numeración de Gödel.
+
+Bueno, en el lenguaje de programación Lisp, Ud. puede hablar acerca de su propio programa directamente, en lugar de indirectamente, porque los programas y los datos tienen exactamente la misma forma.
+
+Me refiero a que debería haber formalizado las citas. ¡Con un lenguaje capaz de hablar acerca de sí mismo, la demostración de su Teorema hubiera sido mucho más simple!
+
+Entiendo a qué se refiere, pero no estoy de acuerdo con el espítiru de sus observaciones. Toda la gracia de la numeración de Gödel es que demuestra cómo, aun SIN formalizar las citas, uno puede obtener autorreferencia: a través de un código. Mientras que al oírlo hablar a USTED uno podría tener la impresión de que al formalizar las citas, uno obtendría algo NUEVO, algo que no era factible a través del código -lo cual no es el caso. En todo caso, encuentro que la autorreferencia indirecta es un concepto más general, y mucho más estimulante que la autorreferencia directa. Aún más, ninguna referencia es verdaderamente directa -toda referencia depende de ALGUNA clase de esquema de codificación. Es simplemente una cuestión de cuán implícita es. Por eso, ninguna autorreferencia es directa, ni siquiera en Lisp.
+
+Por ejemplo, cuando escucho grabaciones de mí mismo, descubro que hay un montón de cosas de las que no me daba cuenta mientras improvisaba... Quizás ser un buen improvisador es incompatible con saber  cómo uno lo hace.
+
+Si eso es verdad, entonces sería una interesante y fundamental limitación de los procesos de pensamiento.
+
+Me agrada que haya añadido esa pequeña nota entre paréntesis; es un mordente...
+
+Además de trucos estructurales reiterados.
+
+Me las podría arreglar perfectamente con tal programa.
+
+Reincorporad Introducción: Canon Eternamente Remontante Creareís Anteponiendo RICERCAR.
 
 
-### <span id="notas">[Notas](#notas)</span>
+### <span id="ListaIlustraciones">[*Lista de ilustraciones*](#ListaIlustraciones)</span>
 
 <div style="text-align:center" markdown="1">
-![Gödel, Escher, Bach][GodelEscherBach-52_Notas]{: width="50%"}
+![Gödel, Escher, Bach][GodelEscherBach-53_ListaIlustraciones]{: width="50%"}
 </div>
+
+*Cubierta:* una tripleta "GEB" y otra "EGB" suspendidas en el espacio, arrojando su sombra simbólica sobre tres planos que se encuentran entre sí en el rincón de un cuarto.
 
 
 
@@ -1780,57 +1913,58 @@ retruécano, paráfrasis, holismo, reduccionismo, marrullería, aberrante, **con
 [GEBen_pdf]: {{ site.baseurl }}/assets/GEBen.pdf
 
 [GodelEscherBach_firstedition]: {{ site.baseurl }}/assets/GodelEscherBach_firstedition.jpg "Gödel, Escher, Bach (first edition)"
-[GodelEscherBach_front]: {{ site.baseurl }}/assets/GodelEscherBach_front.jpg "Gödel, Escher, Bach"
+[GodelEscherBach_front]: {{ site.baseurl }}/assets/GodelEscherBach_front.jpg "Gödel, Escher, Bach (portada)"
 [GodelEscherBach_back]: {{ site.baseurl }}/assets/GodelEscherBach_back.jpg "Gödel, Escher, Bach (contraportada)"
 [GodelEscherBach-01_Indice1]: {{ site.baseurl }}/assets/GodelEscherBach-01_Indice1.jpg "Gödel, Escher, Bach (Índice 1)"
-[GodelEscherBach-02_Indice2]: {{ site.baseurl }}/assets/GodelEscherBach-02_Indice2.jpg "Gödel, Escher, Bach (Índice 1)"
-[GodelEscherBach-03_VisionPanoramica]: {{ site.baseurl }}/assets/GodelEscherBach-03_VisionPanoramica.jpg "Gödel, Escher, Bach (Índice 1)"
-[GodelEscherBach-04_HistoriaTraduccionCastellano]: {{ site.baseurl }}/assets/GodelEscherBach-04_HistoriaTraduccionCastellano.jpg "Gödel, Escher, Bach (Índice 1)"
-[GodelEscherBach-05_PalabrasAgradecimiento]: {{ site.baseurl }}/assets/GodelEscherBach-05_PalabrasAgradecimiento.jpg "Gödel, Escher, Bach (Índice 1)"
-[GodelEscherBach-06_ParteI]: {{ site.baseurl }}/assets/GodelEscherBach-06_ParteI.jpg "Gödel, Escher, Bach (Índice 1)"
-[GodelEscherBach-07_JohannSebastianBach]: {{ site.baseurl }}/assets/GodelEscherBach-07_JohannSebastianBach.jpg "Gödel, Escher, Bach (Índice 1)"
-[GodelEscherBach-08_Introduccion]: {{ site.baseurl }}/assets/GodelEscherBach-08_Introduccion.jpg "Gödel, Escher, Bach (Índice 1)"
-[GodelEscherBach-09_KurtGodel]: {{ site.baseurl }}/assets/GodelEscherBach-09_KurtGodel.jpg "Gödel, Escher, Bach (Índice 1)"
-[GodelEscherBach-10_InvencionTresVoces]: {{ site.baseurl }}/assets/GodelEscherBach-10_InvencionTresVoces.jpg "Gödel, Escher, Bach (Índice 1)"
-[GodelEscherBach-11_CapI]: {{ site.baseurl }}/assets/GodelEscherBach-11_CapI.jpg "Gödel, Escher, Bach (Cap I)"
-[GodelEscherBach-12_InvencionDosVoces]: {{ site.baseurl }}/assets/GodelEscherBach-12_InvencionDosVoces.jpg "Gödel, Escher, Bach (Índice 1)"
-[GodelEscherBach-13_CapII]: {{ site.baseurl }}/assets/GodelEscherBach-13_CapII.jpg "Gödel, Escher, Bach (Cap II)"
-[GodelEscherBach-14_SonataAquilesSolo]: {{ site.baseurl }}/assets/GodelEscherBach-14_SonataAquilesSolo.jpg "Gödel, Escher, Bach (Índice 1)"
-[GodelEscherBach-15_CapIII]: {{ site.baseurl }}/assets/GodelEscherBach-15_CapIII.jpg "Gödel, Escher, Bach (Cap III)"
-[GodelEscherBach-16_ContraCrostipunctus]: {{ site.baseurl }}/assets/GodelEscherBach-16_ContraCrostipunctus.jpg "Gödel, Escher, Bach (Índice 1)"
-[GodelEscherBach-17_CapIV]: {{ site.baseurl }}/assets/GodelEscherBach-17_CapIV.jpg "Gödel, Escher, Bach (Cap IV)"
-[GodelEscherBach-18_PequenioLaberintoArmonico]: {{ site.baseurl }}/assets/GodelEscherBach-18_PequenioLaberintoArmonico.jpg "Gödel, Escher, Bach (Índice 1)"
-[GodelEscherBach-19_CapV]: {{ site.baseurl }}/assets/GodelEscherBach-19_CapV.jpg "Gödel, Escher, Bach (Cap V)"
-[GodelEscherBach-20_CanonAumentacionIntervalica]: {{ site.baseurl }}/assets/GodelEscherBach-20_CanonAumentacionIntervalica.jpg "Gödel, Escher, Bach (Índice 1)"
-[GodelEscherBach-21_CapVI]: {{ site.baseurl }}/assets/GodelEscherBach-21_CapVI.jpg "Gödel, Escher, Bach (Cap VI)"
-[GodelEscherBach-22_FantasiaCromaticaFuria]: {{ site.baseurl }}/assets/GodelEscherBach-22_FantasiaCromaticaFuria.jpg "Gödel, Escher, Bach (Índice 1)"
-[GodelEscherBach-23_CapVII]: {{ site.baseurl }}/assets/GodelEscherBach-23_CapVII.jpg "Gödel, Escher, Bach (Cap VII)"
-[GodelEscherBach-24_CanonCangrejo]: {{ site.baseurl }}/assets/GodelEscherBach-24_CanonCangrejo.jpg "Gödel, Escher, Bach (Índice 1)"
-[GodelEscherBach-25_CapVIII]: {{ site.baseurl }}/assets/GodelEscherBach-25_CapVIII.jpg "Gödel, Escher, Bach (Cap VIII)"
-[GodelEscherBach-26_UnaOfrendaMU]: {{ site.baseurl }}/assets/GodelEscherBach-26_UnaOfrendaMU.jpg "Gödel, Escher, Bach (Índice 1)"
-[GodelEscherBach-27_CapIX]: {{ site.baseurl }}/assets/GodelEscherBach-27_CapIX.jpg "Gödel, Escher, Bach (Cap IX)"
-[GodelEscherBach-28_ParteII]: {{ site.baseurl }}/assets/GodelEscherBach-28_ParteII.jpg "Gödel, Escher, Bach (Índice 1)"
-[GodelEscherBach-29_PreludioY]: {{ site.baseurl }}/assets/GodelEscherBach-29_PreludioY.jpg "Gödel, Escher, Bach (Índice 1)"
-[GodelEscherBach-30_CapX]: {{ site.baseurl }}/assets/GodelEscherBach-30_CapX.jpg "Gödel, Escher, Bach (Cap X)"
-[GodelEscherBach-31_Furmiga]: {{ site.baseurl }}/assets/GodelEscherBach-31_Furmiga.jpg "Gödel, Escher, Bach (Índice 1)"
-[GodelEscherBach-32_CapXI]: {{ site.baseurl }}/assets/GodelEscherBach-32_CapXI.jpg "Gödel, Escher, Bach (Cap XI)"
-[GodelEscherBach-33_SuiteAngloFrancoGermanicoEspaniola]: {{ site.baseurl }}/assets/GodelEscherBach-33_SuiteAngloFrancoGermanicoEspaniola.jpg "Gödel, Escher, Bach (Índice 1)"
-[GodelEscherBach-34_CapXII]: {{ site.baseurl }}/assets/GodelEscherBach-34_CapXII.jpg "Gödel, Escher, Bach (Cap XII)"
-[GodelEscherBach-35_AriaVariacionesDiversas]: {{ site.baseurl }}/assets/GodelEscherBach-35_AriaVariacionesDiversas.jpg "Gödel, Escher, Bach (Índice 1)"
-[GodelEscherBach-36_CapXIII]: {{ site.baseurl }}/assets/GodelEscherBach-36_CapXIII.jpg "Gödel, Escher, Bach (Cap XIII)"
-[GodelEscherBach-37_AireCuerdaG]: {{ site.baseurl }}/assets/GodelEscherBach-37_AireCuerdaG.jpg "Gödel, Escher, Bach (Índice 1)"
-[GodelEscherBach-38_CapXIV]: {{ site.baseurl }}/assets/GodelEscherBach-38_CapXIV.jpg "Gödel, Escher, Bach (Cap XIV)"
-[GodelEscherBach-39_CantatatataCumpleanios]: {{ site.baseurl }}/assets/GodelEscherBach-39_CantatatataCumpleanios.jpg "Gödel, Escher, Bach (Índice 1)"
-[GodelEscherBach-40_CapXV]: {{ site.baseurl }}/assets/GodelEscherBach-40_CapXV.jpg "Gödel, Escher, Bach (Cap XV)"
-[GodelEscherBach-41_PensamientosEdificantesFumadorTabaco]: {{ site.baseurl }}/assets/GodelEscherBach-41_PensamientosEdificantesFumadorTabaco.jpg "Gödel, Escher, Bach (Índice 1)"
-[GodelEscherBach-42_CapXVI]: {{ site.baseurl }}/assets/GodelEscherBach-42_CapXVI.jpg "Gödel, Escher, Bach (Cap XVI)"
-[GodelEscherBach-43_MagnificangrejoRealidad]: {{ site.baseurl }}/assets/GodelEscherBach-43_MagnificangrejoRealidad.jpg "Gödel, Escher, Bach (Índice 1)"
-[GodelEscherBach-44_CapXVII]: {{ site.baseurl }}/assets/GodelEscherBach-44_CapXVII.jpg "Gödel, Escher, Bach (Cap XVII)"
-[GodelEscherBach-45_SHRDLUJugueteriaHombre]: {{ site.baseurl }}/assets/GodelEscherBach-45_SHRDLUJugueteriaHombre.jpg "Gödel, Escher, Bach (Índice 1)"
-[GodelEscherBach-46_CapXVIII]: {{ site.baseurl }}/assets/GodelEscherBach-46_CapXVIII.jpg "Gödel, Escher, Bach (Cap XVIII)"
-[GodelEscherBach-47_Contrafactus]: {{ site.baseurl }}/assets/GodelEscherBach-47_Contrafactus.jpg "Gödel, Escher, Bach (Índice 1)"
-[GodelEscherBach-48_CapXIX]: {{ site.baseurl }}/assets/GodelEscherBach-48_CapXIX.jpg "Gödel, Escher, Bach (Cap XIX)"
-[GodelEscherBach-49_CanonPerezoso]: {{ site.baseurl }}/assets/GodelEscherBach-49_CanonPerezoso.jpg "Gödel, Escher, Bach (Índice 1)"
-[GodelEscherBach-50_CapXX]: {{ site.baseurl }}/assets/GodelEscherBach-50_CapXX.jpg "Gödel, Escher, Bach (Cap XX)"
-[GodelEscherBach-51_RicercarSeisVoces]: {{ site.baseurl }}/assets/GodelEscherBach-51_RicercarSeisVoces.jpg "Gödel, Escher, Bach (Índice 1)"
-[GodelEscherBach-52_Notas]: {{ site.baseurl }}/assets/GodelEscherBach-52_Notas.jpg "Gödel, Escher, Bach (Notas)"
+[GodelEscherBach-02_Indice2]: {{ site.baseurl }}/assets/GodelEscherBach-02_Indice2.jpg "Gödel, Escher, Bach (Índice 2)"
+[GodelEscherBach-03_VisionPanoramica]: {{ site.baseurl }}/assets/GodelEscherBach-03_VisionPanoramica.jpg "Gödel, Escher, Bach (Visión panorámica)"
+[GodelEscherBach-04_HistoriaTraduccionCastellano]: {{ site.baseurl }}/assets/GodelEscherBach-04_HistoriaTraduccionCastellano.jpg "Gödel, Escher, Bach (La historia de la traduccion de GEB al castellano)"
+[GodelEscherBach-05_PalabrasAgradecimiento]: {{ site.baseurl }}/assets/GodelEscherBach-05_PalabrasAgradecimiento.jpg "Gödel, Escher, Bach (Palabras de agradecimiento)"
+[GodelEscherBach-06_ParteI]: {{ site.baseurl }}/assets/GodelEscherBach-06_ParteI.jpg "Gödel, Escher, Bach (Parte I)"
+[GodelEscherBach-07_JohannSebastianBach]: {{ site.baseurl }}/assets/GodelEscherBach-07_JohannSebastianBach.jpg "Gödel, Escher, Bach (Johann Sebastian Bach)"
+[GodelEscherBach-08_Introduccion]: {{ site.baseurl }}/assets/GodelEscherBach-08_Introduccion.jpg "Gödel, Escher, Bach (Introducción: Ofrenda músico-lógica)"
+[GodelEscherBach-09_MCEscher]: {{ site.baseurl }}/assets/GodelEscherBach-09_MCEscher.jpeg "Gödel, Escher, Bach (Maurits Cornelis Escher)"
+[GodelEscherBach-10_KurtGodel]: {{ site.baseurl }}/assets/GodelEscherBach-10_KurtGodel.jpg "Gödel, Escher, Bach (Kurt Gödel)"
+[GodelEscherBach-11_InvencionTresVoces]: {{ site.baseurl }}/assets/GodelEscherBach-11_InvencionTresVoces.jpg "Gödel, Escher, Bach (Invención a tres voces)"
+[GodelEscherBach-12_CapI]: {{ site.baseurl }}/assets/GodelEscherBach-12_CapI.jpg "Gödel, Escher, Bach (Cap I)"
+[GodelEscherBach-13_InvencionDosVoces]: {{ site.baseurl }}/assets/GodelEscherBach-13_InvencionDosVoces.jpg "Gödel, Escher, Bach (Invención a dos voces)"
+[GodelEscherBach-14_CapII]: {{ site.baseurl }}/assets/GodelEscherBach-14_CapII.jpg "Gödel, Escher, Bach (Cap II)"
+[GodelEscherBach-15_SonataAquilesSolo]: {{ site.baseurl }}/assets/GodelEscherBach-15_SonataAquilesSolo.jpg "Gödel, Escher, Bach (Sonata para Aquiles solo)"
+[GodelEscherBach-16_CapIII]: {{ site.baseurl }}/assets/GodelEscherBach-16_CapIII.jpg "Gödel, Escher, Bach (Cap III)"
+[GodelEscherBach-17_ContraCrostipunctus]: {{ site.baseurl }}/assets/GodelEscherBach-17_ContraCrostipunctus.jpg "Gödel, Escher, Bach (Contracrostipunctus)"
+[GodelEscherBach-18_CapIV]: {{ site.baseurl }}/assets/GodelEscherBach-18_CapIV.jpg "Gödel, Escher, Bach (Cap IV)"
+[GodelEscherBach-19_PequenioLaberintoArmonico]: {{ site.baseurl }}/assets/GodelEscherBach-19_PequenioLaberintoArmonico.jpg "Gödel, Escher, Bach (Pequeño laberinto armónico)"
+[GodelEscherBach-20_CapV]: {{ site.baseurl }}/assets/GodelEscherBach-20_CapV.jpg "Gödel, Escher, Bach (Cap V)"
+[GodelEscherBach-21_CanonAumentacionIntervalica]: {{ site.baseurl }}/assets/GodelEscherBach-21_CanonAumentacionIntervalica.jpg "Gödel, Escher, Bach (Canon por aumentación interválica)"
+[GodelEscherBach-22_CapVI]: {{ site.baseurl }}/assets/GodelEscherBach-22_CapVI.jpg "Gödel, Escher, Bach (Cap VI)"
+[GodelEscherBach-23_FantasiaCromaticaFuria]: {{ site.baseurl }}/assets/GodelEscherBach-23_FantasiaCromaticaFuria.jpg "Gödel, Escher, Bach (Fantasía cromática y furia)"
+[GodelEscherBach-24_CapVII]: {{ site.baseurl }}/assets/GodelEscherBach-24_CapVII.jpg "Gödel, Escher, Bach (Cap VII)"
+[GodelEscherBach-25_CanonCangrejo]: {{ site.baseurl }}/assets/GodelEscherBach-25_CanonCangrejo.jpg "Gödel, Escher, Bach (Canon cangrejo)"
+[GodelEscherBach-26_CapVIII]: {{ site.baseurl }}/assets/GodelEscherBach-26_CapVIII.jpg "Gödel, Escher, Bach (Cap VIII)"
+[GodelEscherBach-27_UnaOfrendaMU]: {{ site.baseurl }}/assets/GodelEscherBach-27_UnaOfrendaMU.jpg "Gödel, Escher, Bach (Una ofrenda MU)"
+[GodelEscherBach-28_CapIX]: {{ site.baseurl }}/assets/GodelEscherBach-28_CapIX.jpg "Gödel, Escher, Bach (Cap IX)"
+[GodelEscherBach-29_ParteII]: {{ site.baseurl }}/assets/GodelEscherBach-29_ParteII.jpg "Gödel, Escher, Bach (Parte II)"
+[GodelEscherBach-30_PreludioY]: {{ site.baseurl }}/assets/GodelEscherBach-30_PreludioY.jpg "Gödel, Escher, Bach (Preludio y...)"
+[GodelEscherBach-31_CapX]: {{ site.baseurl }}/assets/GodelEscherBach-31_CapX.jpg "Gödel, Escher, Bach (Cap X)"
+[GodelEscherBach-32_Furmiga]: {{ site.baseurl }}/assets/GodelEscherBach-32_Furmiga.jpg "Gödel, Escher, Bach (... furmiga)"
+[GodelEscherBach-33_CapXI]: {{ site.baseurl }}/assets/GodelEscherBach-33_CapXI.jpg "Gödel, Escher, Bach (Cap XI)"
+[GodelEscherBach-34_SuiteAngloFrancoGermanicoEspaniola]: {{ site.baseurl }}/assets/GodelEscherBach-34_SuiteAngloFrancoGermanicoEspaniola.jpg "Gödel, Escher, Bach (Suite AngloFrancoGermanicoEspañola)"
+[GodelEscherBach-35_CapXII]: {{ site.baseurl }}/assets/GodelEscherBach-35_CapXII.jpg "Gödel, Escher, Bach (Cap XII)"
+[GodelEscherBach-36_AriaVariacionesDiversas]: {{ site.baseurl }}/assets/GodelEscherBach-36_AriaVariacionesDiversas.jpg "Gödel, Escher, Bach (Aria con variaciones diversas)"
+[GodelEscherBach-37_CapXIII]: {{ site.baseurl }}/assets/GodelEscherBach-37_CapXIII.jpg "Gödel, Escher, Bach (Cap XIII)"
+[GodelEscherBach-38_AireCuerdaG]: {{ site.baseurl }}/assets/GodelEscherBach-38_AireCuerdaG.jpg "Gödel, Escher, Bach (Aire en la cuerda de G)"
+[GodelEscherBach-39_CapXIV]: {{ site.baseurl }}/assets/GodelEscherBach-39_CapXIV.jpg "Gödel, Escher, Bach (Cap XIV)"
+[GodelEscherBach-40_CantatatataCumpleanios]: {{ site.baseurl }}/assets/GodelEscherBach-40_CantatatataCumpleanios.jpg "Gödel, Escher, Bach (Cantatatata... de cumpleaños)"
+[GodelEscherBach-41_CapXV]: {{ site.baseurl }}/assets/GodelEscherBach-41_CapXV.jpg "Gödel, Escher, Bach (Cap XV)"
+[GodelEscherBach-42_PensamientosEdificantesFumadorTabaco]: {{ site.baseurl }}/assets/GodelEscherBach-42_PensamientosEdificantesFumadorTabaco.jpg "Gödel, Escher, Bach (Pensamientos edificantes de un fumador de tabaco)"
+[GodelEscherBach-43_CapXVI]: {{ site.baseurl }}/assets/GodelEscherBach-43_CapXVI.jpg "Gödel, Escher, Bach (Cap XVI)"
+[GodelEscherBach-44_MagnificangrejoRealidad]: {{ site.baseurl }}/assets/GodelEscherBach-44_MagnificangrejoRealidad.jpg "Gödel, Escher, Bach (El Magnificangrejo, en realidad)"
+[GodelEscherBach-45_CapXVII]: {{ site.baseurl }}/assets/GodelEscherBach-45_CapXVII.jpg "Gödel, Escher, Bach (Cap XVII)"
+[GodelEscherBach-46_SHRDLUJugueteriaHombre]: {{ site.baseurl }}/assets/GodelEscherBach-46_SHRDLUJugueteriaHombre.jpg "Gödel, Escher, Bach (SHRDLU, juguetería del hombre)"
+[GodelEscherBach-47_CapXVIII]: {{ site.baseurl }}/assets/GodelEscherBach-47_CapXVIII.jpg "Gödel, Escher, Bach (Cap XVIII)"
+[GodelEscherBach-48_Contrafactus]: {{ site.baseurl }}/assets/GodelEscherBach-48_Contrafactus.jpg "Gödel, Escher, Bach (Contrafactus)"
+[GodelEscherBach-49_CapXIX]: {{ site.baseurl }}/assets/GodelEscherBach-49_CapXIX.jpg "Gödel, Escher, Bach (Cap XIX)"
+[GodelEscherBach-50_CanonPerezoso]: {{ site.baseurl }}/assets/GodelEscherBach-50_CanonPerezoso.jpg "Gödel, Escher, Bach (Canon perezoso)"
+[GodelEscherBach-51_CapXX]: {{ site.baseurl }}/assets/GodelEscherBach-51_CapXX.jpg "Gödel, Escher, Bach (Cap XX)"
+[GodelEscherBach-52_RicercarSeisVoces]: {{ site.baseurl }}/assets/GodelEscherBach-52_RicercarSeisVoces.jpg "Gödel, Escher, Bach (Ricercar a seis voces)"
+[GodelEscherBach-53_ListaIlustraciones]: {{ site.baseurl }}/assets/GodelEscherBach-53_ListaIlustraciones.jpeg "Gödel, Escher, Bach (Lista de ilustraciones)"
