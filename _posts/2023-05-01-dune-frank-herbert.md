@@ -510,7 +510,19 @@ Hizo una pausa para que su visión mnemotécnica registrara el patrón de su asp
 
 ### <span id="Capitulo10">[Capítulo 10](#Capitulo10)</span>
 
-En una estancia de Giedi Prime están reunidos el Barón Vladimir Harkonen, el Mentat Piter y el heredero Feyd-Rautha. El Barón manipula una esfera con una representación del planeta Arrakis. Se presentan los planes en contra de la Casa Atreides según los nuevos eventos que se van desarrollando.
+Dirigiéndose a la habitación del ala sur, Dama Jessica se encuentra con la Shadaout Mapes y hablan; la habitación tiene puerta ovalada, está llena de vegetación con un sistema de regado, es un invernadero, y Dama Jessica encuentra una nota dejada por otra Bene Gesserit, y que contiene el típico mensaje oculto, que en esta ocasión advierte de peligro contra las casa Atreides; Paul entra en la habitación llevando en la mano el cazador-buscador desactivado/inhabilitado previamente para mojarlo y corto-circuitarlo, uno de los hombres del mentat de confanza Tufir Hawat entra informando la captura y muerte por lucha del operador del cazador-buscador, considerando esa habitación segura se retira a hacer guardia; Jessica y Paul hablan acerca de la seguridad/revisión de los recintos, de la advertencia de peligro, y en general de la posible conspiración y el planeta Arrakis.
+
+Pensad en este proverbio Bene Gesserit y quizá lo comprendáis: "Cualquier camino, si se sigue hasta el fin, no conduce exactamente a ningún lugar. Escalad tan sólo un poco la montaña para comprobar si es una montaña. Desde la cima de la montaña, no podréis ver la montaña".
+
+Se inclinó para respirar la fragancia de un grupo de flores rosadas, después se incorporó y miró a su alrededor.
+
+Jessica inclinó aprobadoramente la cabeza ante lo hábil de la pregunta.
+
+Él se alzó de hombros, explicándole su conversación con Mapes.
+
+La expresión de Paul se hizo terca y sombría.
+
+Las estrellas empezaron a brillar. Una de ellas, muy baja sobre el horizonte, destacada de las demás, parpadeaba con un claro, preciso ritmo: blink-blink-blink-blink-blink-blink...
 
 ### <span id="Capitulo11">[Capítulo 11](#Capitulo11)</span>
 
