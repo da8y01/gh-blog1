@@ -30,13 +30,15 @@ description: "Feynman Lectures on Computation - Richard Phillips Feynman (englis
 ## <span id="Preface">[Preface | Prefacio](#Preface)</span>
 
 <div style="text-align:center" markdown="1">
-![RPFLecturesComputation_Prefacio][RPFLecturesComputation_Prefacio]{: width="50%"}
+![RPFLecturesComputation_Preface][RPFLecturesComputation_Preface]{: width="40%"}
+![RPFLecturesComputation_Prefacio][RPFLecturesComputation_Prefacio]{: width="40%"}
 </div>
 
 ## <span id="Chap1">[1. Introduction to Computers | Introducción a los computadores](#Chap1)</span>
 
 <div style="text-align:center" markdown="1">
-![RPFLecturesComputation_Cap1][RPFLecturesComputation_Cap1]{: width="50%"}
+![RPFLecturesComputation_Chap1][RPFLecturesComputation_Chap1]{: width="40%"}
+![RPFLecturesComputation_Cap1][RPFLecturesComputation_Cap1]{: width="40%"}
 </div>
 
 <div style="text-align:center" markdown="1">
@@ -63,10 +65,12 @@ description: "Feynman Lectures on Computation - Richard Phillips Feynman (englis
 ![RPFLecturesComputation_Chap1-3_1_Pag18][RPFLecturesComputation_Chap1-3_1_Pag18]{: width="50%"}
 </div>
 
+
 ## <span id="Chap2">[2. Computer Organization | Organización del computador](#Chap2)</span>
 
 <div style="text-align:center" markdown="1">
-![RPFLecturesComputation_Cap2][RPFLecturesComputation_Cap2]{: width="50%"}
+![RPFLecturesComputation_Chap2][RPFLecturesComputation_Chap2]{: width="40%"}
+![RPFLecturesComputation_Cap2][RPFLecturesComputation_Cap2]{: width="40%"}
 </div>
 
 <div style="text-align:center" markdown="1">
@@ -169,10 +173,12 @@ description: "Feynman Lectures on Computation - Richard Phillips Feynman (englis
 ![RPFLecturesComputation_Chap2-6_2_Pag50][RPFLecturesComputation_Chap2-6_2_Pag50]{: width="50%"}
 </div>
 
+
 ## <span id="Chap3">[3. The Theory of Computation | La teoría de la computación](#Chap3)</span>
 
 <div style="text-align:center" markdown="1">
-![RPFLecturesComputation_Cap3][RPFLecturesComputation_Cap3]{: width="50%"}
+![RPFLecturesComputation_Chap3][RPFLecturesComputation_Chap3]{: width="40%"}
+![RPFLecturesComputation_Cap3][RPFLecturesComputation_Cap3]{: width="40%"}
 </div>
 
 <div style="text-align:center" markdown="1">
@@ -195,9 +201,15 @@ description: "Feynman Lectures on Computation - Richard Phillips Feynman (englis
 ![RPFLecturesComputation_Chap3-2_1_Pag55][RPFLecturesComputation_Chap3-2_1_Pag55]{: width="50%"}
 </div>
 
+What kinds of problems can such machines do, or not do? It turns out that there are some questions that FSMs cannot answer but that Turing machines can. Why this should be the case is naturally of interest to us.
+
 <div style="text-align:center" markdown="1">
 ![RPFLecturesComputation_Chap3-3_1_Pag60][RPFLecturesComputation_Chap3-3_1_Pag60]{: width="50%"}
 </div>
+
+So why cannot an FSM do something this simple?
+
+Here lies the problem. An *arbitrary* string requires a machine with an arbitrary - that is, ultimately, infinite - number of states. Hence, no *finite* state machine will do. What will do, as we shall see, is a Turing machine - for a Turing machine is, essentially, an FSM with infinite memory capacity.
 
 <div style="text-align:center" markdown="1">
 ![RPFLecturesComputation_Chap3-3_2_Pag61][RPFLecturesComputation_Chap3-3_2_Pag61]{: width="50%"}
@@ -279,34 +291,100 @@ description: "Feynman Lectures on Computation - Richard Phillips Feynman (englis
 ![RPFLecturesComputation_Chap3-4_6_Pag71][RPFLecturesComputation_Chap3-4_6_Pag71]{: width="50%"}
 </div>
 
+Our discussion closely follows Minsky [1967]. [RPF]
+
+By assigning different symbols to O's and 1's - A's and B's, say - we can keep track of which were 0' s and l' s; if we wanted to come along tomorrow and use the file again, we could, only we would find it written in a different alphabet.
+
+Minsky's solution for a locating Turing machine is shown in Figure 3.16:
+
+True to the spirit of Turing machines, we are going to copy it slowly and laboriously to another part of the tape.
+
+A cute feature of this machine is that it copies the contents of the file into the block containing the target filename on the original tape; that is, the target string is overwritten. (We can do this because we chose to have filenames and contents the same size.)
+
+I said earlier that if you had an effective procedure for doing some computation, then that was equivalent to it being possible in principle to find a Turing machine to do the same computation.
+
+the general recursive functions are Turing computable, and vice versa - so we can take "Turing computable" to be an effective synonym for "computable".
+
+Functions for which this is not true are called "partial".
+
+This redefined function is complete in the sense that we can assign some numerical value to it for any x.
+
+But in general, we cannot say in advance when a particular value of x is going to give us trouble! *Put another way, it is not possible to construct a computable function which predicts whether or not the machine T F halts with input x.*
+
+This concept, of Turing machines telling us about other Turing machines, is central to the topic of Universal Turing machines to which we now turn.
+
+Our discussion again closely follows Minsky [1967].
+
+Minsky nicely relates this process to what you would do when using a quintuple list and a tape to figure out what a Turing machine does. The universal Turing machine U is just a slower version of you!
+
+The description of U given above, due to Minsky, requires U to have 8 symbols and 23 states.
+
+surely a machine that can do *everything* should be enormously complicated? The surprising answer is that it's not! How efficient one can make a UTM is an entertaining question, but has no deep significance.
+
+In other words, D always halts with an answer. Can such a machine exist? The answer is no! We can actually show that D is an impossible dream,
+
+This is a clear contradiction! Going back through our argument, we find that it is our assumption that D exists that is wrong. *So there are some computational problems (e.g. determining whether a UTM will halt) that cannot be solved by any Turing machine.* This is Turing's main result.
+
+Consider computable real numbers: by which we mean those whose binary expansions can be printed on a tape, whether the machine halts or not.
+
+We call a set "countable" if we can put its elements in one-to-one correspondence with elements of the set of positive integers; that is, if we can label each set member by a unique integer.
+
+So by "diagonalization" as it is called (referring to the "diagonal" line we can draw through all of the underlined numbers above) we have shown that the real numbers are not countable. ***GEB XIII, diagonal de Cantor.***
+
+A procedure might take the age of the Universe to complete yet still be technically "effective". In practice we want procedures that are not just effective but also efficient.
+
+Many problems in "artificial intelligence", such as face recognition, involve effective procedures that are not efficient - and in some cases, they are not even very effective!
+
+The principle here is that you can know a lot more than you can prove! Unfortunately, it is also possible to think you know a lot more than you actually know. Hence the frequent need for proof.
+
+An effective procedure for this might involve taking all prime numbers up to n l/2 and seeing if any divide n; if not, n is prime.
+
+In mathematics, as in linguistics, a grammar is basically a set of rules for combining the elements of a language, only the language is a mathematical one (such as arithmetic or algebra).
+
+But remember it took a Turing machine to do this: a finite state machine was not up to it.
+
+We will finish our look at computability with an interesting problem discovered by Post as a graduate student in 1921. ***GEB I, Emil Post.***
+
+The question is this: does this process go on forever, stop, or go on periodically? The last I heard, all tested sequences had either stopped or gone into a loop, but that this should be so generally had not been proved.
+
+
 ## <span id="Chap4">[4. Coding and Information Theory | Codificación y teoría de la información](#Chap4)</span>
 
 <div style="text-align:center" markdown="1">
-![RPFLecturesComputation_Cap4][RPFLecturesComputation_Cap4]{: width="50%"}
+![RPFLecturesComputation_Chap4][RPFLecturesComputation_Chap4]{: width="40%"}
+![RPFLecturesComputation_Cap4][RPFLecturesComputation_Cap4]{: width="40%"}
 </div>
+
 
 ## <span id="Chap5">[5. Reversible Computation and the Thermodynamics of Computing | Computación reversible y la termodinámica de la computación](#Chap5)</span>
 
 <div style="text-align:center" markdown="1">
-![RPFLecturesComputation_Cap5][RPFLecturesComputation_Cap5]{: width="50%"}
+![RPFLecturesComputation_Chap5][RPFLecturesComputation_Chap5]{: width="40%"}
+![RPFLecturesComputation_Cap5][RPFLecturesComputation_Cap5]{: width="40%"}
 </div>
+
 
 ## <span id="Chap6">[6. Quantum Mechanical Computers | Computadores mecanocuánticos](#Chap6)</span>
 
 <div style="text-align:center" markdown="1">
-![RPFLecturesComputation_Cap6][RPFLecturesComputation_Cap6]{: width="50%"}
+![RPFLecturesComputation_Chap6][RPFLecturesComputation_Chap6]{: width="40%"}
+![RPFLecturesComputation_Cap6][RPFLecturesComputation_Cap6]{: width="40%"}
 </div>
+
 
 ## <span id="Chap7">[7. Physical Aspects of Computation | Aspectos físicos de la computación](#Chap7)</span>
 
 <div style="text-align:center" markdown="1">
-![RPFLecturesComputation_Cap7][RPFLecturesComputation_Cap7]{: width="50%"}
+![RPFLecturesComputation_Chap7][RPFLecturesComputation_Chap7]{: width="40%"}
+![RPFLecturesComputation_Cap7][RPFLecturesComputation_Cap7]{: width="40%"}
 </div>
+
 
 ## <span id="Afterword">[Afterword: Memories of Richard Feynman | Epílogo: Recuerdo de Richard Feynman](#Afterword)</span>
 
 <div style="text-align:center" markdown="1">
-![RPFLecturesComputation_Epilogo][RPFLecturesComputation_Epilogo]{: width="50%"}
+![RPFLecturesComputation_Afterword][RPFLecturesComputation_Afterword]{: width="40%"}
+![RPFLecturesComputation_Epilogo][RPFLecturesComputation_Epilogo]{: width="40%"}
 </div>
 
 
@@ -330,7 +408,9 @@ description: "Feynman Lectures on Computation - Richard Phillips Feynman (englis
 [RPFLecturesComputation_Contents3]: {{ site.baseurl }}/assets/RPFLecturesComputation_Contents3.png "Feynman Lectures on Computation - Richard P. Feynman (Contents 3)"
 [RPFLecturesComputation_Indice1]: {{ site.baseurl }}/assets/RPFLecturesComputation_Indice1.jpeg "Feynman Lectures on Computation - Richard P. Feynman (Índice 1)"
 [RPFLecturesComputation_Indice2]: {{ site.baseurl }}/assets/RPFLecturesComputation_Indice2.jpeg "Feynman Lectures on Computation - Richard P. Feynman (Índice 2)"
+[RPFLecturesComputation_Preface]: {{ site.baseurl }}/assets/RPFLecturesComputation_Preface.png "Feynman Lectures on Computation - Richard P. Feynman (Preface)"
 [RPFLecturesComputation_Prefacio]: {{ site.baseurl }}/assets/RPFLecturesComputation_Prefacio.jpeg "Feynman Lectures on Computation - Richard P. Feynman (Prefacio)"
+[RPFLecturesComputation_Chap1]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap1.png "Conferencias sobre computación - Richard P. Feynman (Chapter 1)"
 [RPFLecturesComputation_Cap1]: {{ site.baseurl }}/assets/RPFLecturesComputation_Cap1.jpeg "Feynman Lectures on Computation - Richard P. Feynman (Capítulo 1)"
 [RPFLecturesComputation_Chap1-2_1_Pag11]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap1-2_1_Pag11.jpg "Feynman Lectures on Computation - Richard P. Feynman (1.2 pag 11)"
 [RPFLecturesComputation_Chap1-2_2_Pag13]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap1-2_2_Pag13.jpg "Feynman Lectures on Computation - Richard P. Feynman (1.2 pag 13)"
@@ -338,6 +418,7 @@ description: "Feynman Lectures on Computation - Richard Phillips Feynman (englis
 [RPFLecturesComputation_Chap1-2_4_Pag16]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap1-2_4_Pag16.jpg "Feynman Lectures on Computation - Richard P. Feynman (1.2 pag 16)"
 [RPFLecturesComputation_Chap1-2_5_Pag17]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap1-2_5_Pag17.jpg "Feynman Lectures on Computation - Richard P. Feynman (1.2 pag 17)"
 [RPFLecturesComputation_Chap1-3_1_Pag18]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap1-3_1_Pag18.jpg "Feynman Lectures on Computation - Richard P. Feynman (1.3 pag 18)"
+[RPFLecturesComputation_Chap2]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap2.png "Conferencias sobre computación - Richard P. Feynman (Chapter 2)"
 [RPFLecturesComputation_Cap2]: {{ site.baseurl }}/assets/RPFLecturesComputation_Cap2.jpeg "Feynman Lectures on Computation - Richard P. Feynman (Capítulo 2)"
 [RPFLecturesComputation_Chap2-1_1_Pag21]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap2-1_1_Pag21.jpg "Feynman Lectures on Computation - Richard P. Feynman (2.1 pag 21)"
 [RPFLecturesComputation_Chap2-1_2_Pag25]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap2-1_2_Pag25.jpg "Feynman Lectures on Computation - Richard P. Feynman (2.1 pag 25)"
@@ -364,6 +445,7 @@ description: "Feynman Lectures on Computation - Richard Phillips Feynman (englis
 [RPFLecturesComputation_Chap2-5_6_Pag45]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap2-5_6_Pag45.jpg "Feynman Lectures on Computation - Richard P. Feynman (2.5 pag 45)"
 [RPFLecturesComputation_Chap2-6_1_Pag46]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap2-6_1_Pag46.jpg "Feynman Lectures on Computation - Richard P. Feynman (2.6 pag 46)"
 [RPFLecturesComputation_Chap2-6_2_Pag50]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap2-6_2_Pag50.jpg "Feynman Lectures on Computation - Richard P. Feynman (2.6 pag 50)"
+[RPFLecturesComputation_Chap3]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap3.png "Conferencias sobre computación - Richard P. Feynman (Chapter 3)"
 [RPFLecturesComputation_Cap3]: {{ site.baseurl }}/assets/RPFLecturesComputation_Cap3.jpeg "Feynman Lectures on Computation - Richard P. Feynman (Capítulo 3)"
 [RPFLecturesComputation_Chap3-1_1_Pag53]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap3-1_1_Pag53.jpg "Feynman Lectures on Computation - Richard P. Feynman (3.1 pag 53)"
 [RPFLecturesComputation_Chap3-1_2_Pag53]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap3-1_2_Pag53.jpg "Feynman Lectures on Computation - Richard P. Feynman (3.1 pag 53)"
@@ -391,8 +473,13 @@ description: "Feynman Lectures on Computation - Richard Phillips Feynman (englis
 [RPFLecturesComputation_Chap3-4_4_Pag68]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap3-4_4_Pag68.jpg "Feynman Lectures on Computation - Richard P. Feynman (3.4 pag 68)"
 [RPFLecturesComputation_Chap3-4_5_Pag68]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap3-4_5_Pag68.jpg "Feynman Lectures on Computation - Richard P. Feynman (3.4 pag 68)"
 [RPFLecturesComputation_Chap3-4_6_Pag71]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap3-4_6_Pag71.jpg "Feynman Lectures on Computation - Richard P. Feynman (3.4 pag 71)"
+[RPFLecturesComputation_Chap4]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap4.png "Conferencias sobre computación - Richard P. Feynman (Chapter 4)"
 [RPFLecturesComputation_Cap4]: {{ site.baseurl }}/assets/RPFLecturesComputation_Cap4.jpeg "Feynman Lectures on Computation - Richard P. Feynman (Capítulo 4)"
+[RPFLecturesComputation_Chap5]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap5.png "Conferencias sobre computación - Richard P. Feynman (Chapter 5)"
 [RPFLecturesComputation_Cap5]: {{ site.baseurl }}/assets/RPFLecturesComputation_Cap5.jpeg "Feynman Lectures on Computation - Richard P. Feynman (Capítulo 5)"
+[RPFLecturesComputation_Chap6]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap6.png "Conferencias sobre computación - Richard P. Feynman (Chapter 6)"
 [RPFLecturesComputation_Cap6]: {{ site.baseurl }}/assets/RPFLecturesComputation_Cap6.jpeg "Feynman Lectures on Computation - Richard P. Feynman (Capítulo 6)"
+[RPFLecturesComputation_Chap7]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap7.png "Conferencias sobre computación - Richard P. Feynman (Chapter 7)"
 [RPFLecturesComputation_Cap7]: {{ site.baseurl }}/assets/RPFLecturesComputation_Cap7.jpeg "Feynman Lectures on Computation - Richard P. Feynman (Capítulo 7)"
+[RPFLecturesComputation_Afterword]: {{ site.baseurl }}/assets/RPFLecturesComputation_Afterword.png "Feynman Lectures on Computation - Richard P. Feynman (Afterword)"
 [RPFLecturesComputation_Epilogo]: {{ site.baseurl }}/assets/RPFLecturesComputation_Epilogo.jpeg "Feynman Lectures on Computation - Richard P. Feynman (Epilogo)"
