@@ -526,19 +526,163 @@ Las estrellas empezaron a brillar. Una de ellas, muy baja sobre el horizonte, de
 
 ### <span id="Capitulo11">[Capítulo 11](#Capitulo11)</span>
 
-En una estancia de Giedi Prime están reunidos el Barón Vladimir Harkonen, el Mentat Piter y el heredero Feyd-Rautha. El Barón manipula una esfera con una representación del planeta Arrakis. Se presentan los planes en contra de la Casa Atreides según los nuevos eventos que se van desarrollando.
+En la torre de control a las afuera de la ciudad Arrakeen, el Duque Leto Atreides observa el arrivo de una nave, baja a una gran sala de reuniones para entrevistarse con el maestro de armas Gurney Halleck, conversan, Leto le solicita hombres y le pide que trate de persuadir al favor de ellos a unos exiliados que partirán en una nave; luego se retiran, Leto se dirige a un ascensor de la sala cruzando la sala diagonalmente respondiendo a los saludos casuales, da un mensaje a uno de los hombres del grupo de propaganda, y continúa hasta el ascensor.
+
+Le era difícil dominar su rabia.
+
+Agitó su cabeza para rechazar su rabia...
+
+La nostalgia por Caladan despertó un repentino dolor en su pecho.
+
+... pero él debe inspirarse en este mundo. Debe encontrar algo en él.
+
+Una oleada de piedad hacia sí mismo, inmediatamente despreciada y rechazada, acudió a él...
+
+Si había alguien que podía garantizar un futuro a la estirpe de los Atreides, este alguien sólo podían ser los Fremen.
+
+... intentando recuperar su calma mientras descendía y componer su expresión para el inminente encuentro.
+
+—¿Has oído al estúpido? Aquí no hay duchas. ¡Aquí uno se lava el culo con arena!
+
+El Duque bajó el último peldaño y avanzó por la sala repentinamente silenciosa.
+
+El Duque observó a Halleck, admirando a aquel hombre tosco cuyos ojos brillaban como cristales con una salvaje decisión.
+
+Su aire era casual, pero en él se adivinaba al hombre integro y capaz.
+
+Si nos movemos rápidamente conseguiremos una mayor seguridad, el respiro que necesitamos.
+
+—Entonces utiliza tu propia discreción en cada caso particular —dijo Leto impacientemente—.
+
+El que manda debe parecer siempre confiado, pensó.
 
 ### <span id="Capitulo12">[Capítulo 12](#Capitulo12)</span>
 
-En una estancia de Giedi Prime están reunidos el Barón Vladimir Harkonen, el Mentat Piter y el heredero Feyd-Rautha. El Barón manipula una esfera con una representación del planeta Arrakis. Se presentan los planes en contra de la Casa Atreides según los nuevos eventos que se van desarrollando.
+Se celebra/realiza una reunión estratégica del estado mayor en la sala de conferencias, la primera para el Muad'Dib Paul Atreides; en la mesa el mentat Thufir Hawat proyecta imgágenes e información concernientes a diferentes asuntos del planeta; en la reunión se muestra el cuchillo de diente de gusano Shai-Hulud crys perteneciente a Turok, se presenta el líder Fremen del sietch visitado por Duncan Idaho, Stilgar, hacen acuerdos, Duncan Idaho queda como embajador ante los freemen, Gurney Halleck, Thufir Hawat y todos los demás tienen trabajo por hacer; cuando todos han abandonado el recinto, quedan el duque Leto y su hijo Paul, hablan, el duque parte.
+
+Hawat se castigará a sí mismo. Se enfurecerá consigo mismo mucho más de lo que nosotros dos juntos podríamos enfurecernos contra él.
+
+El ruido del correr de las sillas llenó la sala por un instante, mientras los hombres ocupaban sus lugares. Un sutil y penetrante aroma de rachag se difundió a lo largo de la mesa.
+
+También nos han enviado otros regalos accidentales:
+
+Todas parecen obedecer a alguien llamado Liet.
+
+Incluso los ayudantes más jóvenes, que hasta aquel momento se habían mostrado vagamente aburridos, se irguieron intercambiando estupefactas miradas.
+
+El agente de la Cofradía no tenía intención de negociar con nosotros.
+
+¿Quién habla de justicia? Estamos aquí para hacer nuestra propia justicia. Y lo conseguiremos en Arrakis… vivos o muertos.
+
+Parece ser que los escudos crean en ellos una especie de furia homicida.
+
+Las risas estallaron bruscamente y demasiado fuertes.
+
+Demasiadas cosas dependen de un solo hombre viejo, pensó Paul.
+
+Halleck frunció el ceño al otro lado de la mesa, sorprendiendo otra expresión igualmente ceñuda en el rostro de Paul.
+
+Puedes ver que es una reunión estratégica del estado mayor.
+
+pero Paul reconoció aquella máscara de serenidad por encima de la excitación.
+
+Stilgar, jefe del sietch que he visitado, líder de los que nos han advertido del engaño
+
+Así que debo explicaros cual es para nosotros la situación: una cierta responsabilidad recae sobre aquellos que han visto un crys.
+
+La situación no debe escapárseme de la mano, pensó.
+
+Te agradecemos, Stilgar, el presente que nos haces de la humedad de tu cuerpo. Y lo aceptamos con el mismo espíritu con que ha sido ofrecido
+
+Recordad hasta qué punto es preciosa aquí el agua, Señor. Esta es una prueba de respeto.
+
+—Deseo que seas tú quien tomes tu decisión al respecto —dijo Leto. Y no consiguió disimular la tensión en su voz.
+
+Será al mismo tiempo Fremen y soldado de los Atreides. Hay un precedente para esto: Liet sirve a dos amos.
+
+Turok era el nombre de nuestro amigo muerto. Recordadlo cuando llegue el momento de liberar su espíritu. Sois amigos de Turok
+
+Paul entrevió como un delgado tubo antes de que el velo ocupara su lugar.
+
+Leto se irguió, en un movimiento de obvia sorpresa.
+
+Una mirada de entendimiento se cruzó entre Leto y Hawat. Sonrieron.
+
+—Ese Árbitro del Cambio —dijo Leto—, el ecólogo Imperial, Kynes…
+
+Parecían profundamente turbados por la actitud de su padre.
+
+—«Marcharé con los rebeldes que ocupan las tierras áridas» —entonó Halleck.
+
+Antes, las reuniones terminaban siempre en una atmósfera de decisión. Aquella reunión parecía haberse derrumbado, gastada por sus propias insuficiencias y por falta de un acuerdo.
+
+El espacio le daba la impresión de haber estado vacío desde mucho antes de que el Duque abandonara la estancia.
 
 ### <span id="Capitulo13">[Capítulo 13](#Capitulo13)</span>
 
-En una estancia de Giedi Prime están reunidos el Barón Vladimir Harkonen, el Mentat Piter y el heredero Feyd-Rautha. El Barón manipula una esfera con una representación del planeta Arrakis. Se presentan los planes en contra de la Casa Atreides según los nuevos eventos que se van desarrollando.
+Habiendo dejado a su hijo Paul en la sala de conferencias donde se había llevado a cabo la reunión de estado mayor estratégica, el duque Leto conversa con el anciano mentat Thufir Hawat en una estancia contigua donde este último se ocupa del encargo de instalar otro punto de comunicaiones; Leto pregunta a Hawat porqué tan nervioso, Hawat le muestra el fragmento de nota Harkonen amenzante, conjeturan acerca de quien puede ser el traidor, incluyendo a la mujer del duque, la Bene Gesserit dama Jessica, se habla de ponerle vigilancia a Jesica y asignar el Dr. Yueh (el traidor) a Paul, Hawat también le entrega a Leto un filmclip informativo acerca del significado de la palabra «¡Mahdi!» oída en el recorrido por las calles de Arrakeen; Leto sale, camina un poco, luego regresa a la sala de conferencia donde encuentra a Paul durmiendo encima de la mesa, abrigado por un capote de guardia y con un saco de equipaje de almohada, sigue hasta la terraza, el guardia en la esquina hace un saludo, se ve el campo de aterrizaje, se aprecia el paisaje del horizonte, el momento precendente al alba y el amanecer, al final observa las figuras que recolectan el rocío mañanero.
+
+ya que sólo podían esperar que fuera aquél que les había sido anunciado como el Lisan-al-Gaib, la Voz del Otro Mundo.
+
+—Hemos compartido un buen número de cicatrices, Thufir
+
+La nota… es algo que podría tener graves consecuencias… o ninguna. Es susceptible de varias interpretaciones.
+
+—Hubiera preferido cortarme un brazo antes que heriros —dijo Hawat—.
+
+—Hubiera actuado hace ya mucho tiempo. Veneno en mi bebida… un puñal en la noche. ¿Quién hubiera tenido mejores oportunidades?
+
+Existe toda una gama de sutiles distinciones en el kanly.
+
+—¿Hay otro modo mejor de destruir que sembrar las sospechas hacia la mujer que uno ama? —preguntó.
+
+Está muy dotado para la diplomacia.
+
+—Usaré la discreción, mi Señor.
+
+Hay una leyenda aquí, una profecía, acerca de la llegada de un líder, hijo de una Bene Gesserit, que les guiará hacia la verdadera libertad. Se trata del habitual tema del mesías.
+
+una luna malévola, de siniestra luminosidad espectral.
+
+¡Son un montón de estiércol con cerebros de dictador!
+
+Algunas cosas mendigan nuestro amor, pensó.
+
+El agua era tan preciosa allí que incluso el rocío debía ser recolectado.
 
 ### <span id="Capitulo14">[Capítulo 14](#Capitulo14)</span>
 
-En una estancia de Giedi Prime están reunidos el Barón Vladimir Harkonen, el Mentat Piter y el heredero Feyd-Rautha. El Barón manipula una esfera con una representación del planeta Arrakis. Se presentan los planes en contra de la Casa Atreides según los nuevos eventos que se van desarrollando.
+El duque Leto y su hijo Paul están de nuevo en la sala de conferencias; es de mañana y desayunan, dialogan, Leto se muestra sombrío y cansado, le informa a Paul del engaño para su madre, dama Jessica, y cómo deberá actuar; Leto habla con palabras que tienen trasfondo pesimista o fatalista, se refleja duda y temor, Paul escucha y recibe algunas recomendaciones.
+
+Probablemente no haya en nuestra vida un instante más terrible que aquel en que uno descubre que su padre es un hombre… hecho de carne humana.
+
+El clip había sido compilado por uno de los expertos de Hawat, y Paul se sintió turbado por las referencias a sí mismo que contenían.
+
+Así que es eso lo que esperan, pensó.
+
+Kwisatz Haderach. Los recuerdos despertaron de nuevo en él la sensación de una terrible finalidad, poblando aquel extraño mundo de impresiones que aún no conseguía comprender.
+
+—La respuesta de tu madre no debe ser una acción.
+
+De este modo, si me ocurriera algo, tú podrías decirle la verdad… que nunca he dudado de ella, ni siquiera por un instante. Quiero que lo sepa.
+
+Paul contempló la espalda de su padre, notando la fatiga en la curva de su cuello y hombros y en la lentitud de sus movimientos.
+
+La melancólica degeneración de las Grandes Casas ha terminado quizá por alcanzarme.
+
+—No hay nada que consiga tanta lealtad hacia un líder como su aire de bravura —dijo el Duque—. Yo siempre he cultivado en mí un aire de bravura.
+
+Los hombres te siguen por su propia voluntad y te quieren.
+
+Arrakis nos obliga a ser morales y éticos.
+
+Aquí, debemos obtener el poder del desierto. Esta es tu herencia, Paul. ¿Qué será de ti si a mí me ocurre algo? No tendrás una Casa renegada, sino una Casa de guerrilleros… perseguida, cazada.
+
+Paul buscó palabras para responder, pero no encontró ninguna. Jamás había visto a su padre tan abatido.
+
+Las palabras de su padre le parecían fútiles, llenas de un fatalismo que causaba en el muchacho una sensación de vacío en el pecho.
+
+Ese filmclip… te llaman «Mahdi»… «Lisan al-Gaib»… como último recurso, podrías utilizar incluso esto.
 
 ### <span id="Capitulo15">[Capítulo 15](#Capitulo15)</span>
 
