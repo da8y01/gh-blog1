@@ -686,6 +686,354 @@ Ese filmclip… te llaman «Mahdi»… «Lisan al-Gaib»… como último recurso
 
 ### <span id="Capitulo15">[Capítulo 15](#Capitulo15)</span>
 
+Se lleva a cabo el encuentro con el planetólogo/ecólog Kynes, el Liet; en el campo de aterrizaje de Arrakeen se encuentran, se ajustan los destiltrajes, abordan los respectivos omnitópteros, van el duque Leto, el planetólogo Kynes, el maestro de armas Gurney Halleck, el heredero ducal Paul, y demás escolta; vuelan más allá de la Muralla Escudo hasta el sitio donde hay un tractor extrayendo especia, sobrevuelan, hablan, observan la operación, ven al gusano distante acercándose, ejecutan la maniabra de rescate requerida ante la amenaza del gusano y la falta del ala de acarreo.
+
+Se vanagloriaba de ser un científico, para el cual las leyendas eran tan sólo otros tantos interesantes indicios que revelaban las raíces de una cultura.
+
+Tenía «los ojos inquisitivos» y el aire de «reservado candor».
+
+Pero el joven cuerpo emanaba un sentido de mando, una seguridad en el porte, como si tuviera el poder de distinguir y reconocer a su alrededor muchas cosas que eran invisibles para los demás.
+
+«El Mahdi conocerá cosas que los demás no sabrán ver», rezaba la profecía.
+
+Mientras se acercaban a la solitaria figura de pie junto al ornitóptero, Leto no había dejado de estudiarla: alta, delgada, revestida con las amplias ropas del desierto, destiltraje y botas bajas. El hombre había echado hacia atrás la capucha, y su velo colgaba a un lado, revelando unos largos cabellos color arena y una corta barba. Sus ojos eran inescrutables bajo sus espesas cejas, azul sobre azul. Rastros de manchas negras marcaban aún sus párpados.
+
+Hijo, este es el Árbitro del Cambio, el juez de las disputas, el hombre que tiene la misión de procurar que sean cumplidas todas las formalidades en nuestra toma de posesión sobre este feudo.
+
+Paul había examinado brevemente a Kynes con los binoculares, observando la boca delgada y recta, la frente alta.
+
+—Un tipo extraño. Habla de un modo preciso: claramente, sin ambigüedades, como cortando las palabras con una navaja.
+
+—Nunca habléis de probabilidades en Arrakis. Hablad tan sólo de posibilidades.
+
+—«El regalo es la bendición de quien lo hace» —dijo.
+
+—Muchos de los nativos del desierto son supersticiosos. No les prestéis atención.
+
+Y por sus maneras, Kynes parecía un hombre orgulloso, habituado a la libertad, con su lenguaje y sus modales sujetos tan sólo por su propia suspicacia.
+
+La observación de Paul había sido directa y pertinente.
+
+Sé perfectamente qué garganta sería cercenada si os ocurriera algo mientras estáis a mi cuidado.
+
+—Ciertamente —dijo Kynes. Metió la mano bajo la ropa para comprobar las fijaciones de los hombros, hablando mientras examinaba el conjunto—. Básicamente es un tejido de varias microcapas… un filtro de alta eficacia y un sistema de intercambio de calor. —Ajustó las fijaciones de los hombros—. La capa en contacto con la piel es porosa. La transpiración pasa a través, refrescando el cuerpo… un proceso normal de evaporación. Las otras dos capas… —Kynes apretó el pectoral—… contienen filamentos de intercambio de calor y precipitaciones de sal. La sal es así recuperada.
+
+—Los movimientos del cuerpo, especialmente la respiración —dijo— y alguna acción osmótica, proveen al cuerpo de la energía suficiente para el bombeo. —Alargó ligeramente el pectoral—. El agua recuperada circula y termina yendo a parar a los bolsillos de recuperación, de donde uno puede aspirarla a través de este tubo fijado al lado de vuestro cuello.
+
+—La orina y las heces son procesadas en el revestimiento de los muslos —dijo, alzándose, tendiendo una mano hacia la fijación del cuello y levantando una sección cuadrada—. En pleno desierto, deberéis llevar este filtro sobre el rostro y estos tampones fijados a estos tubos en la nariz. Se inspira a través del filtro, con la boca, y se expira a través de la nariz. Con un traje Fremen en buenas condiciones, no perderéis más de un dedal de humedad al día… aunque os perdierais en el Gran Erg.
+
+En su consciencia sabía absolutamente que nunca antes de ahora se había enfundado un destiltraje. Y sin embargo, cada movimiento mientras se lo ajustaba bajo la torpe dirección de Gurney le había parecido natural e instintivo.
+
+—Esto… me ha parecido que era el modo correcto de ponérmelas.
+
+Y Kynes se frotó la barbilla, pensando en la leyenda: Conocerá vuestras costumbres como si hubiera nacido entre vosotros.
+
+pero en el desierto la mayor parte de los Fremen prefieren frotarse las manos con el jugo de las hojas del arbusto creosota. Esto inhibe la transpiración.
+
+vorágines de rocas torturadas, manchas amarillas y pardas marcadas por negras grietas.
+
+Kynes, sentado inmóvil, pensaba en toda aquella carne repleta de agua que había sentido bajo los destiltrajes.
+
+Aquella gente sorprendía a Kynes con su mezcla de delicadeza y de fuerza. Poseían una cualidad elusiva que los hacía completamente distintos de los Harkonnen.
+
+—Consisten principalmente en la biología y la botánica de las tierras áridas… un poco de geología, perforaciones de la corteza y algunos experimentos. Uno nunca puede agotar las posibilidades de todo un planeta.
+
+—Detecto una nota de amargura en vuestra voz, señor.
+
+—¡Arrakis podría ser un Edén si sus gobernantes se preocuparan de otras cosas además de la especia!
+
+—¿Queréis decir robar el agua de los demás? —preguntó Paul. La idea le parecía ultrajante, y el temblor de su voz traicionó su emoción.
+
+—A esta altura no es arena, sino tan sólo polvo —dijo Kynes—. Los principales peligros son la falta de visibilidad, la turbulencia y las válvulas de aspiración, que se ven cegadas.
+
+—Probablemente se trata de un águila —dijo Kynes—. Buen número de criaturas se han adaptado a este lugar.
+
+El timbre de la voz de Kynes atrajo la atención de Paul. Notó que sus sentidos se alertaban de acuerdo con el adiestramiento que había recibido.
+
+Hemos encontrado rastros de ácido clorhídrico en sus conductos, e incluso formas más complicadas de ácidos en otros lugares.
+
+Exceptuando las atómicas, no conozco ningún explosivo lo suficientemente potente como para destruir por completo un gusano.
+
+Y pensó: Si hay una relación entre la especia y los gusanos, matar los gusanos podría significar destruir la especia.
+
+La electricidad estática de las tormentas de arena enmascara la mayor parte de las señales. Las transmisiones quedan fuera de uso.
+
+—Nada es un término que cubre mucho territorio.
+
+Hay muchas de estas zonas. Es posible conseguirlo.
+
+—Es un efecto de la compresión de la arena —dijo Kynes—. Incluso los pasos más ligeros la hacen retumbar. Y los gusanos acuden de todas partes.
+
+La nube es arena que es expulsada después de ser centrifugada para extraer la especia. No hay ninguna otra nube que se asemeje a ésta.
+
+Kynes frunció las cejas. El muchacho no dejaba de hacer preguntas de adulto.
+
+Allí donde había señalado el Duque, entre las medias lunas de las dunas que se perdían en el horizonte, se movía una especie de montículo que formaba una línea recta que se perdía en lontananza. A Paul le recordó la estela que deja un enorme pez al nadar rozando la superficie del agua.
+
+Kynes inspiró profundamente.
+
+Kynes dirigió a Halleck una perpleja mirada.
+
+Paul miró hacia abajo, viendo la arena que seguía siendo expulsada por aquel monstruo de metal y plástico a sus pies. Tenía la apariencia de un enorme coleóptero azul y marrón cuyas múltiples patas se agitaban mecánicamente a su alrededor. Vio una gigantesca trompa en la parte anterior, hundiéndose en la oscura arena.
+
+—Cambió el micrófono a su frecuencia personal, y repitió la orden para su escolta aérea; luego pasó el micrófono a Kynes.
+
+Háganlo a suertes o decidan cómo crean mejor quiénes de ustedes van a venir.
+
+Lo siento —mientras Kynes se llevaba a la boca un dedo contuso.
+
+Inmediatamente, sus olfatos fueron asaltados por el olor a canela, denso y penetrante.
+
+Paul miró a la enorme mole del tractor, junto a la cual los tópteros parecían minúsculos mosquitos al lado de un monstruoso escarabajo.
+
+Entonces lo oyeron todos. Era como un frotar rasposo, un crepitar distante que crecía en intensidad.
+
+y pensó: Ese Duque no pierde nunca los nervios.
+
+Un enorme agujero se formó en la arena. La luz del sol brilló en las paredes blancas y lisas. El orificio, estimó Paul, tenía al menos el doble de diámetro que la longitud del tractor. Miró fascinado la máquina girando en aquella abertura, en el corazón de una auténtica tormenta de polvo y arena. El agujero volvió a cerrarse.
+
+—Bienaventurado el Hacedor y Su agua —murmuraba Kynes—. Bienaventurada Su llegada y Su partida. Pueda Su paso purificar el mundo. Pueda Él conservar el mundo para Su pueblo.
+
+Kynes se volvió, ceñudo. El hombre intentó esconderse, confuso.
+
+—Cállate, Coss —dijo el hombre alto, el último en salir del tractor—. No haces más que empeorar tu tos.
+
+—Las paredes del orificio son curvadas, y eso hace que las distancias sean engañosas —dijo Kynes.
+
+«El Lisan al-Gaib sabrá ver a través de cualquier subterfugio».
+
+—Cuando Dios ordena a una criatura que muera en un lugar determinado —dijo Kynes sin volverse—, hace de modo que Su voluntad conduzca a la criatura hasta ese lugar.
+
+Este Duque se sentía mucho más preocupado por los hombres que por la especia.
+
+### <span id="Capitulo16">[Capítulo 16](#Capitulo16)</span>
+
+El comedor está dispuesto en la gran casa de Arrakeen, el duque Leto supervisa, anula la tradición de los cuencos y toallas de agua, se dirige al Gran Salón a departir con los invitados (su señora dama Jessica, su hijo Paul, el planetólogo Kynes, el maestro de armas Gurney Halleck, el contrabandista Tuek, el banquero agente Harkonen, el fabricante de destiltrajes piratas y su hija, etc.), luego acuden al comedor a cenar y continúan las discusiones y conversaciones, hacia el final de la cena por un aviso, Leto se retira de la mesa, dejando a cargo a Paul y a Gurney, al rato llega un mensaje tranquilizador de Leto informando que tanto el ala de acarreo como el infiltrado Harkonen de la tripulación que pretendía venderla en una base de contrabandistas, han sido restutidos.
+
+La grandeza es una experiencia transitoria. Nunca es consistente.
+
+La persona que experimenta la grandeza debe percibir el mito que la circunda. Debe reflexionar qué es proyectado sobre él.
+
+Sin esta cualidad, incluso una grandeza ocasional puede destruir a un hombre.
+
+Típico de un feudo Harkonnen, pensó el Duque. Todas las degradaciones que la mente pueda concebir. Inspiró profundamente, sintiendo que la ira retorcía su estómago.
+
+y pudo observar su reseco rostro parecido a cuero y los ojos azules sobre azul.
+
+El curtido rostro reveló toda una serie de emociones: desesperación, rabia…
+
+Los recuerdos se agitaban en su mente como el murmullo de viejas mujeres desdentadas.
+
+(ascético y ausente, como siempre),
+
+decorativas, perfectas hasta el mínimo detalle, una extraña mezcla de virtud intocable y de sensualidad.
+
+Comprendió que ella quería reprocharle así, de aquella sutil manera, la reciente frialdad de su actitud.
+
+Pero Paul las trataba a todas por igual, con una noble reserva.
+
+No eran más que máscaras baratas aplicadas sobre pensamientos infectos, voces chillonas que se alzaban para intentar dominar el profundo silencio que reinaba en sus pechos.
+
+Estoy de mal humor, pensó Paul,
+
+Leto percibió la repentina untuosidad de la voz del hombre, notó el silencio del grupo, observó que todas las cabezas en la sala se volvían hacia ellos.
+
+El hombre estaba contemplando a Jessica. Su semblante estaba transfigurado… como un hombre enamorado… o presa de un trance religioso.
+
+«… el camino más corto». En la antigua lengua, estas palabras podían ser traducidas como «Kwisatz Haderach».
+
+El Duque observó hasta qué punto aquellas palabras alteraron a Kynes, que se irguió y abandonó bruscamente a la dama y su frívola conversación.
+
+Nada impresiona más que estas formas de reunión social.
+
+He oído decir que sólo un loco aceptaría aventurarse en el desierto con uno de sus trajes.
+
+Entraron en el comedor, y ella se soltó de su brazo, y Leto la ayudó a sentarse.
+
+Un silencio embarazado reinó alrededor de la mesa.
+
+Las sombras jugaron con los rasgos de halcón del Duque.
+
+café con melange (el intenso olor a canela de la especia invadió la mesa)
+
+el pálido y austero representante del Banco de la Cofradía (que parecía un espantapájaros, con los ojos fijos en Leto)
+
+La pérdida de aquel tractor le ha afectado más profundamente de lo que debiera.
+
+Estudiaremos en primer lugar cómo separar estos elementos para su análisis: primero, por los esquemas de interrogatorio que revelan la orientación interna de los interrogadores; segundo, por el examen atento del modo como piensan y se expresan los sujetos bajo análisis.
+
+Va a llevar la conversación a temas aparentemente banales, pero con implicaciones amenazadoras, se dijo. Ese es su esquema de acción.
+
+Todos nuestros pájaros, por supuesto, son carroñeros, y muchos pueden vivir sin agua porque son bebedores de sangre.
+
+—Oh, Suu-Suu, decís las cosas más disgustantes —exclamó.
+
+El banquero se envaró y miró ceñudamente al Duque.
+
+La sangre es una fuente de energía muy eficiente.
+
+Son gente valerosa que sabe cuándo hay que defender el honor.
+
+—Libremente dadas, libremente aceptadas
+
+Y se dio cuenta de que había una predisposición al homicidio en el comportamiento de Kynes. Podía matar fácilmente, y adivinó que esta era una característica de los Fremen.
+
+vida vegetal desarrollada e importantes fuentes de anhídrido carbónico provenientes de fenómenos como los volcanes.
+
+Se dirigió a la compañera del fabricante de destiltrajes, una mujer pequeña de cabello oscuro, rostro de muñeca y ojos ligeramente estrábicos.
+
+Y Jessica notó con orgullo la dignidad de su hijo, su madura seguridad en sí mismo.
+
+—¡Qué interesante forma de morir! —murmuró la joven.
+
+La sonrisa de Paul se endureció.
+
+Para el joven Paul Atreides; un muchacho aún por su aspecto, pero un hombre por sus actos.
+
+—En nuestra sociedad, la gente no debería sentirse ofendida tan pronto. A veces es un suicidio.
+
+pero sospecho que se trata tan sólo de la invención imaginativa de algún trovador en busca de letra para una canción.
+
+Y pensó: «Eso es lo que se dice…». Qué curioso amaneramiento el que hay en su forma de expresarse. Si supieran hasta qué punto revela esto su dependencia de las supersticiones…
+
+«La educación viene de las ciudades, la sabiduría del desierto»
+
+La gente tiene tantas esperanzas de que los Atreides traigan consigo paz y prosperidad…
+
+El fabricante de destiltrajes era un pequeño y atemorizado arribista que podía ser comprado.
+
+Una explosión láser-escudo tenía una peligrosa variante, ya que podía revelarse más potente que una explosión atómica o podía matar tan sólo al tirador y a su blanco.
+
+### <span id="Capitulo17">[Capítulo 17](#Capitulo17)</span>
+
+En la madrugada, estando en su cama en sus habitaciones de la casa de Arrakeen, dama Jessica oye un fuerte y confuso tumulto en el Gran Salón, acude, es Duncan Idaho borracho, hay presentes guardias, la Shadaout Mapes y llega el Dr. Yueh, Idaho acusa a Jessica de espía Harkonen, Jessica se enfurece y solicita la presencia del anciano mentat Thufir Hawat en sus habitaciones/aposentos, a donde se dirige para esperarlo. Jessica y Hawat dialogan, expresan sus sospechas/suspicacias mutuas, con la manipulación/técnica Bene Geserit, la bruja logra/provoca/alcanza el shock en el mentat.
+
+La cabeza del hombre basculaba hacia adelante.
+
+—Mapes, tráele un estimulante. Sugiero cafeína. Quizá quede todavía un poco de café de especia.
+
+Idaho volvió penosamente su cabeza hacia Jessica, en un ángulo absurdo.
+
+—¡El buen doc… tor! —hipó Idaho—.
+
+—¡… podrida como el resto en este lugar! Mal… dito sol… tan brillante. Nada tiene buen co… color. Todo está deformado y…
+
+Yueh se envaró y se volvió hacia Jessica.
+
+Tuvo que recurrir a lo más profundo de su adiestramiento Bene Gesserit para calmar su pulso y controlar su respiración.
+
+El guardia tragó saliva.
+
+Jessica sonrió agriamente.
+
+Le palmeó el brazo para atemperar la aspereza de su orden—.
+
+Jessica permaneció inmóvil en medio de la estancia, mirando furiosamente las ventanas protegidas con escudos de su salón.
+
+Y se dispuso a esperar a la Manera Bene Gesserit, acumulando paciencia y reservando sus fuerzas.
+
+Los viejos ojos acuosos de Hawat brillaban.
+
+Hawat se levantó a medias de su asiento, con su rostro oscurecido por la ira.
+
+¿Debo hablarle de la hija del Duque que llevo en mi seno desde hace unas semanas?
+
+—Sabéis que no poseo el oído —dijo Hawat.
+
+Hawat se removió en su asiento.
+
+—Mi Dama coloca a su servidor en una posición imposible. Mi lealtad va ante todo hacia el Duque.
+
+¿Cuál es el problema con Duncan y los otros? Puedo decíroslo en cuatro palabras: no tienen un hogar.
+
+Hawat se envaró.
+
+¿Es derrotismo o traición por parte de un doctor diagnosticar correctamente una enfermedad? Mi única intención es curar esta enfermedad.
+
+¿Debo administrarle un shock?, se dijo. Necesita una sacudida, algo que consiga sacarle de la rutina.
+
+El rostro del hombre se oscureció.
+
+Ahora el hombre estaba abiertamente furioso: su respiración agitada, las ventanas de su nariz dilatadas, su fija mirada le traicionaban. Percibió el rápido pulsar de una vena en su sien.
+
+Quizá corran el riesgo de introducir en secreto algunos láser con mecanismos de tiempo conectados a los escudos de la casa.
+
+—Vos sois un hombre del Duque —comentó burlonamente ella—. ¿Le destruiríais en vuestro esfuerzo por salvarle?
+
+Simplemente pongo en evidencia el hecho de que alguien nos está atacando a través de las posiciones básicas de nuestras vidas. Es astuto, diabólico.
+
+El ser humano natural es un animal de lógica. Vuestra proyección de la lógica en todos los asuntos es innatural pero es tolerada porque es útil. Vos sois la personificación de la lógica… un Mentat.
+
+—Podéis aplicar vuestra lógica a cualquier cosa que esté fuera de vos —dijo Jessica—. Pero es una característica humana el que cuando nos enfrentamos con nuestros problemas personales, las cosas más profundamente íntimas son las que mejor resisten el examen de nuestra lógica. Tendemos a buscar las causas a nuestro alrededor, acusando a todo y a todos, salvo la cosa bien real y profundamente enraizada en nosotros que es nuestra auténtica finalidad.
+
+—Los mejores Mentat conservan un saludable respeto hacia los factores de error en sus cálculos —dijo ella.
+
+—Entonces, estudiad esos síntomas que ambos hemos observado: la embriaguez entre nuestros hombres, las disputas… cómo intercambian vagos rumores sobre Arrakis, cómo ignoran los más simples…
+
+—Se aburren, eso es todo —dijo él—. No intentéis distraer mi atención presentándome un simple hecho banal como algo misterioso.
+
+Ella lo miró, pensando en los hombres del duque que, en sus barracones, rumiaban sus aflicciones hasta tal punto que la tensión llegaba hasta el castillo casi como un aislante quemado. Se están volviendo como los hombres de las leyendas pre-Cofradía, pensó. Como los hombres de aquel perdido explorador estelar, Ampoliros… enfermos a fuerza de sujetar las armas… siempre buscando, siempre preparados y nunca dispuestos.
+
+No me dejo engañar por lo que vuestras escuelas declaran en público, que existís tan sólo para servir.
+
+—No tengo ninguna confianza en vuestras motivaciones Bene Gesserit —dijo Hawat—. Creéis que podéis leer en el interior de un hombre; tal vez penséis que podéis empujar a un hombre a hacer exactamente lo que vos…
+
+Y pensó: ¿Por qué permito que el orgullo me haga decir tales palabras? Esta no es la manera en que fui adiestrada. No es así como puedo ocasionarle un shock.
+
+No lleva escudo, pensó. ¿Acaso es una bravata? Podría matarla ahora… pero, ah… ¿Cuales serían las consecuencias si estoy equivocado?
+
+—Roguemos porque la violencia nunca sea necesaria entre nosotros.
+
+—Una loable plegaria —asintió él.
+
+—El rey vuelve a estar ahogado —dijo él.
+
+Seguramente lo intentan, pero saben que las Bene Gesserit constituyen un blanco difícil.
+
+El viejo Mentat casi se dejó caer hacia atrás sobre su asiento, sintiendo que de repente sus músculos lo traicionaban.
+
+Ella sonrió sin alegría.
+
+Hawat intentó deglutir sin conseguirlo. La intimación de Jessica había sido regia, perentoria, restallando en un tono y una manera completamente irresistibles. Su cuerpo había obedecido aún antes de que pudiera pensar en ello. Nada hubiera podido impedir su reacción de respuesta, ni la lógica, ni el más apasionado furor… nada. Y todo aquello recelaba en ella un conocimiento profundo, sensible, de la persona a la que se había enfrentado, un control tan completo que jamás lo hubiera creído posible.
+
+Se estremeció ante el recuerdo de cómo lo había dominado.
+
+¿Es cierto entonces que cada ser humano es víctima de esta ceguera?, pensó. ¿Es posible que cada uno de nosotros pueda ser manipulado de esta forma sin poder resistirse? Esta idea lo asombró. ¿Quién podría detener a una persona dotada de tal poder?
+
+«Qué fácil sería para ella fabricarse un instrumento humano para hundirlo en las entrañas del enemigo»
+
+Nosotras no queremos esto, Thufir. No queremos destruirnos a nosotras mismas. —Asintió con la cabeza—. Sí, realmente, sólo existimos para servir.
+
+—Sois tenaz —dijo ella.
+
+—Prudente —observó él—, y consciente de la posibilidad de error.
+
+—Entonces os voy a hacer otra pregunta: ¿qué significa para vos el encontraros ante otro ser humano, y saberos atado y sin posibilidades de defensa, mientras el otro tiene un cuchillo apuntando a vuestra garganta… y este, en vez de mataros, os libera de vuestras ligaduras y os ofrece el cuchillo para que lo uséis contra él?
+
+El viejo Duque había dado la espalda a los cuernos, con la capa llameantemente doblada en su brazo, mientras las aclamaciones resonaban en las tribunas.
+
+Yo soy el toro y ella el matador, se dijo Hawat.
+
+Y supo entonces que, ocurriera lo que ocurriese, nunca olvidaría aquel instante, y que la suprema admiración que experimentaba por Dama Jessica nunca disminuiría.
+
+### <span id="Capitulo18">[Capítulo 18](#Capitulo18)</span>
+
+En una estancia de Giedi Prime están reunidos el Barón Vladimir Harkonen, el Mentat Piter y el heredero Feyd-Rautha. El Barón manipula una esfera con una representación del planeta Arrakis. Se presentan los planes en contra de la Casa Atreides según los nuevos eventos que se van desarrollando.
+
+### <span id="Capitulo19">[Capítulo 19](#Capitulo19)</span>
+
+En una estancia de Giedi Prime están reunidos el Barón Vladimir Harkonen, el Mentat Piter y el heredero Feyd-Rautha. El Barón manipula una esfera con una representación del planeta Arrakis. Se presentan los planes en contra de la Casa Atreides según los nuevos eventos que se van desarrollando.
+
+### <span id="Capitulo20">[Capítulo 20](#Capitulo20)</span>
+
+En una estancia de Giedi Prime están reunidos el Barón Vladimir Harkonen, el Mentat Piter y el heredero Feyd-Rautha. El Barón manipula una esfera con una representación del planeta Arrakis. Se presentan los planes en contra de la Casa Atreides según los nuevos eventos que se van desarrollando.
+
+### <span id="Capitulo21">[Capítulo 21](#Capitulo21)</span>
+
+En una estancia de Giedi Prime están reunidos el Barón Vladimir Harkonen, el Mentat Piter y el heredero Feyd-Rautha. El Barón manipula una esfera con una representación del planeta Arrakis. Se presentan los planes en contra de la Casa Atreides según los nuevos eventos que se van desarrollando.
+
+### <span id="Capitulo22">[Capítulo 22](#Capitulo22)</span>
+
 En una estancia de Giedi Prime están reunidos el Barón Vladimir Harkonen, el Mentat Piter y el heredero Feyd-Rautha. El Barón manipula una esfera con una representación del planeta Arrakis. Se presentan los planes en contra de la Casa Atreides según los nuevos eventos que se van desarrollando.
 
 
