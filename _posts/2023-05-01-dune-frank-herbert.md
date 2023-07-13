@@ -1018,7 +1018,31 @@ Y supo entonces que, ocurriera lo que ocurriese, nunca olvidaría aquel instante
 
 ### <span id="Capitulo18">[Capítulo 18](#Capitulo18)</span>
 
-En una estancia de Giedi Prime están reunidos el Barón Vladimir Harkonen, el Mentat Piter y el heredero Feyd-Rautha. El Barón manipula una esfera con una representación del planeta Arrakis. Se presentan los planes en contra de la Casa Atreides según los nuevos eventos que se van desarrollando.
+El duque Leto es atentado con un aguja con droga paralizante disparada por el Dr. Yueh; días después del banquete, antes del amanecer, encontrándose Leto en un salón de su casa en Arrakeen, cavilando una misteriosa nota dejada por un mensajero Fremen a uno de los guardias exteriores, decide desplazarse hacia el ala ocupada por su familia y consultar el asunto con su señora dama Jessica, pero en el camino por uno de los corredores lo interrumpe un extrañlo gemido, está sin el escudo, al investigar encuentra el cadáver del contrabandista Tuek, y más adelante al ama de llaves Fremen Mapes herida, finalmente él mismo es disparado por Yueh, quien le revela sus planes de eliminar al barón Harkonen utilizándolo a él como arma.
+
+Echó hacia atrás un mechón de cabellos de su frente, y suspiró. El efecto de las píldoras anti fatiga comenzaba a disiparse.
+
+Aquel extraño sonido le había hecho estremecer.
+
+Sus ojos sin vida reflejaban una vacía oscuridad.
+
+Leto apoyó los dedos en sus sienes. Ningún latido.
+
+Su mente era un torbellino.
+
+Fue a levantarse. Un sexto sentido le advirtió. Llevó una mano al conmutador del escudo… demasiado tarde. Un violento golpe hizo caer su brazo hacia el costado. Sintió el dolor, vio la aguja que surgía en su manga, notó la parálisis difundiéndose a lo largo de su brazo. Hizo un agonizante esfuerzo por levantar la cabeza y mirar hacia el otro extremo del corredor.
+
+El rostro de Yueh estaba lleno de tristeza cuando se inclinó sobre él y tocó la frente de Leto. El Duque descubrió que aún podía sentir el contacto pero que este era remoto… apagado.
+
+Leto miró a Yueh y captó la locura en los ojos del hombre, la transpiración goteando a lo largo de su frente hasta su mentón.
+
+Pero un ataque puede asumir las formas más extrañas.
+
+Mi pobre Wanna me ha enseñado muchas cosas, y una de ellas es la certeza de la verdad cuando la tensión es grande.
+
+La boca de Leto se movió sin que ningún sonido surgiera de ella.
+
+—Haciendo creer que han muerto, y llevándolos secretamente con gente que saca un cuchillo al solo nombre de los Harkonnen, que odian a los Harkonnen hasta el punto que quemarían las sillas donde se ha sentado un Harkonnen o esparcirían la sal por donde ha caminado un Harkonnen.
 
 ### <span id="Capitulo19">[Capítulo 19](#Capitulo19)</span>
 
