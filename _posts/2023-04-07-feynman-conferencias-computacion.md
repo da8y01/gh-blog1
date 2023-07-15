@@ -355,6 +355,84 @@ The question is this: does this process go on forever, stop, or go on periodical
 ![RPFLecturesComputation_Cap4][RPFLecturesComputation_Cap4]{: width="40%"}
 </div>
 
+Components can let us down chiefly in two ways. Firstly, they may contain faults: these can arise during manufacture and are obviously of extreme importance.
+
+What I want to focus on now is a second way in which an element can let us down. This is when it fails randomly, once in a while, perhaps because of the random Brownian motion of atoms or just irregular noise in a circuit.
+
+and the problem of unreliability was acute: with a million components one could expect a thousand of them to be acting up at anyone time!
+
+Indeed, until recently, the problem has ceased to be considered very serious.
+
+Any of these could mean that the message we receive differs from the one sent: this is the so-called "communication problem in the presence of noise".
+
+Now this isn't exactly the same situation as with memory - which is like sending a message through time rather than space - but you can see the similarities.
+
+We will start with a look at how we might go about detecting errors, an essential step before we can correct them.
+
+Clearly, all we have to work with is the message: calling up the sender for confirmation defeats the object!
+
+This is an example of coding a message; that is, amending its basic structure in some way to allow for the possibility of error correction (or, of course, for reasons of security).
+
+There are two main shortcomings of this procedure which we should address. Firstly, we might get an error in the parity bit!
+
+Secondly, at best the check only tells us whether an error exists - it does not tell us where that error might be.
+
+Actually, it is a kind of higher- dimensional generalization of the array method.
+
+For any given message, we can ask the question: "How many check bits do I need to not only spot a single error, but also to correct it?" One clever answer to this question was discovered by Hamming, whose basic idea was as follows.
+
+If the syndrome is zero, meaning all parity checks pass, there is no error; if it is non-zero, there is an error, and furthermore the value of the syndrome tells us the precise location of this error.
+
+Each such bit will be a parity check run over a subset of the bits in the full fifteen-bit message.
+
+We assign to each parity check a one if it fails and a zero if it passes, and arrange the resulting bits into a binary number, the syndrome.
+
+Let us look at the rightmost parity check, the far right digit of the syndrome.
+
+To get the second, look at the second digit from the right.
+
+we have narrowed the possible location choices.
+
+We first have to decide where to stick in our parity bits. There is nothing in what we have said so far that tells us whereabouts in the message these must go, and in fact we can put them anywhere. However, certain positions make the encoding easier than others, and we will use one of these.
+
+If we had chosen an apparently more straightforward option, such as placing them all at the left end of the string occupying positions 1 to 4, we would have had to deal with a set of simultaneous equations in a,b,c,d. The important feature of our choice is that the parity positions 1,2,4,8 each appear in only one subset, giving four independent equations.
+
+Note that the cost of these benefits is almost a 50% inefficiency - five check bits for an eleven bit message. As we pointed out earlier however, the inefficiency drops considerably as we increase the message length. For a one-thousand bit message, the inefficiency is a tiny one percent or so.
+
+We can use Poisson's Law to get a handle on the probabilities of multiple errors occurring when we send our batches.
+
+Now suppose we have no error detection or correction, so we are expending no cash on insurance.
+
+On average, we should only be able to send a thousand batches before this happens, which is pretty miserable.
+
+However, suppose we have our one percent gadget, with single error correction and double error detection. This system will take care of it itself for single errors, and only stop and let me know there is a problem if a double error occurs, once in every million or so batches. It will only fail with a triple error, which turns up in something like every six billion batches. Not a bad rate for a one percent investment!
+
+Issues of efficiency and reliability are understandably central in computer engineering.
+
+Spacecraft communications rely on a kind of voting technique, referred to as "majority logic decisions".
+
+How many copies you send depends on the expected error rate.
+
+This information is still stored on disks, but individual disks are simply not fast enough to handle the required influx and outflow of data.
+
+Every manufacturer would like to build the perfect disk, one that is error-free - sadly, this is impossible.
+
+The reason you do not usually notice this is that machines are designed to spot flaws and work around them:
+
+However, when a disk is working alongside many others in a parallel processing environment, the momentary hang up as one disk attends to a flaw can screw everything up.
+
+The flaws we are talking about here, in any case, are not really random: they are permanent, fixed on the disk, and hence will turn up in the same place whenever the disk is operating.
+
+The use of this Hamming coding method saved the whole idea of gang disks from going down the drain.
+
+any number will do, but it must be non-zero, or you'll get into trouble with what follows.
+
+Given this, says Shannon, if no limit is placed on the length of the batches Me, *the residual error rate can be made arbitrarily close to zero*.
+
+In practice, however, it might require a large batch size; and a lot of ingenuity. However, in his extraordinarily powerful theorem, Shannon has told us we can do it. Unfortunately, he hasn't told us how to do it. That's a different matter!
+
+This obviously makes sense. As the error rate drops, the upper limit on the efficiency increases, meaning that we need fewer codebits per data bit.
+
 
 ## <span id="Chap5">[5. Reversible Computation and the Thermodynamics of Computing | Computación reversible y la termodinámica de la computación](#Chap5)</span>
 

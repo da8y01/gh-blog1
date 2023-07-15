@@ -118,7 +118,7 @@ Las palabras de la vieja mujer perdieron bruscamente aquella especial claridad p
 
 ### <span id="Capitulo2">[Capítulo 2](#Capitulo2)</span>
 
-En una estancia de Giedi Prime están reunidos el Barón Vladimir Harkonen, el Mentat Piter y el heredero Feyd-Rautha. El Barón manipula una esfera con una representación del planeta Arrakis. Se presentan los planes en contra de la Casa Atreides según los nuevos eventos que se van desarrollando.
+En una estancia de Giedi Prime están reunidos el Barón Vladimir Harkonnen, el Mentat Piter y el heredero Feyd-Rautha. El Barón manipula una esfera con una representación del planeta Arrakis. Se presentan los planes en contra de la Casa Atreides según los nuevos eventos que se van desarrollando.
 
 <div style="text-align:center" markdown="1">
 ![DuneFrankHerbert_Capitulo02_01][DuneFrankHerbert_Capitulo02_01]{: width="60%"}
@@ -620,7 +620,7 @@ El espacio le daba la impresión de haber estado vacío desde mucho antes de que
 
 ### <span id="Capitulo13">[Capítulo 13](#Capitulo13)</span>
 
-Habiendo dejado a su hijo Paul en la sala de conferencias donde se había llevado a cabo la reunión de estado mayor estratégica, el duque Leto conversa con el anciano mentat Thufir Hawat en una estancia contigua donde este último se ocupa del encargo de instalar otro punto de comunicaiones; Leto pregunta a Hawat porqué tan nervioso, Hawat le muestra el fragmento de nota Harkonen amenzante, conjeturan acerca de quien puede ser el traidor, incluyendo a la mujer del duque, la Bene Gesserit dama Jessica, se habla de ponerle vigilancia a Jesica y asignar el Dr. Yueh (el traidor) a Paul, Hawat también le entrega a Leto un filmclip informativo acerca del significado de la palabra «¡Mahdi!» oída en el recorrido por las calles de Arrakeen; Leto sale, camina un poco, luego regresa a la sala de conferencia donde encuentra a Paul durmiendo encima de la mesa, abrigado por un capote de guardia y con un saco de equipaje de almohada, sigue hasta la terraza, el guardia en la esquina hace un saludo, se ve el campo de aterrizaje, se aprecia el paisaje del horizonte, el momento precendente al alba y el amanecer, al final observa las figuras que recolectan el rocío mañanero.
+Habiendo dejado a su hijo Paul en la sala de conferencias donde se había llevado a cabo la reunión de estado mayor estratégica, el duque Leto conversa con el anciano mentat Thufir Hawat en una estancia contigua donde este último se ocupa del encargo de instalar otro punto de comunicaiones; Leto pregunta a Hawat porqué tan nervioso, Hawat le muestra el fragmento de nota Harkonnen amenzante, conjeturan acerca de quien puede ser el traidor, incluyendo a la mujer del duque, la Bene Gesserit dama Jessica, se habla de ponerle vigilancia a Jesica y asignar el Dr. Yueh (el traidor) a Paul, Hawat también le entrega a Leto un filmclip informativo acerca del significado de la palabra «¡Mahdi!» oída en el recorrido por las calles de Arrakeen; Leto sale, camina un poco, luego regresa a la sala de conferencia donde encuentra a Paul durmiendo encima de la mesa, abrigado por un capote de guardia y con un saco de equipaje de almohada, sigue hasta la terraza, el guardia en la esquina hace un saludo, se ve el campo de aterrizaje, se aprecia el paisaje del horizonte, el momento precendente al alba y el amanecer, al final observa las figuras que recolectan el rocío mañanero.
 
 ya que sólo podían esperar que fuera aquél que les había sido anunciado como el Lisan-al-Gaib, la Voz del Otro Mundo.
 
@@ -808,7 +808,7 @@ Este Duque se sentía mucho más preocupado por los hombres que por la especia.
 
 ### <span id="Capitulo16">[Capítulo 16](#Capitulo16)</span>
 
-El comedor está dispuesto en la gran casa de Arrakeen, el duque Leto supervisa, anula la tradición de los cuencos y toallas de agua, se dirige al Gran Salón a departir con los invitados (su señora dama Jessica, su hijo Paul, el planetólogo Kynes, el maestro de armas Gurney Halleck, el contrabandista Tuek, el banquero agente Harkonen, el fabricante de destiltrajes piratas y su hija, etc.), luego acuden al comedor a cenar y continúan las discusiones y conversaciones, hacia el final de la cena por un aviso, Leto se retira de la mesa, dejando a cargo a Paul y a Gurney, al rato llega un mensaje tranquilizador de Leto informando que tanto el ala de acarreo como el infiltrado Harkonen de la tripulación que pretendía venderla en una base de contrabandistas, han sido restutidos.
+El comedor está dispuesto en la gran casa de Arrakeen, el duque Leto supervisa, anula la tradición de los cuencos y toallas de agua, se dirige al Gran Salón a departir con los invitados (su señora dama Jessica, su hijo Paul, el planetólogo Kynes, el maestro de armas Gurney Halleck, el contrabandista Tuek, el banquero agente Harkonnen, el fabricante de destiltrajes piratas y su hija, etc.), luego acuden al comedor a cenar y continúan las discusiones y conversaciones, hacia el final de la cena por un aviso, Leto se retira de la mesa, dejando a cargo a Paul y a Gurney, al rato llega un mensaje tranquilizador de Leto informando que tanto el ala de acarreo como el infiltrado Harkonnen de la tripulación que pretendía venderla en una base de contrabandistas, han sido restutidos.
 
 La grandeza es una experiencia transitoria. Nunca es consistente.
 
@@ -906,7 +906,7 @@ Una explosión láser-escudo tenía una peligrosa variante, ya que podía revela
 
 ### <span id="Capitulo17">[Capítulo 17](#Capitulo17)</span>
 
-En la madrugada, estando en su cama en sus habitaciones de la casa de Arrakeen, dama Jessica oye un fuerte y confuso tumulto en el Gran Salón, acude, es Duncan Idaho borracho, hay presentes guardias, la Shadaout Mapes y llega el Dr. Yueh, Idaho acusa a Jessica de espía Harkonen, Jessica se enfurece y solicita la presencia del anciano mentat Thufir Hawat en sus habitaciones/aposentos, a donde se dirige para esperarlo. Jessica y Hawat dialogan, expresan sus sospechas/suspicacias mutuas, con la manipulación/técnica Bene Geserit, la bruja logra/provoca/alcanza el shock en el mentat.
+En la madrugada, estando en su cama en sus habitaciones de la casa de Arrakeen, dama Jessica oye un fuerte y confuso tumulto en el Gran Salón, acude, es Duncan Idaho borracho, hay presentes guardias, la Shadaout Mapes y llega el Dr. Yueh, Idaho acusa a Jessica de espía Harkonnen, Jessica se enfurece y solicita la presencia del anciano mentat Thufir Hawat en sus habitaciones/aposentos, a donde se dirige para esperarlo. Jessica y Hawat dialogan, expresan sus sospechas/suspicacias mutuas, con la manipulación/técnica Bene Geserit, la bruja logra/provoca/alcanza el shock en el mentat.
 
 La cabeza del hombre basculaba hacia adelante.
 
@@ -1018,7 +1018,7 @@ Y supo entonces que, ocurriera lo que ocurriese, nunca olvidaría aquel instante
 
 ### <span id="Capitulo18">[Capítulo 18](#Capitulo18)</span>
 
-El duque Leto es atentado con un aguja con droga paralizante disparada por el Dr. Yueh; días después del banquete, antes del amanecer, encontrándose Leto en un salón de su casa en Arrakeen, cavilando una misteriosa nota dejada por un mensajero Fremen a uno de los guardias exteriores, decide desplazarse hacia el ala ocupada por su familia y consultar el asunto con su señora dama Jessica, pero en el camino por uno de los corredores lo interrumpe un extrañlo gemido, está sin el escudo, al investigar encuentra el cadáver del contrabandista Tuek, y más adelante al ama de llaves Fremen Mapes herida, finalmente él mismo es disparado por Yueh, quien le revela sus planes de eliminar al barón Harkonen utilizándolo a él como arma.
+El duque Leto es atentado con un aguja con droga paralizante disparada por el Dr. Yueh; días después del banquete, antes del amanecer, encontrándose Leto en un salón de su casa en Arrakeen, cavilando una misteriosa nota dejada por un mensajero Fremen a uno de los guardias exteriores, decide desplazarse hacia el ala ocupada por su familia y consultar el asunto con su señora dama Jessica, pero en el camino por uno de los corredores lo interrumpe un extrañlo gemido, está sin el escudo, al investigar encuentra el cadáver del contrabandista Tuek, y más adelante al ama de llaves Fremen Mapes herida, finalmente él mismo es disparado por Yueh, quien le revela sus planes de eliminar al barón Harkonnen utilizándolo a él como arma.
 
 Echó hacia atrás un mechón de cabellos de su frente, y suspiró. El efecto de las píldoras anti fatiga comenzaba a disiparse.
 
@@ -1046,15 +1046,177 @@ La boca de Leto se movió sin que ningún sonido surgiera de ella.
 
 ### <span id="Capitulo19">[Capítulo 19](#Capitulo19)</span>
 
-En una estancia de Giedi Prime están reunidos el Barón Vladimir Harkonen, el Mentat Piter y el heredero Feyd-Rautha. El Barón manipula una esfera con una representación del planeta Arrakis. Se presentan los planes en contra de la Casa Atreides según los nuevos eventos que se van desarrollando.
+Dama Jessica se despierta en una habitación a oscuras, atada y amordazada, resulta ser la habitación del sótano usada por Paul, ha sido capturada, llega el Barón Vladimir Harkonnen con unos subalternos, conversa con Jessica y el mentat asesino/degenerado Piter de Vries; al final Piter acepta el ducado, y llevan a Jessica y a Paul al desierto, ahí los capturados se libran de sus guardias captores, pero quedan por lidiar con la escapatoria de mercenarios Harkonnen.
+
+Debería existir una ciencia del descontento. La gente necesita tiempos difíciles y de opresión para desarrollar sus músculos físicos.
+
+No comprendía por qué su mente y su cuerpo estaban tan entumecidos. Su piel se estremeció ante el miedo que corría a lo largo de sus nervios.
+
+Probó las ligaduras, dándose cuenta de que eran fibras de krimskell, que se apretarían cada vez más a medida que intentara tirar de ellas.
+
+Había perdido la consciencia, hundiéndose en un negro abismo de terror.
+
+Ha ocurrido, pensó. Cuán simple ha sido vencer a una Bene Gesserit. Ha bastado la traición. Hawat tenía razón.
+
+Jessica apartó de sí el recuerdo del terror. Debo permanecer tranquila, alerta y preparada. Podría presentarse una única oportunidad. Se obligó nuevamente a mantener su calma.
+
+Los latidos de su corazón se hicieron más lentos y regulares, marcando tiempo. Contó hacia atrás.
+
+Se relajó en el frío suelo, probando las reacciones de su cuerpo.
+
+—Estáis despierta —dijo una voz de bajo—. No finjáis.
+
+Miró al Barón. Llevaba una capa amarilla deformada por los suspensores portátiles. Sus gruesas mejillas de querubín estaban coronadas por dos ojos negros parecidos a los de una araña.
+
+¿Cómo es posible?, pensó. Tendrían que conocer mi peso exacto, mi metabolismo, mi… ¡Yueh!
+
+y su nombre: Piter de Vries, el Mentat-Asesino. Lo estudió: facciones de halcón, ojos azul oscuro que sugerían que era nativo de Arrakis, pero las sutiles diferencias en sus gestos y en sus movimientos lo desmentían. Su carne estaba demasiado llena de agua. Era alto, delgado, y vagamente afeminado.
+
+Su voz era de tenor. Jessica sintió un toque de helor en su espina dorsal. Nunca antes había oído una voz tan fría. Para una Bene Gesserit aquella voz gritaba: ¡Asesino!
+
+Luego rectificó. El Barón no podía leer aquella sonrisa. No poseía el Adiestramiento.
+
+La voz de tenor había perdido parte de su fría reserva.
+
+En alguna parte de su mente, muy profundo, se alzó un silencioso lamento.
+
+—Compréndete a ti mismo, Piter. La quieres porque era la mujer de un Duque, el símbolo de su poder… hermosa, útil, exquisitamente adiestrada para su papel. ¡Pero todo un ducado, Piter! Esto es mucho mejor que un símbolo; es una realidad. Con él podrás tener todas las mujeres que quieras… y más aún.
+
+El Barón se volvió con aquella ligereza de bailarín que le daban los suspensores.
+
+Llevadlos al desierto, tal como sugirió el traidor para el muchacho. Su plan es bueno. Los gusanos destruirán toda evidencia. Sus cuerpos nunca serán hallados.
+
+Jessica captó el severo control Mentat en la voz de Piter. Él también teme a la Decidora de Verdad.
+
+Jessica escuchaba, observando, registrando. Pero la mordaza le impedía usar la Voz, y además había que tener en cuenta al sordo.
+
+Su rostro estaba a no más de diez centímetros del suyo, con los ojos cerrados y respirando regularmente.
+
+Había utilizado la respiración controlada para calmar su mente, sin dejar de escuchar a sus captores.
+
+Una boya suspensora raspó contra el quicio.
+
+—Ahhh… —el hombre hizo una seña a su compañero, señalándose la oreja—. Una de esas, ¿eh? Ya veo lo que quieres decir.
+
+Caracortada, el sordo que había sido llamado Kinet, ocupó su lugar delante. El que había conducido la litera, que había sido llamado Czigo, dio la vuelta al aparato y ocupó el otro asiento delantero.
+
+Puede verme bien, pensó Jessica.
+
+—¡Hey! —el piloto se echó a reír—. El cachorro ladra. Pero de todos modos no puede morder.
+
+Y Jessica pensó: Paul da un tono demasiado agudo a su voz. Pero de todos modos podría funcionar.
+
+Jessica vio que Paul iniciaba sus ejercicios respiratorios para recuperar el dominio de sí mismo. Cerró sus ojos, los volvió a abrir. Jessica lo miró, impotente para ayudarle. Todavía no tiene el pleno dominio de la Voz, pensó. Si fracasa…
+
+Czigo paró los rotores de las alas. El silencio flotó sobre ellos. Jessica volvió la cabeza. En el exterior, más allá de Caracortada, la débil luz de la luna bañaba una cresta rocosa color de hielo clavada en las arenosas dunas.
+
+Jessica sintió las palabras rodar por el aire. El tono, el excelente timbre… imperativo, cortante. Un poco menos agudo hubiera sido aún mejor, pero de todos modos había alcanzado el espectro auditivo del hombre.
+
+Vio que la tensión entre ambos aumentaba, y supo que en aquel instante estaban convencidos de la necesidad de pelear para obtenerla. Su desacuerdo no necesitaba otras razones. En sus mentes ya peleaban por obtenerla.
+
+Paul apretó los labios, obligándose a permanecer en silencio. Había utilizado su única oportunidad de servirse de la Voz. Ahora… todo dependía de su madre, cuya experiencia era mucho mayor que la suya.
+
+La puntera golpeó la parte blanda del abdomen de Czigo exactamente bajo el esternón, percutió con una terrible fuerza contra el hígado y a través del diafragma, y terminó en el ventrículo derecho del corazón del hombre.
+
+Lástima de humedad, pensó, y se dijo que aquel era un pensamiento arrakeno.
 
 ### <span id="Capitulo20">[Capítulo 20](#Capitulo20)</span>
 
-En una estancia de Giedi Prime están reunidos el Barón Vladimir Harkonen, el Mentat Piter y el heredero Feyd-Rautha. El Barón manipula una esfera con una representación del planeta Arrakis. Se presentan los planes en contra de la Casa Atreides según los nuevos eventos que se van desarrollando.
+El traidor Yueh y el Sardaukar enviado del imperio vestido de Harkonnen hablan, Mapes y Leto yacen, la una muerta el otro inconsciente, luego Yueh esconde el sello ducal en el tóptero para Jessica y Paul.
+
+Arrakis enseña la actitud del cuchillo… cortar lo que es incompleto y decir: «Ahora ya está completo porque acaba aquí».
+
+—Tú eres Yueh —dijo el hombre. Miró especulativamente el anillo de la Escuela Suk que recogía el cabello del doctor, echó una ojeada al tatuaje diamantino de su frente y luego clavó sus ojos en los de Yueh.
+
+—Sólo inconsciente. Aconsejo que sea atado.
+
+Los guardias Harkonnen le apuntaron con sus armas cuando salió por la puerta principal a la noche iluminada por las llamas. Las palmeras a lo largo de la calle habían sido incendiadas para iluminar la casa. El negro humo de las sustancias inflamables usadas para prender los árboles reptaba entre las llamas anaranjadas.
+
+El terror contrajo sus vísceras.
+
+Le será negado a mi acto incluso el más pequeño alivio.
+
+Bruscamente, Yueh se sintió perdido en aquel lugar de destrucción, sin que nada le fuera perdonado, sin que le fuera concedida la menor piedad.
+
+Aunque se hayan aprovechado de mí, me desprecian, pensó Yueh. Se irguió mientras lo empujaban, recobrando algo de su dignidad.
+
+Rápidamente, con creciente ansia, Yueh se dirigió al patio detrás del invernadero, donde esperaba el tóptero…
 
 ### <span id="Capitulo21">[Capítulo 21](#Capitulo21)</span>
 
-En una estancia de Giedi Prime están reunidos el Barón Vladimir Harkonen, el Mentat Piter y el heredero Feyd-Rautha. El Barón manipula una esfera con una representación del planeta Arrakis. Se presentan los planes en contra de la Casa Atreides según los nuevos eventos que se van desarrollando.
+El Barón Vladimir Harkonnen en el transporte ligero/fragata usada como puesto de mando, observa en el exterior en la llameante noche en Arrakis en la lejana Muralla Escudo cómo el retumbar de la artillería en esta época de escudos sitia a los Atreides; llega el mentat Piter de Vries con un drogado duque Leto, el traidor Yueh también está presente, lo matan, Vladimir intenta interrogar a Leto infructuosamente, a cambio Leto rompe la cápsula con gas venenoso que Yueh le había alistado en un diente matando a Piter, a Umman Kudu y a otros tantos Harkonnen, llega el coronel sardaukar del imperio Bashar, pide rendición de cuentas a Vladimir, éste ordena al nuevo capitán de la guardia Iakin Nefud que conduzca a Bashar al comedor para que aprecie la escena, Vladimir se queda solo, pide comida y diversión.
+
+¿Quién habría pensado en hacer revivir la artillería en estos días de escudos?, pensó con una risita mental.
+
+Ajustó uno de los pequeños suspensores que protegían su grueso cuerpo de los tirones de la gravedad. Una sonrisa curvó su boca, formando arrugas en sus gruesas mejillas.
+
+Había que hacer correr a los conejos para que se escondieran en sus madrigueras. De otro modo, ¿cómo podrían ser dominados y criados? Imaginó a sus soldados como abejas haciendo correr a los conejos. Y pensó: El día está repleto de un dulce zumbido cuando hay tantas abejas trabajando para ti.
+
+Al otro lado de la puerta se movían más hombres, su guardia, cuyos rostros adoptaban prudentemente la expresión de carneros en su presencia.
+
+*Pero antes, de todos modos, deberá hacerse odiar por el pueblo de Arrakis. Y entonces… acogerán a mi querido Feyd-Rautha como a un salvador.*
+
+El Barón dirigió su atención hacia el capitán de su guardia: Umman Kudu, una mandíbula firme, unos músculos faciales tensos, un mentón como la puntera de una bota… un hombre en el que se podía confiar ya que sus vicios eran bien conocidos.
+
+El bigote casi le cubría los empurpurados labios. Sólo sus viejos ojos parecían vivos.
+
+Los azules ojos de Piter destellaron con una fría mirada. Su movimiento fue fluidamente felino. El cuchillo brilló como una garra en su mano antes de hundirse en la espalda de Yueh.
+
+Yueh permaneció en pie, vacilante. Sus labios se movieron con lenta precisión, y su voz resonó con una extraña cadencia:
+
+Cayó. Sin doblarse ni derrumbarse. Cayó como un árbol cortado por su base.
+
+Los ojos del Duque eran vidriosos, su mirada la de un loco.
+
+La voz era muy lejana. Leto podía sentir las cadenas, el dolor en los músculos, sus labios cortados, sus ardientes mejillas, el áspero sabor de la sed que resonaba como un desafío en su boca. Pero los sonidos le llegaban blandos, como a través de una espesa capa de algodón. Y sólo podía distinguir formas inciertas a través de esta capa.
+
+Se sentía irritado al no poder tratar privadamente el asunto, sólo entre ellos dos. Que otros pudieran ver a un noble en tales condiciones… esto creaba un pésimo precedente.
+
+Piter usará métodos simples y directos. Yo también estoy de acuerdo en que a veces son los mejores, pero no está bien que tú te tengas que ser sometido a esas cosas.
+
+—Sebo hirviendo en la espalda, quizá, o en los párpados —dijo Piter—. O tal vez en otras partes del cuerpo. Es especialmente efectivo cuando el sujeto no sabe en qué punto será aplicado el sebo la próxima vez. Es un buen método, y hay una cierta belleza en el diseño de las ampollas que se forman en la piel, ¿no, Barón?
+
+Leto recordó de pronto una cosa que Gurney Halleck había dicho una vez, viendo un retrato del Barón: «E, inmóvil sobre la playa, vi a una monstruosa bestia surgir del mar… y en su cabeza vi estampado el nombre de la blasfemia».
+
+Los sonidos de rana tras la puerta se interrumpieron bruscamente.
+
+Era ya tiempo de dejar de contemporizar con aquel idiota estúpido del Duque, que no quería darse cuenta de lo cerca de él que estaba el infierno… sólo al espesor de un nervio de distancia.
+
+¡También le he cogido a él!
+
+Leto sintió sus recuerdos girar en su mente… parecidos a murmullos de viejas desdentadas.
+
+Su mente era un pozo sin fondo, recogiéndolo todo. Todo aquello que siempre había existido: cada grito, cada susurro, cada… silencio.
+
+El día modela la carne y la carne modela el día.
+
+El pensamiento lo golpeó con un sentimiento de plenitud que supo que nunca podría explicar.
+
+La muerte y la advertencia que había leído en los rasgos de un hombre moribundo… esto le había salvado la vida.
+
+Un hombre apareció por esa esquina, con la máscara antigás colgando de su cuello, sus ojos fijos en los detectores de veneno alineados en el corredor. Tenía cabellos rubios, rostro aplanado y ojos verdes. Finas arrugas partían de su boca de gruesos labios. Hacía pensar en alguna criatura acuática perdida por algún extraño motivo entre los animales terrestres.
+
+Iakin Nefud. Cabo de la guardia. Nefud era adicto a la combinación de música y semuta, que actuaba en los más profundos estratos de la consciencia. Este era un precioso dato de información.
+
+No ha escapado ni un átomo de gas.
+
+El Barón no consiguió situar el rostro del coronel Bashar: delgado, con la boca parecida a una hendidura hecha en el cuero y unos ojos como manchas de tinta.
+
+El coronel Bashar se plantó a un paso del Barón, con las manos en las caderas. Los guardias se inmovilizaron detrás de él, indecisos.
+
+El coronel Bashar permaneció inmóvil frente al Barón. Ni un parpadeo, ni el menor estremecimiento de ninguno de sus músculos indicaron que se había dado cuenta de que había sido despedido.
+
+El Barón alzó los ojos al techo, fingiendo exasperación, mientras sus pensamientos galopaban.
+
+—dijo el Barón, y miró a los ojos de obsidiana del Sardaukar—.
+
+Lentamente, insolentemente, el Sardaukar rodeó al Barón y se abrió camino entre los guardias.
+
+Insufrible, pensó el Barón.
+
+El Barón se mordió el labio inferior, consolándose con la idea de que al menos el Emperador no estaba al corriente de la incursión de los Atreides sobre Giedi Prime, y de la destrucción de los almacenes de especia que los Harkonnen tenían allí.
+
+Debo enviar inmediatamente a alguien a Tleilax para buscar un nuevo Mentat.
 
 ### <span id="Capitulo22">[Capítulo 22](#Capitulo22)</span>
 
