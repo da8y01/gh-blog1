@@ -427,11 +427,243 @@ The use of this Hamming coding method saved the whole idea of gang disks from go
 
 any number will do, but it must be non-zero, or you'll get into trouble with what follows.
 
+<div style="text-align:center" markdown="1">
+![RPFLecturesComputation_Chap4_4-2_Pag106][RPFLecturesComputation_Chap4_4-2_Pag106]{: width="50%"}
+</div>
+
 Given this, says Shannon, if no limit is placed on the length of the batches Me, *the residual error rate can be made arbitrarily close to zero*.
 
 In practice, however, it might require a large batch size; and a lot of ingenuity. However, in his extraordinarily powerful theorem, Shannon has told us we can do it. Unfortunately, he hasn't told us how to do it. That's a different matter!
 
 This obviously makes sense. As the error rate drops, the upper limit on the efficiency increases, meaning that we need fewer codebits per data bit.
+
+The actual proof of this theorem is not easy. I would like to first give a hand-waving justification of it which will give you some insight into where it comes from. Later I will follow a geometrical approach, and after that prove it in another way which is completely different and fun, and involves physics, and the definition of a quantity called information.
+
+We now take the logarithm of both sides. The right hand side we work out approximately, using Stirling's formula:
+
+Taking the Jogarithm to base two of the left hand side of the inequality, and dividing both sides by Me, we end up with Shannon's inequality.
+
+This inequality tells us that, if we want to code a message M, where the bit error rate is q, so that we can correct k errors, the efficiency of the result cannot exceed the bounds in (4.6).
+
+Now to ask that our error rate be less than a number N (e.g. 10- 3 °) is equivalent to demanding that the number of errors we have to correct be less than K',
+
+A heck of a lot smaller than our 1O- 30 !
+
+<div style="text-align:center" markdown="1">
+![RPFLecturesComputation_Chap4_4-3_1_Pag110][RPFLecturesComputation_Chap4_4-3_1_Pag110]{: width="50%"}
+</div>
+
+What Shannon has given us is an upper limit on the efficiency.
+
+It's a terrific mathematical problem.
+
+However, to do this would require a prohibitively long Me, so long that it is not practical. In fact, a scheme is used in which about *one hundred and fifty* code bits are sent for each data bit!
+
+Message space, simply, is a space made up of the messages that we want to transmit.
+
+<div style="text-align:center" markdown="1">
+![RPFLecturesComputation_Chap4_4-4_Pag111][RPFLecturesComputation_Chap4_4-4_Pag111]{: width="50%"}
+</div>
+
+We could easily generalize to a four-bit message, which would have a message space that was a l6-vertex "hypercube", which unfortunately our brains can't visualize!
+
+This leads us to introduce a so- called "distance function" on the message space. The one we shall use is called the Hamming distance. The Hamming distance between two points is defined to be the number of bits in which they differ.
+
+The notion of distance is useful for discussing errors. Clearly, a single error moves us from one point in message space to another a Hamming distance of one away; a double error puts us a Hamming distance of two away, and so on.
+
+For a given number of errors e we can draw about each point in our hypercubic message space a "sphere of error", of radius e, which is such that it encloses all of the other points in message space which could be reached from that point as a result of up to e errors occurring. This gives us a nice geometrical way of thinking about the coding process.
+
+We can build a message space for Me just as we can for M; of course, the space for Me will be bigger, having more dimensions and points. Clearly, not every point within this space can be associated one-on-one with points in the M-space; there is some redundancy. This redundancy is actually central to coding.
+
+Note that we can have simple error detection more cheaply; in this case, we can allow acceptable points in Me to be within e of one another. The demand that points be (2e+ l) apart enables us to either correct e errors or detect 2e.
+
+<div style="text-align:center" markdown="1">
+![RPFLecturesComputation_Chap4_4-4_Pag113][RPFLecturesComputation_Chap4_4-4_Pag113]{: width="50%"}
+</div>
+
+If we wanted single error correction for this system, we would have to use a space for Me of four dimensions.
+
+Using this, we can obtain an inequality relating the volume of Me to that of the spheres.
+
+There is no need to go through the subsequent derivations again; you should be able to see how the proof works out.
+
+You should find that it is actually impossible to detect doubles without bringing in the length of the message.
+
+What the poor parents are doing is converting long English sentences into single bits!
+
+You're calling long distance but getting the message through costs you nothing because he doesn't pick up the phone.
+
+SO we could exploit the structure of the language to send fewer symbols, and this packing, or compression, of messages is what we're going to look at now.
+
+A good way to look at the notion of packing is to ask, if we receive a symbol in a message, how surprised should we be by the next symbol?
+
+What we want to guess is how much freedom we have.
+
+But in any case, people will be able to guess the next letter at a much better rate than one in thirty!
+
+And that gives you an idea of how English can be compacted. It also introduces us to the notion of how much information is in a message.
+
+You cannot get a more efficient sending method than this, compressing a whole message down to one number.
+
+This number, the number of bits we minimally need to send to convey as much as we possibly could have conveyed in the N bits of English (or whatever other system being used) is called the information content, or just the information being sent.
+
+that we are coding messages into a binary system and looking at the bare minimum of bits we need to send to get our messages across.
+
+It is possible to give a crude definition of the "average information per symbol" using the notions we have developed.
+
+In general, of course, the precise answer will be horribly difficult to find.
+
+There can also be "long-range correlations" where parts of the string influence others some distance away. This is true in English, where the presence of a word at one point in a message typically affects what other words can appear near it. As we are not being rigorous yet we will not worry about such problems.
+
+We call this ratio the information per symbol of our system, an interpretation that seems clear from the right hand side of (4.23).
+
+In a sense, the amount of information in a message reflects how much surprise we feel at receiving it.
+
+In this respect, information is as much a property of your own knowledge as anything in the message.
+
+This illustrates how "information" is not simply a physical property of a message: it is a property of the message and your knowledge about it.
+
+In this sense, the string contains a lot of "information". Receiving the message changes your circumstance from not knowing what it was to now knowing what it is; and the more possible messages you could have received, the more "surprised", or enlightened, you are when you get a specific one. If you like, the difference between your initial uncertainty and final certainty is very great, and this is what matters.
+
+This makes sense, given our claim that the information in a message represents the "surprise" we experience at receiving it.
+
+This is actually quite an unrealistic assumption for most languages.
+
+Combinatorics comes to our rescue, through a standard formula.
+
+<div style="text-align:center" markdown="1">
+![RPFLecturesComputation_Chap4_4-6_Pag121][RPFLecturesComputation_Chap4_4-6_Pag121]{: width="50%"}
+</div>
+
+We earlier defined information to be the base two logarithm of the number of possible messages in a string.
+
+That definition was based on the case where all messages were equally likely, but you can see that it is a good definition in the unequal probability case too.
+
+Assuming N to be very large, and using Stirling's approximation, with which you should be familiar by now, we find:
+
+We can therefore obtain the average information per symbol:
+
+<div style="text-align:center" markdown="1">
+![RPFLecturesComputation_Chap4_4-6_Pag122][RPFLecturesComputation_Chap4_4-6_Pag122]{: width="50%"}
+</div>
+
+Note how this ties in with our notion of information as "surprise": the less likely the message to appear, the greater the information it carries.
+
+<div style="text-align:center" markdown="1">
+![RPFLecturesComputation_Chap4_4-6_Pag123][RPFLecturesComputation_Chap4_4-6_Pag123]{: width="50%"}
+</div>
+
+Incidentally, Shannon called this average information the "entropy", which some think was a big mistake, as it led many to overemphasize the link between information theory and thermodynamics 6.
+
+This gives the probability Pm of message m being sent and we can treat each message as the symbol of some alphabet, similar to labeling each one, rather like the parent-student card we looked at earlier.
+
+These codes are unlike those we've considered so far in that they are designed for messages in which the symbol probabilities vary.
+
+In fact, it is possible to invent a non-uniform code that is much more efficient, as regards the space taken up by a message, than the one we have. This will be an example of compression of a code.
+
+The idea is that the symbols will vary in their lengths, roughly inversely according to their probability of appearance, with the most common being represented by a single symbol, and with the upshot that the typical overall message length is shortened.
+
+Continue in this vein until we reach the right hand of the tree, where we have an "alphabet" of two symbols, the original maximally probable one, plus a summed "joint" symbol, built from all the others.
+
+It is worth pointing out that other Huffman codes can be developed by exploiting the ambiguity that occasionally arises when a joint probability at some point equals one of the original probabilities.
+
+We can easily calculate the length saving of this code in comparison with a straight three-bit code.
+
+It has the property that *no code word is the prefix of the beginning of any other code word*. A little thought shows that a code for which this is not true is potentially disastrous.
+
+There is an ambiguity due to the fact that the symbols can run into each other. A good, uniquely decodable symbol choice is necessary to avoid this, and Huffman coding is one way forward.
+
+Huffman coding differs from our previous coding methods in that it was developed for compression, not error correction.
+
+However, as I have stressed by the example of English, such dependence is extremely common. The full mathematical treatment of source alphabets comprising varying probabilities of appearance and intersymbol influence is quite complex and I will not address it here. However, I would like to give you some flavor of the issues such influence raises, and I will do this by considering *predictive coding*.
+
+<div style="text-align:center" markdown="1">
+![RPFLecturesComputation_Chap4_4-7_Pag128][RPFLecturesComputation_Chap4_4-7_Pag128]{: width="50%"}
+</div>
+
+It's not difficult to see how, if we send this string, we can reconstruct the original message at the other end by using an identical predictor as a decoder. It simply works backwards.
+
+Interspersed between the ones will be long runs of zeroes. The key is this - when sending the message, we do not send these runs: *instead we send a number telling us how many zeroes it contained*. We do this in binary, of course.
+
+Predictive coding enables us to compress messages to quite a remarkable degree.
+
+You can get pretty close to Shannon's limit using compression of this sort.
+
+Ordinarily, information like the oil pressure in a car, the torque in a drive shaft, the temperature variation on the Venusian surface, is *continuous*: the quantities can take any value.
+
+This is not a matter of fundamental principle; it is actually a practical matter. I will say a few words about it despite the fact it is somewhat peripheral. You could say that the whole course is somewhat peripheral.
+
+The secret of sending the value of S is to approximate it.
+
+Then, all we need do is split the interval [0, l] up into one hundred slices (usually referred to as "bins"), and transmit information about which slice the value of S is in; in other words, a number between 0 and lOO.
+
+This is not uncommon. Usually, such a variable will have values that are not evenly distributed.
+
+(very, very few physical quantities have flat probability distributions).
+
+<div style="text-align:center" markdown="1">
+![RPFLecturesComputation_Chap4_4-8_Pag130][RPFLecturesComputation_Chap4_4-8_Pag130]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![RPFLecturesComputation_Chap4_4-8_Pag131][RPFLecturesComputation_Chap4_4-8_Pag131]{: width="50%"}
+</div>
+
+The basic idea for transmitting S in this general case is the same. We divide the effective range of S into a number of bins with the important difference that we size these bins so that they are all of equal probability
+
+<div style="text-align:center" markdown="1">
+![RPFLecturesComputation_Chap4_4-8_Pag131-2][RPFLecturesComputation_Chap4_4-8_Pag131-2]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![RPFLecturesComputation_Chap4_4-8_Pag132][RPFLecturesComputation_Chap4_4-8_Pag132]{: width="50%"}
+</div>
+
+P(s) is just the cumulative probability function of S, the probability that S:::; s. It clearly satisfies the inequality (0:::; P:::; 1). One well-known statistical property of this function (as you can check) is that its own distribution is flat: that is, if we were to plot the probability distribution of P(s) as a function of s in Figure 4.6, we would see just a horizontal line.
+
+Consideration of such a problem will bring us on to consider the famous *Sampling Theorem*, another baby of Claude Shannon.
+
+Of course, for a general function, the receiver will have to smooth out the set, to make up for the "gaps". However, for certain types of continuous function, it is actually possible to sample in such a way as to encode completely the information about the function: that is, to enable the receiver to reconstruct the source function exactly! To understand how it is possible to describe a continuous function with a finite number of numbers, we have to take a quick look at the mathematical subject of Fourier analysis. I will cover this because I think it is interesting;
+
+Recall that, according to Fourier theory, any periodic function f(t) can be written as a sum of trigonometric terms.
+
+<div style="text-align:center" markdown="1">
+![RPFLecturesComputation_Chap4_4-8_Pag133][RPFLecturesComputation_Chap4_4-8_Pag133]{: width="50%"}
+</div>
+
+Now the typical function (signal) that is encountered in communication theory has a limited *bandwidth*;
+
+<div style="text-align:center" markdown="1">
+![RPFLecturesComputation_Chap4_4-8_Pag133-2][RPFLecturesComputation_Chap4_4-8_Pag133-2]{: width="50%"}
+</div>
+
+This is the Sampling Theorem.
+
+In other words, if we sampled the function at times spaced (Pi/v) time units apart, we could reconstruct the entire thing from the sample!
+
+Then, the sum (4.4l) is no longer infinite and we only need to take a finite number of sample points to enable us to reconstruct .f(t).
+
+Although I have skated over the mathematical proof of the Sampling Theorem, it is worth pausing to give you at least some feel for where it comes from.
+
+<div style="text-align:center" markdown="1">
+![RPFLecturesComputation_Chap4_4-8_Pag134][RPFLecturesComputation_Chap4_4-8_Pag134]{: width="50%"}
+</div>
+
+The Fourier transform of the sampled function, F(t), is obtained by the process of "convolution", which in crude graphical terms involves superposing the graph of <1> with that of X.
+
+There is as much information in one of the Fourier-transformed bumps in Figure 4.ll as there is in the whole of Figure 4.9! As the former transform comes solely from the sampled function F(t), we can see the basic idea of the Sampling Theorem emerging.
+
+Under such circumstances we get what is known as aliasing. The sampling interval will be too coarse to resolve high frequency components inf(t), instead mapping them into low frequency components - their "aliases".
+
+However, evidence that sampling has occurred often shows up. Maybe the best known is the behavior of wagon wheels in old westerns.
+
+The explanation for this phenomenon lies in inadequate sampling.
+
+To avoid aliasing, we would need to filter out of the signal any unduly high frequencies before we sampled.
+
+Such developments will transform the future.
+
+It seems that the technological world progresses, but real humanistic culture slides in the mud!
 
 
 ## <span id="Chap5">[5. Reversible Computation and the Thermodynamics of Computing | Computación reversible y la termodinámica de la computación](#Chap5)</span>
@@ -553,6 +785,21 @@ This obviously makes sense. As the error rate drops, the upper limit on the effi
 [RPFLecturesComputation_Chap3-4_6_Pag71]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap3-4_6_Pag71.jpg "Feynman Lectures on Computation - Richard P. Feynman (3.4 pag 71)"
 [RPFLecturesComputation_Chap4]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap4.png "Conferencias sobre computación - Richard P. Feynman (Chapter 4)"
 [RPFLecturesComputation_Cap4]: {{ site.baseurl }}/assets/RPFLecturesComputation_Cap4.jpeg "Feynman Lectures on Computation - Richard P. Feynman (Capítulo 4)"
+[RPFLecturesComputation_Chap4_4-2_Pag106]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap4_4-2_Pag106.png "Feynman Lectures on Computation - Richard P. Feynman (4.2 pag 106)"
+[RPFLecturesComputation_Chap4_4-3_1_Pag110]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap4_4-3_1_Pag110.png "Feynman Lectures on Computation - Richard P. Feynman (4.3 pag 110)"
+[RPFLecturesComputation_Chap4_4-4_Pag111]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap4_4-4_Pag111.png "Feynman Lectures on Computation - Richard P. Feynman (4.4 pag 111)"
+[RPFLecturesComputation_Chap4_4-4_Pag113]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap4_4-4_Pag113.png "Feynman Lectures on Computation - Richard P. Feynman (4.4 pag 113)"
+[RPFLecturesComputation_Chap4_4-6_Pag121]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap4_4-6_Pag121.png "Feynman Lectures on Computation - Richard P. Feynman (4.6 pag 121)"
+[RPFLecturesComputation_Chap4_4-6_Pag122]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap4_4-6_Pag122.png "Feynman Lectures on Computation - Richard P. Feynman (4.6 pag 122)"
+[RPFLecturesComputation_Chap4_4-6_Pag123]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap4_4-6_Pag123.png "Feynman Lectures on Computation - Richard P. Feynman (4.6 pag 123)"
+[RPFLecturesComputation_Chap4_4-7_Pag128]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap4_4-7_Pag128.png "Feynman Lectures on Computation - Richard P. Feynman (4.7 pag 128)"
+[RPFLecturesComputation_Chap4_4-8_Pag130]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap4_4-8_Pag130.png "Feynman Lectures on Computation - Richard P. Feynman (4.8 pag 130)"
+[RPFLecturesComputation_Chap4_4-8_Pag131]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap4_4-8_Pag131.png "Feynman Lectures on Computation - Richard P. Feynman (4.8 pag 131)"
+[RPFLecturesComputation_Chap4_4-8_Pag131-2]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap4_4-8_Pag131-2.png "Feynman Lectures on Computation - Richard P. Feynman (4.8 pag 131-2)"
+[RPFLecturesComputation_Chap4_4-8_Pag132]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap4_4-8_Pag132.png "Feynman Lectures on Computation - Richard P. Feynman (4.8 pag 132)"
+[RPFLecturesComputation_Chap4_4-8_Pag133]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap4_4-8_Pag133.png "Feynman Lectures on Computation - Richard P. Feynman (4.8 pag 133)"
+[RPFLecturesComputation_Chap4_4-8_Pag133-2]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap4_4-8_Pag133-2.png "Feynman Lectures on Computation - Richard P. Feynman (4.8 pag 133-2)"
+[RPFLecturesComputation_Chap4_4-8_Pag134]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap4_4-8_Pag134.png "Feynman Lectures on Computation - Richard P. Feynman (4.8 pag 134)"
 [RPFLecturesComputation_Chap5]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap5.png "Conferencias sobre computación - Richard P. Feynman (Chapter 5)"
 [RPFLecturesComputation_Cap5]: {{ site.baseurl }}/assets/RPFLecturesComputation_Cap5.jpeg "Feynman Lectures on Computation - Richard P. Feynman (Capítulo 5)"
 [RPFLecturesComputation_Chap6]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap6.png "Conferencias sobre computación - Richard P. Feynman (Chapter 6)"

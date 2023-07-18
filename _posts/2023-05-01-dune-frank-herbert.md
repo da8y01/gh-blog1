@@ -1220,7 +1220,141 @@ Debo enviar inmediatamente a alguien a Tleilax para buscar un nuevo Mentat.
 
 ### <span id="Capitulo22">[Capítulo 22](#Capitulo22)</span>
 
-En una estancia de Giedi Prime están reunidos el Barón Vladimir Harkonen, el Mentat Piter y el heredero Feyd-Rautha. El Barón manipula una esfera con una representación del planeta Arrakis. Se presentan los planes en contra de la Casa Atreides según los nuevos eventos que se van desarrollando.
+Paul y su madre dama Jessica se refugian en una destiltienda proveída por la Fremochila del tóptero; Paul percibe su nueva consciencia, ve el tiempo, dialoga con Jessica.
+
+*Escondiéndome como un chiquillo ahora que soy el Duque*, pensó Paul. Aquel pensamiento lo irritaba, pero no podía negar que esconderse era por el momento lo más seguro.
+
+Algo había ocurrido con su percepción aquella noche; veía con absoluta claridad todas las circunstancias y los acontecimientos en torno suyo. Se sintió incapaz de asimilar el flujo de datos, pero con fría precisión, cada nuevo elemento encajaba en sus conocimientos y los cálculos parecían concentrarse en su consciencia. Tenía el poder de un Mentat, y más aún.
+
+Paul pensó en el momento de impotente rabia cuando aquel extraño tóptero surgió de la noche planeando hacia ellos,
+
+He actuado sin maldad y sin esperanzas de ser comprendido. Ha sido mi tahaddi al-burham, mi última prueba.
+
+Recordando la misiva, Paul revivió su angustia en aquel momento… algo agudo y extraño que parecía manifestarse en el exterior de su nueva agilidad mental.
+
+Quería a mi padre, pensó Paul, y sabía que era cierto. Tendría que llorar por él. Debería sentir algo.
+
+Pero no sentía nada, excepto: Es un hecho importante.
+
+Las palabras de Halleck volvieron a Paul: «El humor es algo para el ganado, o para hacer el amor. Uno combate cuando es necesario, no cuando está de humor».
+
+Intuyó que su nueva percepción era tan sólo un inicio, y que iría en aumento. La impresión de una terrible finalidad, que había experimentado por primera vez durante su confrontación con la Reverenda Madre Gaius Helen Mohiam, lo aferró de nuevo.
+
+¿Esto es lo que significa ser el Kwisatz Haderach?, se maravilló.
+
+Jessica percibió una acerada dureza en su voz, un tono de mando, y lo miró en la gris oscuridad de la destiltienda.
+
+La gente es la verdadera fuerza de una Gran Casa, pensó Paul. Y recordó las palabras de Hawat: «Dejar a los amigos resulta triste. Pero un lugar es sólo un lugar».
+
+Sintió que la mente del muchacho había rebasado la suya, y que él ahora veía mucho más lejos que ella.
+
+Sus pensamientos giraron, buscando desesperadamente el refugio que para ella había sido siempre el Duque, y las lágrimas inundaron sus ojos.
+
+Esta hija es sólo una vida que intenta alcanzar el futuro en un presente de muerte. La he concebido por instinto y no por obediencia.
+
+La mente sigue trabajando hagamos lo que hagamos para detenerla, pensó Jessica.
+
+—Son Sardaukar —dijo la voz—. Cuidado con los Sardaukar vestidos con uniformes Atreides. Son…
+
+Su mano izquierda se posó en la cerradura a esfínter de entrada de la tienda.
+
+Era tan lenta.
+
+—¡No! —dijo—. ¡Los Fremen! Pagan a la Cofradía su aislamiento, pagan con lo que el poder del desierto pone a su disposición… la especia. No es una respuesta de segunda aproximación, sino la única solución según los cálculos. Piensa en ello.
+
+—Nunca seré un Mentat —dijo él—. Soy algo distinto… un fenómeno.
+
+«Manual de “El Desierto Amigo”, el lugar lleno de vida. Este es el ayat y el burhan de la Vida. Cree, y al-Lat nunca te consumirá».
+
+Vacilando, preocupada aún por la dureza de la voz de su hijo, Jessica volvió al libro y estudió la ilustración de una constelación del cielo de Arrakis: «Muad’Dib: El Ratón», y notó que la cola apuntaba al norte.
+
+Había captado el cambio en su voz, y un soplo helado se aferró a sus vísceras ante aquel sonido. Nunca antes había captado un control tan férreo.
+
+Ella buscó en su interior para acoplar los hechos con los hechos y con los hechos —la manera Bene Gesserit de evaluar datos— y extrajo la respuesta: la sensación de una terrible pérdida. Jessica asintió, incapaz de hablar.
+
+Pero sabía lo que significaba aquel pensamiento… una tentativa de anular el dolor con cólera.
+
+Aquella incapacidad de experimentar dolor le pareció una horrible tara.
+
+https://dle.rae.es/tara tara 1. f. Peso del continente de una mercancía o género, vehículo, caja, vasija, etc., que se rebaja en la pesada total con el contenido. 2. f. Peso sin calibrar que se coloca en un platillo de la balanza para calibrarla, o para realizar determinadas pesadas. 3. f. Defecto físico o psíquico, por lo común importante y de carácter hereditario. 4. f. Defecto o mancha que disminuye el valor de algo o de alguien. 5. f. Caña o palo con cortes que se hacen en ellos para ajustar cuentas.
+
+La mente de Paul siguió funcionando con gélida precisión.
+
+Era como el centro de una esfera a partir del cual las avenidas irradiaban en todas direcciones… pero esto era tan sólo una aproximación a sus sensaciones.
+
+Tenía todo el tiempo para sondear y probar y examinar, pero no tiempo para modelar.
+
+El todo era un espectro de posibilidades desde el más remoto pasado hasta el más remoto futuro… desde lo más probable a lo más improbable. Vio su propia muerte en innumerables versiones. Vio nuevos planetas, nuevas culturas.
+
+Pensó: *La Cofradía… este podría ser un camino para nosotros; allí mi rareza sería aceptada como algo familiar de gran valor, siempre que pudiera asegurarla suplementariamente con la ahora necesaria especia.*
+
+Y su propia ausencia de dolor… Su mente era como una cavidad profunda separada del resto, continuando implacable su tarea de recibir datos, evaluarlos, calcularlos, rítmicamente, planteándose las preguntas y planteando las respuestas del mismo modo que un Mentat.
+
+¡Soy un monstruo!, pensó. ¡Un fenómeno!
+
+En un destello de claridad, ella captó alguna de las raíces de la pregunta.
+
+—Esperaba lo que esperan todos los padres: que fueras… superior, distinto.
+
+—¡Tú no buscabas un hijo! —dijo él—. ¡Tú buscabas un Kwisatz Haderach! ¡Tú buscabas un macho Bene Gesserit!
+
+—Pero no mi adiestramiento —dijo él—. No las cosas que… han despertado… al durmiente.
+
+—¿Durmiente?
+
+—Está aquí. —Puso una mano en su cabeza y luego en su pecho—. En mí. Y sigue adelante y adelante y adelante y adelante y…
+
+—La especia —dijo él—. Está por todos lados aquí… el aire, el suelo, la comida. La especia geriátrica. Es como la droga de la Decidora de Verdad. ¡Es un veneno!
+
+Ella se envaró.
+
+La voz de Paul descendió hasta un murmullo y repitió:
+
+La especia transforma a cualquiera que la tome aunque sea a pequeñas dosis, pero gracias a ti, yo he vivido esta transformación en plena consciencia. No puedo relegarla al inconsciente, donde su intromisión podría ser sofocada.
+
+Ella percibió la locura en su voz, sin saber qué hacer.
+
+la especia era adictiva. Su cuerpo lo había sabido mucho antes de que su mente lo admitiera.
+
+—Sólo para servir —susurró Jessica, ciñéndose a la divisa Bene Gesserit—. Existimos sólo para servir.
+
+Cada vez le era más difícil dominar su terror ante la cosa extraña en que se estaba convirtiendo Paul.
+
+Este estudió la confusa sombra que era ella, viendo su miedo en cada reacción, con su nueva consciencia, como si se destacara contra una deslumbrante luz. Experimentó hacia ella un inicio de compasión.
+
+todos los velos habían caído, el tiempo se le presentaba en su desnudez.
+
+En el revivir de su experiencia reconoció su terrible finalidad: la irresistible presión de su vida dilatándose como un burbuja siempre en expansión… el tiempo retrayéndose ante aquello…
+
+Los ojos eran pozos sin fondo, la boca una línea dura, las mejillas profundamente hundidas.
+
+Es la expresión de una terrible consciencia, pensó, de alguien obligado al conocimiento de su propia mortalidad.
+
+Arrastramos nuestro pasado con nosotros. Y, madre, hay una cosa que no sabes y que deberías saber… nosotros somos Harkonnen.
+
+He recorrido el futuro. He visto un informe, en un lugar, tengo todos los datos. Nosotros somos Harkonnen.
+
+—Tú eres la propia hija del Barón —dijo él, viendo como llevaba sus manos contra su boca y apretaba fuertemente—. El Barón se dedicó a gozar de muchos placeres en su juventud, y se permitió incluso ser seducido. Pero fue por las necesidades genéticas de la Bene Gesserit, por una de vosotras.
+
+Detalles dispersos de su pasado se unían ahora formando un todo coherente.
+
+¡Gran Madre! ¡Es el Kwisatz Haderach!
+
+Y pensó: Sí, madre… entre los Fremen. Adquirirás ojos azules y una callosidad en tu adorable nariz, donde estará fijado el tubo de tu destiltraje… y darás a luz a mi hermana: Santa Alia del Cuchillo.
+
+Y pensó: Soy una semilla.
+
+Tuvo allí una visión de una religión guerrera, un fuego que se extendía por todo el universo con el estandarte verde y negro de los Atreides tremolando a la cabeza de oleadas de fanáticas legiones ebrias de licor de especia.
+
+Descubrió que ya no podía odiar a la Bene Gesserit, ni al Emperador, ni siquiera a los propios Harkonnen. Todos ellos estaban ligados a la ineluctable necesidad de la raza de renovar su propia herencia dispersa, cruzando y mezclando y refundiendo sus líneas en un gigantesco rebullir genético. Y la raza conocía tan sólo un camino para esto… el antiguo camino que superaba cualquier obstáculo: la Jihad.
+
+No puedo escoger en absoluto este camino, pensó.
+
+Paul alzó los ojos y, a través de la verdosa luminosidad de la tienda, fijó su mirada en los rasgos delicados, patricios, de su rostro.
+
+—Sí —dijo—. Es uno de los caminos. —Asintió—. Sí. Me llamarán… Muad’Dib, «El que señala el camino». Sí… así me llamarán.
+
+Y cerró los ojos, pensando: No, padre mío, no puedo llorarte. Y sintió las lágrimas resbalar por sus mejillas.
 
 
 ## <span id="LibroSegundoMuadDib">[Libro segundo: Muad’Dib](#LibroSegundoMuadDib)</span>
