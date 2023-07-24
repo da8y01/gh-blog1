@@ -450,7 +450,7 @@ Now to ask that our error rate be less than a number N (e.g. 10- 3 °) is equiva
 A heck of a lot smaller than our 1O- 30 !
 
 <div style="text-align:center" markdown="1">
-![RPFLecturesComputation_Chap4_4-3_1_Pag110][RPFLecturesComputation_Chap4_4-3_1_Pag110]{: width="50%"}
+![RPFLecturesComputation_Chap4_4-3_Pag110][RPFLecturesComputation_Chap4_4-3_Pag110]{: width="50%"}
 </div>
 
 What Shannon has given us is an upper limit on the efficiency.
@@ -786,7 +786,7 @@ It seems that the technological world progresses, but real humanistic culture sl
 [RPFLecturesComputation_Chap4]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap4.png "Conferencias sobre computación - Richard P. Feynman (Chapter 4)"
 [RPFLecturesComputation_Cap4]: {{ site.baseurl }}/assets/RPFLecturesComputation_Cap4.jpeg "Feynman Lectures on Computation - Richard P. Feynman (Capítulo 4)"
 [RPFLecturesComputation_Chap4_4-2_Pag106]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap4_4-2_Pag106.png "Feynman Lectures on Computation - Richard P. Feynman (4.2 pag 106)"
-[RPFLecturesComputation_Chap4_4-3_1_Pag110]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap4_4-3_1_Pag110.png "Feynman Lectures on Computation - Richard P. Feynman (4.3 pag 110)"
+[RPFLecturesComputation_Chap4_4-3_Pag110]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap4_4-3_Pag110.png "Feynman Lectures on Computation - Richard P. Feynman (4.3 pag 110)"
 [RPFLecturesComputation_Chap4_4-4_Pag111]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap4_4-4_Pag111.png "Feynman Lectures on Computation - Richard P. Feynman (4.4 pag 111)"
 [RPFLecturesComputation_Chap4_4-4_Pag113]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap4_4-4_Pag113.png "Feynman Lectures on Computation - Richard P. Feynman (4.4 pag 113)"
 [RPFLecturesComputation_Chap4_4-6_Pag121]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap4_4-6_Pag121.png "Feynman Lectures on Computation - Richard P. Feynman (4.6 pag 121)"
