@@ -1,0 +1,744 @@
+{
+  "basics": {
+    "name": "Daniel Benítez Restrepo",
+    "label": "Computation and Systems Engineer, MP: 17950-259048 CLD",
+    "picture": "https://da8y01.github.io/gh-blog/public/picture202201_1.jpeg",
+    "email": "danielbenitezr@yahoo.com",
+    "phone": "(+57) 300 000 0000",
+    "website": "https://da8y01.github.io/gh-blog/public/cv202307_1.html",
+    "summary": "I'm a Computation and Systems Engineer from Universidad de Caldas (Manizales-Colombia). I'm an intellectual man who likes culture, science and arts. I adapt myself with ease to the circumstances, I'm a compromised, accomplished and responsible person when activities to carry out have been assigned, and my intellectual inquietude allows me to learn and research new stuff efficiently.",
+    "location": {
+      "address": "2712 Circunvalar Av",
+      "postalCode": "BOG 170001",
+      "city": "Bogotá",
+      "countryCode": "CO",
+      "region": "Cundinamarca"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "danielbenitezr",
+        "url": "https://www.linkedin.com/in/daniel-b-3b070990/"
+      },
+      {
+        "network": "GitHub",
+        "username": "da8y01",
+        "url": "https://github.com/da8y01"
+      },
+      {
+        "network": "Bitbucket",
+        "username": "01ring",
+        "url": "https://bitbucket.org/01ring"
+      },
+      {
+        "network": "GitLab",
+        "username": "da8y01",
+        "url": "https://gitlab.com/da8y01"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "University of Caldas",
+      "position": "Programming tutor Cycle 4A (web)",
+      "website": "https://www.ucaldas.edu.co/portal/",
+      "startDate": "2022-10-14",
+      "endDate": "2022-11-26",
+      "summary": "The University of Caldas in compliance with the social function that corresponds to its public nature, has the mission of generating, appropriating, disseminating and applying knowledge through curricular, investigative and projection processes, to fully train citizens committed to society and culture, provide solutions to regional, national and international problems and contribute to sustainable development.",
+      "highlights": [
+        "Project: MISIÓN TIC 2022 SAR I-704/2022.",
+        "Stack: LoopBack, Angular, ReactJS, HTML/JS/CSS, MongoDB.",
+        "Infrastructure: SO Windows, Microsoft Teams, Google Drive.",
+        "Concerns: Carry out accompaniment in the teaching activities in programming guided by the disciplinary trainer, Carry out work team dynamics, Manage the solution of questions and concerns made by the beneficiaries, Support the training and teaching of programming in the languages and technologies that are going to be use in the cycle, Generate at least weekly reports determined by the training operator, Sprint follow-up through the formats designed for it (Teach lead), Participate in daily follow-up meetings with their work groups, The tutor It has the responsibility of reporting any non-compliance detected in the monitoring activities, Submitting weekly reports of its management and monthly report."
+      ]
+    },
+    {
+      "company": "10Pearls",
+      "position": "Backend Developer",
+      "website": "https://10pearls.com/",
+      "startDate": "2022-04-25",
+      "endDate": "2022-06-16",
+      "summary": "We help businesses digitally transform, build new products, and accelerate digital teams.",
+      "highlights": [
+        "Project: 10Pearls training program to improve English skills.",
+        "Infrastructure: Windows 10, Microsoft Teams, Microsoft Office.",
+        "Concerns: Attend English language skills improvement training."
+      ]
+    },
+    {
+      "company": "PrimeStone",
+      "position": "Application Developer Analyst",
+      "website": "https://primestone.com/",
+      "startDate": "2021-07-01",
+      "endDate": "2022-01-28",
+      "summary": "PrimeStone, a Trilliant company, is a proudly Colombian privately held software development company founded in 1990 by a team of industry experts, with over 25 years of experience in meter data collection, management and analytics.",
+      "highlights": [
+        "Project: A static and dummy API backend server with endpoints to be consumed by clients.",
+        "Stack: NodeJS server, Angular client, HTML/CSS/JS, Docker/Docker Compose.",
+        "Infrastructure: Windows 10, Git repositories, VS Code, Team Foundation Server, Microsoft Teams, VPN.",
+        "Concerns: Development of backend API endpoint services to be used by clients, modification of Angular web application.",
+        "Project: A Interoperability Readings Dashboard to visualize metrics on devices and other data sources.",
+        "Stack: Python/Flask, Dash/NumPy/Pandas/Cognito libraries, AWS S3/Glue/Lambdas, Docker/Docker Compose.",
+        "Infrastructure: Windows 10, Git repositories, VS Code, Team Foundation Server, Microsoft Teams, VPN, AWS.",
+        "Concerns: Implementation of User Stories regarding building layers for UI, callbacks and data for the vizualization dashboard, unit tests of Python source code, implementation of authentication for Python/Flask application using Cognito library, use and activation of AWS Glue flows involving buckets, lambdas, functions, services, parsers, etc.",
+        "Project: A middleware to provide functionalities of migration and synchronization of databases.",
+        "Stack: Apache NiFi, Python/Flask, Oracle 11g, MS SQL Server 2012, PostgreSQL 9, Docker/Docker Compose.",
+        "Infrastructure: Windows 10, Git repositories, VS Code, Team Foundation Server, Microsoft Teams, VPN.",
+        "Concerns: Modification of Apache NiFi templates and Python/Flask application to manage the launch and parametrization of the data and operations flows."
+      ]
+    },
+    {
+      "company": "Kibernum Colombia",
+      "position": "Full-Stack Developer",
+      "website": "https://www.kibernum.com/",
+      "startDate": "2021-02-08",
+      "endDate": "2021-04-23",
+      "summary": "As one of the largest and longest established IT firms in Latin America, Kibernum offers not just engineering expertise and innovation but also the reliability to get the job done.",
+      "highlights": [
+        "Project: COBIS banking platform.",
+        "Stack: SQL Server, Maven, Java, Tomcat, JBoss, AngularJS, HTML/CSS/JS.",
+        "Infrastructure: Windows 10, Git repositories, Sonar, Eclipse, COBIS Designer, Team Foundation Server, Microsoft Teams, VPN.",
+        "Concerns: Integration and customization of banking modules through debugging of application flow with Eclipse, Maven and Java, with SQL Server, AngularJS and COBIS Designer."
+      ]
+    },
+    {
+      "company": "Soft Dev Team",
+      "position": "Full-Stack Developer",
+      "website": "https://softdev.team/",
+      "startDate": "2020-07-16",
+      "endDate": "2020-10-15",
+      "summary": "Fully-managed On-demand Software Development Team.",
+      "highlights": [
+        "Back-end development of features, MongoDB NoSQL database management, and unit and integration tests for a multiple templates management platform of cars sellers catalogs.",
+        "Development on environment with Docker, MongoDB, RabbitMQ, ElasticSearch, Google Cloud Platform infrastructure and architecture.",
+        "Development with NodeJS, Jest tests, MongoDB management, asynchronous programming with queues and RabbitMQ, advanced support of APIs, ElasticSearch, database migrations, DevOps and applications deployment.",
+        "Front-end features development for administrative dashboard web application of mobile application for resources management of a logistic company.",
+        "Front-end features development of web application with ReactJS interacting with mobile application and Firebase services.",
+        "Linux operating system, Docker, Google Cloud Platform, git, GitHub, MongoDB, RabbitMQ, ElasticSearch, NodeJS, Jest, Slack, Zoom, ReactJS, ReactNative, Jira, Notion, Monday, Scrum."
+      ]
+    },
+    {
+      "company": "Heinsohn Business Technology",
+      "position": "Developer Engineer Junior Advanced",
+      "website": "https://www.heinsohn.com.co/",
+      "startDate": "2019-04-01",
+      "endDate": "2020-04-15",
+      "summary": "We support our customers with IT solutions to the size of their needs.",
+      "highlights": [
+        "Front-end development of a portal-type web application and dynamic administrative panel using the Angular 7 framework, use of the Material library for UX / UI interface components, consumption of APIs / endpoints / remote services.",
+        "Front-end development with the Angular framework of portal type application and administrative panel focused on patient management, clinics and medical data regarding blood sugar and insulin concentration.",
+        "Web development with the Angular framework of application type portal and administrative panel that interacts with API/backend services and with a mobile application that obtains the data supplied from a device that connects and transfers the data to the application.",
+        "Web development with Angular with an international team and advanced written and spoken English language management.",
+        "Web development with the Drupal 8 CMS for implementation of forms and data requests to external services/APIs/endpoints.",
+        "Web development with the Angular framework, JavaScript, HTML, CSS, Material.",
+        "Development using libraries for status management and RxJS functionalities.",
+        "Management of CVS git and BitBucket repositories.",
+        "Interaction with GCP (Google Cloud Platform) and GKE (Google Kubernetes Engine) cloud technologies.",
+        "Remote systems management using Microsoft Remote Desktop and VPNs technologies.",
+        "Use of Windows 10 Pro and Linux (Ubuntu) operating systems."
+      ]
+    },
+    {
+      "company": "SuperLikers",
+      "position": "Front-end developer",
+      "website": "http://www.superlikers.com/",
+      "startDate": "2016-03-15",
+      "endDate": "2019-03-31",
+      "summary": "Superlikers is an online platform to setup and manage 360 Fidelization Programs.",
+      "highlights": [
+        "Migration, update and front-end development of web application kind of dynamic administrative panel using Angular framework in its recent versions (2, 4, 5, 6), Material library use for UX/UI interface components, consumption of remote API/endpoints/services.",
+        "Development and implementation of front-end features for a web application administrative panel kind using AngularJS framework.",
+        "Web development with AngularJS, Angular, JavaScript, jQuery, HTML, CSS, Material.",
+        "Git CVS, Unfuddle, BitBucket and GitHub repositories management.",
+        "Linux (Ubuntu) and Windows (7, 10) operating system management."
+      ]
+    },
+    {
+      "company": "Ignite Technologies",
+      "position": "Full-stack developer",
+      "website": "http://ignite.com.co/",
+      "startDate": "2018-06-20",
+      "endDate": "2018-09-30",
+      "summary": "We're a colombian enterprise concerned with the design and development of innovation technologies, engineering and science products. Our focus is directed towards processes optimization based upon technology based solutions for our clients and users.",
+      "highlights": [
+        "Migrate, develop and update a mobile application for food and restaurants services using the Ionic 4 framework for hybrid applications and consumption of remote API/endpoints/services.",
+        "Back-end features development to provide an administrative panel and API/endpoints/services to clients application consumption.",
+        "Mobile development with the Ionic 4 framework.",
+        "Back-end development with the Ruby on Rails framework.",
+        "PostgreSQL DataBase management.",
+        "Amazon services like EC2 instances and AMI, and S3 buckets.",
+        "Management of application servers like Unicorn and Passenger.",
+        "Git CVS and GitLab repositories management.",
+        "Linux (Ubuntu) and Windows (7, 10) operating system management."
+      ]
+    },
+    {
+      "company": "Mapalé Software",
+      "position": "Developer",
+      "website": "http://www.mapalesoftware.com.co/",
+      "startDate": "2015-02-01",
+      "endDate": "2016-02-28",
+      "summary": "We are a team of developers/designers/scientists/geeks who find their work very entertaining and thrilling. As a team, we develop software in different areas, with emphasis in web and mobile, but with experience in telephony projects, digital kiosks, enterprise applications, security systems, Artificial Intelligence, cryptography and even artistic installations.",
+      "highlights": [
+        "Development and implementation of backend features using the Python language and the Django framework for a web application that manages subscriptions on a system and integrations with an external marketing service.",
+        "Development and implementation of backend features using NodeJS for a web application that coordinates chefs, bookings and in-house food services.",
+        "Development and implementation of features for a virtual store web application using ReactJS library and Redux framework for the frontend, and the Python language and Django framework for the backend and RESTful APIs.",
+        "Development and implementation of backend features for a web application that consumes, process and publish SOAP and REST WebServices or remote backend APIs over PHP technology.",
+        "Development and implementation of features for a virtual e-commerce clothing store using AngularJS framework for the frontend with PHP for the backend.",
+        "Development and implementation of features for a web application for reading and run smart quizes on published articles and lectures using AngularJS framework for the frontend with Ruby on Rails for the backend.",
+        "Web development with AngularJS framework, JavaScript, jQuery, HTML, CSS.",
+        "Basic handling of Silex, phinx, Doctrine frameworks, and Docker containers.",
+        "Web servers (Apache), and Postgres and MySQL databases management.",
+        "Git CVS, Bitbucket and GitHub repositories, and Heroku cloud PaaS management.",
+        "Linux operating system (Ubuntu) management."
+      ]
+    },
+    {
+      "company": "Kommit",
+      "position": "Software Developer",
+      "website": "https://kommit.co/",
+      "startDate": "2014-05-20",
+      "endDate": "2015-01-13",
+      "summary": "We are a USA based company with roots in Latin-American. Our mission is to find and enable talented people in that region to work remotely with North American companies.",
+      "highlights": [
+        "Development and implementation of back-end features for a tracing, compilation, tracking and recommendations of places, events and news of different cities web portal over Ruby on Rails technology.",
+        "Development and implementation of back-end features of a desktop application for doctors, patients and interactions management using a Google Chrome extension with AngularJS.",
+        "Memcached and Redis tools use.",
+        "MongoDB NoSQL databases management, and remote backend BaaS storage.",
+        "Web modeling with JavaScript, HTML, CSS.",
+        "Git CVS and GitHub repositories management.",
+        "Linux operating system (Ubuntu, Debian) management."
+      ]
+    },
+    {
+      "company": "Webde Development System",
+      "position": "Programmer",
+      "website": "https://www.webdefamily.com/",
+      "startDate": "2014-01-03",
+      "endDate": "2014-03-05",
+      "summary": "We connect your company with more clients through the internet. Marketing services focused on results.",
+      "highlights": [
+        "Development and implementation of mobile app for contracts and employees management of funeral company using Appcelerator Titanium platform for mobile app development.",
+        "Development and implementation of backend API to consume, process and publish SOAP and REST WebServices over Ruby on Rails technology.",
+        "Development and implementation of web page with typical various entities management features for IT company over Ruby on Rails technology.",
+        "Web modeling with JavaScript, HTML, CSS.",
+        "Web servers and Postgres and MySQL databases management.",
+        "Git CVS, GitLab repositories, and Heroku cloud PaaS management.",
+        "Linux operating system (Ubuntu) management."
+      ]
+    },
+    {
+      "company": "Clínica San Francisco S.A.",
+      "position": "Systems Engineer",
+      "website": "http://www.clinicasanfrancisco.com.co/",
+      "startDate": "2013-07-29",
+      "endDate": "2013-10-28",
+      "summary": "Clínica San Francisco S.A. is a private institution offering high complexity healthcare services at the middle and north of Valle region (Tuluá, Valle del Cauca).",
+      "highlights": [
+        "Development and implementation of modifications and new features of specialized healthcare services institution as is Clínica San Francisco S.A. at Tuluá, Valle del Cauca Information System.",
+        "Development and implementation of different activities focused on modify and/or add features of the SIIS (Sistema Integrado de Información en Salud) system working as web application and developed with PHP language.",
+        "PHP language web server side programming.",
+        "JavaScript/jQuery languages client side programming.",
+        "HTML/CSS web modeling.",
+        "Apache web server and Postgres database management.",
+        "NetBeans IDE use.",
+        "Subversion (svn) CVS and repositories management.",
+        "Linux operating system (Ubuntu, CentOS) management."
+      ]
+    },
+    {
+      "company": "Latinia Mobile Infrastructure",
+      "position": "Analyst Developer",
+      "website": "https://www.latinia.com/",
+      "startDate": "2012-04-10",
+      "endDate": "2012-08-29",
+      "summary": "Latinia is an independent software vendor (ISV), which specializes in infrastructure product development for asynchronous type financial notifications or push banking(mobile or instant messaging, email, Twitter’s DM, push notifications – Android & Apple iOS), utilized mainly by leading and globally distributed financial institutions (banks, savings banks, processing and payment systems), public institutions government and service providers, distributing the same globally and acting as leaders in their respective segments and industries.",
+      "highlights": [
+        "Projects implementation for both company clients as company internals; JaveEE platform usage and its JMS, JWS, etc. technologies and the respective support components stack (OS, web container, etc.).",
+        "Design and development of internal company platform to test and monitor send messages traffic with different properties (channel, attachments, quantity, intervals, etc.) using JEE platform and EJB technologies for server side, and JavaSE, JSP and Servlets technologies for test clients; work on CentOS 5 environment, Oracle 11g DB, Eclipse IDE, packaging and deployment Ant and Maven systems, and VMware Player VMs.",
+        "Implementation of sending e-mails features with and without attachments on a communications API used by financial entity using JEE platform and EJB technologies on server side, and JavaSE, JSP and Servlets technologies for test clients; work on CentOS 5 environment, Oracle 11g DB, Eclipse IDE, packaging and deployment Ant and Maven systems, and VMware Player VMs.",
+        "Development with platforms and technologies like JavaEE, EJB, JWS, JMS, JSP, Servlets, JavaSE.",
+        "Usage of Ant and Maven tools for software project management and general compilation automation, packaging and building.",
+        "WebLogic and JBoss web containers management.",
+        "Oracle 11g database management.",
+        "Eclipse IDE use.",
+        "Windows (7), Linux (CentOS), and Virtual Machines (VMs) with VMware Player operating systems management."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Manizales-Dev",
+      "position": "Participant/Volunteer",
+      "website": "http://manizales-dev.github.io/",
+      "startDate": "2015-02-01",
+      "endDate": "2016-04-30",
+      "summary": "Manizales-Dev is a community of local developers to build together an ecosystem around technology to bring support to individuals and organizations towards regional progress.",
+      "highlights": [
+        "Participation on different meetup events organized.",
+        "Participation in NodeSchool International Day 2015 ( http://nodeschool.io/manizales/ ).",
+        "Participation in XIV Jornadas de Ingeniería, Tecnología e Innovación 2015 at Universidad de Caldas ( http://jornadas-ingenieria.gitir.co/ )."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad de Caldas",
+      "area": "Computation and Systems Engineering",
+      "studyType": "Professional Career",
+      "startDate": "2004-08-01",
+      "endDate": "2013-07-09"
+    },
+    {
+      "institution": "National Administrative Department of Statistics - DANE",
+      "area": "Design and construction of indicators (2023-I A-23)",
+      "studyType": "Virtual Course",
+      "startDate": "2023-02-09",
+      "endDate": "2023-04-08"
+    },
+    {
+      "institution": "National Administrative Department of Statistics - DANE",
+      "area": "Configuration of administrative records for statistical use (2023-I A-23)",
+      "studyType": "Virtual Course",
+      "startDate": "2023-02-09",
+      "endDate": "2023-04-08"
+    },
+    {
+      "institution": "Environmental Institute GIS",
+      "area": "Environmental Research Week",
+      "studyType": "Virtual Training",
+      "startDate": "2022-09-12",
+      "endDate": "2022-09-16"
+    },
+    {
+      "institution": "PyCon Colombia",
+      "area": "PyCon Colombia 2022 Online Conference",
+      "studyType": "Online Conference",
+      "startDate": "2022-07-09",
+      "endDate": "2022-07-10"
+    },
+    {
+      "institution": "University of Minnesota",
+      "area": "Engineering Practices for Building Quality Software",
+      "studyType": "Virtual Course",
+      "startDate": "2021-11-29",
+      "endDate": "2021-12-20"
+    },
+    {
+      "institution": "Course offered by Servicio Nacional de Aprendizaje SENA",
+      "area": "2312659 - Special course on Bar and Table Basics",
+      "studyType": "Virtual Course",
+      "startDate": "2021-07-01",
+      "endDate": "2021-08-04"
+    },
+    {
+      "institution": "BIOS (Bioinformatics and Computational Biology Center of Colombia)",
+      "area": "Course 22 Introduction to Graphic Computation and Scientific Visualization",
+      "studyType": "Classroom Course",
+      "startDate": "2017-09-06",
+      "endDate": "2017-09-08"
+    },
+    {
+      "institution": "Microsoft Developer Readiness",
+      "area": "Xamarin Diplomado | Intermediate level",
+      "studyType": "Virtual Course",
+      "startDate": "2017-01-01",
+      "endDate": "2017-03-01"
+    },
+    {
+      "institution": "École Polytechnique Fédérale de Lausanne",
+      "area": "Parallel programming",
+      "studyType": "Virtual Course",
+      "startDate": "2016-12-12",
+      "endDate": "2017-01-02"
+    },
+    {
+      "institution": "University of Washington",
+      "area": "Machine Learning: Regression",
+      "studyType": "Virtual Course",
+      "startDate": "2016-10-10",
+      "endDate": "2016-11-14"
+    },
+    {
+      "institution": "École Polytechnique Fédérale de Lausanne",
+      "area": "Functional Program Design in Scala",
+      "studyType": "Virtual Course",
+      "startDate": "2016-10-24",
+      "endDate": "2016-11-07"
+    },
+    {
+      "institution": "École Polytechnique Fédérale de Lausanne",
+      "area": "Functional Programming Principles in Scala",
+      "studyType": "Virtual Course",
+      "startDate": "2016-07-11",
+      "endDate": "2016-08-15"
+    },
+    {
+      "institution": "Course offered by Servicio Nacional de Aprendizaje SENA",
+      "area": "1212959 - English Dot Works 1",
+      "studyType": "Virtual Course",
+      "startDate": "2016-06-01",
+      "endDate": "2016-07-21"
+    },
+    {
+      "institution": "Course offered by Servicio Nacional de Aprendizaje SENA",
+      "area": "1165235 - English Dot Works Beginner",
+      "studyType": "Virtual Course",
+      "startDate": "2016-04-01",
+      "endDate": "2016-05-10"
+    },
+    {
+      "institution": "The Hong Kong University of Science and Technology",
+      "area": "HTML, CSS and JavaScript",
+      "studyType": "Virtual Course",
+      "startDate": "2016-02-22",
+      "endDate": "2016-03-10"
+    },
+    {
+      "institution": "Universidad de Washington",
+      "area": "Machine Learning Foundations: A Case Study Approach",
+      "studyType": "Virtual Course",
+      "startDate": "2015-11-23",
+      "endDate": "2015-12-21"
+    },
+    {
+      "institution": "University of London & Goldsmiths, University of London",
+      "area": "Responsive Website Basics: Code with HTML, CSS, and JavaScript",
+      "studyType": "Virtual Course",
+      "startDate": "2015-09-21",
+      "endDate": "2015-10-15"
+    },
+    {
+      "institution": "Johns Hopkins University",
+      "area": "The Data Scientist Toolbox",
+      "studyType": "Curso Virtual",
+      "startDate": "2015-06-01",
+      "endDate": "2015-07-31"
+    },
+    {
+      "institution": "Stanford University",
+      "area": "Cryptography I",
+      "studyType": "Virtual Course",
+      "startDate": "2015-01-01",
+      "endDate": "2015-03-20"
+    },
+    {
+      "institution": "MongoDB University",
+      "area": "M101P: MongoDB for Developers",
+      "studyType": "Virtual Course",
+      "startDate": "2014-04-01",
+      "endDate": "2014-06-10"
+    },
+    {
+      "institution": "University of New Mexico",
+      "area": "Web Application Architectures",
+      "studyType": "Virtual Course",
+      "startDate": "2014-03-01",
+      "endDate": "2014-06-02"
+    },
+    {
+      "institution": "MongoDB University",
+      "area": "M101JS: MongoDB for Node.js Developers",
+      "studyType": "Virtual Course",
+      "startDate": "2014-03-01",
+      "endDate": "2014-05-24"
+    },
+    {
+      "institution": "MongoDB University",
+      "area": "M101J: MongoDB for Java Developers",
+      "studyType": "Virtual Course",
+      "startDate": "2014-03-01",
+      "endDate": "2014-05-06"
+    },
+    {
+      "institution": "Clínica San Francisco S.A.",
+      "area": "42914 - Humanization of the Health Service",
+      "studyType": "Classroom Course",
+      "startDate": "2013-09-01",
+      "endDate": "2013-10-25"
+    },
+    {
+      "institution": "Manizales Vive Digital program ran by PeopleContact S.A.",
+      "area": "Mobile Devices Development on ANDROID",
+      "studyType": "Classroom Course",
+      "startDate": "2012-07-01",
+      "endDate": "2012-09-13"
+    },
+    {
+      "institution": "Manizales Vive Digital program ran by PeopleContact S.A.",
+      "area": "BPO SQL/Oracle",
+      "studyType": "Classroom Course",
+      "startDate": "2012-01-01",
+      "endDate": "2012-09-13"
+    },
+    {
+      "institution": "Manizales Vive Digital program ran by PeopleContact S.A.",
+      "area": "BPO .NET",
+      "studyType": "Classroom Course",
+      "startDate": "2011-12-01",
+      "endDate": "2012-09-13"
+    },
+    {
+      "institution": "Manizales Vive Digital program ran by PeopleContact S.A.",
+      "area": "BPO Java",
+      "studyType": "Classroom Course",
+      "startDate": "2011-12-01",
+      "endDate": "2012-09-13"
+    },
+    {
+      "institution": "MKit IT & Security Solutions",
+      "area": "Ethical Hacking free course",
+      "studyType": "Virtual Course",
+      "startDate": "2012-02-01",
+      "endDate": "2012-03-12"
+    },
+    {
+      "institution": "Course offered by SENA under the auspices of PeopleContact S.A.",
+      "area": "329366 - Information Systems Development using Java EE platform",
+      "studyType": "Classroom Course",
+      "startDate": "2012-02-01",
+      "endDate": "2012-03-09"
+    },
+    {
+      "institution": "Course offered by SENA under the auspices of PeopleContact S.A.",
+      "area": "322340 - BPO Databases with MySQL",
+      "studyType": "Classroom Course",
+      "startDate": "2012-01-01",
+      "endDate": "2012-02-20"
+    },
+    {
+      "institution": "Course offered by Servicio Nacional de Aprendizaje SENA",
+      "area": "21730030 - Web design with Adobe Dreamweaver CS3",
+      "studyType": "Virtual Course",
+      "startDate": "2011-10-01",
+      "endDate": "2011-11-28"
+    },
+    {
+      "institution": "Course offered by Servicio Nacional de Aprendizaje SENA",
+      "area": "21720038 - Using Adobe Photoshop CS3",
+      "studyType": "Virtual Course",
+      "startDate": "2011-10-01",
+      "endDate": "2011-11-24"
+    },
+    {
+      "institution": "Course offered by Servicio Nacional de Aprendizaje SENA",
+      "area": "21730134 - Mobile Devices Programming (MDP)",
+      "studyType": "Virtual Course",
+      "startDate": "2011-10-01",
+      "endDate": "2011-11-17"
+    },
+    {
+      "institution": "Training program from Microsoft developers community",
+      "area": "Microsoft Five Stars Developer Level 5",
+      "studyType": "Virtual Course",
+      "startDate": "2011-03-01",
+      "endDate": "2011-04-01"
+    },
+    {
+      "institution": "Course offered by Servicio Nacional de Aprendizaje SENA",
+      "area": "12210039 - English Discoveries - Basic III",
+      "studyType": "Virtual Course",
+      "startDate": "2010-08-01",
+      "endDate": "2010-09-17"
+    },
+    {
+      "institution": "Course offered by Servicio Nacional de Aprendizaje SENA",
+      "area": "12210037 - English Discoveries - Basic I",
+      "studyType": "Virtual Course",
+      "startDate": "2010-05-01",
+      "endDate": "2010-06-18"
+    },
+    {
+      "institution": "Course offered by Servicio Nacional de Aprendizaje SENA",
+      "area": "52410017 - Flash - 2D Animation",
+      "studyType": "Virtual Course",
+      "startDate": "2010-02-01",
+      "endDate": "2010-04-09"
+    },
+    {
+      "institution": "ExpoASI 2009 (Universidad Nacional)",
+      "area": "AJAX use on ASP.NET",
+      "studyType": "Classroom Workshop",
+      "startDate": "2009-10-01",
+      "endDate": "2009-10-01"
+    },
+    {
+      "institution": "time4code Training",
+      "area": "Web development with Ruby on Rails",
+      "studyType": "Virtual Course",
+      "startDate": "2009-05-01",
+      "endDate": "2009-07-01"
+    },
+    {
+      "institution": "Microsoft Installation Festival 2009 (Universidad de Caldas)",
+      "area": "DNN (DotNetNuke) and jQuery on the Web (Workshop)",
+      "studyType": "Classroom Workshop",
+      "startDate": "2009-05-01",
+      "endDate": "2009-05-01"
+    },
+    {
+      "institution": "Universidad de Caldas",
+      "area": "Microsoft Installation Festival",
+      "studyType": "Classroom Workshop",
+      "startDate": "2009-05-01",
+      "endDate": "2009-05-01"
+    },
+    {
+      "institution": "X Engineering Days from Universidad de Caldas",
+      "area": "Web oriented programming with .NET Basic seminar",
+      "studyType": "Course-Classroom Workshop",
+      "startDate": "2008-10-07",
+      "endDate": "2008-10-10"
+    },
+    {
+      "institution": "University of Manizales",
+      "area": "Linux first level",
+      "studyType": "Classroom Course",
+      "startDate": "2001-01-01",
+      "endDate": "2001-06-30"
+    },
+    {
+      "institution": "University of Manizales",
+      "area": "GNU/Linux Congress Eje Cafetero",
+      "studyType": "Congress",
+      "startDate": "2001-05-10",
+      "endDate": "2001-05-11"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Basic Xamarin completed",
+      "date": "2017-01-01",
+      "awarder": "Microsoft Developer Readiness",
+      "summary": "Basic Xamarin course finished."
+    }
+  ],
+  "publications": [
+    {
+      "name": "Mantacore Sky Blog",
+      "publisher": "Mantacore Sky",
+      "releaseDate": "2023-06-21",
+      "website": "http://da8y01.gitlab.io/gl-blog/",
+      "summary": "A miscellaneous blog (IT and literature mainly)."
+    },
+    {
+      "name": "Trashumantes website",
+      "publisher": "Trashumantes",
+      "releaseDate": "2017-02-14",
+      "website": "https://tras-humantes.net/",
+      "summary": "A personal and miscellaneous website."
+    },
+    {
+      "name": "Easy Engineering - Blog",
+      "publisher": "Easy Engineering",
+      "releaseDate": "2013-05-07",
+      "website": "http://da8y01.github.io/gh-blog/",
+      "summary": "A blog dedicated to reading and various subjects."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "Master",
+      "keywords": [
+        "Ruby",
+        "Python",
+        "Java",
+        "JavaScript",
+        "C",
+        "C++",
+        "C#",
+        "VisualBasic",
+        "assembler",
+        "bash",
+        "PowerShell"
+      ]
+    },
+    {
+      "name": "Web",
+      "level": "Master",
+      "keywords": [
+        "Rails",
+        "Django",
+        "PHP",
+        "NodeJS",
+        "AngularJS",
+        "Angular",
+        "ReactJS",
+        "Servlets/JSP/EJB",
+        ".NET",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "CoffeeScript",
+        "HAML",
+        "SAAS",
+        "Frameworks PHP: Yii, Cake, Symfony, Silex, CodeIgniter, Zend",
+        "CMS: WordPress, Joomla, Drupal, PHPNuke, phpWebSite, DotNetNuke"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "Master",
+      "keywords": [
+        "MySQL",
+        "Postgres",
+        "SQL Server",
+        "Oracle",
+        "MongoDB"
+      ]
+    },
+    {
+      "name": "Mobile",
+      "level": "Intermediate",
+      "keywords": [
+        "Android",
+        "Ionic",
+        "Appcelerator Titanium",
+        "Java ME",
+        "BlackBerry"
+      ]
+    },
+    {
+      "name": "Operating Systems",
+      "level": "Master",
+      "keywords": [
+        "Linux",
+        "Windows",
+        "VMs and virtualization (VMware, VirtualBox, Hyper-V, KVM, LXC)",
+        "Docker containers",
+        "CVSs y repositories (git, subversion, GitHub, BitBucket, GitLab, Unfuddle)",
+        "Cloud services (Amazon EC2, GCP, GKE, Microsoft Azure)",
+        "PaaS",
+        "IaaS (Heroku, Hasura, Docker Hub, Amazon, Azure)"
+      ]
+    },
+    {
+      "name": "General IT",
+      "level": "Master",
+      "keywords": [
+        "networking",
+        "algorithmics",
+        "offimatic",
+        "architecture",
+        "patterns",
+        "electronics",
+        "management"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native language"
+    },
+    {
+      "language": "English",
+      "fluency": "Intermediate. Berlitz Proficiency Test Number: 35162, Expedition date: June 2013. Level: B1."
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced. EF SET Certificate 70/100 C1 Advanced. Awarded on: 26 Apr 2022. https://efset.org/cert/cowZZo"
+    }
+  ]
+}

@@ -34,7 +34,7 @@ En una nota se habla de *La señoria* y *La comuna*, de Florencia y Milán, del 
 
 
 ### Intención de *El Príncipe*
-Se habla del enfoque, contexto e intención de El príncipe, se mencionan aparetntes contradicciones en esta ideología, la inspiración y contexto renacentista.
+Se habla del enfoque, contexto e intención de El príncipe, se mencionan aparentes contradicciones en esta ideología, la inspiración y contexto renacentista.
 
 
 ### Contenido de la obra que analizamos

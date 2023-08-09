@@ -129,7 +129,7 @@ Se narran los últimos días del escritor y pintor esotérico Robert Blake; se i
 ### Libro tercero: MITOS PÓSTUMOS
 
 ### Introducción
-Se hace mención a la pos-guerra, y se describen los relatos seleccionados para esta etapa.
+Se hace mención a la pos-guerra, los cinco estadios que se dan en todos los mitos: *horror numinoso - leyenda folklórica - arte fantástico o terrorífico - humorismo - bufonada*, y se describen los relatos seleccionados para esta etapa.
 
 ### La Hoya de las Brujas, por *H. P. Lovecraft y A. Derleth*
 
