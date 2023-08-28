@@ -123,12 +123,14 @@
       "endDate": "2020-10-15",
       "summary": "Fully-managed On-demand Software Development Team.",
       "highlights": [
-        "Back-end development of features, MongoDB NoSQL database management, and unit and integration tests for a multiple templates management platform of cars sellers catalogs.",
-        "Development on environment with Docker, MongoDB, RabbitMQ, ElasticSearch, Google Cloud Platform infrastructure and architecture.",
-        "Development with NodeJS, Jest tests, MongoDB management, asynchronous programming with queues and RabbitMQ, advanced support of APIs, ElasticSearch, database migrations, DevOps and applications deployment.",
-        "Front-end features development for administrative dashboard web application of mobile application for resources management of a logistic company.",
-        "Front-end features development of web application with ReactJS interacting with mobile application and Firebase services.",
-        "Linux operating system, Docker, Google Cloud Platform, git, GitHub, MongoDB, RabbitMQ, ElasticSearch, NodeJS, Jest, Slack, Zoom, ReactJS, ReactNative, Jira, Notion, Monday, Scrum."
+        "Project: 321 Ignition, platform to enable mobile services for vehicle dealers.",
+        "Stack: Micro-services with NodeJS, front-end templates with VueJS and ReactJS, unit tests with Jest library, MongoDB document storage, RabbitMQ message manager, ElasticSearch search engine, virtualization with Docker, cloud resource management with GCP (Google Cloud Platform).",
+        "Infrastructure: Linux OS, git, GitHub, Google Cloud Platform, Slack, Zoom, Jira, Scrum.",
+        "Concerns: Development of back-end features with NodeJS, asynchronous programming with queues, RabbitMQ, searches, ElasticSearch, MongoDB management, database migrations, development of unit tests with Jest library, development of integration tests with Jest, PostgreSQL and GitHub environments, application deployment.",
+        "Project: Logistics company, management, monitoring and traceability of resources such as warehouses, vehicles, forms, etc.",
+        "Stack: Back-end services with Firebase, front-end web app with ReactJS, mobile app with ReactNative.",
+        "Infrastructure: Linux OS, git, GitHub, Firebase, Slack, Zoom, Notion, Monday, Scrum.",
+        "Concerns: Development of front-end features with ReactJS."
       ]
     },
     {

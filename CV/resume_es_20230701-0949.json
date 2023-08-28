@@ -123,12 +123,14 @@
       "endDate": "2020-10-15",
       "summary": "Rápidamente montaremos un equipo de desarrollo de software dedicado para ayudarte a alcanzar tus metas en poco tiempo.",
       "highlights": [
-        "Desarrollo back-end de funcionalidades, gestión de base de datos NoSQL con MongoDB, y tests unitarios y de integración, para una plataforma de gestión de múltiples plantillas de catálogos de vendedores de vehículos.",
-        "Desarrollo en un entorno con infraestructura y arquitectura con Docker, MongoDB, RabbitMQ, ElasticSearch, Google Cloud Platform.",
-        "Desarrollo con NodeJS, tests con Jest, gestión de MongoDB, programación asíncrona con colas y RabbitMQ, soporte avanzado de APIs, ElasticSearch, migraciones de base de datos, DevOps y despliegue de las aplicaciones.",
-        "Desarrollo front-end de funcionalidades para una aplicación web tipo portal administrativo de una aplicación móvil para gestionar diversos recursos de una empresa de logística.",
-        "Desarrollo front-end de funcionalidades de aplicación web con ReactJS en interacción con aplicación móvil y servicios de Firebase.",
-        "Sistema Operativo Linux, Docker, Google Cloud Platform, git, GitHub, MongoDB, RabbitMQ, ElasticSearch, NodeJS, Jest, Slack, Zoom, ReactJS, ReactNative, Jira, Notion, Monday, Scrum."
+        "Proyecto: 321 Ignition, plataforma para habilitar servicios móviles a negociantes de vehículos.",
+        "Pila: Micro-servicios con NodeJS, plantillas front-end con VueJS y ReactJS, pruebas unitarias con librería Jest, almacenamiento de documentos MongoDB, gestor de mensajes RabbitMQ, motor de búsqueda ElasticSearch, virtualización con Docker, gestión de recursos en la nube con GCP (Google Cloud Platform).",
+        "Infraestructura: Sistema Operativo Linux, git, GitHub, Google Cloud Platform, Slack, Zoom, Jira, Scrum.",
+        "Responsabilidades: Desarrollo de funcionalidades back-end con NodeJS, programación asíncrona con colas, RabbitMQ, búsquedas, ElasticSearch, manejo de MongoDB, migraciones de base de datos, desarrollo de pruebas unitarias con librería Jest, desarrollo de pruebas de integración con Jest, PostgreSQL y entornos GitHub, despliegue de aplicaciones.",
+        "Proyecto: Empresa de logística, gestión, segumiento y trazabilidad de recursos como bodegas, vehículos, formularios, etc.",
+        "Pila: Servicios back-end con Firebase, aplicación web front-end con ReactJS, aplicación móvil con ReactNative.",
+        "Infraestructura: Sistema Operativo Linux, git, GitHub, Firebase, Slack, Zoom, Notion, Monday, Scrum.",
+        "Responsabilidades: Desarrollo de funcionalidades front-end con ReactJS."
       ]
     },
     {
