@@ -66,6 +66,20 @@
       ]
     },
     {
+      "company": "Alejandra Sierra",
+      "position": "Desarrollador de Software",
+      "website": "https://www.alejasierra.com/",
+      "startDate": "2022-01-06",
+      "endDate": "2022-04-06",
+      "summary": "Empresa de publicidad y diseño web.",
+      "highlights": [
+        "Proyecto: Portal Sociedad de Diagnóstico Visual S.A.S.",
+        "Stack: Servidor NodeJS, Cliente Angular, HTML/CSS/JS.",
+        "Infraestructura: Windows 10, mensajería instantánea WhatsApp, Google Docs, Figma, VPS con CentOS 7.",
+        "Responsabilidades: Desarrollar el servidor back-end con NodeJS, y la aplicación cliente fornt-end con Angular."
+      ]
+    },
+    {
       "company": "PrimeStone",
       "position": "Analista Desarrollador de Aplicaciones",
       "website": "https://primestone.com/",
@@ -247,6 +261,20 @@
       ]
     },
     {
+      "company": "Digitex Internacional Ltda.",
+      "position": "Operador Call Center",
+      "website": "https://contactamossas.com.co/",
+      "startDate": "2013-04-12",
+      "endDate": "2013-06-14",
+      "summary": "Nos asociamos con los clientes para ofrecer una experiencia excepcional al cliente.",
+      "highlights": [
+        "Proyecto: Campaña de venta Saltas Saltas de Chile para ofrecer chips de tarjetas SIM.",
+        "Pila: Software Hermes para manejar llamadas salientes, bloc de notas.",
+        "Infraestructura: Sistema Operativo Windows, MS Excel para completar los formatos utilizados.",
+        "Responsabilidades: Hacer llamadas con el software a potenciales clientes en Chile para ofrecer y vender tarjetas SIM."
+      ]
+    },
+    {
       "company": "Latinia Mobile Infrastructure",
       "position": "Analista Programador",
       "website": "https://www.latinia.com/",
@@ -339,6 +367,13 @@
       "endDate": "2017-09-08"
     },
     {
+      "institution": "Universidad de Manizales con la organización OWASP",
+      "area": "OWASP Latam Tour 2017",
+      "studyType": "Evento presencial",
+      "startDate": "2017-04-03",
+      "endDate": "2017-04-03"
+    },
+    {
       "institution": "Microsoft Developer Readiness",
       "area": "Xamarin Diplomado | Nivel Intermedio",
       "studyType": "Curso Virtual",
@@ -365,6 +400,13 @@
       "studyType": "Curso Virtual",
       "startDate": "2016-10-24",
       "endDate": "2016-11-07"
+    },
+    {
+      "institution": "Ruta-N con JSConf Colombia",
+      "area": "JSConf Colombia 2016",
+      "studyType": "Evento presencial",
+      "startDate": "2016-10-07",
+      "endDate": "2016-10-08"
     },
     {
       "institution": "École Polytechnique Fédérale de Lausanne",

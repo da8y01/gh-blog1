@@ -6,7 +6,7 @@
     "email": "danielbenitezr@yahoo.com",
     "phone": "(+57) 300 000 0000",
     "website": "https://da8y01.github.io/gh-blog/public/cv202307_1.html",
-    "summary": "I'm a Computation and Systems Engineer from Universidad de Caldas (Manizales-Colombia). I'm an intellectual man who likes culture, science and arts. I adapt myself with ease to the circumstances, I'm a compromised, accomplished and responsible person when activities to carry out have been assigned, and my intellectual inquietude allows me to learn and research new stuff efficiently.",
+    "summary": "I'm a Systems and Computation Engineer from Universidad de Caldas (Manizales-Colombia). I'm an intellectual man who likes culture, science and arts. I adapt myself with ease to the circumstances, I'm a compromised, accomplished and responsible person when activities to carry out have been assigned, and my intellectual inquietude allows me to learn and research new stuff efficiently.",
     "location": {
       "address": "2712 Circunvalar Av",
       "postalCode": "BOG 170001",
@@ -63,6 +63,20 @@
         "Project: 10Pearls training program to improve English skills.",
         "Infrastructure: Windows 10, Microsoft Teams, Microsoft Office.",
         "Concerns: Attend English language skills improvement training."
+      ]
+    },
+    {
+      "company": "Alejandra Sierra",
+      "position": "Software Developer",
+      "website": "https://www.alejasierra.com/",
+      "startDate": "2022-01-06",
+      "endDate": "2022-04-06",
+      "summary": "Advertising and web design company.",
+      "highlights": [
+        "Project: Portal Sociedad de Diagnóstico Visual S.A.S.",
+        "Stack: Servidor NodeJS, Cliente Angular, HTML/CSS/JS.",
+        "Infrastructure: Windows 10, WhatsApp instant messaging, Google Docs, Figma, VPS with CentOS 7.",
+        "Concerns: Develop the back-end server with NodeJS, and the front-end client application with Angular."
       ]
     },
     {
@@ -247,6 +261,20 @@
       ]
     },
     {
+      "company": "Digitex Internacional Ltda.",
+      "position": "Call Center Operator",
+      "website": "http://www.grupodigitex.com/",
+      "startDate": "2013-04-12",
+      "endDate": "2013-06-14",
+      "summary": "We partner with clients to deliver outstanding customer experience.",
+      "highlights": [
+        "Project: Chile’s Saltas Outbound sell campaign to offer SIM cards chips.",
+        "Stack: Hermes software to handle outgoing calls, notepad.",
+        "Infrastructure: Windows Operating System, MS Excel to complete the formats used.",
+        "Concerns: Make calls with the software to potential clients in Chile to offer and sell SIM cards."
+      ]
+    },
+    {
       "company": "Latinia Mobile Infrastructure",
       "position": "Analyst Developer",
       "website": "https://www.latinia.com/",
@@ -339,6 +367,13 @@
       "endDate": "2017-09-08"
     },
     {
+      "institution": "University of Manizales with OWASP organization",
+      "area": "OWASP Latam Tour 2017",
+      "studyType": "Onsite event",
+      "startDate": "2017-04-03",
+      "endDate": "2017-04-03"
+    },
+    {
       "institution": "Microsoft Developer Readiness",
       "area": "Xamarin Diplomado | Intermediate level",
       "studyType": "Virtual Course",
@@ -365,6 +400,13 @@
       "studyType": "Virtual Course",
       "startDate": "2016-10-24",
       "endDate": "2016-11-07"
+    },
+    {
+      "institution": "Ruta-N with JSConf Colombia",
+      "area": "JSConf Colombia 2016",
+      "studyType": "Onsite event",
+      "startDate": "2016-10-07",
+      "endDate": "2016-10-08"
     },
     {
       "institution": "École Polytechnique Fédérale de Lausanne",
