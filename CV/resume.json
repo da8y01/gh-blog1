@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Daniel Benítez Restrepo",
-    "label": "Computation and Systems Engineer, MP: 17950-259048 CLD",
-    "picture": "https://da8y01.github.io/gh-blog/public/picture202201_1.jpeg",
+    "label": "Systems and Computation Engineer, MP: 17950-259048 CLD",
+    "picture": "https://da8y01.github.io/gh-blog/CV/picture202201_1.jpeg",
     "email": "danielbenitezr@yahoo.com",
     "phone": "(+57) 300 000 0000",
-    "website": "https://da8y01.github.io/gh-blog/public/cv202307_1.html",
+    "website": "https://da8y01.github.io/gh-blog/CV/cv202308_1.html",
     "summary": "I'm a Systems and Computation Engineer from Universidad de Caldas (Manizales-Colombia). I'm an intellectual man who likes culture, science and arts. I adapt myself with ease to the circumstances, I'm a compromised, accomplished and responsible person when activities to carry out have been assigned, and my intellectual inquietude allows me to learn and research new stuff efficiently.",
     "location": {
       "address": "2712 Circunvalar Av",
@@ -47,8 +47,8 @@
       "summary": "The University of Caldas in compliance with the social function that corresponds to its public nature, has the mission of generating, appropriating, disseminating and applying knowledge through curricular, investigative and projection processes, to fully train citizens committed to society and culture, provide solutions to regional, national and international problems and contribute to sustainable development.",
       "highlights": [
         "Project: MISIÓN TIC 2022 SAR I-704/2022.",
-        "Stack: LoopBack, Angular, ReactJS, HTML/JS/CSS, MongoDB.",
-        "Infrastructure: SO Windows, Microsoft Teams, Google Drive.",
+        "Stack: Backend services with LoopBack, frontend web applications with Angular and ReactJS, HTML/JS/CSS for web modeling, MongoDB document storage.",
+        "Infrastructure: SO Windows, Microsoft Teams for communications, Google Drive as file storage, CVS with git and GitHub repositories.",
         "Concerns: Carry out accompaniment in the teaching activities in programming guided by the disciplinary trainer, Carry out work team dynamics, Manage the solution of questions and concerns made by the beneficiaries, Support the training and teaching of programming in the languages and technologies that are going to be use in the cycle, Generate at least weekly reports determined by the training operator, Sprint follow-up through the formats designed for it (Teach lead), Participate in daily follow-up meetings with their work groups, The tutor It has the responsibility of reporting any non-compliance detected in the monitoring activities, Submitting weekly reports of its management and monthly report."
       ]
     },
@@ -61,7 +61,7 @@
       "summary": "We help businesses digitally transform, build new products, and accelerate digital teams.",
       "highlights": [
         "Project: 10Pearls training program to improve English skills.",
-        "Infrastructure: Windows 10, Microsoft Teams, Microsoft Office.",
+        "Infrastructure: Windows 10 Operating System, Microsoft Teams for communications, Microsoft Office as office suite.",
         "Concerns: Attend English language skills improvement training."
       ]
     },
@@ -74,9 +74,9 @@
       "summary": "Advertising and web design company.",
       "highlights": [
         "Project: Portal Sociedad de Diagnóstico Visual S.A.S.",
-        "Stack: Servidor NodeJS, Cliente Angular, HTML/CSS/JS.",
-        "Infrastructure: Windows 10, WhatsApp instant messaging, Google Docs, Figma, VPS with CentOS 7.",
-        "Concerns: Develop the back-end server with NodeJS, and the front-end client application with Angular."
+        "Stack: Backend services with NodeJS/ExpressJS, client web application with Angular, web layout with HTML/CSS/JS.",
+        "Infrastructure: Windows 10 Operating System, CentOS 7 VPS, WhatsApp instant messaging, CVS with git and GitHub repositories, Google Docs as office suite, Figma tool for conversion/translation of the graphical design piece into HTML markup language format.",
+        "Concerns: Develop the back-end server with NodeJS/ExpressJS, and the front-end client application with Angular; CVS, databases and VPS deployments setup management."
       ]
     },
     {
@@ -87,18 +87,18 @@
       "endDate": "2022-01-28",
       "summary": "PrimeStone, a Trilliant company, is a proudly Colombian privately held software development company founded in 1990 by a team of industry experts, with over 25 years of experience in meter data collection, management and analytics.",
       "highlights": [
-        "Project: A static and dummy API backend server with endpoints to be consumed by clients.",
-        "Stack: NodeJS server, Angular client, HTML/CSS/JS, Docker/Docker Compose.",
+        "Project: A middleware to provide functionalities of migration and synchronization of databases.",
+        "Stack: Apache NiFi, Python/Flask, Oracle 11g, MS SQL Server 2012, PostgreSQL 9, Docker/Docker Compose.",
         "Infrastructure: Windows 10, Git repositories, VS Code, Team Foundation Server, Microsoft Teams, VPN.",
-        "Concerns: Development of backend API endpoint services to be used by clients, modification of Angular web application.",
+        "Concerns: Modification of Apache NiFi templates and Python/Flask application to manage the launch and parametrization of the data and operations flows.",
         "Project: A Interoperability Readings Dashboard to visualize metrics on devices and other data sources.",
         "Stack: Python/Flask, Dash/NumPy/Pandas/Cognito libraries, AWS S3/Glue/Lambdas, Docker/Docker Compose.",
         "Infrastructure: Windows 10, Git repositories, VS Code, Team Foundation Server, Microsoft Teams, VPN, AWS.",
         "Concerns: Implementation of User Stories regarding building layers for UI, callbacks and data for the vizualization dashboard, unit tests of Python source code, implementation of authentication for Python/Flask application using Cognito library, use and activation of AWS Glue flows involving buckets, lambdas, functions, services, parsers, etc.",
-        "Project: A middleware to provide functionalities of migration and synchronization of databases.",
-        "Stack: Apache NiFi, Python/Flask, Oracle 11g, MS SQL Server 2012, PostgreSQL 9, Docker/Docker Compose.",
+        "Project: A static and dummy API backend server with endpoints to be consumed by clients.",
+        "Stack: NodeJS server, Angular client, HTML/CSS/JS, Docker/Docker Compose.",
         "Infrastructure: Windows 10, Git repositories, VS Code, Team Foundation Server, Microsoft Teams, VPN.",
-        "Concerns: Modification of Apache NiFi templates and Python/Flask application to manage the launch and parametrization of the data and operations flows."
+        "Concerns: Development of backend API endpoint services to be used by clients, modification of Angular web application."
       ]
     },
     {
@@ -110,9 +110,9 @@
       "summary": "As one of the largest and longest established IT firms in Latin America, Kibernum offers not just engineering expertise and innovation but also the reliability to get the job done.",
       "highlights": [
         "Project: COBIS banking platform.",
-        "Stack: SQL Server, Maven, Java, Tomcat, JBoss, AngularJS, HTML/CSS/JS.",
-        "Infrastructure: Windows 10, Git repositories, Sonar, Eclipse, COBIS Designer, Team Foundation Server, Microsoft Teams, VPN.",
-        "Concerns: Integration and customization of banking modules through debugging of application flow with Eclipse, Maven and Java, with SQL Server, AngularJS and COBIS Designer."
+        "Stack: SQL Server database, Maven packages manager, Java, Tomcat and JBoss web applications containers, usage of AngularJS library on the client web application, HTML/CSS/JS for web modeling.",
+        "Infrastructure: Windows 10 Operating System, Sonar code quality tool, Eclipse IDE, COBIS Designer, TFS (Team Foundation Server), Microsoft Teams for communications, VPN, agile principles of software development.",
+        "Concerns: Integration and customization of banking modules through debugging of application flow with Eclipse, Maven and Java, with SQL Server, AngularJS and COBIS Designer, applications debugging."
       ]
     },
     {
@@ -123,35 +123,32 @@
       "endDate": "2020-10-15",
       "summary": "Fully-managed On-demand Software Development Team.",
       "highlights": [
-        "Project: 321 Ignition, platform to enable mobile services for vehicle dealers.",
-        "Stack: Micro-services with NodeJS, front-end templates with VueJS and ReactJS, unit tests with Jest library, MongoDB document storage, RabbitMQ message manager, ElasticSearch search engine, virtualization with Docker, cloud resource management with GCP (Google Cloud Platform).",
-        "Infrastructure: Linux OS, git, GitHub, Google Cloud Platform, Slack, Zoom, Jira, Scrum.",
-        "Concerns: Development of back-end features with NodeJS, asynchronous programming with queues, RabbitMQ, searches, ElasticSearch, MongoDB management, database migrations, development of unit tests with Jest library, development of integration tests with Jest, PostgreSQL and GitHub environments, application deployment.",
         "Project: Logistics company, management, monitoring and traceability of resources such as warehouses, vehicles, forms, etc.",
         "Stack: Back-end services with Firebase, front-end web app with ReactJS, mobile app with ReactNative.",
         "Infrastructure: Linux OS, git, GitHub, Firebase, Slack, Zoom, Notion, Monday, Scrum.",
-        "Concerns: Development of front-end features with ReactJS."
+        "Concerns: Development of front-end features with ReactJS.",
+        "Project: 321 Ignition, platform to enable mobile services for vehicle dealers.",
+        "Stack: Micro-services with NodeJS, front-end templates with VueJS and ReactJS, unit tests with Jest library, MongoDB document storage, RabbitMQ message manager, ElasticSearch search engine, virtualization with Docker, cloud resource management with GCP (Google Cloud Platform).",
+        "Infrastructure: Linux OS, git, GitHub, Google Cloud Platform, Slack, Zoom, Jira, Scrum.",
+        "Concerns: Development of back-end features with NodeJS, asynchronous programming with queues, RabbitMQ, searches, ElasticSearch, MongoDB management, database migrations, development of unit tests with Jest library, development of integration tests with Jest, PostgreSQL and GitHub environments, application deployment."
       ]
     },
     {
       "company": "Heinsohn Business Technology",
       "position": "Developer Engineer Junior Advanced",
       "website": "https://www.heinsohn.com.co/",
-      "startDate": "2019-04-01",
+      "startDate": "2019-04-10",
       "endDate": "2020-04-15",
       "summary": "We support our customers with IT solutions to the size of their needs.",
       "highlights": [
-        "Front-end development of a portal-type web application and dynamic administrative panel using the Angular 7 framework, use of the Material library for UX / UI interface components, consumption of APIs / endpoints / remote services.",
-        "Front-end development with the Angular framework of portal type application and administrative panel focused on patient management, clinics and medical data regarding blood sugar and insulin concentration.",
-        "Web development with the Angular framework of application type portal and administrative panel that interacts with API/backend services and with a mobile application that obtains the data supplied from a device that connects and transfers the data to the application.",
-        "Web development with Angular with an international team and advanced written and spoken English language management.",
-        "Web development with the Drupal 8 CMS for implementation of forms and data requests to external services/APIs/endpoints.",
-        "Web development with the Angular framework, JavaScript, HTML, CSS, Material.",
-        "Development using libraries for status management and RxJS functionalities.",
-        "Management of CVS git and BitBucket repositories.",
-        "Interaction with GCP (Google Cloud Platform) and GKE (Google Kubernetes Engine) cloud technologies.",
-        "Remote systems management using Microsoft Remote Desktop and VPNs technologies.",
-        "Use of Windows 10 Pro and Linux (Ubuntu) operating systems."
+        "Project: Tresiba web, comprehensive platform to manage information on the concentration of glucose and insulin in the blood (FBG, fast blood glucose).",
+        "Stack: Back-end server with SpringBoot, client web application with Angular, PostgreSQL and MySQL databases, native mobile applications for iOS and Android systems, auxiliary device for reading fasting glucose (FBG) information.",
+        "Infrastructure: Windows 10 Pro Operating System, Microsoft Remote Desktop, GCP (Google Cloud Platform) and GKE (Google Kubernetes Engine) cloud services, Slack, Zoom, Jira, Confluence, Scrum.",
+        "Concerns: Development of front-end features with the Angular framework, use of the Material library for UX/UI interface components, use of libraries for state management and RxJS functionalities such as Redux, management of CVS git and BitBucket repositories, interaction with an international team and command of the advanced written and spoken English language.",
+        "Project: New EPS Forms, auxiliary system of forms of an EPS (Health Provider Entity).",
+        "Stack: Drupal CMS (Content Management System), PHP language, MySQL database.",
+        "Infrastructure: Windows 10 Pro and Linux (Ubuntu) operating systems, Microsoft Remote Desktop, VPNs, Slack, Skype, MS Excel, Scrum.",
+        "Concerns: Implementation of web forms and data requests to external services/APIs/endpoints with the CMS Drupal 8."
       ]
     },
     {
@@ -162,11 +159,10 @@
       "endDate": "2019-03-31",
       "summary": "Superlikers is an online platform to setup and manage 360 Fidelization Programs.",
       "highlights": [
-        "Migration, update and front-end development of web application kind of dynamic administrative panel using Angular framework in its recent versions (2, 4, 5, 6), Material library use for UX/UI interface components, consumption of remote API/endpoints/services.",
-        "Development and implementation of front-end features for a web application administrative panel kind using AngularJS framework.",
-        "Web development with AngularJS, Angular, JavaScript, jQuery, HTML, CSS, Material.",
-        "Git CVS, Unfuddle, BitBucket and GitHub repositories management.",
-        "Linux (Ubuntu) and Windows (7, 10) operating system management."
+        "Project: SuperLikers, web system for the management of gamified platforms.",
+        "Stack: Back-end server with Ruby on Rails and SinatraRb, client web app with AngularJS/Angular, MongoDB document storage, Redis, Memcached.",
+        "Infrastructure: Linux (Ubuntu) and Windows (7, 10) Operating Systems, AWS services, EC2 instances, S3 buckets, CVS with git and Unfuddle, BitBucket and GitHub repositories, Slack, Trello, Scrum.",
+        "Concerns: Migration of an administrative panel type web application using the AngularJS library to the Angular framework, development of front-end features with Angular (versions 2, 4, 5, 6), JavaScript, jQuery, HTML, CSS, Material UX/UI library, consumption of APIs/endpoints/remote services."
       ]
     },
     {
@@ -177,15 +173,14 @@
       "endDate": "2018-09-30",
       "summary": "We're a colombian enterprise concerned with the design and development of innovation technologies, engineering and science products. Our focus is directed towards processes optimization based upon technology based solutions for our clients and users.",
       "highlights": [
-        "Migrate, develop and update a mobile application for food and restaurants services using the Ionic 4 framework for hybrid applications and consumption of remote API/endpoints/services.",
-        "Back-end features development to provide an administrative panel and API/endpoints/services to clients application consumption.",
-        "Mobile development with the Ionic 4 framework.",
-        "Back-end development with the Ruby on Rails framework.",
-        "PostgreSQL DataBase management.",
-        "Amazon services like EC2 instances and AMI, and S3 buckets.",
-        "Management of application servers like Unicorn and Passenger.",
-        "Git CVS and GitLab repositories management.",
-        "Linux (Ubuntu) and Windows (7, 10) operating system management."
+        "Project: Mr. Quick, mobile application for food services and restaurants.",
+        "Stack: Back-end server with Ruby on Rails, hybrid mobile app with Ionic 4, PostgreSQL database, CVS with git and GitLab repository.",
+        "Infrastructure: Linux (Ubuntu) and Windows (7, 10) Operating Systems, AWS services, S3 buckets, Slack, Scrum.",
+        "Concerns: Migration, development and update of a mobile application using the Ionic 4 hybrid application framework, development of back-end features with Ruby on Rails, management of Git repositories and AWS services.",
+        "Project: HandleBay, website similar to a social network for suppliers, customers, intermediaries, companies.",
+        "Stack: Web application with Ruby on Rails, PostgreSQL database, CVS with git and GitLab repository, Unicorn and Passenger application servers.",
+        "Infrastructure: Linux (Ubuntu) and Windows (7, 10) Operating Systems, AWS services, EC2 and AMI instances, S3 buckets, Slack, Scrum.",
+        "Concerns: Development with the Ruby on Rails framework of a web application according to the project specifications."
       ]
     },
     {
@@ -193,20 +188,29 @@
       "position": "Developer",
       "website": "http://www.mapalesoftware.com.co/",
       "startDate": "2015-02-01",
-      "endDate": "2016-02-28",
+      "endDate": "2016-02-29",
       "summary": "We are a team of developers/designers/scientists/geeks who find their work very entertaining and thrilling. As a team, we develop software in different areas, with emphasis in web and mobile, but with experience in telephony projects, digital kiosks, enterprise applications, security systems, Artificial Intelligence, cryptography and even artistic installations.",
       "highlights": [
-        "Development and implementation of backend features using the Python language and the Django framework for a web application that manages subscriptions on a system and integrations with an external marketing service.",
-        "Development and implementation of backend features using NodeJS for a web application that coordinates chefs, bookings and in-house food services.",
-        "Development and implementation of features for a virtual store web application using ReactJS library and Redux framework for the frontend, and the Python language and Django framework for the backend and RESTful APIs.",
-        "Development and implementation of backend features for a web application that consumes, process and publish SOAP and REST WebServices or remote backend APIs over PHP technology.",
-        "Development and implementation of features for a virtual e-commerce clothing store using AngularJS framework for the frontend with PHP for the backend.",
-        "Development and implementation of features for a web application for reading and run smart quizes on published articles and lectures using AngularJS framework for the frontend with Ruby on Rails for the backend.",
-        "Web development with AngularJS framework, JavaScript, jQuery, HTML, CSS.",
-        "Basic handling of Silex, phinx, Doctrine frameworks, and Docker containers.",
-        "Web servers (Apache), and Postgres and MySQL databases management.",
-        "Git CVS, Bitbucket and GitHub repositories, and Heroku cloud PaaS management.",
-        "Linux operating system (Ubuntu) management."
+        "Project: Houspoon, web application that coordinates chefs, reservations and food services at home.",
+        "Stack: Back-end server with NodeJS, front-end web app with ReactJS, mobile app with ReactNative, PostgreSQL database, CVS with git and BitBucket repositories.",
+        "Infrastructure: Linux OS, Heroku cloud PaaS, Slack for communications, Toggl for task management, Scrum for project management.",
+        "Concerns: Development of back-end features with NodeJS, implementation of unit tests with Mocha library, implementation of integration tests with PostgreSQL database, development with ReactJS and Redux state library.",
+        "Project: Subscription System, subscription management and integrations with an external marketing service (Mailchimp).",
+        "Stack: Back-end server with Django framework, PostgreSQL database, CVS with git and BitBucket repositories.",
+        "Infrastructure: Linux Operating System, Slack for communications, Toggl for task management, Scrum for project management.",
+        "Concerns: Development of back-end features with the Django framework, thread management, remote service calls.",
+        "Project: Coquelux, virtual clothing store.",
+        "Stack: Back-end server with PHP, front-end web application with AngularJS library, PostgreSQL and MySQL databases, CVS with git and GitHub repositories.",
+        "Infrastructure: Linux Operating System, Docker for container management and virtualization, web servers (Apache), Slack for communications, Toggl for task management, Scrum for project management.",
+        "Concerns: Development of back-end features with PHP, development of front-end features with the AngularJS library.",
+        "Project: Logistics System, web application that consumes, processes and publishes WebServices or remote SOAP and REST backend APIs with information regarding logistics such as addresses, couriers, orders, packages, deliveries.",
+        "Pila: Back-end server with the PHP Silex framework, Postgres and MySQL databases, Doctrine and Phinx libraries for database management and migrations, CVS with git and GitHub repositories.",
+        "Infrastructure: Linux Operating System, Docker for container management and virtualization, web servers (Apache), Slack for communications, Toggl for task management, Scrum for project management.",
+        "Concerns: Development of back-end features with the Silex framework.",
+        "Project: SmartReader, web application for reading and smart quizzes of published articles and readings.",
+        "Stack: Back-end server with Ruby on Rails framework, front-end web application with AngularJS library, PostgreSQL database, CVS with git and BitBucket repositories.",
+        "Infrastructure: Linux Operating System, Heroku for cloud deployments using PaaS, Slack for communications, Toggl for task management, Scrum for project management.",
+        "Concerns: Development of back-end features with the Ruby on Rails framework, development of front-end functionalities with the AngularJS library."
       ]
     },
     {
@@ -217,13 +221,14 @@
       "endDate": "2015-01-13",
       "summary": "We are a USA based company with roots in Latin-American. Our mission is to find and enable talented people in that region to work remotely with North American companies.",
       "highlights": [
-        "Development and implementation of back-end features for a tracing, compilation, tracking and recommendations of places, events and news of different cities web portal over Ruby on Rails technology.",
-        "Development and implementation of back-end features of a desktop application for doctors, patients and interactions management using a Google Chrome extension with AngularJS.",
-        "Memcached and Redis tools use.",
-        "MongoDB NoSQL databases management, and remote backend BaaS storage.",
-        "Web modeling with JavaScript, HTML, CSS.",
-        "Git CVS and GitHub repositories management.",
-        "Linux operating system (Ubuntu, Debian) management."
+        "Project: Medical Agenda, progressive web application (PWA) for the management of doctors, patients, agendas and interactions.",
+        "Stack: Remote backend services using BaaS (Heroku), Progressive Web App (PWA) using a Google Chrome extension with AngularJS library, CVS with git and GitHub repositories.",
+        "Infrastructure: Linux (Ubuntu, Debian) Operating System, Slack for communications, Scrum for project management.",
+        "Concerns: Web development of a PWA using the AngularJS library.",
+        "Project: Civico, web portal for monitoring, collecting, tracking and recommending places, events and news of different cities.",
+        "Stack: Ruby on Rails web application, MongoDB NoSQL database, Mongoid Object-Document Mapper (ODM) driver, CVS with git and GitHub repositories.",
+        "Infrastructure: Linux (Ubuntu, Debian) Operating System, Memcached and Redis tools, Slack for communications, Scrum for project management.",
+        "Concerns: Web development using the Ruby on Rails framework."
       ]
     },
     {
@@ -234,13 +239,14 @@
       "endDate": "2014-03-05",
       "summary": "We connect your company with more clients through the internet. Marketing services focused on results.",
       "highlights": [
-        "Development and implementation of mobile app for contracts and employees management of funeral company using Appcelerator Titanium platform for mobile app development.",
-        "Development and implementation of backend API to consume, process and publish SOAP and REST WebServices over Ruby on Rails technology.",
-        "Development and implementation of web page with typical various entities management features for IT company over Ruby on Rails technology.",
-        "Web modeling with JavaScript, HTML, CSS.",
-        "Web servers and Postgres and MySQL databases management.",
-        "Git CVS, GitLab repositories, and Heroku cloud PaaS management.",
-        "Linux operating system (Ubuntu) management."
+        "Project: Funeral Company, web application with mobile application for contract and insurance management of a funeral company.",
+        "Stack: Ruby on Rails web app, PostgreSQL database, hybrid mobile app with Appcelerator Titanium, CVS with git and GitLab repositories.",
+        "Infrastructure: Linux Operating System (Ubuntu), PaaS in the Heroku cloud, Scrum for project management.",
+        "Concerns: Hybrid mobile application development with Appcelerator Titanium, web application development with Ruby on Rails, consumption, processing and publication of SOAP (Simple Object Access Protocol) and REST (Representational state transfer) web services, management of databases and web servers, CVS.",
+        "Project: IT website, main website of an IT service company.",
+        "Stack: Ruby on Rails web app, MySQL database, CVS with git and GitLab repositories.",
+        "Infrastructure: Linux Operating System (Ubuntu), PaaS in the Heroku cloud, Scrum for project management.",
+        "Concerns: Web application development with Ruby on Rails, management of databases and web servers, CVS."
       ]
     },
     {
@@ -251,15 +257,10 @@
       "endDate": "2013-10-28",
       "summary": "Clínica San Francisco S.A. is a private institution offering high complexity healthcare services at the middle and north of Valle region (Tuluá, Valle del Cauca).",
       "highlights": [
-        "Development and implementation of modifications and new features of specialized healthcare services institution as is Clínica San Francisco S.A. at Tuluá, Valle del Cauca Information System.",
-        "Development and implementation of different activities focused on modify and/or add features of the SIIS (Sistema Integrado de Información en Salud) system working as web application and developed with PHP language.",
-        "PHP language web server side programming.",
-        "JavaScript/jQuery languages client side programming.",
-        "HTML/CSS web modeling.",
-        "Apache web server and Postgres database management.",
-        "NetBeans IDE use.",
-        "Subversion (svn) CVS and repositories management.",
-        "Linux operating system (Ubuntu, CentOS) management."
+        "Project: SIIS, Integrated Health Information System of a clinic that works as a web application.",
+        "Stack: Backend services with PHP, client web application with jQuery/HTML/CSS, PostgreSQL database, CVS with Subversion (svn) and local shared repositories, TortoiseSVN client application, NetBeans IDE.",
+        "Infrastructure: Linux Operating System (Ubuntu, CentOS), Apache web server, RedMine for task management, project management based on RUP (Relational Unified Process).",
+        "Concerns: Development and implementation of different activities focused on modifying and/or adding functionalities to the entity's SIIS, programming in PHP web server-side language and JavaScript/jQuery web client-side language, web modeling with HTML/CSS, optimization of SQL queries, provide general IT support."
       ]
     },
     {
@@ -284,15 +285,10 @@
       "endDate": "2012-08-29",
       "summary": "Latinia is an independent software vendor (ISV), which specializes in infrastructure product development for asynchronous type financial notifications or push banking(mobile or instant messaging, email, Twitter’s DM, push notifications – Android & Apple iOS), utilized mainly by leading and globally distributed financial institutions (banks, savings banks, processing and payment systems), public institutions government and service providers, distributing the same globally and acting as leaders in their respective segments and industries.",
       "highlights": [
-        "Projects implementation for both company clients as company internals; JaveEE platform usage and its JMS, JWS, etc. technologies and the respective support components stack (OS, web container, etc.).",
-        "Design and development of internal company platform to test and monitor send messages traffic with different properties (channel, attachments, quantity, intervals, etc.) using JEE platform and EJB technologies for server side, and JavaSE, JSP and Servlets technologies for test clients; work on CentOS 5 environment, Oracle 11g DB, Eclipse IDE, packaging and deployment Ant and Maven systems, and VMware Player VMs.",
-        "Implementation of sending e-mails features with and without attachments on a communications API used by financial entity using JEE platform and EJB technologies on server side, and JavaSE, JSP and Servlets technologies for test clients; work on CentOS 5 environment, Oracle 11g DB, Eclipse IDE, packaging and deployment Ant and Maven systems, and VMware Player VMs.",
-        "Development with platforms and technologies like JavaEE, EJB, JWS, JMS, JSP, Servlets, JavaSE.",
-        "Usage of Ant and Maven tools for software project management and general compilation automation, packaging and building.",
-        "WebLogic and JBoss web containers management.",
-        "Oracle 11g database management.",
-        "Eclipse IDE use.",
-        "Windows (7), Linux (CentOS), and Virtual Machines (VMs) with VMware Player operating systems management."
+        "Project: Instant messaging and secondary notifications broker of a financial institution.",
+        "Stack: Backend services with JavaEE (Java Enterprise Edition)/EJB (Enterprise Java Beans)/JMS (Java Messaging Services), Oracle 11g database, test client applications with JSP (Java Server Pages), Servlets, and JavaSE (Java Standard Edition), Ant and Maven packaging and deployment tools, Eclipse IDE.",
+        "Infrastructure: Windows (7), Linux (CentOS 5) Operating Systems, Virtual Machines (VMs) with VMware Player, WebLogic and JBoss application containers.",
+        "Concerns: Development of features to test and monitor the traffic of sending messages with different characteristics (channel, attachments, quantity, intervals, etc.) of a notification and messaging broker middleware using JavaEE and JavaSE technologies, Oracle database management, management of WebLogic and JBoss containers, management of Ant and Maven software management tools."
       ]
     }
   ],
@@ -301,20 +297,24 @@
       "organization": "Manizales-Dev",
       "position": "Participant/Volunteer",
       "website": "http://manizales-dev.github.io/",
-      "startDate": "2015-02-01",
-      "endDate": "2016-04-30",
+      "startDate": "2015-02-15",
+      "endDate": "2017-08-11",
       "summary": "Manizales-Dev is a community of local developers to build together an ecosystem around technology to bring support to individuals and organizations towards regional progress.",
       "highlights": [
         "Participation on different meetup events organized.",
-        "Participation in NodeSchool International Day 2015 ( http://nodeschool.io/manizales/ ).",
-        "Participation in XIV Jornadas de Ingeniería, Tecnología e Innovación 2015 at Universidad de Caldas ( http://jornadas-ingenieria.gitir.co/ )."
+        "KodeFest 2017",
+        "NodeSchool International Day 2016 (Chapter Manizales)",
+        "Global Day of Coderetreat 2015",
+        "Participation in XIV Jornadas de Ingeniería, Tecnología e Innovación 2015 at Universidad de Caldas ( http://jornadas-ingenieria.gitir.co/ ).",
+        "HTML5 and JavaScript, Omnipresent future",
+        "NodeSchool International Day 2015 ( http://nodeschool.io/manizales/ )."
       ]
     }
   ],
   "education": [
     {
       "institution": "Universidad de Caldas",
-      "area": "Computation and Systems Engineering",
+      "area": "Systems and Computation Engineering",
       "studyType": "Professional Career",
       "startDate": "2004-08-01",
       "endDate": "2013-07-09"
@@ -652,7 +652,7 @@
   "awards": [
     {
       "title": "Basic Xamarin completed",
-      "date": "2017-01-01",
+      "date": "2017-03-21",
       "awarder": "Microsoft Developer Readiness",
       "summary": "Basic Xamarin course finished."
     }

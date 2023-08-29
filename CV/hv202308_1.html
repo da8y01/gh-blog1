@@ -1,0 +1,2561 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, user-scalable=no, minimal-ui">
+		<title>Daniel Benítez Restrepo</title>
+		<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+		<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+		<style>
+		body {
+  background: #D2D4D3;
+  font: 15px Arial, Helvetica, sans-serif;
+  line-height: 1.4;
+  color: #929292;
+}
+
+.container {
+  margin: 0 auto;
+  padding: 10%;
+}
+
+#resume {
+  border-radius: 5px;
+  border: 1px solid #C7C7C7;
+  overflow: hidden;
+}
+
+section {
+  margin-bottom: 5rem;
+}
+
+[class^="section-"] > .title {
+  text-transform: uppercase;
+  padding: 15px 0;
+  margin: 0;
+}
+
+[class^="section-"] > .title .title-icon,
+[class^="section-"] > .title span {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+[class^="section-"] > .title span {
+  margin-left: 2px;
+}
+
+[class^="section-"] > .title .title-icon {
+  background-color: whitesmoke;
+  border-radius: 50%;
+  width: 2rem;
+  height: 2rem;
+  padding: 0.4rem 0.45rem;
+}
+
+/* Sidebar */
+.sidebar {
+  padding: 2rem;
+  background: #E6EAED !important;
+  margin-bottom: -99999px;
+  padding-bottom: 99999px;
+}
+
+.sidebar, .sidebar h1 {
+  color: #656567 !important;
+}
+
+
+.sidebar h2 {
+  color: #ffffff;
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 1.5rem;
+  letter-spacing: 0.5rem;
+  font-weight: bold;
+  margin-bottom: 1rem !important;
+  background: #646466;
+  padding: 0.5rem 0.5rem 0.5rem 0.5rem !important;
+}
+
+.avatar {
+  margin: 5rem 0;
+  text-align: center;
+}
+
+.avatar img {
+  width: 90%;
+}
+
+.section-education .item {
+  margin-bottom: 3rem;
+  text-align: center;
+}
+
+.section-education .studyTitle {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 1.3rem;
+}
+.section-education .courses {
+  font-size: 1.2rem;
+}
+.section-education ul.courses {
+  list-style-type: none;
+  margin: 0.5rem 0 0.5rem 0;
+  padding: 0;
+}
+
+.section-education .ul.courses li {
+  margin:0;
+}
+
+.section-education .institution {
+  font-size: 1.2rem;
+}
+
+.section-education .date {
+  font-size: 1.2rem;
+}
+
+.sidebar a:link, .sidebar a:hover, .sidebar a:visited {
+  text-decoration: none;
+  color: #ffffff !important;
+}
+
+/* Content */
+.content {
+  padding: 0 5rem 0 5rem;
+  padding-bottom: 0px;
+  background: #FFFFFF;
+  margin-bottom: -99999px;
+  padding-bottom: 99999px;
+}
+
+.content h1 {
+  color: #3C3C3C;
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 4rem;
+  letter-spacing: 1.0rem;
+  font-weight: bold;
+}
+
+.content h2 {
+    color: #646466;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 1.5rem;
+    letter-spacing: 0.5rem;
+    font-weight: bold;
+    margin-bottom: 1rem !important;
+    background: #E6EAED;
+    padding: 0.5rem 0.5rem 0.5rem 0.5rem !important;
+}
+
+.content a:link, .content a:hover, .content a:visited {
+  text-decoration: none;
+  color: #6D6D6D;
+}
+
+/* Sections */
+.section-name {
+  margin: 0rem 0 5rem 0;
+  background: #E6EAED;
+  padding: 6rem 0 4rem 0;
+}
+
+.section-name h2 {
+  color: #6D6D6D;
+  text-transform: unset;
+  text-align: center;
+  font-size: 1.5rem;
+  letter-spacing: 0.5rem;
+  font-weight: bold;
+  margin-top: 5rem;
+  background: none;
+}
+
+.section-summary {
+  text-align: justify;
+}
+
+.section-work .item {
+  margin-bottom: 2.5rem;
+}
+
+.section-work .item .position {
+  font-weight: bold;
+  color: #252324;
+  text-transform: uppercase;
+}
+
+.section-work .item .company {
+    padding: 0.5rem 0 0.5rem 0;
+    color: #605E5F;
+    font-weight: bold;
+}
+
+.section-work .item .summary, .section-work .item .highlights {
+    font-style: italic;
+    text-align: justify;
+}
+
+.section-volunteer .item {
+  margin-bottom: 2.5rem;
+}
+
+.section-volunteer .item .position {
+  font-weight: bold;
+  color: #252324;
+  text-transform: uppercase;
+}
+
+.section-volunteer .item .company {
+    padding: 0.5rem 0 0.5rem 0;
+    color: #6D6D6D;
+    font-weight: bold;
+}
+
+.section-volunteer .item .summary, .section-volunteer .item .highlights {
+    font-style: italic;
+    text-align: justify;
+}
+
+
+.section-publications .item {
+  margin-bottom: 2.5rem;
+}
+
+.section-publications .item .name {
+  font-weight: bold;
+  color: #252324;
+  text-transform: uppercase;
+}
+
+.section-publications .item .publication {
+    padding: 0.5rem 0 0.5rem 0;
+    color: #6D6D6D;
+    font-weight: bold;
+}
+
+.section-publications .item .summary, .section-publications .item .highlights {
+    font-style: italic;
+    text-align: justify;
+}
+
+
+.section-awards .item .title {
+  font-weight: bold;
+  color: #252324;
+}
+
+.section-awards .item .date, .section-awards .item .awarder {
+  font-weight: normal;
+  color: #929292;
+}
+
+.section-awards .item .summary {
+  font-weight: normal;
+  font-style: italic;
+  text-align: justify;
+}
+
+.section-languages .item .language {
+  font-weight: bold;
+  color: #252324;
+}
+
+.section-languages .item .fluency {
+  font-weight: normal;
+  color: #929292;
+}
+
+.section-interests .title {
+  font-weight: bold;
+}
+
+.section-interests .item {
+  margin: 0.8rem 0 0.8rem 0;
+  line-height: 1.9rem;
+}
+
+.section-skills .item {
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+
+.section-contact .fa {
+  padding: 0.8rem 0 0 0;
+  color: #646466;
+  text-align: center;
+  display: block;
+  margin: 0 auto 0.8rem auto;
+}
+
+
+.section-contact ul.contact {
+  list-style-type: none;
+  margin: 0.5rem 0 0.5rem 0;
+  padding: 0;
+}
+
+.section-contact ul.contact li {
+  margin: 1rem 0 1rem 0;
+  text-align: center;
+}
+
+.section-contact ul.profiles {
+  list-style-type: none;
+  margin: 4rem 0 0.5rem 0;
+  padding: 0;
+}
+
+.section-contact ul.profiles li {
+  margin: 1rem 0 1rem 0;
+}
+
+.section-contact ul li span {
+    text-align: center;
+    display: inherit;
+}
+
+/* Print */
+@media print {
+  *, :after, :before{
+    color: #646466 !important;
+  }
+  body {
+    font: 10px Arial, Helvetica, sans-serif;
+    line-height: 1.4;
+    color: #929292 !important;
+  }
+
+  .container {
+    margin: 0 auto;
+    padding: 0;
+  }
+
+  #resume {
+    overflow: hidden;
+    border: none !important;
+  }
+
+  section {
+    margin-bottom: 5rem;
+  }
+
+  [class^="section-"] > .title {
+    text-transform: uppercase;
+    padding: 15px 0;
+    margin: 0;
+  }
+
+  [class^="section-"] > .title .title-icon,
+  [class^="section-"] > .title span {
+    display: inline-block;
+    vertical-align: middle;
+  }
+
+  [class^="section-"] > .title span {
+    margin-left: 2px;
+  }
+
+  [class^="section-"] > .title .title-icon {
+    background-color: whitesmoke;
+    border-radius: 50%;
+    width: 2rem;
+    height: 2rem;
+    padding: 0.4rem 0.45rem;
+  }
+
+  /* Sidebar */
+  .sidebar {
+    padding: 2rem 2rem 2rem 3rem;
+    background: #E6EAED !important;
+    margin-bottom: -99999px;
+    padding-bottom: 99999px;
+  }
+
+  .sidebar, .sidebar h1 {
+    color: #656567 !important;
+  }
+
+
+  .sidebar h2 {
+    color: #ffffff !important;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 1.5rem;
+    letter-spacing: 0.5rem;
+    font-weight: bold;
+    margin-bottom: 1rem !important;
+    background: #646466 !important;
+    padding: 0.5rem 0.5rem 0.5rem 0.5rem !important;
+  }
+
+  .sidebar h2 span{
+    color: #ffffff !important;
+  }
+
+  .avatar {
+    margin: 5rem 0;
+    text-align: center;
+  }
+
+  .avatar img {
+    width: 90%;
+  }
+
+  .section-education .item {
+    margin-bottom: 3rem;
+    text-align: center;
+  }
+
+  .section-education .studyTitle {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 1.3rem;
+  }
+  .section-education .courses {
+    font-size: 1.2rem;
+  }
+  .section-education ul.courses {
+    list-style-type: none;
+    margin: 0.5rem 0 0.5rem 0;
+    padding: 0;
+  }
+
+  .section-education .ul.courses li {
+    margin:0;
+  }
+
+  .section-education .institution {
+    font-size: 1.2rem;
+  }
+
+  .section-education .date {
+    font-size: 1.2rem;
+  }
+
+  .sidebar a:link, .sidebar a:hover, .sidebar a:visited {
+    text-decoration: none;
+    color: #ffffff !important;
+  }
+
+  .sidebar .section-skills .keywords span.label{
+    display: inline-block !important;
+    margin-bottom: 0.3rem !important;
+  }
+
+  /* Content */
+  .content {
+    padding: 0 3rem 0 2rem;
+    padding-bottom: 0px;
+    background: #FFFFFF;
+    margin-bottom: -99999px;
+    padding-bottom: 99999px;
+  }
+
+  .content h1 {
+    color: #3C3C3C;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 4rem;
+    letter-spacing: 1.0rem;
+    font-weight: bold;
+  }
+
+  .content h2 {
+      color: #646466 !important;
+      text-transform: uppercase;
+      text-align: center;
+      font-size: 1.5rem !important;
+      letter-spacing: 0.5rem;
+      font-weight: bold;
+      margin-bottom: 1rem !important;
+      background: #E6EAED !important;
+      padding: 0.5rem 0.5rem 0.5rem 0.5rem !important;
+  }
+
+  .content a:link, .content a:hover, .content a:visited {
+    text-decoration: none;
+    color: #6D6D6D;
+  }
+
+  /* Sections */
+  .section-name {
+    margin: 0rem 0 5rem 0 !important;
+    background: #E6EAED !important;
+    padding: 6rem 0 4rem 0 !important;
+  }
+
+  .section-name h1 {
+    font-size: 2.8rem !important;
+    font-weight: bold !important;
+  }
+
+  .section-name h2 {
+    color: #6D6D6D !important;
+    text-transform: capitalize;
+    text-align: center;
+    font-size: 1.5rem !important;
+    letter-spacing: 0.5rem;
+    font-weight: bold;
+    margin-top: 5rem;
+    background: none;
+  }
+
+  .section-summary {
+    text-align: justify;
+  }
+
+  .section-work .item {
+    margin-bottom: 2.5rem;
+  }
+
+  .section-work .item .position {
+    font-weight: bold;
+    color: #252324;
+    text-transform: uppercase;
+  }
+
+  .section-work .item .company {
+      padding: 0.5rem 0 0.5rem 0;
+      color: #605E5F;
+      font-weight: bold;
+  }
+
+  .section-work .item .summary, .section-work .item .highlights {
+      font-style: italic;
+      text-align: justify;
+  }
+
+  .section-volunteer .item {
+    margin-bottom: 2.5rem;
+  }
+
+  .section-volunteer .item .position {
+    font-weight: bold;
+    color: #252324;
+    text-transform: uppercase;
+  }
+
+  .section-volunteer .item .company {
+      padding: 0.5rem 0 0.5rem 0;
+      color: #6D6D6D;
+      font-weight: bold;
+  }
+
+  .section-volunteer .item .summary, .section-volunteer .item .highlights {
+      font-style: italic;
+      text-align: justify;
+  }
+
+
+  .section-publications .item {
+    margin-bottom: 2.5rem;
+  }
+
+  .section-publications .item .name {
+    font-weight: bold;
+    color: #252324;
+    text-transform: uppercase;
+  }
+
+  .section-publications .item .publication {
+      padding: 0.5rem 0 0.5rem 0;
+      color: #6D6D6D;
+      font-weight: bold;
+  }
+
+  .section-publications .item .summary, .section-publications .item .highlights {
+      font-style: italic;
+      text-align: justify;
+  }
+
+
+  .section-awards .item .title {
+    font-weight: bold;
+    color: #252324;
+  }
+
+  .section-awards .item .date, .section-awards .item .awarder {
+    font-weight: normal;
+    color: #929292;
+  }
+
+  .section-awards .item .summary {
+    font-weight: normal;
+    font-style: italic;
+    text-align: justify;
+  }
+
+  .section-languages .item .language {
+    font-weight: bold;
+    color: #252324;
+  }
+
+  .section-languages .item .fluency {
+    font-weight: normal;
+    color: #929292;
+  }
+
+  .section-interests .title {
+    font-weight: bold;
+  }
+
+  .section-interests .item {
+    margin: 0.8rem 0 0.8rem 0;
+    line-height: 1.9rem;
+  }
+
+  .section-skills .item {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+
+
+  .section-contact .fa {
+    padding: 0.8rem 0 0 0;
+    color: #646466 !important;
+    text-align: center;
+    display: block;
+    margin: 0 auto 0.8rem auto;
+  }
+
+
+  .section-contact ul.contact {
+    list-style-type: none;
+    margin: 0.5rem 0 0.5rem 0;
+    padding: 0;
+  }
+
+  .section-contact ul.contact li {
+    margin: 1rem 0 1rem 0;
+    text-align: center;
+  }
+
+  .section-contact ul.profiles {
+    list-style-type: none;
+    margin: 4rem 0 0.5rem 0;
+    padding: 0;
+  }
+
+  .section-contact ul.profiles li {
+    margin: 1rem 0 1rem 0;
+  }
+
+  .section-contact ul li span {
+      text-align: center;
+      display: inherit;
+  }
+}
+
+		</style>
+	</head>
+	<body>
+
+		<div class="container">
+			<div class="row" id="resume">
+				<div class="col-xs-4 sidebar">
+					    <section class="section-basic">
+					            <div class="avatar">
+					                <img src="https://da8y01.github.io/gh-blog/CV/picture202201_1.jpeg" alt="Daniel Benítez Restrepo" class="img-circle">
+					            </div>
+					    </section>
+					    <section class="section-contact">
+					        <h2 class="title">
+					            <span class="">Contact</span>
+					        </h2>
+					        <ul class="contact">
+					                <li class="icon-item clearfix">
+					                    <i class="fa fa-2x fa-map-marker"></i>
+					                    
+					                        
+					                        Bogotá
+					                        
+					                        CO
+					                </li>
+					                <li class="icon-item clearfix">
+					                    <i class="fa fa-2x fa-envelope "></i>
+					                    danielbenitezr@yahoo.com
+					                </li>
+					                <li class="icon-item clearfix">
+					                    <i class="fa fa-2x fa-phone "></i>
+					                    (+57) 300 000 0000
+					                </li>
+					                <li class="icon-item clearfix">
+					                    <i class="fa fa-2x fa-link "></i>
+					                    https://da8y01.github.io/gh-blog/CV/hv202308_1.html
+					                </li>
+					        </ul>
+					            <ul class="profiles">
+					                    <li class="icon-item clearfix">
+					                        <i class="fa fa-2x fa-linkedin "></i>
+					                        <span>https://www.linkedin.com/ in/ daniel-b-3b070990/ </span>
+					                    </li>
+					                    <li class="icon-item clearfix">
+					                        <i class="fa fa-2x fa-github "></i>
+					                        <span>https://github.com/ da8y01</span>
+					                    </li>
+					                    <li class="icon-item clearfix">
+					                        <i class="fa fa-2x fa-bitbucket "></i>
+					                        <span>https://bitbucket.org/ 01ring</span>
+					                    </li>
+					                    <li class="icon-item clearfix">
+					                        <i class="fa fa-2x fa-gitlab "></i>
+					                        <span>https://gitlab.com/ da8y01</span>
+					                    </li>
+					            </ul>
+					    </section>
+					<section class="section-education">
+						<h2 class="title">
+						    <span class="">Education</span>
+						</h2>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Carrera Profesional
+								</span>
+								<span class="area">
+									Ingeniería en Sistemas y Computación
+								</span>
+							</div>
+							<div class="institution">
+								Universidad de Caldas
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2004
+								</span>
+								<span class="endDate">
+									- 2013
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Curso Virtual
+								</span>
+								<span class="area">
+									Diseño y construcción de indicadores (2023-I A-23)
+								</span>
+							</div>
+							<div class="institution">
+								Departamento Administrativo Nacional de Estadística - DANE
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2023
+								</span>
+								<span class="endDate">
+									- 2023
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Curso Virtual
+								</span>
+								<span class="area">
+									Configuración de registros administrativos para su aprovechamiento estadístico (2023-I A-23)
+								</span>
+							</div>
+							<div class="institution">
+								Departamento Administrativo Nacional de Estadística - DANE
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2023
+								</span>
+								<span class="endDate">
+									- 2023
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Capacitación Virtual
+								</span>
+								<span class="area">
+									Semana de la Investigación Ambiental
+								</span>
+							</div>
+							<div class="institution">
+								Escuela Ambiental GIS
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2022
+								</span>
+								<span class="endDate">
+									- 2022
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Conferencia En-línea
+								</span>
+								<span class="area">
+									PyCon Colombia 2022 Online Conference
+								</span>
+							</div>
+							<div class="institution">
+								PyCon Colombia
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2022
+								</span>
+								<span class="endDate">
+									- 2022
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Curso Virtual
+								</span>
+								<span class="area">
+									Engineering Practices for Building Quality Software
+								</span>
+							</div>
+							<div class="institution">
+								Universidad de Minnesota
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2021
+								</span>
+								<span class="endDate">
+									- 2021
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Curso Virtual
+								</span>
+								<span class="area">
+									2312659 - Curso especial en Básico de Mesa y Bar
+								</span>
+							</div>
+							<div class="institution">
+								Curso ofertado por el Servicio Nacional de Aprendizaje SENA
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2021
+								</span>
+								<span class="endDate">
+									- 2021
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Curso presencial
+								</span>
+								<span class="area">
+									Curso 22 Introducción a la Computación Gráfica y Visualización Científica
+								</span>
+							</div>
+							<div class="institution">
+								Centro de Bioinformática y Bilogía Computacional de Colombia (BIOS)
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2017
+								</span>
+								<span class="endDate">
+									- 2017
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Evento presencial
+								</span>
+								<span class="area">
+									OWASP Latam Tour 2017
+								</span>
+							</div>
+							<div class="institution">
+								Universidad de Manizales con la organización OWASP
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2017
+								</span>
+								<span class="endDate">
+									- 2017
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Curso Virtual
+								</span>
+								<span class="area">
+									Xamarin Diplomado | Nivel Intermedio
+								</span>
+							</div>
+							<div class="institution">
+								Microsoft Developer Readiness
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2017
+								</span>
+								<span class="endDate">
+									- 2017
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Curso Virtual
+								</span>
+								<span class="area">
+									Parallel programming
+								</span>
+							</div>
+							<div class="institution">
+								École Polytechnique Fédérale de Lausanne
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2016
+								</span>
+								<span class="endDate">
+									- 2017
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Curso Virtual
+								</span>
+								<span class="area">
+									Machine Learning: Regression
+								</span>
+							</div>
+							<div class="institution">
+								Universidad de Washington
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2016
+								</span>
+								<span class="endDate">
+									- 2016
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Curso Virtual
+								</span>
+								<span class="area">
+									Functional Program Design in Scala
+								</span>
+							</div>
+							<div class="institution">
+								École Polytechnique Fédérale de Lausanne
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2016
+								</span>
+								<span class="endDate">
+									- 2016
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Evento presencial
+								</span>
+								<span class="area">
+									JSConf Colombia 2016
+								</span>
+							</div>
+							<div class="institution">
+								Ruta-N con JSConf Colombia
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2016
+								</span>
+								<span class="endDate">
+									- 2016
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Curso Virtual
+								</span>
+								<span class="area">
+									Functional Programming Principles in Scala
+								</span>
+							</div>
+							<div class="institution">
+								École Polytechnique Fédérale de Lausanne
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2016
+								</span>
+								<span class="endDate">
+									- 2016
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Curso Virtual
+								</span>
+								<span class="area">
+									1212959 - English Dot Works 1
+								</span>
+							</div>
+							<div class="institution">
+								Curso ofertado por el Servicio Nacional de Aprendizaje SENA
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2016
+								</span>
+								<span class="endDate">
+									- 2016
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Curso Virtual
+								</span>
+								<span class="area">
+									1165235 - English Dot Works Beginner
+								</span>
+							</div>
+							<div class="institution">
+								Curso ofertado por el Servicio Nacional de Aprendizaje SENA
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2016
+								</span>
+								<span class="endDate">
+									- 2016
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Curso Virtual
+								</span>
+								<span class="area">
+									HTML, CSS y JavaScript
+								</span>
+							</div>
+							<div class="institution">
+								La Universidad Hong Kong de Ciencia y Tecnología
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2016
+								</span>
+								<span class="endDate">
+									- 2016
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Curso Virtual
+								</span>
+								<span class="area">
+									Machine Learning Foundations: A Case Study Approach
+								</span>
+							</div>
+							<div class="institution">
+								Universidad de Washington
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2015
+								</span>
+								<span class="endDate">
+									- 2015
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Curso Virtual
+								</span>
+								<span class="area">
+									Basíco de Sitio web Adaptativo: Código con HTML, CSS, y JavaScript
+								</span>
+							</div>
+							<div class="institution">
+								Universidad de Londres &amp; Goldsmiths, Universidad de Londres
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2015
+								</span>
+								<span class="endDate">
+									- 2015
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Curso Virtual
+								</span>
+								<span class="area">
+									La Caja de herramientas del Científico de Datos
+								</span>
+							</div>
+							<div class="institution">
+								Universidad Johns Hopkins
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2015
+								</span>
+								<span class="endDate">
+									- 2015
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Curso Virtual
+								</span>
+								<span class="area">
+									Criptografía I
+								</span>
+							</div>
+							<div class="institution">
+								Universidad Stanford
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2015
+								</span>
+								<span class="endDate">
+									- 2015
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Curso Virtual
+								</span>
+								<span class="area">
+									M101P: MongoDB para Desarrolladores
+								</span>
+							</div>
+							<div class="institution">
+								Universidad MongoDB
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2014
+								</span>
+								<span class="endDate">
+									- 2014
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Curso Virtual
+								</span>
+								<span class="area">
+									Arquitecturas de Aplicación Web
+								</span>
+							</div>
+							<div class="institution">
+								Universidad de Nuevo México
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2014
+								</span>
+								<span class="endDate">
+									- 2014
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Curso Virtual
+								</span>
+								<span class="area">
+									M101JS: MongoDB para Desarrolladores Node.js
+								</span>
+							</div>
+							<div class="institution">
+								Universidad MongoDB
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2014
+								</span>
+								<span class="endDate">
+									- 2014
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Curso Virtual
+								</span>
+								<span class="area">
+									M101J: MongoDB para Desarrolladores Java
+								</span>
+							</div>
+							<div class="institution">
+								Universidad MongoDB
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2014
+								</span>
+								<span class="endDate">
+									- 2014
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Curso Presencial
+								</span>
+								<span class="area">
+									42914 - Humanización del Servicio de Salud
+								</span>
+							</div>
+							<div class="institution">
+								Curso ofertado por el SENA con el auspicio de Clínica San Francisco S.A.
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2013
+								</span>
+								<span class="endDate">
+									- 2013
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Curso Presencial
+								</span>
+								<span class="area">
+									Desarrollo en Dispositivos Móviles ANDROID
+								</span>
+							</div>
+							<div class="institution">
+								Programa Manizales Vive Digital ejecutado por PeopleContact S.A.
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2012
+								</span>
+								<span class="endDate">
+									- 2012
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Curso Presencial
+								</span>
+								<span class="area">
+									BPO SQL/Oracle
+								</span>
+							</div>
+							<div class="institution">
+								Programa Manizales Vive Digital ejecutado por PeopleContact S.A.
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2012
+								</span>
+								<span class="endDate">
+									- 2012
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Curso Presencial
+								</span>
+								<span class="area">
+									BPO .NET
+								</span>
+							</div>
+							<div class="institution">
+								Programa Manizales Vive Digital ejecutado por PeopleContact S.A.
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2011
+								</span>
+								<span class="endDate">
+									- 2012
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Curso Presencial
+								</span>
+								<span class="area">
+									BPO Java
+								</span>
+							</div>
+							<div class="institution">
+								Programa Manizales Vive Digital ejecutado por PeopleContact S.A.
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2011
+								</span>
+								<span class="endDate">
+									- 2012
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Curso Virtual
+								</span>
+								<span class="area">
+									Curso Gratuito de Ethical Hacking
+								</span>
+							</div>
+							<div class="institution">
+								MKit IT &amp; Security Solutions
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2012
+								</span>
+								<span class="endDate">
+									- 2012
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Curso Presencial
+								</span>
+								<span class="area">
+									329366 - Desarrollo de Sistemas de Información utilizando la plataforma Java EE
+								</span>
+							</div>
+							<div class="institution">
+								Curso ofertado por el SENA con el auspicio de PeopleContact S.A.
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2012
+								</span>
+								<span class="endDate">
+									- 2012
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Curso Presencial
+								</span>
+								<span class="area">
+									322340 - BPO Bases de Datos con MySQL
+								</span>
+							</div>
+							<div class="institution">
+								Curso ofertado por el SENA con el auspicio de PeopleContact S.A.
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2012
+								</span>
+								<span class="endDate">
+									- 2012
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Curso Virtual
+								</span>
+								<span class="area">
+									21730030 - Diseño Web con Adobe Dreamweaver CS3
+								</span>
+							</div>
+							<div class="institution">
+								Curso ofertado por el Servicio Nacional de Aprendizaje SENA
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2011
+								</span>
+								<span class="endDate">
+									- 2011
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Curso Virtual
+								</span>
+								<span class="area">
+									21720038 - Manejo de Adobe Photoshop CS3
+								</span>
+							</div>
+							<div class="institution">
+								Curso ofertado por el Servicio Nacional de Aprendizaje SENA
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2011
+								</span>
+								<span class="endDate">
+									- 2011
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Curso Virtual
+								</span>
+								<span class="area">
+									21730134 - Programación de Dispositivos Móviles (PDM)
+								</span>
+							</div>
+							<div class="institution">
+								Curso ofertado por el Servicio Nacional de Aprendizaje SENA
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2011
+								</span>
+								<span class="endDate">
+									- 2011
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Curso Virtual
+								</span>
+								<span class="area">
+									Microsoft Desarrollador Cinco Estrellas Nivel 5
+								</span>
+							</div>
+							<div class="institution">
+								Programa de capacitación de la comunidad de desarrolladores de Microsoft
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2011
+								</span>
+								<span class="endDate">
+									- 2011
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Curso Virtual
+								</span>
+								<span class="area">
+									12210039 - English Discoveries - Básico III
+								</span>
+							</div>
+							<div class="institution">
+								Curso ofertado por el Servicio Nacional de Aprendizaje SENA
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2010
+								</span>
+								<span class="endDate">
+									- 2010
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Curso Virtual
+								</span>
+								<span class="area">
+									12210037 - English Discoveries - Básico I
+								</span>
+							</div>
+							<div class="institution">
+								Curso ofertado por el Servicio Nacional de Aprendizaje SENA
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2010
+								</span>
+								<span class="endDate">
+									- 2010
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Curso Virtual
+								</span>
+								<span class="area">
+									52410017 - Flash - Animación en 2D
+								</span>
+							</div>
+							<div class="institution">
+								Curso ofertado por el Servicio Nacional de Aprendizaje SENA
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2010
+								</span>
+								<span class="endDate">
+									- 2010
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Taller Presencial
+								</span>
+								<span class="area">
+									Utilización de AJAX en ASP.NET
+								</span>
+							</div>
+							<div class="institution">
+								ExpoASI 2009 (Universidad Nacional)
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2009
+								</span>
+								<span class="endDate">
+									- 2009
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Curso Virtual
+								</span>
+								<span class="area">
+									Desarrollo Web con Ruby on Rails
+								</span>
+							</div>
+							<div class="institution">
+								Entrenamiento time4code
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2009
+								</span>
+								<span class="endDate">
+									- 2009
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Taller Presencial
+								</span>
+								<span class="area">
+									DNN (DotNetNuke) y jQuery en la Web (Workshop)
+								</span>
+							</div>
+							<div class="institution">
+								Festival de Instalación Microsoft 2009 (Universidad de Caldas)
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2009
+								</span>
+								<span class="endDate">
+									- 2009
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Taller Presencial
+								</span>
+								<span class="area">
+									Festival de Instalación Microsoft
+								</span>
+							</div>
+							<div class="institution">
+								Universidad de Caldas
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2009
+								</span>
+								<span class="endDate">
+									- 2009
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Curso-Taller Presencial
+								</span>
+								<span class="area">
+									Seminario Básico de Programación Orientada a Web en .NET
+								</span>
+							</div>
+							<div class="institution">
+								X Jornadas de Ingeniería de la Universidad de Caldas
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2008
+								</span>
+								<span class="endDate">
+									- 2008
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Curso Presencial
+								</span>
+								<span class="area">
+									Primer Nivel de Linux
+								</span>
+							</div>
+							<div class="institution">
+								Universidad de Manizales
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2001
+								</span>
+								<span class="endDate">
+									- 2001
+								</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="studyTitle">
+								<span class="studyType">
+									Congreso
+								</span>
+								<span class="area">
+									Congreso GNU/Linux Eje Cafetero
+								</span>
+							</div>
+							<div class="institution">
+								Universidad de Manizales
+							</div>
+							<div class="date">
+								<span class="startDate">
+									2001
+								</span>
+								<span class="endDate">
+									- 2001
+								</span>
+							</div>
+						</div>
+					</section>
+					<section class="section-skills">
+						<h2 class="title">
+						    <span class="">Skills</span>
+						</h2>
+						<div class="item">
+							<div class="name">
+								Programación
+							</div>
+							<div class="keywords">
+								<span class="label label-default">Ruby</span>
+								<span class="label label-default">Python</span>
+								<span class="label label-default">Java</span>
+								<span class="label label-default">JavaScript</span>
+								<span class="label label-default">C</span>
+								<span class="label label-default">C++</span>
+								<span class="label label-default">C#</span>
+								<span class="label label-default">VisualBasic</span>
+								<span class="label label-default">assembler</span>
+								<span class="label label-default">bash</span>
+								<span class="label label-default">PowerShell</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="name">
+								Web
+							</div>
+							<div class="keywords">
+								<span class="label label-default">Rails</span>
+								<span class="label label-default">Django</span>
+								<span class="label label-default">PHP</span>
+								<span class="label label-default">NodeJS</span>
+								<span class="label label-default">AngularJS</span>
+								<span class="label label-default">Angular</span>
+								<span class="label label-default">ReactJS</span>
+								<span class="label label-default">Servlets/JSP/EJB</span>
+								<span class="label label-default">.NET</span>
+								<span class="label label-default">JavaScript</span>
+								<span class="label label-default">HTML</span>
+								<span class="label label-default">CSS</span>
+								<span class="label label-default">CoffeeScript</span>
+								<span class="label label-default">HAML</span>
+								<span class="label label-default">SAAS</span>
+								<span class="label label-default">Frameworks PHP: Yii, Cake, Symfony, Silex, CodeIgniter, Zend</span>
+								<span class="label label-default">CMS: WordPress, Joomla, Drupal, PHPNuke, phpWebSite, DotNetNuke</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="name">
+								Bases de Datos
+							</div>
+							<div class="keywords">
+								<span class="label label-default">MySQL</span>
+								<span class="label label-default">Postgres</span>
+								<span class="label label-default">SQL Server</span>
+								<span class="label label-default">Oracle</span>
+								<span class="label label-default">MongoDB</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="name">
+								Móvil
+							</div>
+							<div class="keywords">
+								<span class="label label-default">Android</span>
+								<span class="label label-default">Ionic</span>
+								<span class="label label-default">Appcelerator Titanium</span>
+								<span class="label label-default">Java ME</span>
+								<span class="label label-default">BlackBerry</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="name">
+								Sistemas Operativos
+							</div>
+							<div class="keywords">
+								<span class="label label-default">Linux</span>
+								<span class="label label-default">Windows</span>
+								<span class="label label-default">VMs y virtualización (VMware, VirtualBox, Hyper-V, KVM, LXC)</span>
+								<span class="label label-default">Contenedores Docker</span>
+								<span class="label label-default"> CVSs y repositorios (git, subversion, GitHub, BitBucket, GitLab, Unfuddle)</span>
+								<span class="label label-default">Servicios en la nube (Amazon EC2, GCP, GKE, Microsoft Azure)</span>
+								<span class="label label-default">PaaS</span>
+								<span class="label label-default">IaaS (Heroku, Hasura, Docker Hub, Amazon, Azure)</span>
+							</div>
+						</div>
+						<div class="item">
+							<div class="name">
+								TI general
+							</div>
+							<div class="keywords">
+								<span class="label label-default">redes</span>
+								<span class="label label-default">algoritmia</span>
+								<span class="label label-default">ofimática</span>
+								<span class="label label-default">arquitectura</span>
+								<span class="label label-default">patrones</span>
+								<span class="label label-default">electrónica</span>
+								<span class="label label-default">administración/gerencia/gestión</span>
+							</div>
+						</div>
+					</section>
+				</div>
+				<div class="col-xs-8 content">
+						<section class="section-name">
+							<h1>Daniel Benítez Restrepo</h1>
+							<h2>Ingeniero en Sistemas y Computación, MP: 17950-259048 CLD</h2>
+						</section>
+						<section class="section-summary">
+							<h2 class="title">
+							    <span class="">Summary</span>
+							</h2>
+							Soy Ingeniero en Sistemas y Computación de la Universidad de Caldas (Manizales-Colombia). Soy un hombre intelectual al que le gusta la cultura, la ciencia y las artes. Me adapto fácilmente a las circunstancias, soy una persona comprometida, cumplida y responsable cuando se han asignado actividades a realizar, y mi inquietud intelectual me permite aprender e investigar nuevas cosas eficientemente.
+						</section>
+					<section class="section-work">
+						<h2 class="title">
+						    <span class="">Experience</span>
+						</h2>
+						<div class="item">
+							<div class="position">
+								Tutor programación Ciclo 4A (web)
+							</div>
+							<div class="company">
+								<span class="name">
+									Universidad de Caldas
+								</span>
+								<span class="website">
+									| https://www.ucaldas.edu.co/portal/
+								</span>
+								<span class="date">
+									|
+									<span class="startDate">
+										Oct 2022
+									</span>
+									<span class="endDate">
+										- Nov 2022
+									</span>
+									<span class="diffDate">
+										(1 month)
+									</span>
+								</span>
+							</div>
+							<div class="summary">
+								<p>La Universidad de Caldas en cumplimiento de la función social que corresponde a su naturaleza pública, tiene la misión de generar, apropiar, difundir y aplicar conocimientos mediante procesos curriculares, investigativos y de proyección, para formar integralmente ciudadanos comprometidos con la sociedad y la cultura, aportar soluciones a los problemas regionales, nacionales e internacionales y contribuir al desarrollo sustentable.</p>
+							</div>
+							<ul class="highlights">
+								<li>Proyecto: MISIÓN TIC 2022 SAR I-704/2022.</li>
+								<li>Pila: Servicios backend con LoopBack, aplicaciones web frontend con Angular y ReactJS, HTML/JS/CSS para modelado web, almacenamiento de documentos MongoDB, CVS con git y repositorios GitHub.</li>
+								<li>Infraestructura: SO Windows, Microsoft Teams para comunicaciones, Google Drive como almacenamiento de archivos.</li>
+								<li>Responsabilidades: Realizar acompañamiento en las actividades de enseñanza en programación orientadas por el formador disciplinar, Realizar dinámica de equipo de trabajo, Gestionar la solución de preguntas e inquietudes realizadas por los beneficiarios, Apoyar la formación y enseñanza de programación en los lenguajes y tecnologías que se van a utilizar en el ciclo, Generar mínimo cada semana los reportes que el operador de formación determine, Seguimiento de los Sprint a través de los formatos diseñados para ello (Teach lead), Participar en las reuniones diarias de seguimiento con sus grupos de trabajo, El tutor tiene la responsabilidad de reportar cualquier incumplimiento detectado en las actividades de seguimiento, Presentar informes semanales de su gestión e informe mensual.</li>
+							</ul>
+						</div>
+						<div class="item">
+							<div class="position">
+								Desarrollador Backend
+							</div>
+							<div class="company">
+								<span class="name">
+									10Pearls
+								</span>
+								<span class="website">
+									| https://10pearls.com/
+								</span>
+								<span class="date">
+									|
+									<span class="startDate">
+										Apr 2022
+									</span>
+									<span class="endDate">
+										- Jun 2022
+									</span>
+									<span class="diffDate">
+										(1 month)
+									</span>
+								</span>
+							</div>
+							<div class="summary">
+								<p>Ayudamos a las empresas a transformarse digitalmente, crear nuevos productos y acelerar los equipos digitales.</p>
+							</div>
+							<ul class="highlights">
+								<li>Proyecto: Programa de entrenamiento de 10Pearls para mejorar las habilidades en inglés.</li>
+								<li>Infraestructura: Sistema Operativo Windows 10, Microsoft Teams para las comunicaciones, Microsoft Office como suite de oficina.</li>
+								<li>Responsabilidades: Atender al entrenamiento de mejoramiento de habilidades de idioma Inglés.</li>
+							</ul>
+						</div>
+						<div class="item">
+							<div class="position">
+								Desarrollador de Software
+							</div>
+							<div class="company">
+								<span class="name">
+									Alejandra Sierra
+								</span>
+								<span class="website">
+									| https://www.alejasierra.com/
+								</span>
+								<span class="date">
+									|
+									<span class="startDate">
+										Jan 2022
+									</span>
+									<span class="endDate">
+										- Apr 2022
+									</span>
+									<span class="diffDate">
+										(3 months)
+									</span>
+								</span>
+							</div>
+							<div class="summary">
+								<p>Empresa de publicidad y diseño web.</p>
+							</div>
+							<ul class="highlights">
+								<li>Proyecto: Portal Sociedad de Diagnóstico Visual S.A.S.</li>
+								<li>Pila: Servicios backend con NodeJS/ExpressJS, aplicación web cliente con Angular, maquetación web con HTML/CSS/JS.</li>
+								<li>Infraestructura: Sistema Operativo Windows 10, VPS con CentOS 7, mensajería instantánea WhatsApp, CVS con git y repositorios GitHub, Google Docs como suite de oficina, herramienta Figma para conversión/traducción de la pieza de diseño gráfico en formato de lenguaje de marcado/etiquetado HTML.</li>
+								<li>Responsabilidades: Desarrollar el servidor back-end con NodeJS/ExpressJS, y la aplicación cliente fornt-end con Angular; manejo de CVS, bases de datos y configuración de despliegue en VPS.</li>
+							</ul>
+						</div>
+						<div class="item">
+							<div class="position">
+								Analista Desarrollador de Aplicaciones
+							</div>
+							<div class="company">
+								<span class="name">
+									PrimeStone
+								</span>
+								<span class="website">
+									| https://primestone.com/
+								</span>
+								<span class="date">
+									|
+									<span class="startDate">
+										Jul 2021
+									</span>
+									<span class="endDate">
+										- Jan 2022
+									</span>
+									<span class="diffDate">
+										(6 months)
+									</span>
+								</span>
+							</div>
+							<div class="summary">
+								<p>PrimeStone, una empresa de Trilliant, es una empresa de desarrollo de software privada orgullosamente colombiana fundada en 1990 por un equipo de expertos de la industria, con más de 25 años de experiencia en recopilación, gestión y análisis de datos de medidores.</p>
+							</div>
+							<ul class="highlights">
+								<li>Proyecto: Un middleware para proveer funciones de migración y sincronización de bases de datos.</li>
+								<li>Pila: Apache NiFi, Python/Flask, Oracle 11g, MS SQL Server 2012, PostgreSQL 9, Docker/Docker Compose.</li>
+								<li>Infraestructura: Windows 10, repositorios Git, VS Code, Team Foundation Server, Microsoft Teams, VPN.</li>
+								<li>Responsabilidades: Modificación de plantillas Apache NiFi y aplicación Python/Flask para gestionar el lanzamiento y parametrización de los flujos de datos y operaciones.</li>
+								<li>Proyecto: Un Tablero de Interoperabilidad de Lecturas para visualizar métricas de dispositivos y otras fuentes de datos.</li>
+								<li>Pila: Python/Flask, librerías Dash/NumPy/Pandas/Cognito, AWS S3/Glue/Lambdas, Docker/Docker Compose.</li>
+								<li>Infraestructura: Windows 10, repositorios Git, VS Code, Team Foundation Server, Microsoft Teams, VPN, AWS.</li>
+								<li>Responsabilidades: Implementación de Historias de Usuario concernientes a construir capas para IU, callbacks y datos para el tablero de visualización, unit tests de código fuente Python, implementación de autenticación para aplicación Python/Flask usando librería Cognito, uso y activación de flujos AWS Glue involucrando buckets, lambdas, funciones, servicios, parsers, etc.</li>
+								<li>Proyecto: Un servidor API backend estático y dummy con endpoints para ser consumido por clientes.</li>
+								<li>Pila: Servidor NodeJS, Cliente Angular, HTML/CSS/JS, Docker/Docker Compose.</li>
+								<li>Infraestructura: Windows 10, repositorios Git, VS Code, Team Foundation Server, Microsoft Teams, VPN.</li>
+								<li>Responsabilidades: Desarrollo de servicios endpoint de backend API para ser usados por clientes, modificación de aplicación web Angular.</li>
+							</ul>
+						</div>
+						<div class="item">
+							<div class="position">
+								Desarrollador Full-Stack
+							</div>
+							<div class="company">
+								<span class="name">
+									Kibernum Colombia
+								</span>
+								<span class="website">
+									| https://www.kibernum.com/
+								</span>
+								<span class="date">
+									|
+									<span class="startDate">
+										Feb 2021
+									</span>
+									<span class="endDate">
+										- Apr 2021
+									</span>
+									<span class="diffDate">
+										(2 months)
+									</span>
+								</span>
+							</div>
+							<div class="summary">
+								<p>Somos tu partner ideal para construir la mejor versión digital de tu negocio. Co-creamos tecnología comprometidos con tu futuro, aquí y ahora.</p>
+							</div>
+							<ul class="highlights">
+								<li>Proyecto: Plataforma bancaria COBIS.</li>
+								<li>Pila: Base de datos SQL Server, gestor de paquetes Maven, Java, contenedores de aplicaciones web Tomcat and JBoss, uso de la librería AngularJS en la aplición web cliente, HTML/CSS/JS para modelado web.</li>
+								<li>Infraestructura: Sistema Operativo Windows 10, herramienta de calidad de código Sonar, IDE Eclipse, COBIS Designer, TFS (Team Foundation Server), Microsoft Teams para comunicaciones, VPN, principios ágiles de desarrollo de software.</li>
+								<li>Responsabilidades: Integración y personalización de módulos bancarios a través de la depuración del flujo de la aplicación con Eclipse, Maven y Java, con SQL Server, AngularJS y COBIS Designer, depuración de aplicaciones.</li>
+							</ul>
+						</div>
+						<div class="item">
+							<div class="position">
+								Desarrollador Full-Stack
+							</div>
+							<div class="company">
+								<span class="name">
+									Soft Dev Team
+								</span>
+								<span class="website">
+									| https://softdev.team/
+								</span>
+								<span class="date">
+									|
+									<span class="startDate">
+										Jul 2020
+									</span>
+									<span class="endDate">
+										- Oct 2020
+									</span>
+									<span class="diffDate">
+										(2 months)
+									</span>
+								</span>
+							</div>
+							<div class="summary">
+								<p>Rápidamente montaremos un equipo de desarrollo de software dedicado para ayudarte a alcanzar tus metas en poco tiempo.</p>
+							</div>
+							<ul class="highlights">
+								<li>Proyecto: Empresa de logística, gestión, segumiento y trazabilidad de recursos como bodegas, vehículos, formularios, etc.</li>
+								<li>Pila: Servicios back-end con Firebase, aplicación web front-end con ReactJS, aplicación móvil con ReactNative.</li>
+								<li>Infraestructura: Sistema Operativo Linux, git, GitHub, Firebase, Slack, Zoom, Notion, Monday, Scrum.</li>
+								<li>Responsabilidades: Desarrollo de funcionalidades front-end con ReactJS.</li>
+								<li>Proyecto: 321 Ignition, plataforma para habilitar servicios móviles a negociantes de vehículos.</li>
+								<li>Pila: Micro-servicios con NodeJS, plantillas front-end con VueJS y ReactJS, pruebas unitarias con librería Jest, almacenamiento de documentos MongoDB, gestor de mensajes RabbitMQ, motor de búsqueda ElasticSearch, virtualización con Docker, gestión de recursos en la nube con GCP (Google Cloud Platform).</li>
+								<li>Infraestructura: Sistema Operativo Linux, git, GitHub, Google Cloud Platform, Slack, Zoom, Jira, Scrum.</li>
+								<li>Responsabilidades: Desarrollo de funcionalidades back-end con NodeJS, programación asíncrona con colas, RabbitMQ, búsquedas, ElasticSearch, manejo de MongoDB, migraciones de base de datos, desarrollo de pruebas unitarias con librería Jest, desarrollo de pruebas de integración con Jest, PostgreSQL y entornos GitHub, despliegue de aplicaciones.</li>
+							</ul>
+						</div>
+						<div class="item">
+							<div class="position">
+								Ingeniero de Desarrollo Junior Advanced
+							</div>
+							<div class="company">
+								<span class="name">
+									Heinsohn Business Technology
+								</span>
+								<span class="website">
+									| https://www.heinsohn.com.co/
+								</span>
+								<span class="date">
+									|
+									<span class="startDate">
+										Apr 2019
+									</span>
+									<span class="endDate">
+										- Apr 2020
+									</span>
+									<span class="diffDate">
+										(1 year)
+									</span>
+								</span>
+							</div>
+							<div class="summary">
+								<p>Apoyamos nuestros clientes con soluciones de TI al tamaño de sus necesidades.</p>
+							</div>
+							<ul class="highlights">
+								<li>Proyecto: Formularios Nueva EPS, sistema auxiliar de formularios de una EPS (Entidad Prestadora de Salud).</li>
+								<li>Pila: CMS (Content Management System) Drupal, lenguaje PHP, base de datos MySQL.</li>
+								<li>Infraestructura: Sistemas operativos Windows 10 Pro y Linux (Ubuntu), Microsoft Escritorio Remoto, VPNs, Slack, Skype, MS Excel, Scrum.</li>
+								<li>Responsabilidades: Implementación de formularios web y requests de datos a servicios/APIs/endpoints externos con el CMS Drupal 8.</li>
+								<li>Proyecto: Tresiba web, plataforma integral para gestionar información de la concentración de glucosa e insulina en la sangre (FBG, fast blood glucose).</li>
+								<li>Pila: Servidor back-end con SpringBoot, aplicación web cliente con Angular, bases de datos PostgreSQL y MySQL, aplicaciones móviles nativas para sistemas iOS y Android, dispositivo auxiliar de lectura de información de glucosa en ayunas (FBG).</li>
+								<li>Infraestructura: Sistema Operativo Windows 10 Pro, Microsoft Escritorio Remoto, servicios en la nube GCP (Google Cloud Platform) y GKE (Google Kubernetes Engine), Slack, Zoom, Jira, Confluence, Scrum.</li>
+								<li>Responsabilidades: Desarrollo de funcionalidades front-end con el framework Angular, uso de la librería Material para componentes de interfaz UX/UI, uso de librerías para manejo de estado y funcionalidades RxJS como Redux, manejo de CVS git y repositorios BitBucket, interacción con un equipo internacional y manejo de idioma inglés avanzado escrito y hablado.</li>
+							</ul>
+						</div>
+						<div class="item">
+							<div class="position">
+								Desarrollador front-end
+							</div>
+							<div class="company">
+								<span class="name">
+									SuperLikers
+								</span>
+								<span class="website">
+									| http://www.superlikers.com/
+								</span>
+								<span class="date">
+									|
+									<span class="startDate">
+										Mar 2016
+									</span>
+									<span class="endDate">
+										- Mar 2019
+									</span>
+									<span class="diffDate">
+										(3 years)
+									</span>
+								</span>
+							</div>
+							<div class="summary">
+								<p>Superlikers es una plataforma online para configurar y administrar Programas de Fidelización 360.</p>
+							</div>
+							<ul class="highlights">
+								<li>Proyecto: SuperLikers, sistema web para gestión de plataformas gamificadas.</li>
+								<li>Pila: Servidor back-end con Ruby on Rails y SinatraRb, aplicación web cliente con AngularJS/Angular, almacenamiento de documentos MongoDB, Redis, Memcached.</li>
+								<li>Infraestructura: Sistemas Operativos Linux (Ubuntu) y Windows (7, 10), servicios AWS, instancias EC2, buckets S3, CVS con git y repositorios Unfuddle, BitBucket y GitHub, Slack, Trello, Scrum.</li>
+								<li>Responsabilidades: Migración de aplicación web tipo panel administrativo usando la librería AngularJS al framework Angular, desarrollo de funcionalidades front-end con Angular (versiones 2, 4, 5, 6), JavaScript, jQuery, HTML, CSS, librería de UX/UI Material, consumo de API/endpoints/servicios remotos.</li>
+							</ul>
+						</div>
+						<div class="item">
+							<div class="position">
+								Desarrollador full-stack
+							</div>
+							<div class="company">
+								<span class="name">
+									Ignite Technologies
+								</span>
+								<span class="website">
+									| http://ignite.com.co/
+								</span>
+								<span class="date">
+									|
+									<span class="startDate">
+										Jun 2018
+									</span>
+									<span class="endDate">
+										- Sep 2018
+									</span>
+									<span class="diffDate">
+										(3 months)
+									</span>
+								</span>
+							</div>
+							<div class="summary">
+								<p>Somos una empresa colombiana dedicada al diseño y desarrollo de productos de innovación en tecnología, ingeniería y ciencia. Nuestro enfoque se encuentra dirigido hacia la optimización de procesos a partir de soluciones de base tecnológica para nuestros clientes y usuarios.</p>
+							</div>
+							<ul class="highlights">
+								<li>Proyecto: Mr. Quick, aplicación móvil de servicios de comidas y restaurantes.</li>
+								<li>Pila: Servidor back-end con Ruby on Rails, aplicación móvil híbrida con Ionic 4, base de datos PostgreSQL, CVS con git y repositorios GitLab.</li>
+								<li>Infraestructura: Sistemas Operativos Linux (Ubuntu) y Windows (7, 10), servicios AWS, buckets S3, Slack, Scrum.</li>
+								<li>Responsabilidades: Migración, desarrollo y actualización de una aplicación móvil usando el framework para aplicaciones híbridas Ionic 4, desarrollo de funcionalidades back-end con Ruby on Rails, manejo de repositorios Git y servicios AWS.</li>
+								<li>Proyecto: HandleBay, sitio web parecido a una red social para proveedores, clientes, intermediarios, empresas.</li>
+								<li>Pila: Aplicación web con Ruby on Rails, base de datos PostgreSQL, CVS con git y repositorios GitLab, servidores de aplicaciones Unicorn y Passenger.</li>
+								<li>Infraestructura: Sistemas Operativos Linux (Ubuntu) y Windows (7, 10), servicios AWS, instancias EC2 y AMI, buckets S3, Slack, Scrum.</li>
+								<li>Responsabilidades: Desarrollo con el framework Ruby on Rails de una aplicación web según las especificaciones del proyecto.</li>
+							</ul>
+						</div>
+						<div class="item">
+							<div class="position">
+								Desarrollador
+							</div>
+							<div class="company">
+								<span class="name">
+									Mapalé Software
+								</span>
+								<span class="website">
+									| http://www.mapalesoftware.com.co/
+								</span>
+								<span class="date">
+									|
+									<span class="startDate">
+										Feb 2015
+									</span>
+									<span class="endDate">
+										- Feb 2016
+									</span>
+									<span class="diffDate">
+										(1 year)
+									</span>
+								</span>
+							</div>
+							<div class="summary">
+								<p>Somos un equipo de programadores/diseñadores/geeks y freaks en general que encuentran su oficio muy entretenido y apasionante. Como equipo trabajan en proyectos de desarrollo de software para diferentes áreas, haciendo énfasis en las aplicaciones móviles y web pero con experiencia en proyectos de telefonía, kioscos digitales, aplicaciones corporativas, sistemas de seguridad, IA, criptografía y hasta instalaciones artísticas.</p>
+							</div>
+							<ul class="highlights">
+								<li>Proyecto: Houspoon, aplicación web que coordina chefs, reservaciones y servicios de comida en casa.</li>
+								<li>Pila: Servidor back-end con NodeJS, aplicación web front-end con ReactJS, aplicación móvil con ReactNative, base de datos PostgreSQL, CVS con git y repositorios BitBucket.</li>
+								<li>Infraestructura: Sistema Operativo Linux, PaaS en la nube Heroku, Slack para comunicaciones, Toggl para gestión de tareas, Scrum para gestión de proyecto.</li>
+								<li>Responsabilidades: Desarrollo de funcionalidades back-end con NodeJS, implementación de pruebas unitarias con librería Mocha, implementación de pruebas de integración con base de datos PostgreSQL, desarrollo con ReactJS y librería de estado Redux.</li>
+								<li>Proyecto: Sistema de Suscripciones, gestión de suscripciones e integraciones con un servicio de mercadeo externo (Mailchimp).</li>
+								<li>Pila: Servidor back-end con el framework Django, base de datos PostgreSQL, CVS con git y repositorios BitBucket.</li>
+								<li>Infraestructura: Sistema Operativo Linux, Slack para comunicaciones, Toggl para gestión de tareas, Scrum para gestión de proyecto.</li>
+								<li>Responsabilidades: Desarrollo de funcionalidades back-end con el framework Django, manejo de hilos, llamadas remotas a servicios.</li>
+								<li>Proyecto: Coquelux, tienda virtual de ropa.</li>
+								<li>Pila: Servidor back-end con PHP, aplicación web front-end con librería AngularJS, bases de datos PostgreSQL y MySQL, CVS con git y repositorios GitHub.</li>
+								<li>Infraestructura: Sistema Operativo Linux, Docker para manejo de contenedores y virtualización, servidores web (Apache), Slack para comunicaciones, Toggl para gestión de tareas, Scrum para gestión de proyecto.</li>
+								<li>Responsabilidades: Desarrollo de funcionalidades back-end con PHP, desarrollo de funcionalidades front-end con la librería AngularJS.</li>
+								<li>Proyecto: Sistema de Logística, aplicación web que consume, procesa y publica WebServices o APIs backend remotas SOAP y REST con información referente a logística como direcciones, couriers, pedidos, paquetes, entregas.</li>
+								<li>Pila: Servidor back-end con el framework de PHP Silex, bases de datos Postgres y MySQL, librerías Doctrine y Phinx para gestión de bases de datos y migraciones, CVS con git y repositorios GitHub.</li>
+								<li>Infraestructura: Sistema Operativo Linux, Docker para manejo de contenedores y virtualización, servidores web (Apache), Slack para comunicaciones, Toggl para gestión de tareas, Scrum para gestión de proyecto.</li>
+								<li>Responsabilidades: Desarrollo de funcionalidades back-end con el framework Silex.</li>
+								<li>Proyecto: SmartReader, aplicación web de lectura y cuestionarios inteligentes de artículos y lecturas publicadas.</li>
+								<li>Pila: Servidor back-end con el framework Ruby on Rails, aplicación web front-end con la librería AngularJS, base de datos PostgreSQL, CVS con git y repositorios BitBucket.</li>
+								<li>Infraestructura: Sistema Operativo Linux, Heroku para despliegues en la nube usando PaaS, Slack para comunicaciones, Toggl para gestión de tareas, Scrum para gestión de proyecto.</li>
+								<li>Responsabilidades: Desarrollo de funcionalidades back-end con el framework Ruby on Rails, desarrollo de funcionalidades front-end con la librería AngularJS.</li>
+							</ul>
+						</div>
+						<div class="item">
+							<div class="position">
+								Desarrollador de Software
+							</div>
+							<div class="company">
+								<span class="name">
+									Kommit
+								</span>
+								<span class="website">
+									| https://kommit.co/
+								</span>
+								<span class="date">
+									|
+									<span class="startDate">
+										May 2014
+									</span>
+									<span class="endDate">
+										- Jan 2015
+									</span>
+									<span class="diffDate">
+										(7 months)
+									</span>
+								</span>
+							</div>
+							<div class="summary">
+								<p>Hacemos equipo con statups y compañías selectas para construir y escalar impresionantes proyectos móviles y web. Somos una agencia digital que cree en el poder de las grandes ideas, la importancia de un diseño hermoso y el valor de la estrategia de penetración.</p>
+							</div>
+							<ul class="highlights">
+								<li>Proyecto: Agenda Médica, aplicación web progresiva (PWA) para la gestión de médicos, pacientes, agendas e interacciones.</li>
+								<li>Pila: Servicios backend remotos usando BaaS (Heroku), aplicación web progresiva (PWA) usando una extensión de Google Chrome con la librería AngularJS, CVS con git y repositorios GitHub.</li>
+								<li>Infraestructura: Sistema Operativo Linux (Ubuntu, Debian), Slack para comunicaciones, Scrum para gestión de proyecto.</li>
+								<li>Responsabilidades: Desarrollo web de una PWA usando la librería AngularJS.</li>
+								<li>Proyecto: Cívico, portal web de seguimiento, recopilación, rastreo y recomendaciones de lugares, eventos y noticias de diferentes ciudades.</li>
+								<li>Pila: Aplicación web Ruby on Rails, base de datos NoSQL MongoDB, controlador ODM (Object-Document Mapper) Mongoid, CVS con git y repositorios GitHub.</li>
+								<li>Infraestructura: Sistema Operativo Linux (Ubuntu, Debian), herramientas Memcached y Redis, Slack para comunicaciones, Scrum para gestión de proyecto.</li>
+								<li>Responsabilidades: Desarrollo web usando el framework Ruby on Rails.</li>
+							</ul>
+						</div>
+						<div class="item">
+							<div class="position">
+								Programador
+							</div>
+							<div class="company">
+								<span class="name">
+									Webde Development System
+								</span>
+								<span class="website">
+									| https://www.webdefamily.com/
+								</span>
+								<span class="date">
+									|
+									<span class="startDate">
+										Jan 2014
+									</span>
+									<span class="endDate">
+										- Mar 2014
+									</span>
+									<span class="diffDate">
+										(2 months)
+									</span>
+								</span>
+							</div>
+							<div class="summary">
+								<p>Somos una empresa de outsourcing desarrollando el futuro para tu negocio. Subcontrata servicios de programadores, diseñadores y estrategias digitales.</p>
+							</div>
+							<ul class="highlights">
+								<li>Proyecto: Empresa Funeraria, aplicación web con aplicación móvil para gestión de contratos y seguros de una empresa funeraria.</li>
+								<li>Pila: Aplicación web Ruby on Rails, base de datos PostgreSQL, aplicación móvil híbrida con Appcelerator Titanium, CVS con git y repositorios GitLab.</li>
+								<li>Infraestructura: Sistema Operativo Linux (Ubuntu), PaaS en la nube Heroku, Scrum para gestión de proyecto.</li>
+								<li>Responsabilidades: Desarrollo de aplicación móvil híbrida con Appcelerator Titanium, desarrollo de aplicación web con Ruby on Rails, consumo, procesamiento y publicación de servicios web SOAP (Simple Object Access Protocol) y REST (Representational state transfer), manejo de bases de datos y servidores web, CVS.</li>
+								<li>Proyecto: Página web TI, sitio web principal de una empresa de servicios de TI.</li>
+								<li>Pila: Aplicación web Ruby on Rails, base de datos MySQL, CVS con git y repositorios GitLab.</li>
+								<li>Infraestructura: Sistema Operativo Linux (Ubuntu), PaaS en la nube Heroku, Scrum para gestión de proyecto.</li>
+								<li>Responsabilidades: Desarrollo de aplicación web con Ruby on Rails, manejo de bases de datos y servidores web, CVS.</li>
+							</ul>
+						</div>
+						<div class="item">
+							<div class="position">
+								Ingeniero de Sistemas
+							</div>
+							<div class="company">
+								<span class="name">
+									Clínica San Francisco S.A.
+								</span>
+								<span class="website">
+									| http://www.clinicasanfrancisco.com.co/
+								</span>
+								<span class="date">
+									|
+									<span class="startDate">
+										Jul 2013
+									</span>
+									<span class="endDate">
+										- Oct 2013
+									</span>
+									<span class="diffDate">
+										(2 months)
+									</span>
+								</span>
+							</div>
+							<div class="summary">
+								<p>Clínica San Francisco S.A. es una institución de carácter privado que ofrece servicios médicos de alta complejidad en el centro y norte del Valle (Tuluá, Valle del Cauca).</p>
+							</div>
+							<ul class="highlights">
+								<li>Proyecto: SIIS, Sistema Integrado de Información en Salud de una clínica que funciona como aplicación web.</li>
+								<li>Pila: Servicios backend con PHP, aplicación web cliente con jQuery/HTML/CSS, base de datos PostgreSQL, CVS con Subversion (svn) y repositorios locales compartidos, aplicación cliente TortoiseSVN, IDE NetBeans.</li>
+								<li>Infraestructura: Sistema Operativo Linux (Ubuntu, CentOS), servidor web Apache, RedMine para la gestión de tareas, gestión del proyecto basada en RUP (Relational Unified Process).</li>
+								<li>Responsabilidades: Desarrollo e implementación de diferentes actividades enfocadas a modificar y/o agregar funcionalidades del SIIS de la entidad, programación en lenguaje del lado servidor web PHP y lenguaje del lado cliente web JavaScript/jQuery, modelado web con HTML/CSS, optimizacion de consultas SQL, brindar soporte genral en TI.</li>
+							</ul>
+						</div>
+						<div class="item">
+							<div class="position">
+								Operador Call Center
+							</div>
+							<div class="company">
+								<span class="name">
+									Digitex Internacional Ltda.
+								</span>
+								<span class="website">
+									| https://contactamossas.com.co/
+								</span>
+								<span class="date">
+									|
+									<span class="startDate">
+										Apr 2013
+									</span>
+									<span class="endDate">
+										- Jun 2013
+									</span>
+									<span class="diffDate">
+										(2 months)
+									</span>
+								</span>
+							</div>
+							<div class="summary">
+								<p>Nos asociamos con los clientes para ofrecer una experiencia excepcional al cliente.</p>
+							</div>
+							<ul class="highlights">
+								<li>Proyecto: Campaña de venta Saltas Saltas de Chile para ofrecer chips de tarjetas SIM.</li>
+								<li>Pila: Software Hermes para manejar llamadas salientes, bloc de notas.</li>
+								<li>Infraestructura: Sistema Operativo Windows, MS Excel para completar los formatos utilizados.</li>
+								<li>Responsabilidades: Hacer llamadas con el software a potenciales clientes en Chile para ofrecer y vender tarjetas SIM.</li>
+							</ul>
+						</div>
+						<div class="item">
+							<div class="position">
+								Analista Programador
+							</div>
+							<div class="company">
+								<span class="name">
+									Latinia Mobile Infrastructure
+								</span>
+								<span class="website">
+									| https://www.latinia.com/
+								</span>
+								<span class="date">
+									|
+									<span class="startDate">
+										Apr 2012
+									</span>
+									<span class="endDate">
+										- Aug 2012
+									</span>
+									<span class="diffDate">
+										(4 months)
+									</span>
+								</span>
+							</div>
+							<div class="summary">
+								<p>Latinia es un fabricante independiente de software (ISV) especializado en el desarrollo de productos de infraestructura para notificaciones financieras de tipo asíncrono (mensajería móvil o instantánea, correo electrónico, DM’s de Twitter, push notifications – Android y Apple iOS – ), utilizadas principalmente por entidades financieras (bancos, cajas de ahorro, procesadoras y medios de pago), instituciones públicas y proveedores de servicio, distribuidos globalmente y líderes en sus respectivos segmentos e industrias.</p>
+							</div>
+							<ul class="highlights">
+								<li>Proyecto: Corredor de mensajería instantánea y notificaciones secundarias de una entidad financiera.</li>
+								<li>Pila: Servicios backend con JavaEE (Java Enterprise Edition)/EJB (Enterprise Java Beans)/JMS (Java Messaging Services), base de datos Oracle 11g, aplicaciones cliente de prueba con JSP (Java Server Pages), Servlets y JavaSE (Java Standard Edition), herramientas de empaquetado y despliegue Ant y Maven, IDE Eclipse.</li>
+								<li>Infraestructura: Sistemas Operativos Windows (7), Linux (CentOS 5), Máquinas Virtuales (VM) con VMware Player, contenedores de aplicaciones WebLogic y JBoss.</li>
+								<li>Responsabilidades: Desarrollo de funcionalidades para probar y monitorear el tráfico de envío de mensajes con diferentes características (canal, adjuntos, cantidad, intervalos, etc.) de un middleware corredor de notifiaciones y mensajería usando las tecnologías JavaEE y JavaSE, manejo de base de datos Oracle, manejo de contenedores WebLogic y JBoss, manejo de herramientas de gestión de software Ant y Maven.</li>
+							</ul>
+						</div>
+					</section>
+					<section class="section-volunteer">
+						<h2 class="title">
+						    <span class="">Volunteer</span>
+						</h2>
+						<div class="item">
+							<div class="position">
+								Participante/Voluntario
+							</div>
+							<div class="company">
+								<span class="name">
+									Manizales-Dev
+								</span>
+								<span class="website">
+									| http://manizales-dev.github.io/
+								</span>
+							<span class="date">
+								| <span class="startDate">
+									Feb 2015
+								</span>
+								<span class="endDate">
+									- Aug 2017
+								</span>
+								<span class="diffDate">
+									(2 years 5 months)
+								</span>
+							</span>
+							</div>
+							<div class="summary">
+								<p>Manizales-Dev es una comunidad de desarrolladores locales para construir juntos ecosistema alrededor de la tecnología para brindar soporte a individuos y organizaciones hacia el progreso regional.</p>
+							</div>
+							<ul class="highlights">
+								<li>Participación en los diferentes eventos meetup organizados.</li>
+								<li>KodeFest 2017</li>
+								<li>Día Internacional NodeSchool 2016 (Capítulo Manizales)</li>
+								<li>Día Global de Coderetreat 2015</li>
+								<li>Participación en XIV Jornadas de Ingeniería, Tecnología e Innovación 2015 en la Universidad de Caldas ( http://jornadas-ingenieria.gitir.co/ ).</li>
+								<li>HTML5 y JavaScript, futuro Omnipresente</li>
+								<li>Día Internacional NodeSchool 2015 ( http://nodeschool.io/manizales/ ).</li>
+							</ul>
+						</div>
+					</section>
+					<section class="section-awards">
+						<h2 class="title">
+						    <span class="">Awards</span>
+						</h2>
+						<ul>
+							<li class="item">
+								<div class="title">
+									Xamarin Básico completado
+									<span class="date">
+										| Mar 2017
+									</span>
+									<span class="awarder">
+										| Microsoft Developer Readiness
+									</span>
+								</div>
+								<div class="summary">
+									<p>Curso Xamarin Básico finalizado.</p>
+								</div>
+							</li>
+						</ul>
+					</section>
+					<section class="section-publications">
+						<h2 class="title">
+						    <span class="">Publications</span>
+						</h2>
+						<div class="item">
+							<div class="name">
+								Mantacore Sky Blog
+							</div>
+					
+							<div class="publication">
+								<span class="publisher">
+									Mantacore Sky
+								</span>
+								<span class="website">
+									| http://da8y01.gitlab.io/gl-blog/
+								</span>
+								<span class="releaseDate">
+									| 2023-06-21
+								</span>
+							</div>
+					
+							<div class="summary">
+								<p>Un blog misceláneo (principalmente TI y literatura).</p>
+							</div>
+						</div>
+						<div class="item">
+							<div class="name">
+								Trashumantes website
+							</div>
+					
+							<div class="publication">
+								<span class="publisher">
+									Trashumantes
+								</span>
+								<span class="website">
+									| https://tras-humantes.net/
+								</span>
+								<span class="releaseDate">
+									| 2017-02-14
+								</span>
+							</div>
+					
+							<div class="summary">
+								<p>Un website personal y misceláneo.</p>
+							</div>
+						</div>
+						<div class="item">
+							<div class="name">
+								Easy Engineering - Blog
+							</div>
+					
+							<div class="publication">
+								<span class="publisher">
+									Easy Engineering
+								</span>
+								<span class="website">
+									| http://da8y01.github.io/gh-blog/
+								</span>
+								<span class="releaseDate">
+									| 2013-05-07
+								</span>
+							</div>
+					
+							<div class="summary">
+								<p>Un blog dedicado a la lectura y temas varios.</p>
+							</div>
+						</div>
+					</section>
+					<section class="section-languages">
+						<h2 class="title">
+						    <span class="">Languages</span>
+						</h2>
+						<ul>
+							<li class="item">
+								<div class="language">
+									Español
+									<span class="fluency">
+										| <em>Lengua nativa</em>
+									</span>
+								</div>
+							</li>
+							<li class="item">
+								<div class="language">
+									Inglés
+									<span class="fluency">
+										| <em>Intermedio. Berlitz Proficiency Test Number: 35162, Fecha de expedición: Junio 2013. Nivel: B1.</em>
+									</span>
+								</div>
+							</li>
+							<li class="item">
+								<div class="language">
+									Inglés
+									<span class="fluency">
+										| <em>Avanzado. EF SET Certificate 70/100 C1 Advanced. Otorgado el: 26 Abr 2022. https://efset.org/cert/cowZZo</em>
+									</span>
+								</div>
+							</li>
+						</ul>
+					</section>
+				</div>
+		</div>
+
+	</body>
+</html>

@@ -2,10 +2,10 @@
   "basics": {
     "name": "Daniel Benítez Restrepo",
     "label": "Ingeniero en Sistemas y Computación, MP: 17950-259048 CLD",
-    "picture": "https://da8y01.github.io/gh-blog/public/picture202201_1.jpeg",
+    "picture": "https://da8y01.github.io/gh-blog/CV/picture202201_1.jpeg",
     "email": "danielbenitezr@yahoo.com",
     "phone": "(+57) 300 000 0000",
-    "website": "https://da8y01.github.io/gh-blog/public/hv202307_1.html",
+    "website": "https://da8y01.github.io/gh-blog/CV/hv202308_1.html",
     "summary": "Soy Ingeniero en Sistemas y Computación de la Universidad de Caldas (Manizales-Colombia). Soy un hombre intelectual al que le gusta la cultura, la ciencia y las artes. Me adapto fácilmente a las circunstancias, soy una persona comprometida, cumplida y responsable cuando se han asignado actividades a realizar, y mi inquietud intelectual me permite aprender e investigar nuevas cosas eficientemente.",
     "location": {
       "address": "",
@@ -87,18 +87,18 @@
       "endDate": "2022-01-28",
       "summary": "PrimeStone, una empresa de Trilliant, es una empresa de desarrollo de software privada orgullosamente colombiana fundada en 1990 por un equipo de expertos de la industria, con más de 25 años de experiencia en recopilación, gestión y análisis de datos de medidores.",
       "highlights": [
-        "Proyecto: Un servidor API backend estático y dummy con endpoints para ser consumido por clientes.",
-        "Pila: Servidor NodeJS, Cliente Angular, HTML/CSS/JS, Docker/Docker Compose.",
+        "Proyecto: Un middleware para proveer funciones de migración y sincronización de bases de datos.",
+        "Pila: Apache NiFi, Python/Flask, Oracle 11g, MS SQL Server 2012, PostgreSQL 9, Docker/Docker Compose.",
         "Infraestructura: Windows 10, repositorios Git, VS Code, Team Foundation Server, Microsoft Teams, VPN.",
-        "Responsabilidades: Desarrollo de servicios endpoint de backend API para ser usados por clientes, modificación de aplicación web Angular.",
+        "Responsabilidades: Modificación de plantillas Apache NiFi y aplicación Python/Flask para gestionar el lanzamiento y parametrización de los flujos de datos y operaciones.",
         "Proyecto: Un Tablero de Interoperabilidad de Lecturas para visualizar métricas de dispositivos y otras fuentes de datos.",
         "Pila: Python/Flask, librerías Dash/NumPy/Pandas/Cognito, AWS S3/Glue/Lambdas, Docker/Docker Compose.",
         "Infraestructura: Windows 10, repositorios Git, VS Code, Team Foundation Server, Microsoft Teams, VPN, AWS.",
         "Responsabilidades: Implementación de Historias de Usuario concernientes a construir capas para IU, callbacks y datos para el tablero de visualización, unit tests de código fuente Python, implementación de autenticación para aplicación Python/Flask usando librería Cognito, uso y activación de flujos AWS Glue involucrando buckets, lambdas, funciones, servicios, parsers, etc.",
-        "Proyecto: Un middleware para proveer funciones de migración y sincronización de bases de datos.",
-        "Pila: Apache NiFi, Python/Flask, Oracle 11g, MS SQL Server 2012, PostgreSQL 9, Docker/Docker Compose.",
+        "Proyecto: Un servidor API backend estático y dummy con endpoints para ser consumido por clientes.",
+        "Pila: Servidor NodeJS, Cliente Angular, HTML/CSS/JS, Docker/Docker Compose.",
         "Infraestructura: Windows 10, repositorios Git, VS Code, Team Foundation Server, Microsoft Teams, VPN.",
-        "Responsabilidades: Modificación de plantillas Apache NiFi y aplicación Python/Flask para gestionar el lanzamiento y parametrización de los flujos de datos y operaciones."
+        "Responsabilidades: Desarrollo de servicios endpoint de backend API para ser usados por clientes, modificación de aplicación web Angular."
       ]
     },
     {
@@ -123,14 +123,14 @@
       "endDate": "2020-10-15",
       "summary": "Rápidamente montaremos un equipo de desarrollo de software dedicado para ayudarte a alcanzar tus metas en poco tiempo.",
       "highlights": [
-        "Proyecto: 321 Ignition, plataforma para habilitar servicios móviles a negociantes de vehículos.",
-        "Pila: Micro-servicios con NodeJS, plantillas front-end con VueJS y ReactJS, pruebas unitarias con librería Jest, almacenamiento de documentos MongoDB, gestor de mensajes RabbitMQ, motor de búsqueda ElasticSearch, virtualización con Docker, gestión de recursos en la nube con GCP (Google Cloud Platform).",
-        "Infraestructura: Sistema Operativo Linux, git, GitHub, Google Cloud Platform, Slack, Zoom, Jira, Scrum.",
-        "Responsabilidades: Desarrollo de funcionalidades back-end con NodeJS, programación asíncrona con colas, RabbitMQ, búsquedas, ElasticSearch, manejo de MongoDB, migraciones de base de datos, desarrollo de pruebas unitarias con librería Jest, desarrollo de pruebas de integración con Jest, PostgreSQL y entornos GitHub, despliegue de aplicaciones.",
         "Proyecto: Empresa de logística, gestión, segumiento y trazabilidad de recursos como bodegas, vehículos, formularios, etc.",
         "Pila: Servicios back-end con Firebase, aplicación web front-end con ReactJS, aplicación móvil con ReactNative.",
         "Infraestructura: Sistema Operativo Linux, git, GitHub, Firebase, Slack, Zoom, Notion, Monday, Scrum.",
-        "Responsabilidades: Desarrollo de funcionalidades front-end con ReactJS."
+        "Responsabilidades: Desarrollo de funcionalidades front-end con ReactJS.",
+        "Proyecto: 321 Ignition, plataforma para habilitar servicios móviles a negociantes de vehículos.",
+        "Pila: Micro-servicios con NodeJS, plantillas front-end con VueJS y ReactJS, pruebas unitarias con librería Jest, almacenamiento de documentos MongoDB, gestor de mensajes RabbitMQ, motor de búsqueda ElasticSearch, virtualización con Docker, gestión de recursos en la nube con GCP (Google Cloud Platform).",
+        "Infraestructura: Sistema Operativo Linux, git, GitHub, Google Cloud Platform, Slack, Zoom, Jira, Scrum.",
+        "Responsabilidades: Desarrollo de funcionalidades back-end con NodeJS, programación asíncrona con colas, RabbitMQ, búsquedas, ElasticSearch, manejo de MongoDB, migraciones de base de datos, desarrollo de pruebas unitarias con librería Jest, desarrollo de pruebas de integración con Jest, PostgreSQL y entornos GitHub, despliegue de aplicaciones."
       ]
     },
     {

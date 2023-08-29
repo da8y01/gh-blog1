@@ -2,10 +2,10 @@
   "basics": {
     "name": "Daniel Benítez Restrepo",
     "label": "Systems and Computation Engineer, MP: 17950-259048 CLD",
-    "picture": "https://da8y01.github.io/gh-blog/public/picture202201_1.jpeg",
+    "picture": "https://da8y01.github.io/gh-blog/CV/picture202201_1.jpeg",
     "email": "danielbenitezr@yahoo.com",
     "phone": "(+57) 300 000 0000",
-    "website": "https://da8y01.github.io/gh-blog/public/cv202307_1.html",
+    "website": "https://da8y01.github.io/gh-blog/CV/cv202308_1.html",
     "summary": "I'm a Systems and Computation Engineer from Universidad de Caldas (Manizales-Colombia). I'm an intellectual man who likes culture, science and arts. I adapt myself with ease to the circumstances, I'm a compromised, accomplished and responsible person when activities to carry out have been assigned, and my intellectual inquietude allows me to learn and research new stuff efficiently.",
     "location": {
       "address": "2712 Circunvalar Av",
@@ -87,18 +87,18 @@
       "endDate": "2022-01-28",
       "summary": "PrimeStone, a Trilliant company, is a proudly Colombian privately held software development company founded in 1990 by a team of industry experts, with over 25 years of experience in meter data collection, management and analytics.",
       "highlights": [
-        "Project: A static and dummy API backend server with endpoints to be consumed by clients.",
-        "Stack: NodeJS server, Angular client, HTML/CSS/JS, Docker/Docker Compose.",
+        "Project: A middleware to provide functionalities of migration and synchronization of databases.",
+        "Stack: Apache NiFi, Python/Flask, Oracle 11g, MS SQL Server 2012, PostgreSQL 9, Docker/Docker Compose.",
         "Infrastructure: Windows 10, Git repositories, VS Code, Team Foundation Server, Microsoft Teams, VPN.",
-        "Concerns: Development of backend API endpoint services to be used by clients, modification of Angular web application.",
+        "Concerns: Modification of Apache NiFi templates and Python/Flask application to manage the launch and parametrization of the data and operations flows.",
         "Project: A Interoperability Readings Dashboard to visualize metrics on devices and other data sources.",
         "Stack: Python/Flask, Dash/NumPy/Pandas/Cognito libraries, AWS S3/Glue/Lambdas, Docker/Docker Compose.",
         "Infrastructure: Windows 10, Git repositories, VS Code, Team Foundation Server, Microsoft Teams, VPN, AWS.",
         "Concerns: Implementation of User Stories regarding building layers for UI, callbacks and data for the vizualization dashboard, unit tests of Python source code, implementation of authentication for Python/Flask application using Cognito library, use and activation of AWS Glue flows involving buckets, lambdas, functions, services, parsers, etc.",
-        "Project: A middleware to provide functionalities of migration and synchronization of databases.",
-        "Stack: Apache NiFi, Python/Flask, Oracle 11g, MS SQL Server 2012, PostgreSQL 9, Docker/Docker Compose.",
+        "Project: A static and dummy API backend server with endpoints to be consumed by clients.",
+        "Stack: NodeJS server, Angular client, HTML/CSS/JS, Docker/Docker Compose.",
         "Infrastructure: Windows 10, Git repositories, VS Code, Team Foundation Server, Microsoft Teams, VPN.",
-        "Concerns: Modification of Apache NiFi templates and Python/Flask application to manage the launch and parametrization of the data and operations flows."
+        "Concerns: Development of backend API endpoint services to be used by clients, modification of Angular web application."
       ]
     },
     {
@@ -123,14 +123,14 @@
       "endDate": "2020-10-15",
       "summary": "Fully-managed On-demand Software Development Team.",
       "highlights": [
-        "Project: 321 Ignition, platform to enable mobile services for vehicle dealers.",
-        "Stack: Micro-services with NodeJS, front-end templates with VueJS and ReactJS, unit tests with Jest library, MongoDB document storage, RabbitMQ message manager, ElasticSearch search engine, virtualization with Docker, cloud resource management with GCP (Google Cloud Platform).",
-        "Infrastructure: Linux OS, git, GitHub, Google Cloud Platform, Slack, Zoom, Jira, Scrum.",
-        "Concerns: Development of back-end features with NodeJS, asynchronous programming with queues, RabbitMQ, searches, ElasticSearch, MongoDB management, database migrations, development of unit tests with Jest library, development of integration tests with Jest, PostgreSQL and GitHub environments, application deployment.",
         "Project: Logistics company, management, monitoring and traceability of resources such as warehouses, vehicles, forms, etc.",
         "Stack: Back-end services with Firebase, front-end web app with ReactJS, mobile app with ReactNative.",
         "Infrastructure: Linux OS, git, GitHub, Firebase, Slack, Zoom, Notion, Monday, Scrum.",
-        "Concerns: Development of front-end features with ReactJS."
+        "Concerns: Development of front-end features with ReactJS.",
+        "Project: 321 Ignition, platform to enable mobile services for vehicle dealers.",
+        "Stack: Micro-services with NodeJS, front-end templates with VueJS and ReactJS, unit tests with Jest library, MongoDB document storage, RabbitMQ message manager, ElasticSearch search engine, virtualization with Docker, cloud resource management with GCP (Google Cloud Platform).",
+        "Infrastructure: Linux OS, git, GitHub, Google Cloud Platform, Slack, Zoom, Jira, Scrum.",
+        "Concerns: Development of back-end features with NodeJS, asynchronous programming with queues, RabbitMQ, searches, ElasticSearch, MongoDB management, database migrations, development of unit tests with Jest library, development of integration tests with Jest, PostgreSQL and GitHub environments, application deployment."
       ]
     },
     {
