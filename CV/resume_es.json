@@ -47,8 +47,8 @@
       "summary": "La Universidad de Caldas en cumplimiento de la función social que corresponde a su naturaleza pública, tiene la misión de generar, apropiar, difundir y aplicar conocimientos mediante procesos curriculares, investigativos y de proyección, para formar integralmente ciudadanos comprometidos con la sociedad y la cultura, aportar soluciones a los problemas regionales, nacionales e internacionales y contribuir al desarrollo sustentable.",
       "highlights": [
         "Proyecto: MISIÓN TIC 2022 SAR I-704/2022.",
-        "Pila: LoopBack, Angular, ReactJS, HTML/JS/CSS, MongoDB.",
-        "Infraestructura: SO Windows, Microsoft Teams, Google Drive.",
+        "Pila: Servicios backend con LoopBack, aplicaciones web frontend con Angular y ReactJS, HTML/JS/CSS para modelado web, almacenamiento de documentos MongoDB, CVS con git y repositorios GitHub.",
+        "Infraestructura: SO Windows, Microsoft Teams para comunicaciones, Google Drive como almacenamiento de archivos.",
         "Responsabilidades: Realizar acompañamiento en las actividades de enseñanza en programación orientadas por el formador disciplinar, Realizar dinámica de equipo de trabajo, Gestionar la solución de preguntas e inquietudes realizadas por los beneficiarios, Apoyar la formación y enseñanza de programación en los lenguajes y tecnologías que se van a utilizar en el ciclo, Generar mínimo cada semana los reportes que el operador de formación determine, Seguimiento de los Sprint a través de los formatos diseñados para ello (Teach lead), Participar en las reuniones diarias de seguimiento con sus grupos de trabajo, El tutor tiene la responsabilidad de reportar cualquier incumplimiento detectado en las actividades de seguimiento, Presentar informes semanales de su gestión e informe mensual."
       ]
     },
@@ -61,7 +61,7 @@
       "summary": "Ayudamos a las empresas a transformarse digitalmente, crear nuevos productos y acelerar los equipos digitales.",
       "highlights": [
         "Proyecto: Programa de entrenamiento de 10Pearls para mejorar las habilidades en inglés.",
-        "Infraestructura: Windows 10, Microsoft Teams, Microsoft Office.",
+        "Infraestructura: Sistema Operativo Windows 10, Microsoft Teams para las comunicaciones, Microsoft Office como suite de oficina.",
         "Responsabilidades: Atender al entrenamiento de mejoramiento de habilidades de idioma Inglés."
       ]
     },
@@ -74,9 +74,9 @@
       "summary": "Empresa de publicidad y diseño web.",
       "highlights": [
         "Proyecto: Portal Sociedad de Diagnóstico Visual S.A.S.",
-        "Pila: Servidor NodeJS, Cliente Angular, HTML/CSS/JS.",
-        "Infraestructura: Windows 10, mensajería instantánea WhatsApp, Google Docs, Figma, VPS con CentOS 7.",
-        "Responsabilidades: Desarrollar el servidor back-end con NodeJS, y la aplicación cliente fornt-end con Angular."
+        "Pila: Servicios backend con NodeJS/ExpressJS, aplicación web cliente con Angular, maquetación web con HTML/CSS/JS.",
+        "Infraestructura: Sistema Operativo Windows 10, VPS con CentOS 7, mensajería instantánea WhatsApp, CVS con git y repositorios GitHub, Google Docs como suite de oficina, herramienta Figma para conversión/traducción de la pieza de diseño gráfico en formato de lenguaje de marcado/etiquetado HTML.",
+        "Responsabilidades: Desarrollar el servidor back-end con NodeJS/ExpressJS, y la aplicación cliente fornt-end con Angular; manejo de CVS, bases de datos y configuración de despliegue en VPS."
       ]
     },
     {
@@ -110,9 +110,9 @@
       "summary": "Somos tu partner ideal para construir la mejor versión digital de tu negocio. Co-creamos tecnología comprometidos con tu futuro, aquí y ahora.",
       "highlights": [
         "Proyecto: Plataforma bancaria COBIS.",
-        "Pila: SQL Server, Maven, Java, Tomcat, JBoss, AngularJS, HTML/CSS/JS.",
-        "Infraestructura: Windows 10, Git repositories, Sonar, Eclipse, COBIS Designer, Team Foundation Server, Microsoft Teams, VPN.",
-        "Responsabilidades: Integración y personalización de módulos bancarios a través de la depuración del flujo de la aplicación con Eclipse, Maven y Java, con SQL Server, AngularJS y COBIS Designer."
+        "Pila: Base de datos SQL Server, gestor de paquetes Maven, Java, contenedores de aplicaciones web Tomcat and JBoss, uso de la librería AngularJS en la aplición web cliente, HTML/CSS/JS para modelado web.",
+        "Infraestructura: Sistema Operativo Windows 10, herramienta de calidad de código Sonar, IDE Eclipse, COBIS Designer, TFS (Team Foundation Server), Microsoft Teams para comunicaciones, VPN, principios ágiles de desarrollo de software.",
+        "Responsabilidades: Integración y personalización de módulos bancarios a través de la depuración del flujo de la aplicación con Eclipse, Maven y Java, con SQL Server, AngularJS y COBIS Designer, depuración de aplicaciones."
       ]
     },
     {
