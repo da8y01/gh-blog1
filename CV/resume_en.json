@@ -66,7 +66,7 @@
       ]
     },
     {
-      "company": "Alejandra Sierra",
+      "company": "Aleja, publicist and web designer",
       "position": "Software Developer",
       "website": "https://www.alejasierra.com/",
       "startDate": "2022-01-06",
@@ -76,7 +76,7 @@
         "Project: Portal Sociedad de Diagnóstico Visual S.A.S.",
         "Stack: Backend services with NodeJS/ExpressJS, client web application with Angular, web layout with HTML/CSS/JS.",
         "Infrastructure: Windows 10 Operating System, CentOS 7 VPS, WhatsApp instant messaging, CVS with git and GitHub repositories, Google Docs as office suite, Figma tool for conversion/translation of the graphical design piece into HTML markup language format.",
-        "Concerns: Develop the back-end server with NodeJS/ExpressJS, and the front-end client application with Angular; CVS, databases and VPS deployments setup management."
+        "Concerns: Develop the backend server with NodeJS/ExpressJS, and the frontend client application with Angular; CVS, databases and VPS deployments setup management."
       ]
     },
     {
@@ -124,13 +124,13 @@
       "summary": "Fully-managed On-demand Software Development Team.",
       "highlights": [
         "Project: Logistics company, management, monitoring and traceability of resources such as warehouses, vehicles, forms, etc.",
-        "Stack: Back-end services with Firebase, front-end web app with ReactJS, mobile app with ReactNative.",
+        "Stack: Backend services with Firebase, frontend web app with ReactJS, mobile app with ReactNative.",
         "Infrastructure: Linux OS, git, GitHub, Firebase, Slack, Zoom, Notion, Monday, Scrum.",
-        "Concerns: Development of front-end features with ReactJS.",
+        "Concerns: Development of frontend features with ReactJS.",
         "Project: 321 Ignition, platform to enable mobile services for vehicle dealers.",
-        "Stack: Micro-services with NodeJS, front-end templates with VueJS and ReactJS, unit tests with Jest library, MongoDB document storage, RabbitMQ message manager, ElasticSearch search engine, virtualization with Docker, cloud resource management with GCP (Google Cloud Platform).",
+        "Stack: Micro-services with NodeJS, frontend templates with VueJS and ReactJS, unit tests with Jest library, MongoDB document storage, RabbitMQ message manager, ElasticSearch search engine, virtualization with Docker, cloud resource management with GCP (Google Cloud Platform).",
         "Infrastructure: Linux OS, git, GitHub, Google Cloud Platform, Slack, Zoom, Jira, Scrum.",
-        "Concerns: Development of back-end features with NodeJS, asynchronous programming with queues, RabbitMQ, searches, ElasticSearch, MongoDB management, database migrations, development of unit tests with Jest library, development of integration tests with Jest, PostgreSQL and GitHub environments, application deployment."
+        "Concerns: Development of backend features with NodeJS, asynchronous programming with queues, RabbitMQ, searches, ElasticSearch, MongoDB management, database migrations, development of unit tests with Jest library, development of integration tests with Jest, PostgreSQL and GitHub environments, application deployment."
       ]
     },
     {
@@ -142,9 +142,9 @@
       "summary": "We support our customers with IT solutions to the size of their needs.",
       "highlights": [
         "Project: Tresiba web, comprehensive platform to manage information on the concentration of glucose and insulin in the blood (FBG, fast blood glucose).",
-        "Stack: Back-end server with SpringBoot, client web application with Angular, PostgreSQL and MySQL databases, native mobile applications for iOS and Android systems, auxiliary device for reading fasting glucose (FBG) information.",
+        "Stack: Backend server with SpringBoot, client web application with Angular, PostgreSQL and MySQL databases, native mobile applications for iOS and Android systems, auxiliary device for reading fasting glucose (FBG) information.",
         "Infrastructure: Windows 10 Pro Operating System, Microsoft Remote Desktop, GCP (Google Cloud Platform) and GKE (Google Kubernetes Engine) cloud services, Slack, Zoom, Jira, Confluence, Scrum.",
-        "Concerns: Development of front-end features with the Angular framework, use of the Material library for UX/UI interface components, use of libraries for state management and RxJS functionalities such as Redux, management of CVS git and BitBucket repositories, interaction with an international team and command of the advanced written and spoken English language.",
+        "Concerns: Development of frontend features with the Angular framework, use of the Material library for UX/UI interface components, use of libraries for state management and RxJS functionalities such as Redux, management of CVS git and BitBucket repositories, interaction with an international team and command of the advanced written and spoken English language.",
         "Project: New EPS Forms, auxiliary system of forms of an EPS (Health Provider Entity).",
         "Stack: Drupal CMS (Content Management System), PHP language, MySQL database.",
         "Infrastructure: Windows 10 Pro and Linux (Ubuntu) operating systems, Microsoft Remote Desktop, VPNs, Slack, Skype, MS Excel, Scrum.",
@@ -153,30 +153,30 @@
     },
     {
       "company": "SuperLikers",
-      "position": "Front-end developer",
+      "position": "Web technology developer",
       "website": "http://www.superlikers.com/",
       "startDate": "2016-03-15",
       "endDate": "2019-03-31",
       "summary": "Superlikers is an online platform to setup and manage 360 Fidelization Programs.",
       "highlights": [
         "Project: SuperLikers, web system for the management of gamified platforms.",
-        "Stack: Back-end server with Ruby on Rails and SinatraRb, client web app with AngularJS/Angular, MongoDB document storage, Redis, Memcached.",
+        "Stack: Backend server with Ruby on Rails and SinatraRb, client web app with AngularJS/Angular, MongoDB document storage, Redis, Memcached.",
         "Infrastructure: Linux (Ubuntu) and Windows (7, 10) Operating Systems, AWS services, EC2 instances, S3 buckets, CVS with git and Unfuddle, BitBucket and GitHub repositories, Slack, Trello, Scrum.",
-        "Concerns: Migration of an administrative panel type web application using the AngularJS library to the Angular framework, development of front-end features with Angular (versions 2, 4, 5, 6), JavaScript, jQuery, HTML, CSS, Material UX/UI library, consumption of APIs/endpoints/remote services."
+        "Concerns: Migration of an administrative panel type web application using the AngularJS library to the Angular framework, development of frontend features with Angular (versions 2, 4, 5, 6), JavaScript, jQuery, HTML, CSS, Material UX/UI library, consumption of APIs/endpoints/remote services."
       ]
     },
     {
       "company": "Ignite Technologies",
-      "position": "Full-stack developer",
+      "position": "Software developer",
       "website": "http://ignite.com.co/",
       "startDate": "2018-06-20",
       "endDate": "2018-09-30",
       "summary": "We're a colombian enterprise concerned with the design and development of innovation technologies, engineering and science products. Our focus is directed towards processes optimization based upon technology based solutions for our clients and users.",
       "highlights": [
         "Project: Mr. Quick, mobile application for food services and restaurants.",
-        "Stack: Back-end server with Ruby on Rails, hybrid mobile app with Ionic 4, PostgreSQL database, CVS with git and GitLab repository.",
+        "Stack: Backend server with Ruby on Rails, hybrid mobile app with Ionic 4, PostgreSQL database, CVS with git and GitLab repository.",
         "Infrastructure: Linux (Ubuntu) and Windows (7, 10) Operating Systems, AWS services, S3 buckets, Slack, Scrum.",
-        "Concerns: Migration, development and update of a mobile application using the Ionic 4 hybrid application framework, development of back-end features with Ruby on Rails, management of Git repositories and AWS services.",
+        "Concerns: Migration, development and update of a mobile application using the Ionic 4 hybrid application framework, development of backend features with Ruby on Rails, management of Git repositories and AWS services.",
         "Project: HandleBay, website similar to a social network for suppliers, customers, intermediaries, companies.",
         "Stack: Web application with Ruby on Rails, PostgreSQL database, CVS with git and GitLab repository, Unicorn and Passenger application servers.",
         "Infrastructure: Linux (Ubuntu) and Windows (7, 10) Operating Systems, AWS services, EC2 and AMI instances, S3 buckets, Slack, Scrum.",
@@ -192,25 +192,25 @@
       "summary": "We are a team of developers/designers/scientists/geeks who find their work very entertaining and thrilling. As a team, we develop software in different areas, with emphasis in web and mobile, but with experience in telephony projects, digital kiosks, enterprise applications, security systems, Artificial Intelligence, cryptography and even artistic installations.",
       "highlights": [
         "Project: Houspoon, web application that coordinates chefs, reservations and food services at home.",
-        "Stack: Back-end server with NodeJS, front-end web app with ReactJS, mobile app with ReactNative, PostgreSQL database, CVS with git and BitBucket repositories.",
+        "Stack: Backend server with NodeJS, frontend web app with ReactJS, mobile app with ReactNative, PostgreSQL database, CVS with git and BitBucket repositories.",
         "Infrastructure: Linux OS, Heroku cloud PaaS, Slack for communications, Toggl for task management, Scrum for project management.",
-        "Concerns: Development of back-end features with NodeJS, implementation of unit tests with Mocha library, implementation of integration tests with PostgreSQL database, development with ReactJS and Redux state library.",
+        "Concerns: Development of backend features with NodeJS, implementation of unit tests with Mocha library, implementation of integration tests with PostgreSQL database, development with ReactJS and Redux state library.",
         "Project: Subscription System, subscription management and integrations with an external marketing service (Mailchimp).",
-        "Stack: Back-end server with Django framework, PostgreSQL database, CVS with git and BitBucket repositories.",
+        "Stack: Backend server with Django framework, PostgreSQL database, CVS with git and BitBucket repositories.",
         "Infrastructure: Linux Operating System, Slack for communications, Toggl for task management, Scrum for project management.",
-        "Concerns: Development of back-end features with the Django framework, thread management, remote service calls.",
+        "Concerns: Development of backend features with the Django framework, thread management, remote service calls.",
         "Project: Coquelux, virtual clothing store.",
-        "Stack: Back-end server with PHP, front-end web application with AngularJS library, PostgreSQL and MySQL databases, CVS with git and GitHub repositories.",
+        "Stack: Backend server with PHP, frontend web application with AngularJS library, PostgreSQL and MySQL databases, CVS with git and GitHub repositories.",
         "Infrastructure: Linux Operating System, Docker for container management and virtualization, web servers (Apache), Slack for communications, Toggl for task management, Scrum for project management.",
-        "Concerns: Development of back-end features with PHP, development of front-end features with the AngularJS library.",
+        "Concerns: Development of backend features with PHP, development of frontend features with the AngularJS library.",
         "Project: Logistics System, web application that consumes, processes and publishes WebServices or remote SOAP and REST backend APIs with information regarding logistics such as addresses, couriers, orders, packages, deliveries.",
-        "Pila: Back-end server with the PHP Silex framework, Postgres and MySQL databases, Doctrine and Phinx libraries for database management and migrations, CVS with git and GitHub repositories.",
+        "Pila: Backend server with the PHP Silex framework, Postgres and MySQL databases, Doctrine and Phinx libraries for database management and migrations, CVS with git and GitHub repositories.",
         "Infrastructure: Linux Operating System, Docker for container management and virtualization, web servers (Apache), Slack for communications, Toggl for task management, Scrum for project management.",
-        "Concerns: Development of back-end features with the Silex framework.",
+        "Concerns: Development of backend features with the Silex framework.",
         "Project: SmartReader, web application for reading and smart quizzes of published articles and readings.",
-        "Stack: Back-end server with Ruby on Rails framework, front-end web application with AngularJS library, PostgreSQL database, CVS with git and BitBucket repositories.",
+        "Stack: Backend server with Ruby on Rails framework, frontend web application with AngularJS library, PostgreSQL database, CVS with git and BitBucket repositories.",
         "Infrastructure: Linux Operating System, Heroku for cloud deployments using PaaS, Slack for communications, Toggl for task management, Scrum for project management.",
-        "Concerns: Development of back-end features with the Ruby on Rails framework, development of front-end functionalities with the AngularJS library."
+        "Concerns: Development of backend features with the Ruby on Rails framework, development of frontend functionalities with the AngularJS library."
       ]
     },
     {

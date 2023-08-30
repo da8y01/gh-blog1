@@ -66,7 +66,7 @@
       ]
     },
     {
-      "company": "Alejandra Sierra",
+      "company": "Aleja, publicista y diseñadora web",
       "position": "Desarrollador de Software",
       "website": "https://www.alejasierra.com/",
       "startDate": "2022-01-06",
@@ -76,7 +76,7 @@
         "Proyecto: Portal Sociedad de Diagnóstico Visual S.A.S.",
         "Pila: Servicios backend con NodeJS/ExpressJS, aplicación web cliente con Angular, maquetación web con HTML/CSS/JS.",
         "Infraestructura: Sistema Operativo Windows 10, VPS con CentOS 7, mensajería instantánea WhatsApp, CVS con git y repositorios GitHub, Google Docs como suite de oficina, herramienta Figma para conversión/traducción de la pieza de diseño gráfico en formato de lenguaje de marcado/etiquetado HTML.",
-        "Responsabilidades: Desarrollar el servidor back-end con NodeJS/ExpressJS, y la aplicación cliente fornt-end con Angular; manejo de CVS, bases de datos y configuración de despliegue en VPS."
+        "Responsabilidades: Desarrollar el servidor backend con NodeJS/ExpressJS, y la aplicación cliente fornt-end con Angular; manejo de CVS, bases de datos y configuración de despliegue en VPS."
       ]
     },
     {
@@ -124,13 +124,13 @@
       "summary": "Rápidamente montaremos un equipo de desarrollo de software dedicado para ayudarte a alcanzar tus metas en poco tiempo.",
       "highlights": [
         "Proyecto: Empresa de logística, gestión, segumiento y trazabilidad de recursos como bodegas, vehículos, formularios, etc.",
-        "Pila: Servicios back-end con Firebase, aplicación web front-end con ReactJS, aplicación móvil con ReactNative.",
+        "Pila: Servicios backend con Firebase, aplicación web frontend con ReactJS, aplicación móvil con ReactNative.",
         "Infraestructura: Sistema Operativo Linux, git, GitHub, Firebase, Slack, Zoom, Notion, Monday, Scrum.",
-        "Responsabilidades: Desarrollo de funcionalidades front-end con ReactJS.",
+        "Responsabilidades: Desarrollo de funcionalidades frontend con ReactJS.",
         "Proyecto: 321 Ignition, plataforma para habilitar servicios móviles a negociantes de vehículos.",
-        "Pila: Micro-servicios con NodeJS, plantillas front-end con VueJS y ReactJS, pruebas unitarias con librería Jest, almacenamiento de documentos MongoDB, gestor de mensajes RabbitMQ, motor de búsqueda ElasticSearch, virtualización con Docker, gestión de recursos en la nube con GCP (Google Cloud Platform).",
+        "Pila: Micro-servicios con NodeJS, plantillas frontend con VueJS y ReactJS, pruebas unitarias con librería Jest, almacenamiento de documentos MongoDB, gestor de mensajes RabbitMQ, motor de búsqueda ElasticSearch, virtualización con Docker, gestión de recursos en la nube con GCP (Google Cloud Platform).",
         "Infraestructura: Sistema Operativo Linux, git, GitHub, Google Cloud Platform, Slack, Zoom, Jira, Scrum.",
-        "Responsabilidades: Desarrollo de funcionalidades back-end con NodeJS, programación asíncrona con colas, RabbitMQ, búsquedas, ElasticSearch, manejo de MongoDB, migraciones de base de datos, desarrollo de pruebas unitarias con librería Jest, desarrollo de pruebas de integración con Jest, PostgreSQL y entornos GitHub, despliegue de aplicaciones."
+        "Responsabilidades: Desarrollo de funcionalidades backend con NodeJS, programación asíncrona con colas, RabbitMQ, búsquedas, ElasticSearch, manejo de MongoDB, migraciones de base de datos, desarrollo de pruebas unitarias con librería Jest, desarrollo de pruebas de integración con Jest, PostgreSQL y entornos GitHub, despliegue de aplicaciones."
       ]
     },
     {
@@ -146,37 +146,37 @@
         "Infraestructura: Sistemas operativos Windows 10 Pro y Linux (Ubuntu), Microsoft Escritorio Remoto, VPNs, Slack, Skype, MS Excel, Scrum.",
         "Responsabilidades: Implementación de formularios web y requests de datos a servicios/APIs/endpoints externos con el CMS Drupal 8.",
         "Proyecto: Tresiba web, plataforma integral para gestionar información de la concentración de glucosa e insulina en la sangre (FBG, fast blood glucose).",
-        "Pila: Servidor back-end con SpringBoot, aplicación web cliente con Angular, bases de datos PostgreSQL y MySQL, aplicaciones móviles nativas para sistemas iOS y Android, dispositivo auxiliar de lectura de información de glucosa en ayunas (FBG).",
+        "Pila: Servidor backend con SpringBoot, aplicación web cliente con Angular, bases de datos PostgreSQL y MySQL, aplicaciones móviles nativas para sistemas iOS y Android, dispositivo auxiliar de lectura de información de glucosa en ayunas (FBG).",
         "Infraestructura: Sistema Operativo Windows 10 Pro, Microsoft Escritorio Remoto, servicios en la nube GCP (Google Cloud Platform) y GKE (Google Kubernetes Engine), Slack, Zoom, Jira, Confluence, Scrum.",
-        "Responsabilidades: Desarrollo de funcionalidades front-end con el framework Angular, uso de la librería Material para componentes de interfaz UX/UI, uso de librerías para manejo de estado y funcionalidades RxJS como Redux, manejo de CVS git y repositorios BitBucket, interacción con un equipo internacional y manejo de idioma inglés avanzado escrito y hablado."
+        "Responsabilidades: Desarrollo de funcionalidades frontend con el framework Angular, uso de la librería Material para componentes de interfaz UX/UI, uso de librerías para manejo de estado y funcionalidades RxJS como Redux, manejo de CVS git y repositorios BitBucket, interacción con un equipo internacional y manejo de idioma inglés avanzado escrito y hablado."
       ]
     },
     {
       "company": "SuperLikers",
-      "position": "Desarrollador front-end",
+      "position": "Desarrollador de tecnología web",
       "website": "http://www.superlikers.com/",
       "startDate": "2016-03-15",
       "endDate": "2019-03-31",
       "summary": "Superlikers es una plataforma online para configurar y administrar Programas de Fidelización 360.",
       "highlights": [
         "Proyecto: SuperLikers, sistema web para gestión de plataformas gamificadas.",
-        "Pila: Servidor back-end con Ruby on Rails y SinatraRb, aplicación web cliente con AngularJS/Angular, almacenamiento de documentos MongoDB, Redis, Memcached.",
+        "Pila: Servidor backend con Ruby on Rails y SinatraRb, aplicación web cliente con AngularJS/Angular, almacenamiento de documentos MongoDB, Redis, Memcached.",
         "Infraestructura: Sistemas Operativos Linux (Ubuntu) y Windows (7, 10), servicios AWS, instancias EC2, buckets S3, CVS con git y repositorios Unfuddle, BitBucket y GitHub, Slack, Trello, Scrum.",
-        "Responsabilidades: Migración de aplicación web tipo panel administrativo usando la librería AngularJS al framework Angular, desarrollo de funcionalidades front-end con Angular (versiones 2, 4, 5, 6), JavaScript, jQuery, HTML, CSS, librería de UX/UI Material, consumo de API/endpoints/servicios remotos."
+        "Responsabilidades: Migración de aplicación web tipo panel administrativo usando la librería AngularJS al framework Angular, desarrollo de funcionalidades frontend con Angular (versiones 2, 4, 5, 6), JavaScript, jQuery, HTML, CSS, librería de UX/UI Material, consumo de API/endpoints/servicios remotos."
       ]
     },
     {
       "company": "Ignite Technologies",
-      "position": "Desarrollador full-stack",
+      "position": "Desarrollador de software",
       "website": "http://ignite.com.co/",
       "startDate": "2018-06-20",
       "endDate": "2018-09-30",
       "summary": "Somos una empresa colombiana dedicada al diseño y desarrollo de productos de innovación en tecnología, ingeniería y ciencia. Nuestro enfoque se encuentra dirigido hacia la optimización de procesos a partir de soluciones de base tecnológica para nuestros clientes y usuarios.",
       "highlights": [
         "Proyecto: Mr. Quick, aplicación móvil de servicios de comidas y restaurantes.",
-        "Pila: Servidor back-end con Ruby on Rails, aplicación móvil híbrida con Ionic 4, base de datos PostgreSQL, CVS con git y repositorios GitLab.",
+        "Pila: Servidor backend con Ruby on Rails, aplicación móvil híbrida con Ionic 4, base de datos PostgreSQL, CVS con git y repositorios GitLab.",
         "Infraestructura: Sistemas Operativos Linux (Ubuntu) y Windows (7, 10), servicios AWS, buckets S3, Slack, Scrum.",
-        "Responsabilidades: Migración, desarrollo y actualización de una aplicación móvil usando el framework para aplicaciones híbridas Ionic 4, desarrollo de funcionalidades back-end con Ruby on Rails, manejo de repositorios Git y servicios AWS.",
+        "Responsabilidades: Migración, desarrollo y actualización de una aplicación móvil usando el framework para aplicaciones híbridas Ionic 4, desarrollo de funcionalidades backend con Ruby on Rails, manejo de repositorios Git y servicios AWS.",
         "Proyecto: HandleBay, sitio web parecido a una red social para proveedores, clientes, intermediarios, empresas.",
         "Pila: Aplicación web con Ruby on Rails, base de datos PostgreSQL, CVS con git y repositorios GitLab, servidores de aplicaciones Unicorn y Passenger.",
         "Infraestructura: Sistemas Operativos Linux (Ubuntu) y Windows (7, 10), servicios AWS, instancias EC2 y AMI, buckets S3, Slack, Scrum.",
@@ -192,25 +192,25 @@
       "summary": "Somos un equipo de programadores/diseñadores/geeks y freaks en general que encuentran su oficio muy entretenido y apasionante. Como equipo trabajan en proyectos de desarrollo de software para diferentes áreas, haciendo énfasis en las aplicaciones móviles y web pero con experiencia en proyectos de telefonía, kioscos digitales, aplicaciones corporativas, sistemas de seguridad, IA, criptografía y hasta instalaciones artísticas.",
       "highlights": [
         "Proyecto: Houspoon, aplicación web que coordina chefs, reservaciones y servicios de comida en casa.",
-        "Pila: Servidor back-end con NodeJS, aplicación web front-end con ReactJS, aplicación móvil con ReactNative, base de datos PostgreSQL, CVS con git y repositorios BitBucket.",
+        "Pila: Servidor backend con NodeJS, aplicación web frontend con ReactJS, aplicación móvil con ReactNative, base de datos PostgreSQL, CVS con git y repositorios BitBucket.",
         "Infraestructura: Sistema Operativo Linux, PaaS en la nube Heroku, Slack para comunicaciones, Toggl para gestión de tareas, Scrum para gestión de proyecto.",
-        "Responsabilidades: Desarrollo de funcionalidades back-end con NodeJS, implementación de pruebas unitarias con librería Mocha, implementación de pruebas de integración con base de datos PostgreSQL, desarrollo con ReactJS y librería de estado Redux.",
+        "Responsabilidades: Desarrollo de funcionalidades backend con NodeJS, implementación de pruebas unitarias con librería Mocha, implementación de pruebas de integración con base de datos PostgreSQL, desarrollo con ReactJS y librería de estado Redux.",
         "Proyecto: Sistema de Suscripciones, gestión de suscripciones e integraciones con un servicio de mercadeo externo (Mailchimp).",
-        "Pila: Servidor back-end con el framework Django, base de datos PostgreSQL, CVS con git y repositorios BitBucket.",
+        "Pila: Servidor backend con el framework Django, base de datos PostgreSQL, CVS con git y repositorios BitBucket.",
         "Infraestructura: Sistema Operativo Linux, Slack para comunicaciones, Toggl para gestión de tareas, Scrum para gestión de proyecto.",
-        "Responsabilidades: Desarrollo de funcionalidades back-end con el framework Django, manejo de hilos, llamadas remotas a servicios.",
+        "Responsabilidades: Desarrollo de funcionalidades backend con el framework Django, manejo de hilos, llamadas remotas a servicios.",
         "Proyecto: Coquelux, tienda virtual de ropa.",
-        "Pila: Servidor back-end con PHP, aplicación web front-end con librería AngularJS, bases de datos PostgreSQL y MySQL, CVS con git y repositorios GitHub.",
+        "Pila: Servidor backend con PHP, aplicación web frontend con librería AngularJS, bases de datos PostgreSQL y MySQL, CVS con git y repositorios GitHub.",
         "Infraestructura: Sistema Operativo Linux, Docker para manejo de contenedores y virtualización, servidores web (Apache), Slack para comunicaciones, Toggl para gestión de tareas, Scrum para gestión de proyecto.",
-        "Responsabilidades: Desarrollo de funcionalidades back-end con PHP, desarrollo de funcionalidades front-end con la librería AngularJS.",
+        "Responsabilidades: Desarrollo de funcionalidades backend con PHP, desarrollo de funcionalidades frontend con la librería AngularJS.",
         "Proyecto: Sistema de Logística, aplicación web que consume, procesa y publica WebServices o APIs backend remotas SOAP y REST con información referente a logística como direcciones, couriers, pedidos, paquetes, entregas.",
-        "Pila: Servidor back-end con el framework de PHP Silex, bases de datos Postgres y MySQL, librerías Doctrine y Phinx para gestión de bases de datos y migraciones, CVS con git y repositorios GitHub.",
+        "Pila: Servidor backend con el framework de PHP Silex, bases de datos Postgres y MySQL, librerías Doctrine y Phinx para gestión de bases de datos y migraciones, CVS con git y repositorios GitHub.",
         "Infraestructura: Sistema Operativo Linux, Docker para manejo de contenedores y virtualización, servidores web (Apache), Slack para comunicaciones, Toggl para gestión de tareas, Scrum para gestión de proyecto.",
-        "Responsabilidades: Desarrollo de funcionalidades back-end con el framework Silex.",
+        "Responsabilidades: Desarrollo de funcionalidades backend con el framework Silex.",
         "Proyecto: SmartReader, aplicación web de lectura y cuestionarios inteligentes de artículos y lecturas publicadas.",
-        "Pila: Servidor back-end con el framework Ruby on Rails, aplicación web front-end con la librería AngularJS, base de datos PostgreSQL, CVS con git y repositorios BitBucket.",
+        "Pila: Servidor backend con el framework Ruby on Rails, aplicación web frontend con la librería AngularJS, base de datos PostgreSQL, CVS con git y repositorios BitBucket.",
         "Infraestructura: Sistema Operativo Linux, Heroku para despliegues en la nube usando PaaS, Slack para comunicaciones, Toggl para gestión de tareas, Scrum para gestión de proyecto.",
-        "Responsabilidades: Desarrollo de funcionalidades back-end con el framework Ruby on Rails, desarrollo de funcionalidades front-end con la librería AngularJS."
+        "Responsabilidades: Desarrollo de funcionalidades backend con el framework Ruby on Rails, desarrollo de funcionalidades frontend con la librería AngularJS."
       ]
     },
     {
