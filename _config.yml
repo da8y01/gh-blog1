@@ -5,7 +5,7 @@ email: blog@easy-eng.net
 description: "Miscellaneous posts from easy-eng.net site."
 # baseurl: ""
 # url: ""
-baseurl: /gh-blog
+baseurl: /gh-blog1
 url: http://da8y01.github.io
 future: true
 paginate: 15
