@@ -132,19 +132,63 @@ Se narran los últimos días del escritor y pintor esotérico Robert Blake; se i
 Se hace mención a la pos-guerra, los cinco estadios que se dan en todos los mitos: *horror numinoso - leyenda folklórica - arte fantástico o terrorífico - humorismo - bufonada*, y se describen los relatos seleccionados para esta etapa.
 
 ### La Hoya de las Brujas, por *H. P. Lovecraft y A. Derleth*
+Se presenta el Distrito Escolar Número Siete y uno de los alumnos, Andrew Potter. El maestro, sr. Williams, interroga a Wilbur Dunlock y se entera de cosas como la vivienda y familia Potter. Luego en una ocasión el maestro Williams pide a Andrew que se quede después de clase, intenta conversar, al final lleva en coche a Andrew hasta la ruinosa casa Potter después de atravesar caminos y bosque espeso y sombrío; maestro Williams y familia Potter se presentan, Williams trata de conversar pero recibe reticencia. Williams regresa a su apartamento de Arkham agitado, pasa mala noche, al día siguiente Wilbur lo reprocha y le cuenta de la media docena de vacas aplastadas, Williams termina jornada y acude donde el amigo en las oficinas de la *Gazette*. En la charla con el amigo se entera de la relación entre el Hechicero Potter y el Brujo Whately de Dunwich, historia e historias acerca de la Hoya de las Brujas, el amigo dirige a Williams a un libro en la Bibliteca de la Universidad de Miskatonic que se encontraba ahí mismo en Arkham. El libro hallado tiene su título en latín, Necronomicón, autor árabe, Abdul Alhazred, y escrito en un inglés arcaico. Menciona la batalla entre Arquetípicos y Primordiales, el plan para dominar la Tierra, pueblos extraños como los Tcho-Tcho y los Profundos. Mientras lee conoce a Martin Keane, un amigo con el que sale a conversar. En la casa antigua de Keane le presenta el plan de las piedras con forma de estrellas y Andrew Potter. El plan funciona, retienen a Andrew en la casa de Keane y también con las piedras vencen a hermana y padre en la escuela, en seguida se dirigen a la Hoya por la madre, que es donde reside la entidad. En la oscuridad y espesura viajan hasta la casa del valle de la Hoya de las Brujas, Keane sella la casa con piedras y acumulando broza le enciende fuego, por una ventana ven las convulsiones, transformación y explulsión de la entidad del cuerpo de la sra. Potter, la forma brumosa escapa por la chimenea como un vapor para luego concentrase en una sombra negra que sale hacia las estrellas en dirección a las Híadas, logran rescatar a la madre y ya liberados, los Potter parten para nunca volver a ese valle espectral.
 
 ### El sello de R'lyeh, por *August Derleth*
+Se presenta al sr. Phillips, las advertencias que le hacían sobre la mar, mueren sus familiares y hereda dos propiedades por el pueblo Insmouth. Ocupa las residencias, percibe la sensación de familiaridad, en el pueblo se entera de historia de su familia y otra, los Marsh, conoce a Ada Marsh que fácilmente accede a trabajar para él en la residencia heredada, la alucinación de estar en un ser viviente inmenso, Phillips descubre a Ada secretamente buscando algo (notas, documentos, información) que niega explicarle o revelarle.
+
+Días después Phillips encuentra las notas y documentos buscados, lee y estudia la basta documentación, mapas, libros, recortes, piensa sobre los mitos y autores, al final Ada se da cuenta que él lo ha hallado.
+
+Phillips continúa estudiando los escritos del tío Sylvan, días después encuentra el anillo/sortija al que había hecho referencia Ada Marsh, al usarlo experimenta sensaciones y alucinaciones que le hacen comprender las fuerzas convocadas en ese lugar y el camino seguido por el tío para encaminarse a la mar; con la ayuda del anillo/sortija encuentra el pozo con escaleras secreto que lo conduciría a las profundidades después de haber adquirido un equipo de buceo, luego de internarse en la grieta y profundidades de la caverna y el mar, justo antes de perder el conocimiento una Ada Marsh desnuda nadando con toda naturalidad lo encuentra.
+
+Marius Phillips con habilidades anfibias por su transformación es guiado por Ada Marsh, nadan, visitan el Arrecife del Diablo, hacen un pacto, semanas después viajan a Ponapé para iniciar/continuar una ardua/intensa búsqueda de la ciudad sumergida donde se encuentra el sello que confina al grande Cthulhu, tienen éxito, lo encuentran, y como familia junto con otros se disponen a retirar/liberar el sello y entregarse en veneración al gran Cthulhu.
 
 ### La sombra que huyó del chapitel, por *Robert Bloch*
+Edmund Fiske, amigo del fallecido Robert Blake, arriba a Benefit Street en Providence, se rememoran los eventos de la muerte de Blake, su interés y hallazgo en la ruinosa iglesia de Federal Hill, el cadáver y notes del reportero, y demás. Fiske trata de seguir las investigaciones de la muerte de su amigo, trata de visitar los lugares y entrevistar a las personas infructuosamente. Pasan los años y estando de servicio militar Fiske se topa un par de ocasiones con el nombre del Dr. Ambrose Dexter en revistas/artículos y conferencias científicas de física, quien hacía años se había deshecho de la caja con el Trapezoide Resplandeciente arrojándolo a las profundidades del mar, y decide tomar acción contratando al detective privado de Providence Ogden Purvis para encontrar al dr. Ambrose, pasan algunas estaciones e informes de Purvis, incluyendo la entrevista con el pescador/barquero Tom Jonas, hasta que se tiene noticia del retorno del dr. Ambrose a su residencia de Providence pero con inconvenientes para ser contactado, y Fiske decide presentarse personalmente para tratar de lograr el anhelado/buscado/esperado encuentro. Retoma al inicio de la historia cuando arriba a la residencia del dr. Ambrose Dexter en Benefit Street, al llamar a la puerta y ser recibido por el criado es aceptado y atendido por el dr. en persona, dialogan, Fiske aduce/deduce que esa persona ya no es más el dr. Ambrose Dexter sino una reencarnación de Nyarlathotep, intenta matarlo de un disparo que no llega a ocurrir, Fiske cae muerto, Dexter ordena seguir un conducto regular para este caso de un invitado fallecido en su domicilio y continuar con los preparativos del viaje del día siguiente, termina en el jardín con las dos panteras escapadas del museo sumisas ante él.
 
 ### La iglesia de High Street, por *J. Ramsey Campbell*
+El narrador mister Richard Dodd, empujado por las circunstancias, acude a Temphill donde el amigo Albert Young quien le había ofrecido trabajo, describe el inquierante paisaje del camino, menciona cosas que el amigo había leído en viejos volúmenes, y cuenta aspectos e historia del lugar, ritos, colina e iglesia. Describe el antiquísimo y lúgubre pueblo Temphill, al no encontrar a su amigo visita al vecino John Clothier, le habla de ritos, de *los del otro lado*, de la iglesia, y de que se llevaron a Young, termina la conversación y Dodd se dirige a la residencia de Young. Allí lee los papeles con anotaciones y el diario, deduce que debe apresurarse a ir a la iglesia, rápidamente recorre el camino en el coche, entra a la abandonada iglesia, y desciende por una pequeña abertura con escalinatas que desubre en el suelo. En el subterráneo ve las 12 estatuas, las hileras de lápidas con cadáveres, los otras escalinatas que conducían *más abajo aún*, los ruidos y la luz verdosa de forma ovalada que muestra una especie de ventana a otro paisaje y reino, las formas blancas gelatinosas que saltando se acercan hasta traspasar el portal para perseguirlo, cae inconsciente, los hongos que había y que se le adherían, febrilmente logra huir por las escaleras por las que había bajado, abandona el coche al no encontrar las llaves, corre desalado hacia la Plaza del Mercado para alejarse de la iglesia de Temphill, pero sucede algo parecido a lo que se había aludido antes, que era como si el espacio se curvara y las calles y direcciones lo llevaran nuevamente a algun punto, la iglesia de High Street, luego siguiendo la huída es atropellado por un carro, despierta en el hospital de Camside, pero inquieto y delirante desaparece dejando el presente manuscrito.
 
 ### Con la técnica de Lovecraft, por *Juan Perucho*
+Se describe una escena en una especie de bar donde un disco toca música, la descripción decadente del ambiente lúgubre, sórdido y la percepción de enfermedad y vejez del caracter/personaje, acude o se traslada la escena a un escenario donde una cantante termina su número, y en una barra se acerca una mujer, mientras se alude a una forma reptante y resplandeciente en la lejanía.
 
 
 ### Bibliografía
 
 ### Notas
+7. Stoker, 1.1.84. De esta novela dijo Lovecraft que "arruinaba completamente una idea magnífica por el tratamiento casi infantil de la misma" (Lovecraft: *El horror en la literatura*, 1.1.50).
+
+26. 2.3.29. Es en "La ciudad sin nombre" donde por primera vez cita Lovecraft el *Necronomicon*.
+
+32. ... definí lo fantástico como "lo numinoso cuando ya no se cree en ello"
+
+39. Blake 2.5.5. Blake evitó el irracionalismo de Swedenborg al expresarse en un plano no filosófico sino estético.
+
+41. El lenguaje aklo y los Dôls son invenciones de Machen y figuran por primera vez en su cuento "El pueblo blanco" (2.5.14).
+
+42. En "El Gran Dios Pan" (2.5.16), Machen intenta hacer pasar a Nodens, que es en realidad invención suya, por un numen romano.
+
+43. Derleth, 2.3.17. En otras ocasiones no se identifica plenamente al Wendigo con Ithaqua, pero al menos se le considera como pariente suyo muy próximo.
+
+46. Shiel, 2.5.22. Esta descripción se limita a subrayar una semejanza percibida subjetivamente y, por tanto, Shiel no traspasa aquí las fronteras del arte realista. En cambio, cuando Lovecraft, para expresar un sentimiento análogo al de Shiel, describe ruinas auténticamente prehumanas, hace arte fantástico, pues, aún dentro de la ficción aceptada que es el arte, objetiva su subjetividad en una aparente realidad. En líneas generales, puede decirse que el realismo y la fantasía dependen sólo del predominio respectivo de los factores perceptivos (subjetivación de lo objetivo) o expresivos (objetivación de lo subjetivo) presentes en todo arte. Véase, a este respecto, Llopis, 2.6.41.
+
+47. Poe, 2.5.21. El *Gordon Pym* casi debería también ser considerado como parte integrante de los Mitos, o al menos como uno de sus antepasados más directos e inmediatos. Así lo pone de manifiesto el propio Lovecraft en su relato "En las montañas de la locura" (2.3.28) que constituye, no sólo una continuación de la novela de Poe, sino también una interpretación de la misma a la luz de los Mitos.
+
+51. Chambers 2.5.6 y 2.5.7. En el cuento "El susurrador en la oscuridad" (2.3.27), Lovecraft cita textualmente el terrible Signo Amarillo inventado por Chambers.
+
+54. El primer relato en que aparecen los Dioses Arquetípicos es "The Lair of the Star-spawn" de Derleth y Schorer (2.2.15), publicado originalmente en *Weird Tales* en agosto de 1932. Pese a su indudable interés histórico, no lo he incluído en esta antología por su (a mi juicio) demasiado baja calidad.
+
+56. La bibliografía canónica de los Mitos ha sido establecida por Carter ("The Books", 2.6.6.), que hace constar si cada libro citado es real o imaginario y, en este caso, quién es su inventor. Véase también la nota 77.
+
+59. Rothovius, 2.6.46. Este trabajo está ilustrado por varias fotografías de los megalitos que más impresionaron a Lovecraft.
+
+60. Llopis, 2.6.40. El "descensus ad inferos" es un elemento imprescindible de todo cuento de miedo. De ahí el valor catártico de éstos.
+
+68. Sobre el concepto de arquetipo, cf. Jung, 2.6.24 a 2.6.26. En lo que respecta a los arquetipos en sus relaciones con los cuentos de miedo, cf. Llopis, 2.6.38.
+
+69. "El extraño" (2.4.2). Sobre este cuento escribe Groff Conklin en 1.1.14: "El extraño individuo que escribió este extraño relato vivió sin duda algo de lo que escribió; y supongo, por lo tanto, que a partir de esta narración un psiquiatra podría deducir muchas cosas de su autor".
+
+80. Véase Freud, 2.6.20. Esta breve obra de Freud no figura en la edición de sus *Obras Completas* editada por Biblioteca Nueva.
 
 
 

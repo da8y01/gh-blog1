@@ -686,7 +686,7 @@ Ese filmclip… te llaman «Mahdi»… «Lisan al-Gaib»… como último recurso
 
 ### <span id="Capitulo15">[Capítulo 15](#Capitulo15)</span>
 
-Se lleva a cabo el encuentro con el planetólogo/ecólog Kynes, el Liet; en el campo de aterrizaje de Arrakeen se encuentran, se ajustan los destiltrajes, abordan los respectivos omnitópteros, van el duque Leto, el planetólogo Kynes, el maestro de armas Gurney Halleck, el heredero ducal Paul, y demás escolta; vuelan más allá de la Muralla Escudo hasta el sitio donde hay un tractor extrayendo especia, sobrevuelan, hablan, observan la operación, ven al gusano distante acercándose, ejecutan la maniabra de rescate requerida ante la amenaza del gusano y la falta del ala de acarreo.
+Se lleva a cabo el encuentro con el planetólogo/ecólogo Kynes, el Liet; en el campo de aterrizaje de Arrakeen se encuentran, se ajustan los destiltrajes, abordan los respectivos ornitópteros, van el duque Leto, el planetólogo Kynes, el maestro de armas Gurney Halleck, el heredero ducal Paul, y demás escolta; vuelan más allá de la Muralla Escudo hasta el sitio donde hay un tractor extrayendo especia, sobrevuelan, hablan, observan la operación, ven al gusano distante acercándose, ejecutan la maniabra de rescate requerida ante la amenaza del gusano y la falta del ala de acarreo.
 
 Se vanagloriaba de ser un científico, para el cual las leyendas eran tan sólo otros tantos interesantes indicios que revelaban las raíces de una cultura.
 
@@ -1359,6 +1359,762 @@ Y cerró los ojos, pensando: No, padre mío, no puedo llorarte. Y sintió las l�
 
 ## <span id="LibroSegundoMuadDib">[Libro segundo: Muad’Dib](#LibroSegundoMuadDib)</span>
 
+### <span id="Capitulo23">[Capítulo 23](#Capitulo23)</span>
+
+Habiendo pasado un rato en la destiltienda, Paul se incorpora, se acomoda el destiltraje y sale a la hondonada exterior, su madre Jessica lo sigue con algo de reticencia, Paul desarma y recoge la tienda, una tormenta de arena ha pasado, observan el cielo estrellado y el paisaje y empiezan a caminar sobre la recientemente formada capa de arena desértica, al emprender el camino ven unos relámpagos y chorros de rayos de colores que pasan por el cielo, son descargas, columnas de fuego y láseres de los ornitópteros Harkonnen que les están dando condunte caza.
+
+Buscó el tubo de agua de su destiltraje, fijado a su cuello, aspiró una bocanada tibia, y pensó que así iniciaba realmente su existencia arrakena… viviendo de la humedad de su cuerpo y de su propia respiración. Era un agua insípida y dulzona, pero calmó la sequedad de su garganta.
+
+La oscuridad es un recuerdo ciego, pensó. ... El oído ve, el olfato ve.
+
+### <span id="Capitulo24">[Capítulo 24](#Capitulo24)</span>
+
+El mentat Thufir Hawat el día después del letal ataque a Arrakeen se encuentra en compañia de un Fremen acurrucado que literalmente se ha deslizado por la arena y de una veintena de sus hombres heridos después de la batalla en una cornisa rocosa que domina un vasto sink cerca de Tsimpo, un poblado de guarnición, puesto avanzado de la antigua capital, Carthag; sopesa la enorme dimensión del ataque y costos, tiene por traidora a Dama Jessica, dialoga con el fremen, el fremen le informa que Gurney Halleck y otros están a salvo con sus amigos contrabandistas, hablan de que debe tomar una decisión de agua y del vínculo del agua, hacen alianza; Arkie, uno de sus soldados, fallece, otros fremen surgen para llevarse al difunto y extraerle su agua con otras costumbres pero con el mismo respeto. A continuación se ven unas figuras en el desierto y se perciben tópteros enemigos que sobrevuelan, hay batalla al descender, los fremen son triunfadores y raptan el tóptero, pero otros tópteros y transportes aparecen, al estar cercanamente reunidos del lugar de la refriega, se observa cómo fugaz y en picada el primer tóptero secuestrado por los fremen vuelve para al estilo kamikaze sacrificarse destruyendo el transporte y demás tópteros, finalmente una lluvia de uniformes azules de Sardaukar cae desde lo alto de la cornisa matando al fremen amigo/aliado y aturdiendo con un proyectil al mentat Hawat.
+
+Y esto es un profundo pensamiento si uno concibe hasta qué punto puede ser inestable «la verdad».
+
+Esta es la maldición del Mentat. Uno no puede impedir analizar los datos.
+
+A un lado de la boca, su barba y su bigote estaban aplastados por la depresión del tubo que surgía de los tampones de su nariz.
+
+«A los Fremen no les gusta decir que no», había dicho Idaho en una ocasión.
+
+Nos creéis tan corruptos como los bizantinos.
+
+Tu Duque, por lo que se dice, ha encontrado la suya. En cuanto al Lisan al-Gaib, su hijo, está en las manos de Liet. Y Liet no ha dicho nada.
+
+El recuerdo de aquél que ha muerto vivirá para siempre.
+
+Esa gente respeta a nuestros muertos. Sus costumbres son distintas de las nuestras, pero tienen el mismo significado.
+
+—Trataremos a vuestro camarada con el mismo respeto que si fuera uno de los nuestros —dijo el Fremen—. Este es el vínculo del agua. Conocemos los ritos. La carne de un hombre le pertenece; el agua pertenece a la tribu.
+
+dio un paso atrás, puso sus manos en copa detrás de su oído, volvió la cabeza y escuchó.
+
+El Fremen acarició al murciélago, calmándolo, susurrándole cosas.
+
+—Uno no tiene por qué presumir que es el único objetivo de una caza —dijo el Fremen—.
+
+—Permaneced silenciosos como animales asustados —susurró el Fremen.
+
+### <span id="Capitulo25">[Capítulo 25](#Capitulo25)</span>
+
+Paul y su madre Jessica continuando su camino por el desierto ven cómo unos tópteros los siguen y aterrizan cerca de ellos, apresuradamente Duncan Idaho seguido por algunos Fremen se apea del vehículo para guiarlos, los Fremen descubren una entrada a un pasadizo subterráneo escondido en la arena, lo transitan hasta llegar a una caverna que ha sido adaptada como una cámara subterránea, allí se encuentran con el planetólogo Kynes, conocido como Liet entre los Fremen, observan la estancia y máquinas, hay animales, es una de las Estaciones Ecológicas Experimentales Imperiales que el fallecido duque Leto quería como bases de avanzada; una de las máquinas falla, un Fremen reporta, Kynes da instrucciones para utilizar otros aparatos manuales, solicita café de especia para reunirse con los invitados en otro cuarto más privadamente, pasan la puerta de plastiacero a través de la abertura en la caverna, observan esta nueva habitación, dialogan, Paul expone el plan que involucra pretender la potestad imperial, un Acta de Acusación presentada ante el Landsraad, las Grandes Casas, le propone a Kynes que intercambien sus lealtades mutuas; el café no arriba, y depronto la puerta se abre y se observa una explosión de violencia que se está desarrollando en la cámara principal, hay hojas de acero, escudos protectores, muerte, Duncan Idaho defiende bravamente la entrada a la cámara privada donde estaban los tres dialogando, éstos se apresuran a escapar por la otra salida escondida en los archivadores que conduce a la boca de un túnel con flechas luminosas en el suelo que los conducirán por los pasadizos, Idaho perece, Kynes les da instrucciones y se separa, madre e hijo corren por el túnel hasta llegar al recinto donde se encuentra el tóptero preparado, entran y lo operan, abren la puerta que desemboca al desierto y a la tormenta donde se les ha indicado que deben ir para lograr el escape, Paul pilotando el tóptero con la ayuda de Jessica vuelan en la fuerte tormenta de arena, ambos tratan de sobrepasar el miedo de las circusntancias actuales que les atañe.
+
+Y él siempre huía de la tentación de escoger un camino claro y seguro, advirtiendo: «Este sendero conduce inevitablemente al estancamiento».
+
+Paul reconoció una: el alto e inconfundible Kynes.
+
+Kynes estaba de pie frente a ellos, con la capucha de su jubba echada sobre los hombros. El cuello de su destiltraje relucía a la verdosa luz. Sus largos cabellos y su barba estaban despeinados. Sus azules ojos, sin blanco, eran dos oscuros pozos bajo sus espesas cejas.
+
+—Habéis identificado correctamente este lugar —dijo Kynes—. ¿Para qué lo utilizaríais, Paul Atreides?
+
+—Para hacer este planeta habitable a los seres humanos —dijo Paul.
+
+Quizá es por esto por lo que les ayudo, pensó Kynes.
+
+Liet era su alter ego Fremen, el otro rostro del tranquilo planetólogo.
+
+Hay acero en este hombre, pero nadie ha conseguido templarlo aún… y nosotros tenemos necesidad de acero.
+
+Mientras viva, quiero continuar siendo una molestia, como un palo clavado en su garganta que termine sofocándolos y matándolos!
+
+A veces la superstición tiene extrañas raíces y extrañas ramificaciones.
+
+—Ha hecho lo que haría todo buen jefe de guerrilleros —dijo Paul—.
+
+Paul asintió, luchando contra una repentina repugnancia a moverse. No conocía el origen, pero aquel conocimiento no le hubiera sido de ninguna utilidad. Aquella noche, en un determinado momento, había superado un decisivo nexo hacia el más profundo desconocido. Conocía las regiones temporales que lo circundaban, pero el ahora-y-aquí seguía siendo un misterio.
+
+Y con un brusco sentimiento de shock comprendió que había ido confiando una vez más en sus recuerdos prescientes, y que esto lo había debilitado en aquel momento de emergencia.
+
+«Si confías tan sólo en tu mirada, tus otros sentidos se debilitarán». Este era un axioma Bene Gesserit.
+
+La polvorienta segunda luna surgió del horizonte a su derecha, definiendo el curso de la tormenta.
+
+Pero ella sintió que se sumergían cada vez más profundamente en aquel Maëlstrom.
+
+Paul se concentró en la esfera luminosa con la curva de altitud, batallando por enderezar el aparato y mantenerlo en su línea de vuelo.
+
+El miedo mata la mente.
+
+La calma la abandonó de nuevo. Jessica sintió el castañeteo de sus dientes y los apretó con fuerza.
+
+—El miedo mata la mente. El miedo es la pequeña muerte que conduce a la destrucción total. Afrontaré mi miedo. Permitiré que pase sobre mí y a través de mí. Y cuando haya pasado, giraré mi ojo interior para escrutar su camino. Allá donde haya pasado el miedo ya no habrá nada. Sólo estaré yo.
+
+### <span id="Capitulo26">[Capítulo 26](#Capitulo26)</span>
+
+El barón Vladimir Harkonnen en sus habitaciones privadas en la fragata espacial que lo había llevado hasta Arrakis, ayudado por sus suspensores, habla con Jakin Nefud, el capitán de los guardias; éste intenta transmitirle que tanto dama Jessica como el muchacho Paul Atreides ya están muertos, el Barón lo duda e increpa a Nefud, el guardia le informa de las pérdidas en el enfrentamiento con los Fremen cerca al lugar donde los había conducido Duncan Idaho al estar cazando a Jessica y Paul, también le informa que el planetólogo Kynes y el mentat Thufir Hawat están ahora en poder de los Sardaukar, el Barón muestra voluntad de causar la muerte a Kynes disimuladamente como por motivo de un accidente dado su rol con el emperador, y de utilizar y seducir al mentat Hawat como reemplazo de su fallecido mentat Piter de Vries en la escena del gas tóxico exhalado de la muela por el duque Leto como atentado contra su vida aprovechando el convencinmiento y falsa información que tiene Hawat acerca de que dama Jessica es la traidora en lugar del difunto doctor Yueh de la Escuela Interna Suk, el Barón le expone al guardia Nefud el plan a ejecutar de envenenar al Mentat, finalmente le ordena que se apresure a iniciar las operaciones. A continuación, con la intención de entregarle de nuevo la potestad del planeta, el Barón con un botón llama a su sobrino mayor Rabban quien hace presencia en la habitación, para ello el Barón solamente le hace dos exigencias: beneficios, y un mando implacable; hablan de la situación actual, del mentat Piter fallecido, de los costos de la actual operación, de la muerte del doctor Yueh, y en general el Barón da instrucciones a Rabban acerca de cómo regir, de las Casas Menores, de los contrabandistas, le informa de los planes fatales para el planetólogo Kynes, del aprovisionamiento de especia (melange), al final el Barón despide a su sobrino Rabban, y se queda pensando en el potencial que tiene el hermano más pequeño de Rabban, el joven Feyd-Rautha.
+
+¿Qué es lo que desprecias? Por ello serás conocido.
+
+Los instrumentos del poder deben estar siempre afilados y a punto. Poder y miedo… afilados y a punto.
+
+El Barón observaba fijamente a Nefud, notando el tic nervioso en los músculos de su mandíbula, el modo como se crispaba su mentón cuando intentaba deglutir.
+
+—Ese hombre debe morir —retumbó el Barón—. Ha intentado ayudar a nuestros enemigos.
+
+—El mejor método de controlar y dirigir a un Mentat, Nefud, es alimentar su información. Falsas informaciones… falsos resultados.
+
+Nefud se mostró incómodo.
+
+En su agua le administrarán un veneno residual puesto a punto por el finado Piter de Vries.
+
+El gas que exhaló en mi presencia me privó de mi valioso Mentat, Piter. Necesito un sustituto.
+
+Su dueño era débil, su razón se dejaba ofuscar por las emociones. Los Mentats admiran la habilidad de calcular por encima de las emociones, Nefud.
+
+El Barón deslizó una mano hacia un tapiz al lado de su cama a suspensor y oprimió un botón llamando a su sobrino mayor, Rabban.
+
+El joven Feyd-Rautha. Había en el muchacho una cierta dureza que alegraba al Barón… una ferocidad.
+
+El hombre que estaba de pie en el umbral de la puerta de entrada del dormitorio del Barón, protegida por el campo, era de baja estatura, grueso de rostro y de cuerpo, con los rasgos de la línea paterna de los Harkonnen presentes en los ojos muy juntos y los anchos hombros. Había cierta rigidez en sus gorduras, pero era obvio que dentro de muy poco tiempo tendría que llevar suspensores portátiles para acarrear todo su exceso de grasa.
+
+Si le dejo plena libertad, estoy seguro de que lo barrerá todo a su paso. ¡Oh, cómo le van a odiar aquí en Arrakis!
+
+El miedo asomó a los porcinos ojos de Rabban.
+
+Antes de que esto ocurra, de todos modos, ya habré hecho llegar a sus manos mi propio informe, a través de los canales de la Compañía CHOAM.
+
+El Barón se irritó consigo mismo. Se sintió traicionado.
+
+Y, no por primera vez, el Barón se preguntó si llegaría el día en que pudiera prescindir de la Cofradía. Eran insidiosos…
+
+—Nadie cree a los contrabandistas, Rabban. Son tolerados, pero no creídos.
+
+Piensa en esos lerdos y en lo que son… esclavos envidiosos de sus dueños, esperando la primera ocasión para rebelarse.
+
+—Sonrió, una expresión de bebé en su gordo rostro—.
+
+Un carnívoro no se detiene jamás. No tiene piedad. Nunca se para. La piedad es una quimera. El estómago gruñendo su hambre, la sed secando la garganta, bastan para eliminarla. Siempre has de tener hambre y sed. —El Barón acarició sus adiposidades bajo los suspensores—. Como yo.
+
+—¿Cómo crees que he llegado tan lejos y tan rápidamente? —preguntó el Barón. Su voz era baja, cargada de innombrables implicaciones—.
+
+El muchacho que, cuando llegue el momento, sabrá cómo oprimir con impunidad.
+
+### <span id="Capitulo27">[Capítulo 27](#Capitulo27)</span>
+
+Volando en el tóptero en la tormenta de arena, Paul y su madre Jessica pilotean e intentan dominar el miedo y los nervios, Paul trata de entender las corrientes, fuerzas, vórtices, turbulencias y géiseres que los envuelven, maniobra y hace virar la nave, hasta que van saliendo y la tormenta se aleja, las alas pueden estar averiadas por el esfuerzo, disminuyen altitud, planean, y Paul usa las dunas como freno, al aterrizar el ala derecha se desprende, habiendo planeado el aterrizaje, al estrellarse corren inmediatamente hacia las rocas que sobresalían como islas en la arena, al alcanzarlas y seguir corriendo perciben cómo un gusano despedaza el ornitóptero en el que aterrizaron; en seguida siguen su camino por la cresta rocosa alcanzada hacia las profundidades del desierto abierto (en el sur), deben viajar de noche como recita el Kitab al-Ibar, Jessica recupera el aliento, Paul se ajusta la mochila, en medio del camino toman un descanso, comen y se hidratan, perciben que hay especia melange cerca, el alba se acerca, piensan y planean en cómo atravesar el mar de desierto de aprox. cuatro kilómetros que se interpone; al estar cerca del borde del desierto se encuentran con una pendiente descendiente de arena que deben bajar, Paul lo hace primero sin complicaciones, pero al hacerlo Jessica es sepultada por la avalancha, Paul logra rescatarla justo a tiempo para escapar de la ladera de arena que se precipitaba pero pierde la mochila en la maniobra, luego de un pequeño instante de desesperación cavilan cómo rescatar la mochila evitando la ladera y avalanchas, lo planean y hacen usando espuma generada con la especia melange de naturaleza altamente alcalina, el ácido de la pila del paracompás y agua para endurecer la arena mientras hacen las necesarias excavaciones en búsqueda de la mochila, después de recolectar la necesaria muestra de especia, Paul regresa y hace la mezcla que producirá la espuma en un compartimiento del paracompás desmontado, ejecutan el plan con Paul esparciendo la espuma producida (sustancia alcalina + sustancia ácida + agua) y Jessica excavando hasta dar con la anilla y correa de la mochila, entonces al final entre ambos sacan la mochila de su sepultura, al estar a salvo en el suelo de la fisura rocosa con la mochila, Paul está sucio y Jessica con manchas y costras de arena verde donde la espuma se había secado, se ríen de la escena, Paul planta la tienda, con los binoculares observan el paisaje delante de ellos, Jessica anota que las hierbas secas que se ven son de Saguaro, cavilan si se encuentran con Fremen qué tan amistosos puedan mostrarse, los halcones alzan el vuelo, ven el transitar de un gigantesco gusano, al final Jessica a modo de reproche le dice que después de descansar deberán continuar con sus lecciones, entran en la tienda.
+
+A la edad de quince años, había aprendido ya el silencio.
+
+Paul desafió el miedo e inclinó el tóptero hacia la izquierda.
+
+Jessica sintió los acelerados latidos de su corazón. Se obligó a calmarse, mirando la tormenta que se perdía a lo lejos.
+
+«No conoceré el miedo…».
+
+Permanecieron escuchando hasta que el rumor de su paso se confundió con el leve roce de la arena a su alrededor.
+
+—«Viaja de noche y permanece en las sombras oscuras durante el día».
+
+El terreno les imponía sus propios ritmos.
+
+—Permanece debajo de la cresta; la luna está a nuestra espalda, y cualquiera de nuestros movimientos podría ser visto.
+
+Oyó a Paul aspirar del tubo de su destiltraje, y ella también sorbió algo de su agua regenerada. Era insípida, y recordó las aguas de Caladan…
+
+Esta era la verdadera felicidad, la posibilidad de detenerse, aunque sólo fuera por un instante. No había ninguna felicidad si uno no podía detenerse.
+
+—Bebe toda tu agua —dijo Paul—. Axioma: el mejor lugar para conservar tu agua es en tu cuerpo. Mantiene tu energía. Te hace fuerte. Ten confianza en tu destiltraje.
+
+«Es mejor una austera comida y un poco de calma que toda una casa llena de luchas y de suspicacias».
+
+«Y secaré los ríos, y venderé la tierra a los perversos: y transformaré el lugar, y todo lo que hay en él, en una extensión árida, y todo ello por manos extranjeras».
+
+Y, puesto que había una Manera Bene Gesserit de descubrir las motivaciones de un extraño comportamiento, buscó en su interior el origen de su frialdad:
+
+Sus pulmones estaban llenos de su propio silencio.
+
+Se la rascó, se quitó el filtro, y percibió el intenso olor a canela en el aire.
+
+A la Manera Bene Gesserit que ella le había enseñado, Paul aplacó el furioso latir de su corazón y redujo su mente a un espacio vacío donde podían aparecer de nuevo los últimos momentos del pasado reciente.
+
+Suspensión bindu, se dijo.
+
+—Se te ve más bien sucia —dijo él.
+
+—Tu tampoco estás muy limpio —dijo ella. Se echaron a reír, luego se calmaron.
+
+Y en el mar, los blancos pétalos de los trimaranes dhows.
+
+Paul dominó una brusca irritación.
+
+Quizá conozcas mejor que yo tu mente y tu sistema nervioso bindu, pero aún tienes mucho que aprender de la musculatura prana. A veces el cuerpo actúa por sí mismo, Paul, y puedo enseñarte algo al respecto.
+
+Paul flexionó los dedos de su mano izquierda, mirando a su madre que se introducía a través de la válvula a esfínter, sabiendo que nada podría apartarla de su determinación… que tendría que doblegarse a ella.
+
+Cualquier cosa que me hayan hecho, yo me he prestado siempre a ello, pensó.
+
+### <span id="Capitulo28">[Capítulo 28](#Capitulo28)</span>
+
+Gurney Halleck se entrevista con el contrabandista Staban Tuek, hijo de Esmar Tuek en una caverna despacho que reproducía el centro de control de una fragata espacial; Halleck le expresa gratitud, Tuek le ofrece trabajo a él y sus hombres como pago, el guerrero Hallek tiene prisa y sed de venganza y sangre contra los Harkonnen, Tuek lo persuade diciendo que no aceptaran acciones contra los Harkonnen arguyendo que su contrato con la Cofradía exige circunspección, Tuek le habla con prudencia, asumen que Paul y Jessica están muertos o definitivamente perdidos, Halleck decide quedarse en Arrakis y ofrece su espada a Tuek, y ambos confían en que sus hombres lo seguirán; al terminar la conversación y salir del despecho a la sala de asambleas que era una larga y estrecha cavidad, Halleck ve con orgullo a sus hombres, sin embargo uno de sus lugartenientes le informa que Mattai, uno de sus hombres, no tiene esperanza de vida debido a la escasez de recursos del lugar, y que sólo le pide una canción para endulzar su muerte, Halleck toma el baliset que le tiende el lugarteniente, empieza a tocar el instrumento y los compañeros a cantar para ofrecerle al moribundo su anhelada despedida.
+
+Y el precio que pagamos era el precio que los hombres han pagado siempre por obtener un paraíso en sus vidas: nos ablandamos, perdimos nuestro temple.
+
+La Cofradía exige un juego circunspecto.
+
+Halleck necesitó un tiempo para conseguir dominar la oleada de ira que amenazaba sumergirlo.
+
+—Uno no debe arriesgarlo todo por liquidar prematuramente una cuenta —dijo Tuek.
+
+—Sea o no expresado, un pensamiento es siempre algo real y potente —dijo Tuek—.
+
+—Actúa lentamente, y el día de tu venganza llegará —dijo Tuek—. La rapidez es el instrumento de Shaitán. Aplaca tu dolor… tenemos diversiones para esto; hay tres cosas que alegran el corazón: el agua, la hierba verde y la belleza de una mujer.
+
+—No puedo ayudarte a afrontar el mañana, Gurney Halleck. Tan sólo puedo ayudarte a afrontar el hoy.
+
+En aquel momento, el contrabandista le recordó al Duque Leto; un conductor de hombres, valeroso, seguro de su posición y de sus actos. Era como el Duque… antes de Arrakis.
+
+—Cada enemigo a su tiempo, ¿no es así?
+
+—¿Quién sabe dónde viven los Fremen? Para nosotros, la Meseta Central es tierra prohibida.
+
+Los Fremen son unas cuantas pandillas de andrajosos a las que nosotros utilizamos como cazadores de especia.
+
+Yo te prometo un refugio y una oportunidad de derramar la sangre que ambos queremos. Puedes estar seguro de ello. Los Fremen sólo te ofrecerán la vida de un animal acosado.
+
+El adiestramiento de los Atreides: «¡Velaremos por nuestros hombres!», era aún un núcleo indestructible en ellos, observó Halleck.
+
+### <span id="Capitulo29">[Capítulo 29](#Capitulo29)</span>
+
+Paul y Jessica en su sitio de campamento aprecian el paisaje del muriente atardecer y el surgir de la noche, la oscuridad y las estrellas, alistan el martilleador y su mecha que les dará alrededor de treinta minutos de desplazamiento, comienzan el característico avance arrítmico del desierto, cuando el martilleador retumba y el gusano atraído despedaza las rocas ellos corren, a pesar de la fatiga los reconforta un poco este movimiento natural y conocido, pasan un tambor de arena y unas estacas de roca, alcanzan la roca y aprecian el surgimiento del gusano, un momento después al resonar otro martilleador extraño éste se aleja, ellos continúan siguiendo las estacas que marcan el camino a lo largo del farallón, tentando en la oscuridad, con movimientos cautos parecidos a los del desplazamiento desértico, avanzan subiendo unos peldaños artificiales hasta llegar a un lugar maravilloso en una depresión poco profunda con vegetación del desierto que arguyen debe ser cuidada por hombres, ven los ratones y el pájaro que los caza, de repente sigilosamente dos Fremen salvajes se aparecen encontrándolos vulnerables.
+
+«Es demasiado hermosa. La reservaremos para un regalo».
+
+La sutileza y el autocontrol, después de todo, ¿no eran acaso una amenaza mortal para todas nosotras?
+
+En algún lugar muy profundo encontró entonces la vorágine negra de su dolor, y desvió la mirada.
+
+Cómo se adapta la mente al entorno, pensó ella.
+
+Aquí uno podría vivir solo, pensó, sin miedo a tener a alguien a tus espaldas, sin miedo a ser cazado.
+
+Hubo un tiempo en que aquel brillante blanco había estado cubierto de agua.
+
+La noche es un túnel, pensó. Un agujero hacia el mañana… siempre que exista un mañana para nosotros.
+
+y reclamó a su memoria la imagen de hombres andando en la arena… a su memoria real y a su memoria presciente—.
+
+Pero los músculos protestaban ante aquel cortado e innatural movimiento:
+
+Sus músculos alcanzaron el estado de dolor mecánico que parecía prolongarse hasta el infinito
+
+Por un tiempo, el correr fue un alivio para sus músculos doloridos a causa de la arrítmica y poco familiar marcha. Ahora existía un movimiento al que estaban acostumbrados. Ahora había ritmo. Pero la arena y la grava dificultaban su marcha.
+
+Jessica y Paul se volvieron, oteando el desierto.
+
+Se elevó más y más arriba, hasta definirse en una enorme boca anhelante. Era un agujero redondo y negro, cuyos contornos relucían al claro de luna.
+
+El reflejo de la luna destelló en los dientes de cristal.
+
+Necesitó toda la concentración de su adiestramiento Bene Gesserit para dominar su terror primordial, para vencer el miedo atávico que amenazaba con destruir su mente.
+
+o en el seno de una ola donde el futuro era algo invisible.
+
+Lejos de aterrarlo, aquella sensación de tinieblas temporales desencadenó una hiperaceleración en sus otros sentidos.
+
+—Quizá no lo han hecho para ayudarnos. Quizá tan sólo han querido llamar al gusano.
+
+Había una respuesta en el umbral de su consciencia, pero rehusaba surgir.
+
+Levantaron los ojos hacia la luz de las estrellas enmarcadas por las dos paredes rocosas.
+
+Peldaños bajos y regulares, pensó Jessica. Sin duda tallados por el hombre.
+
+Pese a su fatiga, la irritación causada por los tubos y los tampones de la nariz y el confinamiento en el destiltraje, pese al miedo y al deseo casi doloroso de descansar, la belleza de aquella depresión cautivó sus sentidos obligándola a detenerse y admirarlo.
+
+Ante ellos se extendía la vegetación del desierto: arbustos, cactus, matojos de hojas coriáceas… todo ello vibrando a la luz de la luna. Las paredes que circundaban la depresión eran oscuras a su izquierda, pero resplandecían como plata a su derecha.
+
+—Tiene que haber hombres aquí para que estas plantas sobrevivan —asintió ella.
+
+—¡Ratones! —exclamó Paul.
+
+Ahora el silencio era tan profundo que casi era posible sentir el fluir de la lechosa luz de la luna sobre los saguaro centinelas y los espinosos matojos. La luz allí era una especie de silencioso murmullo, una armonía más profunda que ninguna otra en todo aquel universo.
+
+—¡La mayor parte de los intrusos lamentan encontrar a los Fremen!
+
+¡Esto es lo que quieren, el agua de nuestros cuerpos!, pensó Jessica. Sus músculos olvidaron toda fatiga, tensándose al máximo, sin traicionar aquel cambio en su actitud externa.
+
+¡Tan sigilosos! No los he oído llegar. Y se dio cuenta de que el propietario de aquella voz se había acercado produciendo tan sólo los ruidos naturales del desierto.
+
+Paul, menos condicionado que su madre a reaccionar, lamentó haberse asustado e intentado escapar, puesto que aquel instante de pánico había ofuscado sus facultades. Se obligó a obedecer sus enseñanzas: relajarse, luego fingir que estaba relajado y tensar todos sus músculos, dispuestos a saltar como un muelle en cualquier dirección.
+
+Sin embargo, se sentía aún al borde del miedo, y reconoció su origen. Aquel era un tiempo ciego, un futuro que no había visto…
+
+### <span id="Capitulo30">[Capítulo 30](#Capitulo30)</span>
+
+Liet-Kynes el planetólogo/ecólogo de su Majestad Imperial ha sido abandonado  por los Harkonnen con diversión en medio del desierto sin destiltraje ni equipo alguno, él trata de desplazarse y sobrevivir, pero cae en la superficie de arena, justo sobre una burbuja de gas de preespecia a punto de estallar, delira oyendo a su padre darle lecciones obvias que ha sabido desde niño, halcones lo sobrevuelan y se acercan, Kynes piensa que los Fremen deberían notar su presencia y rescatarlo, al final la burbuja estalla absorbiéndolo.
+
+La riqueza real de un planeta está en sus paisajes, en el papel que jugamos nosotros en esta fuente primordial de civilización… la agricultura.
+
+—La más alta función de la ecología es la comprensión de las consecuencias.
+
+—Somos generalistas —dijo su padre—. No es posible trazar netas separaciones entre los problemas planetarios. La planetología es una ciencia de corta-y-mide.
+
+—Para el trabajo planetológico, el ser humano es el instrumento más importante —dijo su padre—. Hay que difundir la cultura ecológica entre la gente. Es por esta razón que he puesto a punto un nuevo método de notación ecológica.
+
+—Moverse a través del territorio es una necesidad para la vida animal —dijo su padre—. Incluso los pueblos nómadas sienten esta necesidad. Líneas de movimiento ajustadas a las necesidades físicas de agua, alimento, minerales. Debemos controlar estos movimientos, alinearlos de acuerdo con nuestros propósitos.
+
+La ciencia está formada de muchas cosas que parecen obvias una vez han sido explicadas.
+
+—Hasta ahora, los hombres y sus obras han sido un azote para los planetas —dijo su padre—. La naturaleza tiende a compensar las plagas, rechazándolas o absorbiéndolas para incorporarlas al sistema según sus propias características.
+
+No olvides nunca, de todos modos, que basta con controlar tan sólo el tres por ciento de la energía existente en la superficie… sólo el tres por ciento, para transformar toda la estructura de un sistema autosuficiente.
+
+Los mensajes han partido ya hacia mis poblados sietch, pensó. Nada puede detenerlos. Si el hijo del Duque está vivo, lo encontrarán y lo protegerán como he ordenado. Quizá rechacen a la mujer, su madre, pero salvarán al muchacho.
+
+Luego, mientras el planeta lo mataba, Kynes pensó que su padre y todos los demás científicos estaban equivocados, y que los principios fundamentales del universo eran el accidente y el error.
+
+### <span id="Capitulo31">[Capítulo 31](#Capitulo31)</span>
+
+En la depresión rocosa en la que se encontraban, Paul y Jessica han sido sorprendidos por el Fremen Stilgar, quien antes en el Concejo ducal había reclamado el agua de su fallecido compañero a manos de los Harkonnen, y su grupo, los increpan hasta que Paul rompe el silencio al reconocer a Stilgar, discuten entre ellos acerca del muchacho-hombre, los recomendados por Liet-Kynes, el Lisan al-Gaib, pero dudan de la mujer, Jessica; Jessica actúa en reacción cuando la amenaza de Stilgar se cierne sobre ella, logra dominarlo y retenerlo, Paul tumba y desarma a un Fremen y se escabulle escalando por una hendidura en la roca, Jessica presiona a Stilgar para que comande dejar de perseguir al escapado Paul y detengan la amenaza contra ellos, acuerdan un intercambio de enseñanzas, Chani, la joven hija de Liet-Kynes se presenta, Paul se sorprende al encontrarse con la figura que había soñado en sus visiones prescientes, Stilgar pasa revista a su grupo, les pone a Paul y Jessica los pañuelos del *bakka*, al final comienzan el avance hacia el Sietch Tabr en ordenada formación.
+
+La cabeza envuelta en la capucha del albornoz se sobresaltó, revelando tensión, y luego se relajó lentamente. El hombre sabía controlarse.
+
+—Un niño que piensa y habla como un hombre —dijo el hombre alto—.
+
+Pero no habla ni actúa como los débiles de los pan. Menos que su padre. ¿Cómo es eso posible?
+
+Ahora ya tengo registrada su voz y su esquema, pensó Jessica. Podría controlarlo con una palabra, pero es un hombre fuerte… es mucho más precioso para nosotros así: libre, intacto. Ya veremos.
+
+Es la regla, el Istislah, el interés general.
+
+Se necesita un instante para interpretar algo conocido cuando es presentado como algo desconocido.
+
+—¡He dicho que lo dejes, Chani! ¡Especie de hueva de lagartija!
+
+Ella asintió, a fin de que él comprendiera que se ponían en marcha con su permiso.
+
+Paul sintió que la sangre afluía a su rostro y dio las gracias a la oscuridad de la noche.
+
+Se sintió como cogido por una ola, en armonía con un movimiento que parecía exaltar sus pensamientos.
+
+Los inicios son siempre momentos delicados.
+
+Bakka… el que llora.
+
+Paul reprimió la cólera en su voz.
+
+Sietch: un lugar de reunión en los momentos de peligro.
+
+Jessica asintió, reservando sus fuerzas, consciente del tremendo cansancio que sólo conseguía superar gracias a su voluntad…
+
+Su mente se concentró en el valor de aquella gente, recordando todo lo que le había sido revelado de la cultura Fremen.
+
+### <span id="Capitulo32">[Capítulo 32](#Capitulo32)</span>
+
+Después de partir de la Depresión de Tuono, el grupo del Fremen Stilgar con Paul y Jessica aceptados y portando la pañoleta de *bakka*, arriban a la Caverna de la Cresta, la gente se dispersa, Chani ofrece comida a Paul, la puerta se sella, Stilgar conduce a Jessica para mostrarle otra gran depresión de diez o doce kilómetros de ancho con grupos de plantas y donde se ven los drusos, gente desplazándose por la arena, que él le expresa es su hogar; conversan, hablan de las leyes y los jefes, la Cofradía y la especia, la modificación de la superficie del planeta y los satélites, ven el Hacedor gusano Shai-Hulud cabalgado por Fremen, hablan de la Bene Gesserit, la Sayyadina, la Reverenda Madre, Jessica piensa en la Missionaria Protectiva, mientras la gente mira y escucha, el día ha avanzando y se hace tarde, y es hora de sellar la abertura de la caverna, entonces en ese momento Jessica entona para Stilgar la significativa plegaria del salat que causa conmoción en la gente de la caverna para convertirse en Sayyadina y dar el paso interior si Shai-Hulud lo permite; mientras Paul al lado de Chani percibe los efectos de la concentración de especia en la comida que llevaría su mente hacia una mayor consciencia presciente.
+
+Los Fremen eran supremos en aquella cualidad que los antiguos llamaban «spannungsbogen»… que es la demora que se impone uno mismo entre el deseo de algo y el acto de conseguirlo.
+
+Se detuvo un instante en aquel pensamiento, dándose cuenta de que era un pensamiento de guerrilla, y recordó que el temor de su padre había sido precisamente el de que los Atreides se vieran convertidos en esto, una casa de guerrilla.
+
+«El Paraíso a mi derecha, el Infierno a mi izquierda, y el Ángel de la Muerte tras de mí». Repitió varias veces la cita en su mente.
+
+Contempló la depresión, tirando de su bigote—.
+
+—Obedecen a las leyes de preservación de la tribu —dijo él—. Así es como elegimos a nuestros jefes. El jefe es aquel que es más fuerte, el que procura agua y seguridad —fijó su atención en el rostro de ella.
+
+Agua al cielo abierto, y plantas verdes, y gente caminando libremente sin destiltrajes.
+
+—La corrupción es peligrosa; su precio tiende a aumentar cada vez más.
+
+Necesitó todo su control para no traicionar el shock de lo que implicaba aquello.
+
+había cedido al profundo instinto de todas las criaturas enfrentadas a la muerte: alcanzar la inmortalidad a través de la progenie.
+
+Stilgar carraspeó, revelando haber intuido la mayor parte de las preguntas que se hacía ella mentalmente.
+
+Un hombre que medita sus decisiones y las consecuencias, pensó ella.
+
+—Hay algunos, entre los jóvenes de mi tribu, que han alcanzado la edad de los pensamientos salvajes —dijo él—. Han de ser guiados cautelosamente durante este período.
+
+Un jefe, comprende, es lo que diferencia a un pueblo de una turba. Mantiene el nivel de individualidad. Demasiada poca individualidad, y el pueblo se convierte en una turba.
+
+Tiene valía, pensó. ¿Dónde habrá aprendido este equilibrio interno?
+
+Mantienen la potencia de Dios entre nosotros —se tocó el pecho.
+
+—Se ha dicho que una Bene Gesserit y su hijo detentan la llave de nuestro futuro —dijo él.
+
+El brote joven muere muy fácilmente. Los inicios son siempre tiempos de gran peligro.
+
+Su mente fue repentinamente invadida por una prudencia felina.
+
+—Ibn qirtaiba —dijo—, tan lejos como el lugar donde termina el polvo —
+
+Comiendo aquello, se había dado cuenta de que nunca antes había absorbido tal concentración de especia, y por un instante había sentido miedo. Sabía lo que aquella esencia podía hacer con él… el cambio de la especia que empujaría a su mente hacia una mayor consciencia presciente.
+
+pero nada podía detener aquella transformación iniciada con algunos bocados de comida.
+
+pasado, presente y futuro vistos a través de un solo ojo… todos ellos combinados en una visión trinocular que le permitía ver el tiempo como si se hubiera convertido en espacio.
+
+Esto le proporcionó una nueva comprensión de su presciencia, y percibió la fuente del ciego fluir del tiempo, la fuente del error en él, con una inmediata sensación de miedo.
+
+La presciencia, comprendió, era una iluminación que incorporaba los límites de lo que revelaba… una combinación de exactitud y de errores significativos. Una especie de indeterminación de Heisenberg intervenía: la propia energía de sus visiones alteraba, en el mismo instante de producirse, lo que veía.
+
+Esta visión lo empujó a una absoluta inmovilidad, pero incluso esta inmovilidad era una acción que tendría sus consecuencias.
+
+### <span id="Capitulo33">[Capítulo 33](#Capitulo33)</span>
+
+Jessica después de un sueño reparador despierta en la caverna, se desliza de la hamaca improvisada con las ropas, se ajusta su traje y demás equipamiento, ve la actividad de la noche en la caverna, ve a Stilgar, Jamis, el hombre vencido (por sorpresa) por Paul la noche anterior en la derpresión está exigiendo el desafío tahiddi que es regla del amtal, tratan de persuadirlo pero no cede; en un círculo formado por los espectadores a la luz de los globos lumínicos Paul y Jamis se enfrentan a cuchillo, el buen adiestramiento de Paul inculcado desde niño le sirve para vencer a Jamis, los restantes Fremen se llevan el bulto con ropa que es el cadáver de Jamis, Jessica notando lo terrible del momento y Stilgar le dicen frases a modo de reproche y mesura, le es asignado el nombre en código de soldado Usul, y él mismo elige su nombre adulto como Paul-Muad’Dib, se alzan murmullos de aceptación entre los presentes, Stilgar reitera su orden a Chani de velar y cuidar de Paul, y en cuanto a Jamis ordena la ceremonia completa al haber sido compañero y hermano.
+
+Pienso más bien que era un hombre que luchaba constantemente contra los barrotes de una jaula invisible.
+
+Se dio cuenta de que se había permitido abandonarse al sueño relajador después de la gran fatiga, y esto sugería que inconscientemente aceptaba su seguridad personal en el seno de la gente de Stilgar.
+
+Hay tantas cosas que debo recordar.
+
+revelando el aquilino perfil de los Atreides.
+
+¿Tendrá otros efectos colaterales?, se preguntó. Ha dicho que existía alguna relación con sus facultades prescientes, pero ha permanecido extrañamente silencioso respecto a sus visiones.
+
+Jessica observó su andar prudente, felino, el modo como sus dedos jugueteaban con su barba.
+
+Vio la rabia de Jamis en la rigidez de sus hombros.
+
+y había un tono apaciguador en su voz, el intento de calmar los ánimos.
+
+—Jamis es un hombre que conserva el rencor, Sayyadina. Tu hijo lo ha vencido y…
+
+Hay demasiada violencia en Jamis para que alguna vez sea un buen jefe: demasiada ghafla, demasiada inestabilidad. Tiene su boca llena de reglas pero su corazón vuelto al sarfa, el alejamiento de Dios. No, nunca será un buen jefe. Hasta ahora le he perdonado estas cosas porque es un buen combatiente, pero esta rabia que le corroe lo hace peligroso para sí mismo y para su gente.
+
+Hubiera debido ver esto antes. Rumía. Es del tipo silencioso, de los que trabajan en lo más profundo de sí mismos. Tendría que haber estado preparada.
+
+Ha hablado suficiente, pensó Jessica. Tengo su registro. Podría inmovilizarlo con una sola palabra. Vaciló. Pero no puedo inmovilizarlos a todos.
+
+—¡Intenta embrujarme! —gritó Jamis. Cerró el puño y lo colocó tras su oreja—. ¡Invoco el silencio sobre ella!
+
+He sembrado el miedo en la mente de Jamis. Esto le hará más lento… quizá. Si pudiera rezar… realmente rezar.
+
+Paul sintió un estremecimiento de miedo.
+
+La presciencia lo había llenado con innumerables experiencias, haciéndole entrever las grandes corrientes del futuro y los resortes de decisión que las guiaban, pero aquello era el ahora real. La muerte estaba presente en un infinito número de posibilidades.
+
+Tengo miedo, se dijo Paul.
+
+Y avanzó a su vez por el lado opuesto al de Jamis, repitiéndose en silencio la letanía Bene Gesserit contra el miedo: «El miedo mata la mente…». Fue como un chorro de agua fresca sobre él. Sintió distenderse sus músculos, calmarse y alertarse.
+
+Las reacciones de Paul tenían el ímpetu y la vivacidad de la juventud, y eran el resultado de un adiestramiento desconocido por aquel pueblo. Pero el ataque era resultado también de este adiestramiento, y estaba condicionado por la necesidad de penetrar la barrera de un escudo.
+
+Un escudo repelería un ataque demasiado veloz, admitiendo tan sólo los golpes lentos y solapados.
+
+Paul tensó los músculos preparado para saltar y, después de ver la primera sangre, interpeló:
+
+Jessica vio a Paul tragar saliva trabajosamente. Y pensó: Nunca ha matado así a un hombre… en un combate a cuchillo hasta la última sangre. ¿Podrá hacerlo?
+
+Jessica vio la sombra de la desesperación en el rostro del hombre. Es ahora cuando es más peligroso, pensó. Ahora está desesperado y puede hacer cualquier cosa. Ha descubierto que Paul no es un niño como los de su raza, sino una máquina de combatir adiestrada desde su infancia. Ahora el miedo que he instilado en él se ha desbocado.
+
+Y en el fondo de sí misma experimentó un sentimiento de piedad por Jamis… una emoción dominada por la consciencia del peligro que corría su hijo.
+
+Jamis puede hacer cualquier cosa… lo más impredecible, se dijo.
+
+Y por primera vez captó, sin comprenderlo realmente, el factor de incertidumbre que existía en el poder de Paul.
+
+Es el momento más peligroso, pero el hombre aterrorizado suele cometer normalmente un error fatal. Tú has sido adiestrado para detectar este error y aprovecharlo
+
+Creen que Paul juega con Jamis, pensó Jessica. Creen que Paul es inútilmente cruel.
+
+«Piensa en el cuchillo y no en la mano que lo empuña», le había repetido siempre Gurney Halleck. «El cuchillo es más peligroso que la mano, y tan pronto puede encontrarse en la derecha como en la izquierda».
+
+Sus ojos muertos lo miraban como dos esferas de oscuro cristal.
+
+Este es el momento terrible, se dijo. Ha matado a un hombre gracias a la evidente superioridad de sus músculos y de su mente. No debo permitirle que se alegre por esta victoria.
+
+Jessica miró a su hijo. Los ojos de Paul brillaban. Parecía ausente, aceptando con indiferencia la ayuda de los Fremen.
+
+Observó los rostros a su alrededor, tal como había hecho Paul, viendo lo que él veía. Admiración, sí, y miedo… y odio en algunos.
+
+Ella percibió en su voz el retorno a la razón, los remordimientos.
+
+Y no te llamaré más muchacho.
+
+Stilgar asintió, tirando de su barba.
+
+Y luego fue el turno de Chani, que apretó su mejilla contra la de él y pronunció su nombre.
+
+—dijo éste. Su rostro se endureció y su voz se hizo imperativa—.
+
+¿Esto es una tropa organizada o una banda de salvajes?
+
+Esto no ocurrirá, se dijo. No puedo permitirlo.
+
+### <span id="Capitulo34">[Capítulo 34](#Capitulo34)</span>
+
+En el crepúsculo de la caverna se retiran los sellos de plástico de las aberturas para dar inicio al rito funeral del desafiante Jamis, Paul debe aceptar el agua de su derrotado pero no quiere, la madre lo persuade, el rito inicia, un único globo muy en lo alto de la caverna ilumina, se conducen a un círculo formado por los presentes que rodean un objeto cubierto con ropas que hay en el suelo, Stilgar habla, Chani toma en compañía a Jessica, con extrañeza y relucatancia disimulada de Paul, se reparten las pertenencias de Jamis que están en el círculo, Paul derrama lágrimas, que son sagradas entre ellos, hacen el recuento de la cantidad de agua recogida del difunto Jamis; a continuación Stilgar toma el globo lumínico y guía el grupo a través de un par de puertas rocosas secretas y cámaras donde la humedad aumenta al precipitarse debido a unos paneles emparrilados de alvéolos hexagonales que eran trampas de viento, y a través de unas escalinatas descendientes en espiral hasta una cámara donde gotea agua y que tiene un gran estanque de agua recolectada, guardada y conservada, vierten y cuentan con suma precisión la nueva agua aportada, en seguida el grupo guiado por Stilgar vuelve a la caverna principal por el mismo camino, Paul camina acompañado de Chani, en la caverna principal se revelan la noche y las estrellas, a petición de alguien Paul canta una canción con el basilet heredado de Jamis, Jessica se cuestiona sobre las mujeres para Paul y el amor, Paul trata de fijarse en la mente evitar la jihad que se presenta en sus visiones.
+
+Dios creó Arrakis para probar a los fieles.
+
+la habilidad de captar hasta el menor cambio en la humedad del aire.
+
+Jessica se preguntó por qué todo aquello despertaba de pronto su desconfianza.
+
+Un axioma Bene Gesserit acudió a su mente: «La supervivencia es la habilidad de nadar en aguas extrañas». Y Jessica pensó: Paul y yo tenemos que encontrar las corrientes favorables en estas aguas extrañas… si queremos sobrevivir.
+
+Paul permaneció silencioso, sabiendo que haría lo que ella le había ordenado… no porque fuera una orden, sino porque el tono de voz empleado por ella lo obligó a reconsiderar las cosas.
+
+Se volvió para disimular su turbación
+
+Un violento estallido de colores llenó el cielo mientras el sol desaparecía tras el horizonte.
+
+El silencio cayó como un palpable velo en la caverna.
+
+Experimentó una sensación lacerante en lo profundo de su conciencia, como si intentara inmovilizar algo que estaba en perenne movimiento.
+
+El factor de incertidumbre lo dejaba perplejo.
+
+Paul tragó saliva, agitando su cabeza.
+
+El encuentro entre ignorancia y conocimiento, entre brutalidad y cultura… todo comienza con la dignidad con la cual tratamos a nuestros muertos.
+
+ Vio los rostros que se volvían furtivamente hacia él, desviando después la mirada.
+
+ Paul vio de nuevo rostros vueltos hacia él, y captó la expectación en ellos.
+
+ Una vez más, los rostros se volvieron hacia él, y sintió la rabia y el miedo en el grupo.
+
+ Mientras avanzaba hacia el centro del círculo, Paul notó que su yo disminuía progresivamente. Era como si hubiese perdido un fragmento de sí mismo y supiera que iba a encontrarlo allí.
+
+ Allí era una sustancia mucho más preciosa que todas las demás… era la vida misma, entremezclada con simbolismos y ritos.
+
+ Pero ahora había un sutil vacío alrededor de Paul, un retirarse de los demás, honrándole con un respetuoso aislamiento.
+
+ Jessica captó el aumento de la tensión a su alrededor, la presión del silencio que agarrotaba sus nervios con su urgencia.
+
+ Era al mismo tiempo tranquilizador y frustrante.
+
+ Esto no ocurrirá, pensó. No puedo permitir que ocurra.
+
+ Aquel simple hecho era un indicio elocuente de la tecnología Fremen: eran perfeccionistas.
+
+ Para Paul, el sonido de cada gota era un momento que moría.
+
+ Han hecho una alianza con el futuro, pensó. Tienen su montaña que escalar. Es el sueño científico… y ese pueblo sencillo, esos campesinos, se han embebido de él.
+
+ Era un sueño capaz de capturar el alma de aquellos hombres, y sintió la mano del ecólogo en él.
+
+ Una vez más, los límites de su poder lo turbaron. Era como si cabalgase en una ola del tiempo, a veces en su seno, a veces en su cima…
+
+ Y por encima de todo ello, la salvaje jihad aparecía siempre ante él, con la violencia y la matanza. Era como un escollo dominando las olas.
+
+ Notaba la vida deslizarse a su alrededor, y no podía aferrarla.
+
+### <span id="Capitulo35">[Capítulo 35](#Capitulo35)</span>
+
+En el decimoséptimo aniversario del na-Barón Feyd-Rautha Harkonnen, el Conde y Dama Fenring son vivitantes observadores de la Corte Imperial para asistir a la conmemoración y ver los juegos familiares en la arena donde Feyd-Rautha mataría al esclavo-gladiador de turno retante; el Conde Fenring y el Barón Vladimir conversan; en la hora del evento de la arena Feyd-Rautha acompañado de su séquito saluda y presenta las armas al público espectador en las gradas y palco, el mentat Thufir Hawat ha elaborado un plan para ese encuentro, el gladiador oponente hace presencia, es uno de los soldados del Duque Leto capturados en Arrakis, se enfrentan, Feyd-Rautha vence, al final ordena que sepulten al esclavo-gladiador intacto sin decapitación, el Barón se ve obligado a ordenar una fiesta, al bajarse las barreras de prudencia gente salta a la arena para alzar en hombros al triunfal vencedor, el Barón se despide del Conde y Dama, se retira, y éstos hablan de sus planes para el na-Barón.
+
+El concepto de progreso actúa como un mecanismo de protección destinado a defendernos de los terrores del futuro.
+
+A su lado avanzaba Feyd-Rautha. Sus oscuros cabellos estaban peinados en apretados bucles que parecían incongruentemente alegres en contraste con sus tristes ojos. Llevaba una entallada túnica negra y pantalones ajustados ligeramente abiertos al final. Blandas pantuflas calzaban sus pequeños pies.
+
+Tenía la serena calma de las Bene Gesserit, y esto turbó profundamente al joven.
+
+Y pensó: ¡Obsérvalo bien, Feyd! Es un asesino con los modales de un conejo… el tipo más peligroso de hombre.
+
+ Y sus movimientos… movía una mano o volvía la cabeza hacia un lado y hablaba hacia el otro. Era difícil seguirlo.
+
+ Ella lo miró serenamente, pero su voz fue como un latigazo cuando dijo:
+
+ ¡Bene Gesserit!, pensó el Barón. ¡El universo haría mejor desembarazándose de ellas!
+
+ El desierto meridional es inhabitable. El desierto septentrional es batido regularmente por mis patrullas.
+
+ Está intentando deliberadamente hacerme enfurecer, pensó el Barón. Respiró a fondo dos veces para calmarse.
+
+ Y podré decir a todos, como Prometeo: «Miradme, soy víctima de una injusticia».
+
+ —Ved, Conde, ahí está el planeta-prisión del Emperador, Salusa Secundus, para inspirarme.
+
+ Era obvio que Fenring raramente hacía algo inútil, como tampoco empleaba nunca dos palabras cuando con una era suficiente, ni se contentaba con dar un solo sentido a cada frase.
+
+ En el preciso instante en que aparecía el gladiador, un ojo adiestrado podía captar todo lo que necesitaba saber.
+
+ Es terrible lo que hace de un hombre un superhombre.
+
+ La rabia estaba ocupando el lugar del miedo.
+
+ Y el Barón observó la línea de su cuello… un adorable juego de músculos… como un adolescente.
+
+ —Exactamente. Y es obvio que necesitamos ejercitar sobre él un control completo. Implantaré en lo más profundo suyo las frases prana-bindu que lo doblegarán a nuestra voluntad.
+
+ —El sentimiento de culpabilidad empieza con el miedo a fracasar —recordó él.
+
+—Su tío —dijo él—. ¿Has visto alguna vez a alguien tan retorcido?
+
+ Dice: «No consideres muerto a un ser humano hasta que hayas visto su cadáver. Y, aún entonces, piensa que podrías equivocarte».
+
+### <span id="Capitulo36">[Capítulo 36](#Capitulo36)</span>
+
+El grupo de Stilgar regresa a su sietch con sus dos escapados del desierto, Paul y Jessica, la tonalidad del alba indica el tiempo del calendario, al llegar los Fremen se liberan de sus capuchas, se percibe el olor acre del lugar, Jessica y Chani están en la multitud, un sujeto llamado Farok está al lado de Paul, charlan, se corre la noticia de que Liet-Kynes está muerto, el jefe Stilgar presenta a Harah, ex-mujer del difunto Jamis, a Usul, éste la toma como sirvienta; se separan, Stilgar se aleja con el resto de su gente, Jessica está con asuntos de no-freyn Sayyadina Reverenda Madre, Chani con asuntos de su fallecido padre, y Paul demanda a Harah que los conduzca a los aposentos conferidos, en el camino ven cómo con telares los Fremen confeccionan plástico, se describe el camino por los pasillos que recorren, se habla de los colectores de rocío fabricados con cromoplástico, pasan por el salón de clases que está activo siguiendo la enseñanza de Liet-Kynes, llegan a su yali o habitaciones, cuando Harah se retira para traer comida, Paul ve dos niños que hacen presencia en la estancia, los hijos de Harah.
+
+Así, mientras sus ojos asumían el azul del Ibad, aprendió la enseñanza chakobsa.
+
+Paul se quitó los tampones de la nariz, liberando después su boca. El acre olor del lugar lo asaltó: cuerpos no lavados, exhalaciones destiladas de residuos reciclados, por todas partes los efluvios de una humanidad, con la turbulencia de la especia y sus armónicos dominándolo todo.
+
+Paul se sintió invadido por una oleada de rabia.
+
+Sus oscuros cabellos estaban peinados hacia atrás en su frente, haciendo resaltar sus pómulos y su aquilina nariz entre la densa oscuridad de sus ojos.
+
+—Cállate, Harah —dijo Stilgar—. Fue Jamis quien le desafió… fue él quien invocó el tahaddi al-burhan.
+
+—¿Aceptas a Harah como mujer o como sirviente? —dijo Stilgar.
+
+Harak alzó los brazos, girando lentamente sobre sí misma.
+
+Se volvió hacia Harah, y acentuó su miedo y su estupor dando a su voz un ligero trémolo.
+
+—No te haré ningún daño, Harah —dijo—. Muéstrame nuestros apartamentos —y suavizó su voz con una nota relajante.
+
+Paul se adelantó hasta colocarse a su lado, estudiando el aquilino perfil a medida que andaban.
+
+—Stilgar ha dicho que la ceremonia tuvo lugar y que tú eras un amigo de Jamis. —Le dirigió una breve ojeada—. Stilgar ha dicho que le diste humedad al muerto. ¿Es cierto?
+
+Había un ritmo febril en ellos.
+
+Los fragmentos de su memoria presciente no estaban dispuestos exactamente como los recordaba.
+
+Y sabía lo que prometía aquella trampa a cambio… la salvaje jihad, la guerra religiosa que debía evitar a toda costa.
+
+Paul asintió, se reunió con ella en la cornisa. Alzó aún más la cortina, notando fibras metálicas en el tejido, y la siguió a una pequeña entrada y después a una estancia más amplia, un cuadrado de unos seis metros de lado… gruesas alfombras azules en el suelo, tapices azules y verdes ocultando las paredes de piedra, globos de luz amarilla flotando bajo un techo cubierto por telas amarillas.
+
+Sintiéndose irritado consigo mismo,
+
+El mutable tiempo-consciencia parecía danzar a su alrededor.
+
+### <span id="Capitulo37">[Capítulo 37](#Capitulo37)</span>
+
+En la caverna se están reuniendo alrededor de veinte mil Fremen, Paul ha sido convocado, Jessica del Extraño Arte va a atreverse a tomar el ritual del paso interior para convertirse en Reverenda Madre, se disponen las alfombras y demás menesteres de la ceremonia, Stilgar se dirige al público, antes de que Jessica realice su ritual, por cautela por si Jessica fallece o algo sale mal, como medida preventiva Chani pasa por la ceremonia para tomar sus votos y consagrarse como Sayyadina; a continuación Jessica bebe del Agua de Vida depositada por los maestros del agua y tiene su viaje con la estensión-onda psicoquinésica y su presciencia, donde las tres conciencias, la suya, la de la Reverenda Madre Ramallo y la de su hija no-nata se encuentran, la Reverenda Madre Ramallo vierte sus experiencias y conocimiento en Jessica y su hija, y también en el alcance de los demás asistentes del recinto al ritual; Paul también bebe el Agua de Vida, percibe el ambiente festivo, luego el saco pasa por la multitud para que también beban, Chani conduce a Paul a un apartamento privado, Chani le expresa que hay algo que causa terror al compartir con él, se hablan, se dan tranquilidad y calma, se abrazan, ella ya no tiene miedo, ve lo que él ve, ella lo besa en la mejilla.
+
+Las manos se mueven, los labios se mueven…
+Las ideas brotan de sus palabras, ¡y sus ojos devoran!
+Es una isla de autodominio.
+
+Fuera en el desierto, lo sabía, el rojo anochecer estaba llegando, pero allí en la caverna reinaba un perpetuo crepúsculo, una gris inmensidad donde la gente se había reunido para verla arriesgar su vida.
+
+Chani se estaba acercando, con su rostro de elfo mostrando su dolor. Se había quitado el destiltraje y llevaba una graciosa túnica azul que dejaba sus brazos al descubierto. Un pañuelo verde estaba anudado a su brazo izquierdo, cerca del hombro.
+
+Verde, el color del luto, pensó Paul.
+
+Había pasado un extraño día con aquellos dos niños, a los que había pedido que montaran guardia para alejar a los curiosos, gracias a lo cual había tenido tiempo suficiente para reflexionar con calma y poner un poco de orden en sus recuerdos prescientes, a fin de estudiar un modo de prevenir la jihad.
+
+Jessica ignoró a Chani, concentrando toda su atención en la mujer de la litera: una vieja, una marchita y arrugada cosa antigua vestida con un traje negro cuya capucha, echada hacia atrás, revelaba una mata de cabellos grises atados apretadamente en un moño, y un cuello descarnado.
+
+—Así que tú eres ella —la vieja cabeza osciló precariamente sobre el delgado cuello—.
+
+—Para que esto no ocurra —dijo Stilgar—, nuestra nueva Sayyadina, Jessica del Extraño Arte, ha consentido someterse a los ritos ahora. Intentará alcanzar el paso interior a fin de que no perdamos la fuerza de nuestra Reverenda Madre.
+
+Jessica del Extraño Arte, pensó Jessica. Vio la mirada de Paul clavada en ella, sus ojos llenos de preguntas, pero su boca permanecía silenciosa a causa de toda la extrañeza que había a su alrededor.
+
+Se volvió y miró a la que todos llamaban Reverenda Madre, estudiando los enjutos rasgos de la anciana, la fantomática fijeza de sus ojos totalmente azules.
+
+De ella emanaba la misma aura de poder que recordaba de la Reverenda Madre Gaius Helen Mohiam cuando lo había sometido a la atroz agonía de la prueba del gom jabbar.
+
+—Que se acerquen los maestros de agua —dijo Chani, con una excitación apenas perceptible en su voz de joven-niña.
+
+Un suspiro recorrió la multitud, un susurro de ropas que hicieron erizarse el cabello en la nuca de Jessica.
+
+¿Ha visto ya este momento en el tiempo?, se preguntó.
+
+—He aquí el Agua de Vida, el agua que es más grande que el agua… Kan, el agua que libera el alma. Si tú eres una Reverenda Madre, te abrirá el universo. Que Shai-Hulud juzgue ahora.
+
+¿Qué es?, se preguntó. ¿Un licor? ¿Una droga?
+
+—Aceptar una pequeña muerte es a veces peor que la gran muerte —dijo Chani. Miró fijamente a Jessica, aguardando.
+
+Jessica estudió el rostro de Chani, sus rasgos de elfo, encontrando las similitudes con el rostro de Liet-Kynes, un rostro que aún no había sido fijado por el tiempo.
+
+Me han dado una droga, se dijo Jessica.
+
+Tenía la impresión de ser tan sólo un ínfimo grano de polvo consciente, más pequeño que cualquier partícula subatómica, y todavía capaz de moverse y de percibir el mundo a su alrededor.
+
+Jessica concentró su atención en la Reverenda Madre Ramallo, dándose repentinamente cuenta de que todo aquello estaba ocurriendo en un breve instante… en un tiempo que estaba en suspenso sólo para ella.
+
+La respuesta llegó en aquel instante como una explosión en su consciencia: su tiempo personal estaba suspendido para salvarle la vida.
+
+En el lugar al que no podemos mirar, pensó. Es el lugar que las Reverendas Madres mencionan reluctantemente… el lugar que sólo un Kwisatz Haderach puede ver.
+
+Lo encontró en la droga que había ingerido.
+
+Era como un torbellino de partículas danzantes en su interior, tan rápido que ni siquiera la detención del tiempo conseguía pararlo. Partículas danzantes. Empezó a reconocer estructuras familiares, cadenas atómicas: un átomo de carbono aquí, una formación helicoidal… una molécula de glucosa. Toda una cadena de moléculas frente a ella, en la que reconoció una proteína… una configuración metil-proteína.
+
+Fue como un suspiro mental desprovisto de sonido, surgiendo de lo más profundo de sí misma junto con la identificación de la naturaleza del veneno.
+
+Chani está tomando el catalizador de mi cuerpo para transformar el veneno de ese saco, pensó Jessica. ¿Por qué?
+
+¡Y otra partícula psicoquinésica penetró en su consciencia! Jessica intentó rechazarla, pero la partícula se acercaba cada vez más… cada vez más.
+
+Fue como una íntima unión, la más completa y definitiva, y fue dos personas al mismo tiempo: no telepatía, sino consciencia recíproca.
+
+¡Con la vieja Reverenda Madre!
+
+Pero Jessica vio que la Reverenda Madre no pensaba en sí misma como en una vieja. Una imagen se desplegó en las dos mentes fusionadas: una mujer joven de espíritu alegre y tierno humor.
+
+Jessica sólo pudo aceptar aquellas palabras, no responder a ellas.
+
+Jessica percibió un cambio en la mutua consciencia, y una nueva partícula-presencia apareció ante su ojo interior. Se movía rápida e incontroladamente, aquí, allí, trazando círculos. Irradiaba puro terror.
+
+Lo combatió con el único medio a su alcance que conocía: «No conoceré el miedo. El miedo mata la mente…».
+
+La letanía le devolvió algo de calma. La otra partícula se inmovilizó a su lado.
+
+Las palabras no servirán, se dijo Jessica.
+
+Descendió hasta el nivel de las reacciones emocionales básicas, irradió amor, confort, una cálida protección.
+
+El terror retrocedió.
+
+De nuevo se impuso la presencia de la Reverenda Madre, pero ahora la percepción era triplemente mutua… dos de ellas activas y la tercera absorbiendo inmóvil.
+
+¿Por qué esta catarata de arena cayendo desde lo alto de un farallón ha permanecido incrustada de esta manera en el recuerdo?, se preguntó.
+
+Y, mientras, la vieja Reverenda Madre dejaba su vida en la memoria de Jessica con un último gemido confuso de palabras.
+
+Su percepción interior se hacía menos intensa a medida que disminuían los efectos de la droga, pero sentía aún la presencia de la otra partícula, y la tocó suavemente, con un sentimiento de culpabilidad por haber permitido que le ocurriese aquello.
+
+Lo he permitido, mi pobre, aún no formada y pequeña querida hija. Te he llevado a este universo y te he expuesto sin la menor defensa a la infinita variedad de sus conocimientos.
+
+Un infinitesimal flujo de amor-confort, como un reflejo del que ella había vertido antes, le llegó de la otra partícula.
+
+Dejad que el catalizador haga su trabajo, pensó. Dejad que el pueblo beba de él y cada uno tenga, por un momento, su más intensa percepción de los demás. La droga ya no es peligrosa… ahora que una Reverenda Madre la ha transformado.
+
+Jessica retrocedió, aterrada ante la idea de sumergirse en aquel océano sin límites. Pero el corredor no desapareció, revelando a Jessica que la cultura Fremen era más increíblemente antigua de lo que nunca hubiera podido suponer.
+
+Soy como una persona cuyas manos han permanecido paralizadas, insensibles, durante toda su vida… hasta que un día vuelve a ellas su habilidad de moverse y percibir sensaciones.
+
+Entonces empezó a preguntarse cuáles eran los límites de la presciencia de Paul. Aquella pregunta le revelaba muchas cosas.
+
+Paul se dio cuenta de que la droga se estaba adueñando de su madre.
+
+De pronto se dio cuenta de que una cosa era la visión del pasado en el presente, pero que la auténtica prueba de la presciencia era ver el pasado en el futuro.
+
+Sabía lo que ocurriría si bebía aquella especia que era la quintaesencia de la sustancia que había producido el cambio en él. Volvería a aquella visión de tiempo puro, un tiempo convertido en espacio.
+
+Miró a su madre. Parecía dormir pacíficamente en su posición sentada, respirando profunda y regularmente. Una frase surgida de aquel futuro que era su solitario pasado llegó a su mente: «Está durmiendo en el Agua de Vida».
+
+Paul la siguió. Le parecía que su cabeza había sido separada de su cuerpo y luego vuelta a colocar con extrañas conexiones. Sentía sus piernas como lejanas y reblandecidas.
+
+Tuvo que apoyarse en Chani para no caer, cuando ella giró hacia otro túnel oscuro. El contacto de su carne tierna y firme bajo sus ropas excitó su sangre. La sensación se mezcló con el efecto de la droga, replegando el futuro y el pasado dentro del presente, en una triple y casi instantánea focalización.
+
+—Tú eres Sihaya —dijo Paul—, la primavera del desierto.
+
+Intentó concentrarse en ella, pero el pasado y el futuro se confundían con el presente, ofuscando su imagen. La vio en un número incontable de lugares y de situaciones.
+
+—Hay algo aterrador en ti —dijo ella—. Cuando te he apartado de los demás… lo he hecho porque esto era lo que querían. Tú… empujas a la gente. Tú… ¡haces ver cosas!
+
+Tienen algo de talento, le dijo su mente a Paul. Pero lo rechazan porque les aterroriza.
+
+Él se inmovilizó en su consciencia, viendo al tiempo dilatarse en su extraña dimensión, delicadamente estable pero aún tumultuoso, estrecho y a la vez proyectado para recoger mundos y energías innumerables, una cuerda tensa y oscilante sobre la que debía pasar manteniendo el equilibrio.
+
+Ante él, un breve paréntesis relativamente tranquilo en un oculto sietch, un instante de paz entre períodos de violencia.
+
+—Ya no tengo miedo, Usul. Mírame. Cuando me abrazas así, también yo veo lo que tú ves.
+
+—¿Qué es lo que ves? —preguntó él.
+
+—A nosotros dos dándonos mutuamente amor en un momento de calma entre tormentas. Eso es lo que debemos hacer.
+
+La droga se apoderó nuevamente de él, y pensó: En tantas ocasiones me has dado tranquilidad y el olvido. De nuevo lo aferró la hiperiluminación, con sus detalladas imágenes del tiempo, y sintió su futuro transformarse en recuerdos: las tiernas agresiones del amor físico, la comunión de identidades, la participación, la dulzura y la violencia.
+
 
 ## <span id="LibroTerceroProfeta">[Libro tercero: el profeta](#LibroTerceroProfeta)</span>
 
@@ -1739,13 +2495,16 @@ Y cerró los ojos, pensando: No, padre mío, no puedo llorarte. Y sintió las l�
 ## <span id="referencias">[REFERENCIAS](#referencias)</span>
 * [https://es.wikipedia.org/wiki/Dune][1]{: target="_blank"}
 * [https://es.wikipedia.org/wiki/Frank_Herbert][2]{: target="_blank"}
-* [http://da8y01.github.io/gh-blog/assets/FrankHerbert_Dune.epub][FrankHerbert_Dune_epub]{: target="_blank"}
+* [https://da8y01.github.io/gh-blog1/assets/FrankHerbert_Dune.epub][FrankHerbert_Dune_epub]{: target="_blank"}
+* [https://da8y01.github.io/gh-blog1/assets/Frankduna.pdf][Frankduna_pdf]{: target="_blank"}
 
 
 
 [1]: https://es.wikipedia.org/wiki/Dune
 [2]: https://es.wikipedia.org/wiki/Frank_Herbert
 [FrankHerbert_Dune_epub]: {{ site.baseurl }}/assets/FrankHerbert_Dune.epub
+[Frankduna_pdf]: {{ site.baseurl }}/assets/Frankduna.pdf
+
 
 [DuneFrankHerbert_Cubierta]: {{ site.baseurl }}/assets/DuneFrankHerbert_Cubierta.png "Dune - Frank Herbert (Cubierta)"
 [DuneFrankHerbert_Apendices1_01]: {{ site.baseurl }}/assets/DuneFrankHerbert_Apendices1_01.png "Dune - Frank Herbert (Apéndices I, 1)"
