@@ -10,6 +10,6 @@ description: "Some links to other blogs."
 
 [https://da8y01.gitlab.io/gl-blog/](https://da8y01.gitlab.io/gl-blog/){: target="_blank"}
 
-[https://da8y01.github.io/gh-blog/](https://da8y01.github.io/gh-blog/){: target="_blank"}
+[https://da8y01.github.io/gh-blog1/](https://da8y01.github.io/gh-blog1/){: target="_blank"}
 
 [https://ring0a.blogspot.com/](https://ring0a.blogspot.com/){: target="_blank"}
