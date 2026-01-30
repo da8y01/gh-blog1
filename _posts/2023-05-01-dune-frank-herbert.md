@@ -20,8 +20,7 @@ FRANK HERBERT, 1965
 
 ## <span id="LibroPrimeroDune">[Libro primero: Dune](#LibroPrimeroDune)</span>
 
-### <span id="Capitulo1">[Capítulo 1](#Capitulo1)</span>
-
+### <span id="Capitulo01">[Capítulo 1](#Capitulo01)</span>
 En Castel Caladan antes de partir hacia Arrakis, se celebra la ceremonia/ritual *gom jabbar* entre un joven Paul Atreides de 15 años, la vieja Bene Gessserit Reverenda Madre Gaius Helen Mohiam y la madre Jessica.
 
 La vieja mujer era como la sombra de una bruja… con sus cabellos como tela de araña enmarañados alrededor de sus oscuras facciones y sus ojos brillando como piedras preciosas.
@@ -116,8 +115,7 @@ Paul miró su mano a través de la cual había pasado el dolor, luego miró a la
 
 Las palabras de la vieja mujer perdieron bruscamente aquella especial claridad para Paul. Percibía una ofensa hacia aquello que su madre llamaba instinto para la sinceridad. No era que la Reverenda Madre le mintiera. Obviamente, ella creía en lo que le estaba diciendo. Era algo más profundo, algo ligado a aquella terrible finalidad.
 
-### <span id="Capitulo2">[Capítulo 2](#Capitulo2)</span>
-
+### <span id="Capitulo02">[Capítulo 2](#Capitulo02)</span>
 En una estancia de Giedi Prime están reunidos el Barón Vladimir Harkonnen, el Mentat Piter y el heredero Feyd-Rautha. El Barón manipula una esfera con una representación del planeta Arrakis. Se presentan los planes en contra de la Casa Atreides según los nuevos eventos que se van desarrollando.
 
 <div style="text-align:center" markdown="1">
@@ -148,8 +146,7 @@ En una estancia de Giedi Prime están reunidos el Barón Vladimir Harkonnen, el 
 ![DuneFrankHerbert_Capitulo02_07][DuneFrankHerbert_Capitulo02_07]{: width="60%"}
 </div>
 
-### <span id="Capitulo3">[Capítulo 3](#Capitulo3)</span>
-
+### <span id="Capitulo03">[Capítulo 3](#Capitulo03)</span>
 Después de la pruaba *gom jabbar*, la Reverenda Madre Gaius Helen Mohiam Censor Superior de la escuela Bene Gesserit y la madre Jessica hablan en una estancia de Castel Caladan, hacen que Paul se presente para dialogar sobre sus sueños, la vieja mujer se despide.
 
 «La Reverenda Madre debe combinar las artes de seducción de una cortesana con la intocable majestad de una diosa virgen, manteniendo estos atributos en tensión tanto tiempo como subsistan los poderes de su juventud. Pues una vez se hayan ido belleza y juventud, descubrirá que el lugar intermedio ocupado antes por la tensión se ha convertido en una fuente de astucia y de recursos infinitos».
@@ -172,8 +169,7 @@ Un imperceptible signo de comprensión pasó entre las dos.
 
 Lágrimas más intranquilizadoras que cualquier otra palabra o signo que se hubiera intercambiado entre ellos aquel día.
 
-### <span id="Capitulo4">[Capítulo 4](#Capitulo4)</span>
-
+### <span id="Capitulo04">[Capítulo 4](#Capitulo04)</span>
 En la sala de ejercicios de Castel Caladan Paul estudia mapas y documentación sobre Arrakis; recibe las visitas de los amigos/mentores mentat Thufir Hawat y maestro de armas Gurney Halleck.
 
 ¿Cuántas veces tendré que decirle que nunca debe dar la espalda a una puerta?
@@ -216,7 +212,7 @@ Gurney se tiró de la oreja izquierda.
 
 Paul empuñó otra espada, cimbreó la hoja con sus manos, y se colocó en posición de aguile, con un pie delante.
 
-https://dle.rae.es/prurito prurito 1. m. Deseo persistente y excesivo de hacer algo de la mejor manera posible. 2. m. Med. Comezón, picazón.
+[https://dle.rae.es/prurito](https://dle.rae.es/prurito){: target="_blank"} 1. m. Deseo persistente y excesivo de hacer algo de la mejor manera posible. 2. m. Med. Comezón, picazón.
 
 —¿Humor? —la voz de Halleck sonó ultrajada incluso a través del filtro del escudo—. ¿Qué tiene que ver tu humor con esto? Uno combate cuando es necesario… ¡no cuando está de humor! El humor es algo para el ganado, o para hacer el amor, o para tocar el baliset. No para combatir.
 
@@ -248,8 +244,7 @@ Y comenzó a pensar en Paul, y se preguntó si el muchacho, algunas noches, no h
 
 Era una frase de su madre que se repetía a si mismo siempre que sentía las tinieblas del mañana cernirse sobre él.
 
-### <span id="Capitulo5">[Capítulo 5](#Capitulo5)</span>
-
+### <span id="Capitulo05">[Capítulo 5](#Capitulo05)</span>
 A continuación, en la misma estancia, Paul recibe al Dr. Yueh, próximo a cometer traición contra la casa Atreides, debido a una extorsión de los Harkonnen. El Dr. Yueh, disimulando sus recelos, obsequia la pequeña biblia a Paul.
 
 Paul levantó la cabeza y vio la envarada figura del hombre, de pie a algunos pasos de él, y de una sola ojeada observó sus arrugadas ropas negras, el bloque cuadrado de su cabeza de labios empurpurados y bigote caído, el tatuaje diamantino del Condicionamiento Imperial en la frente, el largo cabello negro cayendo sobre su hombro izquierdo, sujeto por el anillo de plata de la Escuela Suk.
@@ -276,8 +271,7 @@ Abridla por el Kalima cuatrocientos sesenta y siete… donde dice: «El agua es 
 
 Por un momento, cuando Yueh había gritado, Paul había temido que le pidiera que se lo devolviese.
 
-### <span id="Capitulo6">[Capítulo 6](#Capitulo6)</span>
-
+### <span id="Capitulo06">[Capítulo 6](#Capitulo06)</span>
 El padre, Duque Leto Atreides, visita a su hijo Paul en la estancia; conversan, acerca del viaje a Arrakis, y el rol de la casa Atreides en el planeta, con la melange, los Fremen, la CHOAM.
 
 Observadlo: un hombre marcado por el Destino, una figura solitaria cuya luz fue oscurecida por la gloria de su hijo. Pero uno puede preguntarse: ¿qué es el hijo, sino la extensión del padre?
@@ -346,8 +340,7 @@ Paul se frotó la mandíbula. Todo el adiestramiento especial que le habían dad
 
 Pero, al mismo tiempo que formulaba este pensamiento, su nueva consciencia lo rechazó.
 
-### <span id="Capitulo7">[Capítulo 7](#Capitulo7)</span>
-
+### <span id="Capitulo07">[Capítulo 7](#Capitulo07)</span>
 Ya en el Gran Salón de la pequeña ciudad Arrakeen de Arrakis, Dama Jessica observa la descarga de cajas y paquetes. Llega el Duque Leto, conversan, de la disposición de adornos, habitaciones y asuntos pendientes; en seguida se presenta la nativa Fremen Shadout Mapes para servirle a Jessica, le entrega el cuchillo de diente de gusano Shai-Hulud, "crys". Mapes prosigue trabajando, Jessica se retira a las habitaciones del ala sur al encuentro de su hijo Paul.
 
 <div style="text-align:center" markdown="1">
@@ -394,8 +387,7 @@ Ya en el Gran Salón de la pequeña ciudad Arrakeen de Arrakis, Dama Jessica obs
 ![DuneFrankHerbert_Capitulo07_11][DuneFrankHerbert_Capitulo07_11]{: width="60%"}
 </div>
 
-### <span id="Capitulo8">[Capítulo 8](#Capitulo8)</span>
-
+### <span id="Capitulo08">[Capítulo 8](#Capitulo08)</span>
 Jessica llega a una estancia esperando encontrar a su hijo Paul, en la sala externa encuentra al Dr. Yueh Wellington; Yueh le informa que Paul descansa en la otra habitación, Jessica da un vistazo, conversan.
 
 Visto así, de espaldas, parecía un esqueleto desprovisto de carne, envuelto en ropas negras demasiado amplias, una marioneta esperando moverse bajo las órdenes de un invisible marionetista. Sólo la cabeza parecía viva, con los largos cabellos color ébano, sujetos por el anillo de plata de la Escuela Suk, cayéndole sobre los hombros y agitándose ligeramente cuando se inclinaba para seguir mejor algún movimiento del exterior.
@@ -484,8 +476,7 @@ Jessica dejó caer los brazos, se dirigió hacia la puerta que conducía al vest
 
 Pero esto podría avergonzarlo, le asustaría saber lo fácil que es leer en él. Debo confiar un poco más en mis amigos.
 
-### <span id="Capitulo9">[Capítulo 9](#Capitulo9)</span>
-
+### <span id="Capitulo09">[Capítulo 9](#Capitulo09)</span>
 Paul en la pequeña estancia finge dormir, se dispone a explorar la casa pero un cazador-buscador lo acecha, en el momento en que la fremen Shadout Mapes abre la puerta de la estancia, Paul logra aferrar y desactivar el mortal objeto, habla con Mapes, sale de la habitación.
 
 Para los demás, diremos que Muad’Dib aprendió rápidamente porque la primera enseñanza que recibió fue la certeza básica de que podía aprender. Muad’Dib sabía que cada experiencia lleva en sí misma su lección.
@@ -509,7 +500,6 @@ Ahora Paul se había sumido en una inmovilidad catatónica, sabiendo que dispon�
 Hizo una pausa para que su visión mnemotécnica registrara el patrón de su aspecto en su memoria: rostro de tonalidad oscura, arrugado, ojos totalmente azules, sin blanco. Le aplicó la etiqueta: La Shadout Mapes.
 
 ### <span id="Capitulo10">[Capítulo 10](#Capitulo10)</span>
-
 Dirigiéndose a la habitación del ala sur, Dama Jessica se encuentra con la Shadaout Mapes y hablan; la habitación tiene puerta ovalada, está llena de vegetación con un sistema de regado, es un invernadero, y Dama Jessica encuentra una nota dejada por otra Bene Gesserit, y que contiene el típico mensaje oculto, que en esta ocasión advierte de peligro contra las casa Atreides; Paul entra en la habitación llevando en la mano el cazador-buscador desactivado/inhabilitado previamente para mojarlo y corto-circuitarlo, uno de los hombres del mentat de confanza Tufir Hawat entra informando la captura y muerte por lucha del operador del cazador-buscador, considerando esa habitación segura se retira a hacer guardia; Jessica y Paul hablan acerca de la seguridad/revisión de los recintos, de la advertencia de peligro, y en general de la posible conspiración y el planeta Arrakis.
 
 Pensad en este proverbio Bene Gesserit y quizá lo comprendáis: "Cualquier camino, si se sigue hasta el fin, no conduce exactamente a ningún lugar. Escalad tan sólo un poco la montaña para comprobar si es una montaña. Desde la cima de la montaña, no podréis ver la montaña".
@@ -525,7 +515,6 @@ La expresión de Paul se hizo terca y sombría.
 Las estrellas empezaron a brillar. Una de ellas, muy baja sobre el horizonte, destacada de las demás, parpadeaba con un claro, preciso ritmo: blink-blink-blink-blink-blink-blink...
 
 ### <span id="Capitulo11">[Capítulo 11](#Capitulo11)</span>
-
 En la torre de control a las afuera de la ciudad Arrakeen, el Duque Leto Atreides observa el arrivo de una nave, baja a una gran sala de reuniones para entrevistarse con el maestro de armas Gurney Halleck, conversan, Leto le solicita hombres y le pide que trate de persuadir al favor de ellos a unos exiliados que partirán en una nave; luego se retiran, Leto se dirige a un ascensor de la sala cruzando la sala diagonalmente respondiendo a los saludos casuales, da un mensaje a uno de los hombres del grupo de propaganda, y continúa hasta el ascensor.
 
 Le era difícil dominar su rabia.
@@ -557,7 +546,6 @@ Si nos movemos rápidamente conseguiremos una mayor seguridad, el respiro que ne
 El que manda debe parecer siempre confiado, pensó.
 
 ### <span id="Capitulo12">[Capítulo 12](#Capitulo12)</span>
-
 Se celebra/realiza una reunión estratégica del estado mayor en la sala de conferencias, la primera para el Muad'Dib Paul Atreides; en la mesa el mentat Thufir Hawat proyecta imgágenes e información concernientes a diferentes asuntos del planeta; en la reunión se muestra el cuchillo de diente de gusano Shai-Hulud crys perteneciente a Turok, se presenta el líder Fremen del sietch visitado por Duncan Idaho, Stilgar, hacen acuerdos, Duncan Idaho queda como embajador ante los freemen, Gurney Halleck, Thufir Hawat y todos los demás tienen trabajo por hacer; cuando todos han abandonado el recinto, quedan el duque Leto y su hijo Paul, hablan, el duque parte.
 
 Hawat se castigará a sí mismo. Se enfurecerá consigo mismo mucho más de lo que nosotros dos juntos podríamos enfurecernos contra él.
@@ -619,7 +607,6 @@ Antes, las reuniones terminaban siempre en una atmósfera de decisión. Aquella 
 El espacio le daba la impresión de haber estado vacío desde mucho antes de que el Duque abandonara la estancia.
 
 ### <span id="Capitulo13">[Capítulo 13](#Capitulo13)</span>
-
 Habiendo dejado a su hijo Paul en la sala de conferencias donde se había llevado a cabo la reunión de estado mayor estratégica, el duque Leto conversa con el anciano mentat Thufir Hawat en una estancia contigua donde este último se ocupa del encargo de instalar otro punto de comunicaiones; Leto pregunta a Hawat porqué tan nervioso, Hawat le muestra el fragmento de nota Harkonnen amenzante, conjeturan acerca de quien puede ser el traidor, incluyendo a la mujer del duque, la Bene Gesserit dama Jessica, se habla de ponerle vigilancia a Jesica y asignar el Dr. Yueh (el traidor) a Paul, Hawat también le entrega a Leto un filmclip informativo acerca del significado de la palabra «¡Mahdi!» oída en el recorrido por las calles de Arrakeen; Leto sale, camina un poco, luego regresa a la sala de conferencia donde encuentra a Paul durmiendo encima de la mesa, abrigado por un capote de guardia y con un saco de equipaje de almohada, sigue hasta la terraza, el guardia en la esquina hace un saludo, se ve el campo de aterrizaje, se aprecia el paisaje del horizonte, el momento precendente al alba y el amanecer, al final observa las figuras que recolectan el rocío mañanero.
 
 ya que sólo podían esperar que fuera aquél que les había sido anunciado como el Lisan-al-Gaib, la Voz del Otro Mundo.
@@ -651,7 +638,6 @@ Algunas cosas mendigan nuestro amor, pensó.
 El agua era tan preciosa allí que incluso el rocío debía ser recolectado.
 
 ### <span id="Capitulo14">[Capítulo 14](#Capitulo14)</span>
-
 El duque Leto y su hijo Paul están de nuevo en la sala de conferencias; es de mañana y desayunan, dialogan, Leto se muestra sombrío y cansado, le informa a Paul del engaño para su madre, dama Jessica, y cómo deberá actuar; Leto habla con palabras que tienen trasfondo pesimista o fatalista, se refleja duda y temor, Paul escucha y recibe algunas recomendaciones.
 
 Probablemente no haya en nuestra vida un instante más terrible que aquel en que uno descubre que su padre es un hombre… hecho de carne humana.
@@ -685,7 +671,6 @@ Las palabras de su padre le parecían fútiles, llenas de un fatalismo que causa
 Ese filmclip… te llaman «Mahdi»… «Lisan al-Gaib»… como último recurso, podrías utilizar incluso esto.
 
 ### <span id="Capitulo15">[Capítulo 15](#Capitulo15)</span>
-
 Se lleva a cabo el encuentro con el planetólogo/ecólogo Kynes, el Liet; en el campo de aterrizaje de Arrakeen se encuentran, se ajustan los destiltrajes, abordan los respectivos ornitópteros, van el duque Leto, el planetólogo Kynes, el maestro de armas Gurney Halleck, el heredero ducal Paul, y demás escolta; vuelan más allá de la Muralla Escudo hasta el sitio donde hay un tractor extrayendo especia, sobrevuelan, hablan, observan la operación, ven al gusano distante acercándose, ejecutan la maniabra de rescate requerida ante la amenaza del gusano y la falta del ala de acarreo.
 
 Se vanagloriaba de ser un científico, para el cual las leyendas eran tan sólo otros tantos interesantes indicios que revelaban las raíces de una cultura.
@@ -807,7 +792,6 @@ Kynes se volvió, ceñudo. El hombre intentó esconderse, confuso.
 Este Duque se sentía mucho más preocupado por los hombres que por la especia.
 
 ### <span id="Capitulo16">[Capítulo 16](#Capitulo16)</span>
-
 El comedor está dispuesto en la gran casa de Arrakeen, el duque Leto supervisa, anula la tradición de los cuencos y toallas de agua, se dirige al Gran Salón a departir con los invitados (su señora dama Jessica, su hijo Paul, el planetólogo Kynes, el maestro de armas Gurney Halleck, el contrabandista Tuek, el banquero agente Harkonnen, el fabricante de destiltrajes piratas y su hija, etc.), luego acuden al comedor a cenar y continúan las discusiones y conversaciones, hacia el final de la cena por un aviso, Leto se retira de la mesa, dejando a cargo a Paul y a Gurney, al rato llega un mensaje tranquilizador de Leto informando que tanto el ala de acarreo como el infiltrado Harkonnen de la tripulación que pretendía venderla en una base de contrabandistas, han sido restutidos.
 
 La grandeza es una experiencia transitoria. Nunca es consistente.
@@ -905,7 +889,6 @@ El fabricante de destiltrajes era un pequeño y atemorizado arribista que podía
 Una explosión láser-escudo tenía una peligrosa variante, ya que podía revelarse más potente que una explosión atómica o podía matar tan sólo al tirador y a su blanco.
 
 ### <span id="Capitulo17">[Capítulo 17](#Capitulo17)</span>
-
 En la madrugada, estando en su cama en sus habitaciones de la casa de Arrakeen, dama Jessica oye un fuerte y confuso tumulto en el Gran Salón, acude, es Duncan Idaho borracho, hay presentes guardias, la Shadaout Mapes y llega el Dr. Yueh, Idaho acusa a Jessica de espía Harkonnen, Jessica se enfurece y solicita la presencia del anciano mentat Thufir Hawat en sus habitaciones/aposentos, a donde se dirige para esperarlo. Jessica y Hawat dialogan, expresan sus sospechas/suspicacias mutuas, con la manipulación/técnica Bene Geserit, la bruja logra/provoca/alcanza el shock en el mentat.
 
 La cabeza del hombre basculaba hacia adelante.
@@ -1017,7 +1000,6 @@ Yo soy el toro y ella el matador, se dijo Hawat.
 Y supo entonces que, ocurriera lo que ocurriese, nunca olvidaría aquel instante, y que la suprema admiración que experimentaba por Dama Jessica nunca disminuiría.
 
 ### <span id="Capitulo18">[Capítulo 18](#Capitulo18)</span>
-
 El duque Leto es atentado con un aguja con droga paralizante disparada por el Dr. Yueh; días después del banquete, antes del amanecer, encontrándose Leto en un salón de su casa en Arrakeen, cavilando una misteriosa nota dejada por un mensajero Fremen a uno de los guardias exteriores, decide desplazarse hacia el ala ocupada por su familia y consultar el asunto con su señora dama Jessica, pero en el camino por uno de los corredores lo interrumpe un extrañlo gemido, está sin el escudo, al investigar encuentra el cadáver del contrabandista Tuek, y más adelante al ama de llaves Fremen Mapes herida, finalmente él mismo es disparado por Yueh, quien le revela sus planes de eliminar al barón Harkonnen utilizándolo a él como arma.
 
 Echó hacia atrás un mechón de cabellos de su frente, y suspiró. El efecto de las píldoras anti fatiga comenzaba a disiparse.
@@ -1045,7 +1027,6 @@ La boca de Leto se movió sin que ningún sonido surgiera de ella.
 —Haciendo creer que han muerto, y llevándolos secretamente con gente que saca un cuchillo al solo nombre de los Harkonnen, que odian a los Harkonnen hasta el punto que quemarían las sillas donde se ha sentado un Harkonnen o esparcirían la sal por donde ha caminado un Harkonnen.
 
 ### <span id="Capitulo19">[Capítulo 19](#Capitulo19)</span>
-
 Dama Jessica se despierta en una habitación a oscuras, atada y amordazada, resulta ser la habitación del sótano usada por Paul, ha sido capturada, llega el Barón Vladimir Harkonnen con unos subalternos, conversa con Jessica y el mentat asesino/degenerado Piter de Vries; al final Piter acepta el ducado, y llevan a Jessica y a Paul al desierto, ahí los capturados se libran de sus guardias captores, pero quedan por lidiar con la escapatoria de mercenarios Harkonnen.
 
 Debería existir una ciencia del descontento. La gente necesita tiempos difíciles y de opresión para desarrollar sus músculos físicos.
@@ -1121,7 +1102,6 @@ La puntera golpeó la parte blanda del abdomen de Czigo exactamente bajo el este
 Lástima de humedad, pensó, y se dijo que aquel era un pensamiento arrakeno.
 
 ### <span id="Capitulo20">[Capítulo 20](#Capitulo20)</span>
-
 El traidor Yueh y el Sardaukar enviado del imperio vestido de Harkonnen hablan, Mapes y Leto yacen, la una muerta el otro inconsciente, luego Yueh esconde el sello ducal en el tóptero para Jessica y Paul.
 
 Arrakis enseña la actitud del cuchillo… cortar lo que es incompleto y decir: «Ahora ya está completo porque acaba aquí».
@@ -1143,7 +1123,6 @@ Aunque se hayan aprovechado de mí, me desprecian, pensó Yueh. Se irguió mient
 Rápidamente, con creciente ansia, Yueh se dirigió al patio detrás del invernadero, donde esperaba el tóptero…
 
 ### <span id="Capitulo21">[Capítulo 21](#Capitulo21)</span>
-
 El Barón Vladimir Harkonnen en el transporte ligero/fragata usada como puesto de mando, observa en el exterior en la llameante noche en Arrakis en la lejana Muralla Escudo cómo el retumbar de la artillería en esta época de escudos sitia a los Atreides; llega el mentat Piter de Vries con un drogado duque Leto, el traidor Yueh también está presente, lo matan, Vladimir intenta interrogar a Leto infructuosamente, a cambio Leto rompe la cápsula con gas venenoso que Yueh le había alistado en un diente matando a Piter, a Umman Kudu y a otros tantos Harkonnen, llega el coronel sardaukar del imperio Bashar, pide rendición de cuentas a Vladimir, éste ordena al nuevo capitán de la guardia Iakin Nefud que conduzca a Bashar al comedor para que aprecie la escena, Vladimir se queda solo, pide comida y diversión.
 
 ¿Quién habría pensado en hacer revivir la artillería en estos días de escudos?, pensó con una risita mental.
@@ -1219,7 +1198,6 @@ El Barón se mordió el labio inferior, consolándose con la idea de que al meno
 Debo enviar inmediatamente a alguien a Tleilax para buscar un nuevo Mentat.
 
 ### <span id="Capitulo22">[Capítulo 22](#Capitulo22)</span>
-
 Paul y su madre dama Jessica se refugian en una destiltienda proveída por la Fremochila del tóptero; Paul percibe su nueva consciencia, ve el tiempo, dialoga con Jessica.
 
 *Escondiéndome como un chiquillo ahora que soy el Duque*, pensó Paul. Aquel pensamiento lo irritaba, pero no podía negar que esconderse era por el momento lo más seguro.
@@ -1276,7 +1254,7 @@ Pero sabía lo que significaba aquel pensamiento… una tentativa de anular el d
 
 Aquella incapacidad de experimentar dolor le pareció una horrible tara.
 
-https://dle.rae.es/tara tara 1. f. Peso del continente de una mercancía o género, vehículo, caja, vasija, etc., que se rebaja en la pesada total con el contenido. 2. f. Peso sin calibrar que se coloca en un platillo de la balanza para calibrarla, o para realizar determinadas pesadas. 3. f. Defecto físico o psíquico, por lo común importante y de carácter hereditario. 4. f. Defecto o mancha que disminuye el valor de algo o de alguien. 5. f. Caña o palo con cortes que se hacen en ellos para ajustar cuentas.
+[https://dle.rae.es/tara](https://dle.rae.es/tara){: target="_blank"} 1. f. Peso del continente de una mercancía o género, vehículo, caja, vasija, etc., que se rebaja en la pesada total con el contenido. 2. f. Peso sin calibrar que se coloca en un platillo de la balanza para calibrarla, o para realizar determinadas pesadas. 3. f. Defecto físico o psíquico, por lo común importante y de carácter hereditario. 4. f. Defecto o mancha que disminuye el valor de algo o de alguien. 5. f. Caña o palo con cortes que se hacen en ellos para ajustar cuentas.
 
 La mente de Paul siguió funcionando con gélida precisión.
 
@@ -1360,7 +1338,6 @@ Y cerró los ojos, pensando: No, padre mío, no puedo llorarte. Y sintió las l�
 ## <span id="LibroSegundoMuadDib">[Libro segundo: Muad’Dib](#LibroSegundoMuadDib)</span>
 
 ### <span id="Capitulo23">[Capítulo 23](#Capitulo23)</span>
-
 Habiendo pasado un rato en la destiltienda, Paul se incorpora, se acomoda el destiltraje y sale a la hondonada exterior, su madre Jessica lo sigue con algo de reticencia, Paul desarma y recoge la tienda, una tormenta de arena ha pasado, observan el cielo estrellado y el paisaje y empiezan a caminar sobre la recientemente formada capa de arena desértica, al emprender el camino ven unos relámpagos y chorros de rayos de colores que pasan por el cielo, son descargas, columnas de fuego y láseres de los ornitópteros Harkonnen que les están dando contundente caza.
 
 Buscó el tubo de agua de su destiltraje, fijado a su cuello, aspiró una bocanada tibia, y pensó que así iniciaba realmente su existencia arrakena… viviendo de la humedad de su cuerpo y de su propia respiración. Era un agua insípida y dulzona, pero calmó la sequedad de su garganta.
@@ -1368,7 +1345,6 @@ Buscó el tubo de agua de su destiltraje, fijado a su cuello, aspiró una bocana
 La oscuridad es un recuerdo ciego, pensó. ... El oído ve, el olfato ve.
 
 ### <span id="Capitulo24">[Capítulo 24](#Capitulo24)</span>
-
 El mentat Thufir Hawat el día después del letal ataque a Arrakeen se encuentra en compañia de un Fremen acurrucado que literalmente se ha deslizado por la arena y de una veintena de sus hombres heridos después de la batalla en una cornisa rocosa que domina un vasto sink cerca de Tsimpo, un poblado de guarnición, puesto avanzado de la antigua capital, Carthag; sopesa la enorme dimensión del ataque y costos, tiene por traidora a Dama Jessica, dialoga con el fremen, el fremen le informa que Gurney Halleck y otros están a salvo con sus amigos contrabandistas, hablan de que debe tomar una decisión de agua y del vínculo del agua, hacen alianza; Arkie, uno de sus soldados, fallece, otros fremen surgen para llevarse al difunto y extraerle su agua con otras costumbres pero con el mismo respeto. A continuación se ven unas figuras en el desierto y se perciben tópteros enemigos que sobrevuelan, hay batalla al descender, los fremen son triunfadores y raptan el tóptero, pero otros tópteros y transportes aparecen, al estar cercanamente reunidos del lugar de la refriega, se observa cómo fugaz y en picada el primer tóptero secuestrado por los fremen vuelve para al estilo kamikaze sacrificarse destruyendo el transporte y demás tópteros, finalmente una lluvia de uniformes azules de Sardaukar cae desde lo alto de la cornisa matando al fremen amigo/aliado y aturdiendo con un proyectil al mentat Hawat.
 
 Y esto es un profundo pensamiento si uno concibe hasta qué punto puede ser inestable «la verdad».
@@ -1398,7 +1374,6 @@ El Fremen acarició al murciélago, calmándolo, susurrándole cosas.
 —Permaneced silenciosos como animales asustados —susurró el Fremen.
 
 ### <span id="Capitulo25">[Capítulo 25](#Capitulo25)</span>
-
 Paul y su madre Jessica continuando su camino por el desierto ven cómo unos tópteros los siguen y aterrizan cerca de ellos, apresuradamente Duncan Idaho seguido por algunos Fremen se apea del vehículo para guiarlos, los Fremen descubren una entrada a un pasadizo subterráneo escondido en la arena, lo transitan hasta llegar a una caverna que ha sido adaptada como una cámara subterránea, allí se encuentran con el planetólogo Kynes, conocido como Liet entre los Fremen, observan la estancia y máquinas, hay animales, es una de las Estaciones Ecológicas Experimentales Imperiales que el fallecido duque Leto quería como bases de avanzada; una de las máquinas falla, un Fremen reporta, Kynes da instrucciones para utilizar otros aparatos manuales, solicita café de especia para reunirse con los invitados en otro cuarto más privadamente, pasan la puerta de plastiacero a través de la abertura en la caverna, observan esta nueva habitación, dialogan, Paul expone el plan que involucra pretender la potestad imperial, un Acta de Acusación presentada ante el Landsraad, las Grandes Casas, le propone a Kynes que intercambien sus lealtades mutuas; el café no arriba, y depronto la puerta se abre y se observa una explosión de violencia que se está desarrollando en la cámara principal, hay hojas de acero, escudos protectores, muerte, Duncan Idaho defiende bravamente la entrada a la cámara privada donde estaban los tres dialogando, éstos se apresuran a escapar por la otra salida escondida en los archivadores que conduce a la boca de un túnel con flechas luminosas en el suelo que los conducirán por los pasadizos, Idaho perece, Kynes les da instrucciones y se separa, madre e hijo corren por el túnel hasta llegar al recinto donde se encuentra el tóptero preparado, entran y lo operan, abren la puerta que desemboca al desierto y a la tormenta donde se les ha indicado que deben ir para lograr el escape, Paul pilotando el tóptero con la ayuda de Jessica vuelan en la fuerte tormenta de arena, ambos tratan de sobrepasar el miedo de las circusntancias actuales que les atañe.
 
 Y él siempre huía de la tentación de escoger un camino claro y seguro, advirtiendo: «Este sendero conduce inevitablemente al estancamiento».
@@ -1442,7 +1417,6 @@ La calma la abandonó de nuevo. Jessica sintió el castañeteo de sus dientes y 
 —El miedo mata la mente. El miedo es la pequeña muerte que conduce a la destrucción total. Afrontaré mi miedo. Permitiré que pase sobre mí y a través de mí. Y cuando haya pasado, giraré mi ojo interior para escrutar su camino. Allá donde haya pasado el miedo ya no habrá nada. Sólo estaré yo.
 
 ### <span id="Capitulo26">[Capítulo 26](#Capitulo26)</span>
-
 El barón Vladimir Harkonnen en sus habitaciones privadas en la fragata espacial que lo había llevado hasta Arrakis, ayudado por sus suspensores, habla con Jakin Nefud, el capitán de los guardias; éste intenta transmitirle que tanto dama Jessica como el muchacho Paul Atreides ya están muertos, el Barón lo duda e increpa a Nefud, el guardia le informa de las pérdidas en el enfrentamiento con los Fremen cerca al lugar donde los había conducido Duncan Idaho al estar cazando a Jessica y Paul, también le informa que el planetólogo Kynes y el mentat Thufir Hawat están ahora en poder de los Sardaukar, el Barón muestra voluntad de causar la muerte a Kynes disimuladamente como por motivo de un accidente dado su rol con el emperador, y de utilizar y seducir al mentat Hawat como reemplazo de su fallecido mentat Piter de Vries en la escena del gas tóxico exhalado de la muela por el duque Leto como atentado contra su vida aprovechando el convencinmiento y falsa información que tiene Hawat acerca de que dama Jessica es la traidora en lugar del difunto doctor Yueh de la Escuela Interna Suk, el Barón le expone al guardia Nefud el plan a ejecutar de envenenar al Mentat, finalmente le ordena que se apresure a iniciar las operaciones. A continuación, con la intención de entregarle de nuevo la potestad del planeta, el Barón con un botón llama a su sobrino mayor Rabban quien hace presencia en la habitación, para ello el Barón solamente le hace dos exigencias: beneficios, y un mando implacable; hablan de la situación actual, del mentat Piter fallecido, de los costos de la actual operación, de la muerte del doctor Yueh, y en general el Barón da instrucciones a Rabban acerca de cómo regir, de las Casas Menores, de los contrabandistas, le informa de los planes fatales para el planetólogo Kynes, del aprovisionamiento de especia (melange), al final el Barón despide a su sobrino Rabban, y se queda pensando en el potencial que tiene el hermano más pequeño de Rabban, el joven Feyd-Rautha.
 
 ¿Qué es lo que desprecias? Por ello serás conocido.
@@ -1492,7 +1466,6 @@ Un carnívoro no se detiene jamás. No tiene piedad. Nunca se para. La piedad es
 El muchacho que, cuando llegue el momento, sabrá cómo oprimir con impunidad.
 
 ### <span id="Capitulo27">[Capítulo 27](#Capitulo27)</span>
-
 Volando en el tóptero en la tormenta de arena, Paul y su madre Jessica pilotean e intentan dominar el miedo y los nervios, Paul trata de entender las corrientes, fuerzas, vórtices, turbulencias y géiseres que los envuelven, maniobra y hace virar la nave, hasta que van saliendo y la tormenta se aleja, las alas pueden estar averiadas por el esfuerzo, disminuyen altitud, planean, y Paul usa las dunas como freno, al aterrizar el ala derecha se desprende, habiendo planeado el aterrizaje, al estrellarse corren inmediatamente hacia las rocas que sobresalían como islas en la arena, al alcanzarlas y seguir corriendo perciben cómo un gusano despedaza el ornitóptero en el que aterrizaron; en seguida siguen su camino por la cresta rocosa alcanzada hacia las profundidades del desierto abierto (en el sur), deben viajar de noche como recita el Kitab al-Ibar, Jessica recupera el aliento, Paul se ajusta la mochila, en medio del camino toman un descanso, comen y se hidratan, perciben que hay especia melange cerca, el alba se acerca, piensan y planean en cómo atravesar el mar de desierto de aprox. cuatro kilómetros que se interpone; al estar cerca del borde del desierto se encuentran con una pendiente descendiente de arena que deben bajar, Paul lo hace primero sin complicaciones, pero al hacerlo Jessica es sepultada por la avalancha, Paul logra rescatarla justo a tiempo para escapar de la ladera de arena que se precipitaba pero pierde la mochila en la maniobra, luego de un pequeño instante de desesperación cavilan cómo rescatar la mochila evitando la ladera y avalanchas, lo planean y hacen usando espuma generada con la especia melange de naturaleza altamente alcalina, el ácido de la pila del paracompás y agua para endurecer la arena mientras hacen las necesarias excavaciones en búsqueda de la mochila, después de recolectar la necesaria muestra de especia, Paul regresa y hace la mezcla que producirá la espuma en un compartimiento del paracompás desmontado, ejecutan el plan con Paul esparciendo la espuma producida (sustancia alcalina + sustancia ácida + agua) y Jessica excavando hasta dar con la anilla y correa de la mochila, entonces al final entre ambos sacan la mochila de su sepultura, al estar a salvo en el suelo de la fisura rocosa con la mochila, Paul está sucio y Jessica con manchas y costras de arena verde donde la espuma se había secado, se ríen de la escena, Paul planta la tienda, con los binoculares observan el paisaje delante de ellos, Jessica anota que las hierbas secas que se ven son de Saguaro, cavilan si se encuentran con Fremen qué tan amistosos puedan mostrarse, los halcones alzan el vuelo, ven el transitar de un gigantesco gusano, al final Jessica a modo de reproche le dice que después de descansar deberán continuar con sus lecciones, entran en la tienda.
 
 A la edad de quince años, había aprendido ya el silencio.
@@ -1546,7 +1519,6 @@ Paul flexionó los dedos de su mano izquierda, mirando a su madre que se introdu
 Cualquier cosa que me hayan hecho, yo me he prestado siempre a ello, pensó.
 
 ### <span id="Capitulo28">[Capítulo 28](#Capitulo28)</span>
-
 Gurney Halleck se entrevista con el contrabandista Staban Tuek, hijo de Esmar Tuek en una caverna despacho que reproducía el centro de control de una fragata espacial; Halleck le expresa gratitud, Tuek le ofrece trabajo a él y sus hombres como pago, el guerrero Hallek tiene prisa y sed de venganza y sangre contra los Harkonnen, Tuek lo persuade diciendo que no aceptaran acciones contra los Harkonnen arguyendo que su contrato con la Cofradía exige circunspección, Tuek le habla con prudencia, asumen que Paul y Jessica están muertos o definitivamente perdidos, Halleck decide quedarse en Arrakis y ofrece su espada a Tuek, y ambos confían en que sus hombres lo seguirán; al terminar la conversación y salir del despecho a la sala de asambleas que era una larga y estrecha cavidad, Halleck ve con orgullo a sus hombres, sin embargo uno de sus lugartenientes le informa que Mattai, uno de sus hombres, no tiene esperanza de vida debido a la escasez de recursos del lugar, y que sólo le pide una canción para endulzar su muerte, Halleck toma el baliset que le tiende el lugarteniente, empieza a tocar el instrumento y los compañeros a cantar para ofrecerle al moribundo su anhelada despedida.
 
 Y el precio que pagamos era el precio que los hombres han pagado siempre por obtener un paraíso en sus vidas: nos ablandamos, perdimos nuestro temple.
@@ -1576,7 +1548,6 @@ Yo te prometo un refugio y una oportunidad de derramar la sangre que ambos quere
 El adiestramiento de los Atreides: «¡Velaremos por nuestros hombres!», era aún un núcleo indestructible en ellos, observó Halleck.
 
 ### <span id="Capitulo29">[Capítulo 29](#Capitulo29)</span>
-
 Paul y Jessica en su sitio de campamento aprecian el paisaje del muriente atardecer y el surgir de la noche, la oscuridad y las estrellas, alistan el martilleador y su mecha que les dará alrededor de treinta minutos de desplazamiento, comienzan el característico avance arrítmico del desierto, cuando el martilleador retumba y el gusano atraído despedaza las rocas ellos corren, a pesar de la fatiga los reconforta un poco este movimiento natural y conocido, pasan un tambor de arena y unas estacas de roca, alcanzan la roca y aprecian el surgimiento del gusano, un momento después al resonar otro martilleador extraño éste se aleja, ellos continúan siguiendo las estacas que marcan el camino a lo largo del farallón, tentando en la oscuridad, con movimientos cautos parecidos a los del desplazamiento desértico, avanzan subiendo unos peldaños artificiales hasta llegar a un lugar maravilloso en una depresión poco profunda con vegetación del desierto que arguyen debe ser cuidada por hombres, ven los ratones y el pájaro que los caza, de repente sigilosamente dos Fremen salvajes se aparecen encontrándolos vulnerables.
 
 «Es demasiado hermosa. La reservaremos para un regalo».
@@ -1642,7 +1613,6 @@ Paul, menos condicionado que su madre a reaccionar, lamentó haberse asustado e 
 Sin embargo, se sentía aún al borde del miedo, y reconoció su origen. Aquel era un tiempo ciego, un futuro que no había visto…
 
 ### <span id="Capitulo30">[Capítulo 30](#Capitulo30)</span>
-
 Liet-Kynes el planetólogo/ecólogo de su Majestad Imperial ha sido abandonado  por los Harkonnen con diversión en medio del desierto sin destiltraje ni equipo alguno, él trata de desplazarse y sobrevivir, pero cae en la superficie de arena, justo sobre una burbuja de gas de preespecia a punto de estallar, delira oyendo a su padre darle lecciones obvias que ha sabido desde niño, halcones lo sobrevuelan y se acercan, Kynes piensa que los Fremen deberían notar su presencia y rescatarlo, al final la burbuja estalla absorbiéndolo.
 
 La riqueza real de un planeta está en sus paisajes, en el papel que jugamos nosotros en esta fuente primordial de civilización… la agricultura.
@@ -1666,7 +1636,6 @@ Los mensajes han partido ya hacia mis poblados sietch, pensó. Nada puede detene
 Luego, mientras el planeta lo mataba, Kynes pensó que su padre y todos los demás científicos estaban equivocados, y que los principios fundamentales del universo eran el accidente y el error.
 
 ### <span id="Capitulo31">[Capítulo 31](#Capitulo31)</span>
-
 En la depresión rocosa en la que se encontraban, Paul y Jessica han sido sorprendidos por el Fremen Stilgar, quien antes en el Concejo ducal había reclamado el agua de su fallecido compañero a manos de los Harkonnen, y su grupo, los increpan hasta que Paul rompe el silencio al reconocer a Stilgar, discuten entre ellos acerca del muchacho-hombre, los recomendados por Liet-Kynes, el Lisan al-Gaib, pero dudan de la mujer, Jessica; Jessica actúa en reacción cuando la amenaza de Stilgar se cierne sobre ella, logra dominarlo y retenerlo, Paul tumba y desarma a un Fremen y se escabulle escalando por una hendidura en la roca, Jessica presiona a Stilgar para que comande dejar de perseguir al escapado Paul y detengan la amenaza contra ellos, acuerdan un intercambio de enseñanzas, Chani, la joven hija de Liet-Kynes se presenta, Paul se sorprende al encontrarse con la figura que había soñado en sus visiones prescientes, Stilgar pasa revista a su grupo, les pone a Paul y Jessica los pañuelos del *bakka*, al final comienzan el avance hacia el Sietch Tabr en ordenada formación.
 
 La cabeza envuelta en la capucha del albornoz se sobresaltó, revelando tensión, y luego se relajó lentamente. El hombre sabía controlarse.
@@ -1702,7 +1671,6 @@ Jessica asintió, reservando sus fuerzas, consciente del tremendo cansancio que 
 Su mente se concentró en el valor de aquella gente, recordando todo lo que le había sido revelado de la cultura Fremen.
 
 ### <span id="Capitulo32">[Capítulo 32](#Capitulo32)</span>
-
 Después de partir de la Depresión de Tuono, el grupo del Fremen Stilgar con Paul y Jessica aceptados y portando la pañoleta de *bakka*, arriban a la Caverna de la Cresta, la gente se dispersa, Chani ofrece comida a Paul, la puerta se sella, Stilgar conduce a Jessica para mostrarle otra gran depresión de diez o doce kilómetros de ancho con grupos de plantas y donde se ven los drusos, gente desplazándose por la arena, que él le expresa es su hogar; conversan, hablan de las leyes y los jefes, la Cofradía y la especia, la modificación de la superficie del planeta y los satélites, ven el Hacedor gusano Shai-Hulud cabalgado por Fremen, hablan de la Bene Gesserit, la Sayyadina, la Reverenda Madre, Jessica piensa en la Missionaria Protectiva, mientras la gente mira y escucha, el día ha avanzando y se hace tarde, y es hora de sellar la abertura de la caverna, entonces en ese momento Jessica entona para Stilgar la significativa plegaria del salat que causa conmoción en la gente de la caverna para convertirse en Sayyadina y dar el paso interior si Shai-Hulud lo permite; mientras Paul al lado de Chani percibe los efectos de la concentración de especia en la comida que llevaría su mente hacia una mayor consciencia presciente.
 
 Los Fremen eran supremos en aquella cualidad que los antiguos llamaban «spannungsbogen»… que es la demora que se impone uno mismo entre el deseo de algo y el acto de conseguirlo.
@@ -1756,7 +1724,6 @@ La presciencia, comprendió, era una iluminación que incorporaba los límites d
 Esta visión lo empujó a una absoluta inmovilidad, pero incluso esta inmovilidad era una acción que tendría sus consecuencias.
 
 ### <span id="Capitulo33">[Capítulo 33](#Capitulo33)</span>
-
 Jessica después de un sueño reparador despierta en la caverna, se desliza de la hamaca improvisada con las ropas, se ajusta su traje y demás equipamiento, ve la actividad de la noche en la caverna, ve a Stilgar, Jamis, el hombre vencido (por sorpresa) por Paul la noche anterior en la derpresión está exigiendo el desafío tahiddi que es regla del amtal, tratan de persuadirlo pero no cede; en un círculo formado por los espectadores a la luz de los globos lumínicos Paul y Jamis se enfrentan a cuchillo, el buen adiestramiento de Paul inculcado desde niño le sirve para vencer a Jamis, los restantes Fremen se llevan el bulto con ropa que es el cadáver de Jamis, Jessica notando lo terrible del momento y Stilgar le dicen frases a modo de reproche y mesura, le es asignado el nombre en código de soldado Usul, y él mismo elige su nombre adulto como Paul-Muad’Dib, se alzan murmullos de aceptación entre los presentes, Stilgar reitera su orden a Chani de velar y cuidar de Paul, y en cuanto a Jamis ordena la ceremonia completa al haber sido compañero y hermano.
 
 Pienso más bien que era un hombre que luchaba constantemente contra los barrotes de una jaula invisible.
@@ -1840,7 +1807,6 @@ Y luego fue el turno de Chani, que apretó su mejilla contra la de él y pronunc
 Esto no ocurrirá, se dijo. No puedo permitirlo.
 
 ### <span id="Capitulo34">[Capítulo 34](#Capitulo34)</span>
-
 En el crepúsculo de la caverna se retiran los sellos de plástico de las aberturas para dar inicio al rito funeral del desafiante Jamis, Paul debe aceptar el agua de su derrotado pero no quiere, la madre lo persuade, el rito inicia, un único globo muy en lo alto de la caverna ilumina, se conducen a un círculo formado por los presentes que rodean un objeto cubierto con ropas que hay en el suelo, Stilgar habla, Chani toma en compañía a Jessica, con extrañeza y relucatancia disimulada de Paul, se reparten las pertenencias de Jamis que están en el círculo, Paul derrama lágrimas, que son sagradas entre ellos, hacen el recuento de la cantidad de agua recogida del difunto Jamis; a continuación Stilgar toma el globo lumínico y guía el grupo a través de un par de puertas rocosas secretas y cámaras donde la humedad aumenta al precipitarse debido a unos paneles emparrilados de alvéolos hexagonales que eran trampas de viento, y a través de unas escalinatas descendientes en espiral hasta una cámara donde gotea agua y que tiene un gran estanque de agua recolectada, guardada y conservada, vierten y cuentan con suma precisión la nueva agua aportada, en seguida el grupo guiado por Stilgar vuelve a la caverna principal por el mismo camino, Paul camina acompañado de Chani, en la caverna principal se revelan la noche y las estrellas, a petición de alguien Paul canta una canción con el basilet heredado de Jamis, Jessica se cuestiona sobre las mujeres para Paul y el amor, Paul trata de fijarse en la mente evitar la jihad que se presenta en sus visiones.
 
 Dios creó Arrakis para probar a los fieles.
@@ -1867,40 +1833,39 @@ Paul tragó saliva, agitando su cabeza.
 
 El encuentro entre ignorancia y conocimiento, entre brutalidad y cultura… todo comienza con la dignidad con la cual tratamos a nuestros muertos.
 
- Vio los rostros que se volvían furtivamente hacia él, desviando después la mirada.
+Vio los rostros que se volvían furtivamente hacia él, desviando después la mirada.
 
- Paul vio de nuevo rostros vueltos hacia él, y captó la expectación en ellos.
+Paul vio de nuevo rostros vueltos hacia él, y captó la expectación en ellos.
 
- Una vez más, los rostros se volvieron hacia él, y sintió la rabia y el miedo en el grupo.
+Una vez más, los rostros se volvieron hacia él, y sintió la rabia y el miedo en el grupo.
 
- Mientras avanzaba hacia el centro del círculo, Paul notó que su yo disminuía progresivamente. Era como si hubiese perdido un fragmento de sí mismo y supiera que iba a encontrarlo allí.
+Mientras avanzaba hacia el centro del círculo, Paul notó que su yo disminuía progresivamente. Era como si hubiese perdido un fragmento de sí mismo y supiera que iba a encontrarlo allí.
 
- Allí era una sustancia mucho más preciosa que todas las demás… era la vida misma, entremezclada con simbolismos y ritos.
+Allí era una sustancia mucho más preciosa que todas las demás… era la vida misma, entremezclada con simbolismos y ritos.
 
- Pero ahora había un sutil vacío alrededor de Paul, un retirarse de los demás, honrándole con un respetuoso aislamiento.
+Pero ahora había un sutil vacío alrededor de Paul, un retirarse de los demás, honrándole con un respetuoso aislamiento.
 
- Jessica captó el aumento de la tensión a su alrededor, la presión del silencio que agarrotaba sus nervios con su urgencia.
+Jessica captó el aumento de la tensión a su alrededor, la presión del silencio que agarrotaba sus nervios con su urgencia.
 
- Era al mismo tiempo tranquilizador y frustrante.
+Era al mismo tiempo tranquilizador y frustrante.
 
- Esto no ocurrirá, pensó. No puedo permitir que ocurra.
+Esto no ocurrirá, pensó. No puedo permitir que ocurra.
 
- Aquel simple hecho era un indicio elocuente de la tecnología Fremen: eran perfeccionistas.
+Aquel simple hecho era un indicio elocuente de la tecnología Fremen: eran perfeccionistas.
 
- Para Paul, el sonido de cada gota era un momento que moría.
+Para Paul, el sonido de cada gota era un momento que moría.
 
- Han hecho una alianza con el futuro, pensó. Tienen su montaña que escalar. Es el sueño científico… y ese pueblo sencillo, esos campesinos, se han embebido de él.
+Han hecho una alianza con el futuro, pensó. Tienen su montaña que escalar. Es el sueño científico… y ese pueblo sencillo, esos campesinos, se han embebido de él.
 
- Era un sueño capaz de capturar el alma de aquellos hombres, y sintió la mano del ecólogo en él.
+Era un sueño capaz de capturar el alma de aquellos hombres, y sintió la mano del ecólogo en él.
 
- Una vez más, los límites de su poder lo turbaron. Era como si cabalgase en una ola del tiempo, a veces en su seno, a veces en su cima…
+Una vez más, los límites de su poder lo turbaron. Era como si cabalgase en una ola del tiempo, a veces en su seno, a veces en su cima…
 
- Y por encima de todo ello, la salvaje jihad aparecía siempre ante él, con la violencia y la matanza. Era como un escollo dominando las olas.
+Y por encima de todo ello, la salvaje jihad aparecía siempre ante él, con la violencia y la matanza. Era como un escollo dominando las olas.
 
- Notaba la vida deslizarse a su alrededor, y no podía aferrarla.
+Notaba la vida deslizarse a su alrededor, y no podía aferrarla.
 
 ### <span id="Capitulo35">[Capítulo 35](#Capitulo35)</span>
-
 En el decimoséptimo aniversario del na-Barón Feyd-Rautha Harkonnen, el Conde y Dama Fenring son vivitantes observadores de la Corte Imperial para asistir a la conmemoración y ver los juegos familiares en la arena donde Feyd-Rautha mataría al esclavo-gladiador de turno retante; el Conde Fenring y el Barón Vladimir conversan; en la hora del evento de la arena Feyd-Rautha acompañado de su séquito saluda y presenta las armas al público espectador en las gradas y palco, el mentat Thufir Hawat ha elaborado un plan para ese encuentro, el gladiador oponente hace presencia, es uno de los soldados del Duque Leto capturados en Arrakis, se enfrentan, Feyd-Rautha vence, al final ordena que sepulten al esclavo-gladiador intacto sin decapitación, el Barón se ve obligado a ordenar una fiesta, al bajarse las barreras de prudencia gente salta a la arena para alzar en hombros al triunfal vencedor, el Barón se despide del Conde y Dama, se retira, y éstos hablan de sus planes para el na-Barón.
 
 El concepto de progreso actúa como un mecanismo de protección destinado a defendernos de los terrores del futuro.
@@ -1911,40 +1876,39 @@ Tenía la serena calma de las Bene Gesserit, y esto turbó profundamente al jove
 
 Y pensó: ¡Obsérvalo bien, Feyd! Es un asesino con los modales de un conejo… el tipo más peligroso de hombre.
 
- Y sus movimientos… movía una mano o volvía la cabeza hacia un lado y hablaba hacia el otro. Era difícil seguirlo.
+Y sus movimientos… movía una mano o volvía la cabeza hacia un lado y hablaba hacia el otro. Era difícil seguirlo.
 
- Ella lo miró serenamente, pero su voz fue como un latigazo cuando dijo:
+Ella lo miró serenamente, pero su voz fue como un latigazo cuando dijo:
 
- ¡Bene Gesserit!, pensó el Barón. ¡El universo haría mejor desembarazándose de ellas!
+¡Bene Gesserit!, pensó el Barón. ¡El universo haría mejor desembarazándose de ellas!
 
- El desierto meridional es inhabitable. El desierto septentrional es batido regularmente por mis patrullas.
+El desierto meridional es inhabitable. El desierto septentrional es batido regularmente por mis patrullas.
 
- Está intentando deliberadamente hacerme enfurecer, pensó el Barón. Respiró a fondo dos veces para calmarse.
+Está intentando deliberadamente hacerme enfurecer, pensó el Barón. Respiró a fondo dos veces para calmarse.
 
- Y podré decir a todos, como Prometeo: «Miradme, soy víctima de una injusticia».
+Y podré decir a todos, como Prometeo: «Miradme, soy víctima de una injusticia».
 
- —Ved, Conde, ahí está el planeta-prisión del Emperador, Salusa Secundus, para inspirarme.
+—Ved, Conde, ahí está el planeta-prisión del Emperador, Salusa Secundus, para inspirarme.
 
- Era obvio que Fenring raramente hacía algo inútil, como tampoco empleaba nunca dos palabras cuando con una era suficiente, ni se contentaba con dar un solo sentido a cada frase.
+Era obvio que Fenring raramente hacía algo inútil, como tampoco empleaba nunca dos palabras cuando con una era suficiente, ni se contentaba con dar un solo sentido a cada frase.
 
- En el preciso instante en que aparecía el gladiador, un ojo adiestrado podía captar todo lo que necesitaba saber.
+En el preciso instante en que aparecía el gladiador, un ojo adiestrado podía captar todo lo que necesitaba saber.
 
- Es terrible lo que hace de un hombre un superhombre.
+Es terrible lo que hace de un hombre un superhombre.
 
- La rabia estaba ocupando el lugar del miedo.
+La rabia estaba ocupando el lugar del miedo.
 
- Y el Barón observó la línea de su cuello… un adorable juego de músculos… como un adolescente.
+Y el Barón observó la línea de su cuello… un adorable juego de músculos… como un adolescente.
 
- —Exactamente. Y es obvio que necesitamos ejercitar sobre él un control completo. Implantaré en lo más profundo suyo las frases prana-bindu que lo doblegarán a nuestra voluntad.
+—Exactamente. Y es obvio que necesitamos ejercitar sobre él un control completo. Implantaré en lo más profundo suyo las frases prana-bindu que lo doblegarán a nuestra voluntad.
 
- —El sentimiento de culpabilidad empieza con el miedo a fracasar —recordó él.
+—El sentimiento de culpabilidad empieza con el miedo a fracasar —recordó él.
 
 —Su tío —dijo él—. ¿Has visto alguna vez a alguien tan retorcido?
 
- Dice: «No consideres muerto a un ser humano hasta que hayas visto su cadáver. Y, aún entonces, piensa que podrías equivocarte».
+Dice: «No consideres muerto a un ser humano hasta que hayas visto su cadáver. Y, aún entonces, piensa que podrías equivocarte».
 
 ### <span id="Capitulo36">[Capítulo 36](#Capitulo36)</span>
-
 El grupo de Stilgar regresa a su sietch con sus dos escapados del desierto, Paul y Jessica, la tonalidad del alba indica el tiempo del calendario, al llegar los Fremen se liberan de sus capuchas, se percibe el olor acre del lugar, Jessica y Chani están en la multitud, un sujeto llamado Farok está al lado de Paul, charlan, se corre la noticia de que Liet-Kynes está muerto, el jefe Stilgar presenta a Harah, ex-mujer del difunto Jamis, a Usul, éste la toma como sirvienta; se separan, Stilgar se aleja con el resto de su gente, Jessica está con asuntos de no-freyn Sayyadina Reverenda Madre, Chani con asuntos de su fallecido padre, y Paul demanda a Harah que los conduzca a los aposentos conferidos, en el camino ven cómo con telares los Fremen confeccionan plástico, se describe el camino por los pasillos que recorren, se habla de los colectores de rocío fabricados con cromoplástico, pasan por el salón de clases que está activo siguiendo la enseñanza de Liet-Kynes, llegan a su yali o habitaciones, cuando Harah se retira para traer comida, Paul ve dos niños que hacen presencia en la estancia, los hijos de Harah.
 
 Así, mientras sus ojos asumían el azul del Ibad, aprendió la enseñanza chakobsa.
@@ -1982,7 +1946,6 @@ Sintiéndose irritado consigo mismo,
 El mutable tiempo-consciencia parecía danzar a su alrededor.
 
 ### <span id="Capitulo37">[Capítulo 37](#Capitulo37)</span>
-
 En la caverna se están reuniendo alrededor de veinte mil Fremen, Paul ha sido convocado, Jessica del Extraño Arte va a atreverse a tomar el ritual del paso interior para convertirse en Reverenda Madre, se disponen las alfombras y demás menesteres de la ceremonia, Stilgar se dirige al público, antes de que Jessica realice su ritual, por cautela por si Jessica fallece o algo sale mal, como medida preventiva Chani pasa por la ceremonia para tomar sus votos y consagrarse como Sayyadina; a continuación Jessica bebe del Agua de Vida depositada por los maestros del agua y tiene su viaje con la extensión-onda psicoquinésica y su presciencia, donde las tres conciencias, la suya, la de la Reverenda Madre Ramallo y la de su hija no-nata se encuentran, la Reverenda Madre Ramallo vierte sus experiencias y conocimiento en Jessica y su hija, y también en el alcance de los demás asistentes del recinto al ritual; Paul también bebe el Agua de Vida, percibe el ambiente festivo, luego el saco pasa por la multitud para que también beban, Chani conduce a Paul a un apartamento privado, Chani le expresa que hay algo que causa terror al compartir con él, se hablan, se dan tranquilidad y calma, se abrazan, ella ya no tiene miedo, ve lo que él ve, ella lo besa en la mejilla.
 
 Las manos se mueven, los labios se mueven…
@@ -2250,7 +2213,7 @@ Pero sobre todos los demás la dominaba el pensamiento de que su hijo era el Kwi
 
 «Sí, comprendo como puede ser esta cosa». Pero cuando uno mira dentro de sí mismo y debe afrontar las fuerzas primordiales de nuestra existencia, entonces es cuando ve el peligro. El mayor peligro del que da, es la fuerza del que toma. El mayor peligro del que toma, es la fuerza del que da. Es tan fácil ser arrollado por la fuerza que da, como por la que toma.
 
-https://dle.rae.es/fulcro Punto de apoyo de la palanca.
+[https://dle.rae.es/fulcro](https://dle.rae.es/fulcro){: target="_blank"} Punto de apoyo de la palanca.
 
 Chani sintió un soplo de aire rozarle su mejilla, y se volvió para ver cerrarse los cortinajes.
 
@@ -2381,7 +2344,6 @@ Mientras que a nosotras, Chani, nosotras que arrastramos el nombre de concubinas
 ## <span id="Apendices">[Apéndices](#Apendices)</span>
 
 ### <span id="Apendices1">[I. La ecología de Dune](#Apendices1)</span>
-
 Más allá de un punto crítico, los grados de libertad, en un espacio finito, disminuyen a medida que se incrementa el número. Esto resulta válido tanto para los hombres en el espacio finito de un ecosistema planetario como para las moléculas de gas en una redoma sellada. La cuestión para los seres humanos no es saber cuántos de ellos podrán sobrevivir dentro del sistema, sino qué tipo de existencia será posible para aquellos que sobrevivirán.
 
 Los Fremen: una fuerza ecológica y geológica de un potencial ilimitado.

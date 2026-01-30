@@ -17,21 +17,21 @@ description: "Bueno para comer - Marvin Harris"
 
 ## <span id ="sinopsis">[SINOPSIS](#sinopsis)</span>
 
-### <span id="cap1">[1. ¿Bueno para pensar o bueno para comer?](#cap1)</span>
+### <span id="cap01">[1. ¿Bueno para pensar o bueno para comer?](#cap01)</span>
 El autor plantea que uno de los aspectos abordados son los diferentes factores y causas como nutrición, ecología, dinero para las elecciones y evitaciones alimentarias más curiosas de algunos grupos humanos.
 
-### <span id="cap2">[2. Ansia de carne](#cap2)</span>
+### <span id="cap02">[2. Ansia de carne](#cap02)</span>
 Se exponen diferentes factores/aspectos a favor y en contra del consumo de productos de orígen animal y vegetal, se brinda información nutricional, se concluye que la preferencia de las naciones por la carne es racional y surge por la interacción entre la biología humana y la composición nutritiva de una serie de posibilidades alimentarias.
 
-### <span id="cap3">[3. El enigma de la vaca sagrada](#cap3)</span>
+### <span id="cap03">[3. El enigma de la vaca sagrada](#cap03)</span>
 Se expone la justificación del porqué el culto y prohibición del consumo de carne de vaca en la India, y respalda la visión y explicación práctica de Ghandi. Se tienen en cuenta cifras, factores como la superpoblación, las actividades socio-económicas como la agricultura y el arado, y se repasan los beneficios de mantener la prohibición tanto religiosa como política sobre el consumo de carne de vaca.
 
-### <span id="cap4">[4. El cerdo abominable](#cap4)</span>
+### <span id="cap04">[4. El cerdo abominable](#cap04)</span>
 Se cuestiona porqué siendo el cerdo el más efectivo en convertir carne, tanto el Antiguo Testamento como el Corán lo prohiben, se discute/diserta, del rabí Moisés Maimónides, la justificación en la porquería, después de 700 años llega la justificación científica con la triquinosis, se analiza la fórmula del Antiguo Testamento, se pone de manifiesto la falla en el argumento/razonamiento de la antropóloga Mary Douglas, se explican los factores sistema digestivo, clima, ecología, sistema de regulación del calor corporal, hábitos del cerdo.
 
 La cría de cerdos en Oriente Medio para pastores nómadas era demasiado costosa, y actualmente lo sigue siendo, se explica el declive de la ganadería porcina en esa zona, cita a Carlton Coon, la deforestación y el crecimiento demográfico, la escasa crianza de cerdo no entra en contradicción con la base ecológica del tabú, se aborda la complicación exasperante de los tres vertebrados rumiantes, explica extensiones de la fórmula y otras especies de la lista, se analiza la aversión por el cerdo de las otras civilizaciones importantes del Oriente Medio ―fenicios, egipcios y babilonios―, la prohibición y extensión del Islam por regiones bien diferenciadas, se explica la dirección en la que pueden circular los efectos de estos factores y hábitos dietéticos sobre las condiciones ecológicas y económicas de su entorno.
 
-### <span id="cap5">[5. La hipofagia](#cap5)</span>
+### <span id="cap05">[5. La hipofagia](#cap05)</span>
 Se habla de las virtudes de las características de la carne de caballo, su uso y comparación en distintos países. Se mencionan primeros tabúes, restricciones, prohibiciones o rechazo a la carne de equino.
 
 Se describen las costumbres de los cazadores paleolíticos en la Edad de Piedra, se menciona que el clima cambia y es en Asia donde se domestica por primera vez el caballo, se explica que la contribución del caballo era la movilidad para el pastoreo disperso en grandes áreas, se describe el brebaje con leche de yegua *kumiss*, y que el caballo se domesticó más tardíamente que otros animales.
@@ -52,7 +52,7 @@ De igual forma se presenta el mercado clandestino, pero la tardanza en las inspe
 
 Teniendo en cuenta que EEUU es el primer exportador de carne de caballo con una industria envasadora que existe, la cuestión es saber porqué no se come. Se mencionan datos recientes de intentos de comercialización y los obstáculos, se menciona el caso de la carne de caballo como comida para mascotas, se menciona el fracaso de los intentos de mercado con las modalidades en filete o como carne picada o embutida. El autor señala que falta explicar la jerarquía de las principales carnes disponibles para el consumo norteamericano, y las evitaciones y preferencias.
 
-### <span id="cap6">[6. San Vacuno, EE.UU.](#cap6)</span>
+### <span id="cap06">[6. San Vacuno, EE.UU.](#cap06)</span>
 Inicia con cifras y porcentajes del consumo de diferentes tipos de carne, y continua con contra-argumentaciones a algunas primeras explicaciones de porque la de vacuno es la preferida, y cómo ha pasado la carne de cabra a ser reemplazada por la de vaca, y la asociación que la primera ha gestado/generado con las minorías raciales y culturales pobres y explotadas, y que no hay referencias culinarias de ella.
 
 A continuación aborda las ovejas, el cordero y carnero, es decir el ganado ovino. Explica las condiciones ecológicas y demográficas que prevalecían en la colonia que favorecieron los ganados porcino y vacuno sobre cabras y ovejas.
@@ -67,7 +67,7 @@ Se menciona la hamburguesa como contribución norteamericana a la cocina mundial
 
 Finaliza el capítulo hablando acerca de el pollo, cifras y comparación de consumo con la carne de vacuno, parangón de eficiencia transformando cereales en carne con respecto al superior cerdo y la vaca, problemas técnicos y soluciones que ha superado la industria, y el crecimiento que eso ha significado. Hace notar las dinámicas e inercias de los hábitos alimentarios en general y en EEUU, y en la real eficiencia energética de algunos de los casos expuestos (transformando en carne los alimentos de origen vegetal).
 
-### <span id="cap7">[7. Lactófilos y lactófobos](#cap7)</span>
+### <span id="cap07">[7. Lactófilos y lactófobos](#cap07)</span>
 Menciona al antropólogo Robert Lowie y la aversión de los asiáticos orientales hacia la leche, ese "alimento perfecto", y que sólo tenían la concesión al paladar norteamericano de los helados entre los postres. Menciona el aborrecimiento asiático hacia la leche, y las percepciones virtuosa y repulsiva de la leche.
 
 La leche presentada como estereotipo de alimento perfecto útil y que no hace daño (inocuo). En el período posterior a la Segunda Guerra Mundial, gran parte de las ayudas humanitarias de EEUU consistían en leche en polvo, y luego empezaron a oirse rumores de personas que enfermaban por beber leche norteamericana.
@@ -88,17 +88,17 @@ Cita: *"Desde tiempos inmemoriales, los chinos y otros pueblos del Asia oriental
 
 Se resalta el caso particular de la *«coevolución»* de la lactofilia y de la base genética de la suficiencia en lactasa como sumamente instructiva por ser tan diferente de la evolución de la mayoría de las costumbres alimentarias.
 
-### <span id="cap8">[8. Bichitos](#cap8)</span>
-.
+### <span id="cap08">[8. Bichitos](#cap08)</span>
+Se pone de relieve la aversión principalmente euronorteamericana hacia los insectos e invertebrados. Se menciona que la aversión a los insectos no es instintiva y que descendemos de una antiquísima estirpe insectivora, describe algunos comportamientos de los chimpancés, cita a entomólogos, costumbres durante la época colonial, cifras en sudamérica, técnicas en China, se mencionan rivalidades por hábitos alimentarios en el sudeste asiático y se dan descripciones, se citan descripciones del sabor, preparación e ingesta de insectos e invertebrados, se mencionan parásitos como los piojos, se menciona que los antiguos griegos también eran doctos en insectivorismo, y algunos banquetes, eventos históricos y técnicas donde se han consumido insectos. Se explican y comparan los aspectos nutritivos como calorías, proteínas y grasa, se menciona la quitina como fuente fibrosa y la correcta forma de ingerir los insectos. Se exponen las justificaciones y técnicas prácticas para rebatir los argumentos basados en higiene, suciedad, enfermedades o alergias, por ejemplo que los insectos se tuestan o cocinan. A continuación para explicar la relación coste-beneficios de consumir insectos y criaturas pequeñas se acuña la teoría de la caza/recolección óptima (optimal foraging theory), se describen las observaciones realizadas en la expedición de caza/recolección de los achés del Paraguay oriental hecha por Kristen Hawkes y sus colaboradores, se menciona el caso paradigmático constituído por las langostas, y el caso de las chinches acuáticas gigantes apreciadas en China, se citan el Levítico y a Juan el Bautista. Se mencionan las termitas y las hormigas ocupando, probablemente, el segundo puesto después de la langosta por lo que se refiere a cantidades consumidas a lo largo y ancho del mundo. Al final aplica a los insectos su teoría presentada en el capítulo consagrado al cerdo para decir si una especie es considerada deidad/apoteosis o paria/abominación.
 
-### <span id="cap9">[9. Perros, gatos, dingos y demás mascotas](#cap9)</span>
-.
+### <span id="cap09">[9. Perros, gatos, dingos y demás mascotas](#cap09)</span>
+El autor se cuestiona, se plantea el problema de dilucidar si un animal de la cocina habitual puede seguir siendo mascota; se habla de los cochinillos de Nueva Guinea, los pueblos pastores de la región de África Oriental y las reses/bovinos, se explican aspectos de la relación entre condición de mascota y animal comestible de la cocina, se expone la diferencia fundamental entre las actitudes china y euronorteamericana hacia la carne canina, se mencionan los dos notables estudios en las culturas no occidentales, la carne canina se consume dependiendo de las prestaciones que éstos animales brinden y de la disponibilidad de otros animales de caza, se menciona el México precolombino, el caso del supuesto inútil *dingo* de Australia, se describe que aquí también es la "utilidad residual" un factor principal que determina si una mascota se utiliza o no como alimento, se evidencian otros usos/factores/beneficios visibles prestados por las mascotas a tener en cuenta, se mencionan los servicios de entretenimiento y de utilización deportiva, se analizan los factores encuestados de "compañía" y "protección"; se hace la consideración de que el consumo de estos animales depende del equilibrio entre su utilidad residual y la relativa abundancia de transformadores más eficaces de productos vegetales en productos animales.
 
 ### <span id="cap10">[10. Antropofagia](#cap10)</span>
-.
+Se plantea el enigma del hecho de que las personas se coman unas a otras teniendo acceso a recursos alimentarios alternativos, las dos maneras de conseguir un cadáver comestible, se menciona el canibalismo de los guiadas del Alto Orinoco en Sudamérica, se mencionan los craquietos y los cunibos, los forés de Nueva Guinea, los dos tipos de canibalismo: funerario y bélico, la temprana historia de canibalismo bélico de Hans Staden cautivo de los indios brasileños tupinambas, testimonios de los jesuitas sobre rituales caníbales de los tupinambas, otros testimonios y pueblos, los casos de barbarie europea, las tres diferencias entre sociedades estatales y bandas/aldeas, se explica la anticipación a una reacción escéptica respecto a porqué no devoraban a los enemigos ya muertos que no eran prisioneros trabajadores del campo de batalla, el caso de Oceanía y Fidji, los pueblos de Polinesia que no practicaban el canibalismo bélico, las tres excepciones de los pueblos de Polinesia que sí practicaban el canibalismo bélico (maories, habitantes de las Islas Marquesas, samoanos), se explica la excepción del estado Azteca ante la ingesta de carne humana.
 
 ### <span id="cap11">[11. Comer mejor](#cap11)</span>
-.
+Diferencia entre Optimización y Óptimo, el autor aclara que no es un doctor Pangloss del Cándido de Voltaire, se tratan los dos últimos rompecabezas directamente relacionados con los problemas de la desnutrición en los países del Tercer Mundo, el primero se refiere a una peculiar pauta de limitaciones que se aplica a las dietas de las mujeres embarazadas y lactantes, el segundo, a una terrible enfermedad derivada de la nutrición que es causa de ceguera (xeroftalmia en los niños).
 
 
 ## COMENTARIO
@@ -112,17 +112,23 @@ Se resalta el caso particular de la *«coevolución»* de la lactofilia y de la 
 
 [dehesa](https://dle.rae.es/dehesa){: target="_blank"} 1. f. Tierra generalmente acotada y arbolada, por lo común destinada a pastos.
 
+[puerperio](https://dle.rae.es/puerperio){: target="_blank"} m. Período que transcurre desde el parto hasta que la mujer vuelve al estado ordinario anterior a la gestación. Sin.: posparto.
+
+[cogitativo](https://dle.rae.es/cogitativo){: target="_blank"} adj. Que tiene facultad de pensar.
+
 
 ## <span id ="referencias">[REFERENCIAS](#referencias)</span>
 * [https://www.alianzaeditorial.es/libro.php?id=2656986&id_col=100508][1]{: target="_blank"}
 * [https://es.wikipedia.org/wiki/Marvin_Harris][2]{: target="_blank"}
 * [http://depa.fquim.unam.mx/amyd/archivero/LibroBuenoparacomerMarvinHarris_30755.pdf][3]{: target="_blank"}
+* Libro con anotaciones de Adobe Acrobat: [http://depa.fquim.unam.mx/amyd/archivero/LibroBuenoparacomerMarvinHarris_30755_Annotations20250715.pdf][4]{: target="_blank"}
 
 
 
 [1]: https://www.alianzaeditorial.es/libro.php?id=2656986&id_col=100508
 [2]: https://es.wikipedia.org/wiki/Marvin_Harris
 [3]: http://depa.fquim.unam.mx/amyd/archivero/LibroBuenoparacomerMarvinHarris_30755.pdf
+[4]: http://depa.fquim.unam.mx/amyd/archivero/LibroBuenoparacomerMarvinHarris_30755_Annotations20250715.pdf
 
 
 

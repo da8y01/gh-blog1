@@ -293,7 +293,7 @@ Here lies the problem. An *arbitrary* string requires a machine with an arbitrar
 
 Our discussion closely follows Minsky [1967]. [RPF]
 
-By assigning different symbols to O's and 1's - A's and B's, say - we can keep track of which were 0' s and l' s; if we wanted to come along tomorrow and use the file again, we could, only we would find it written in a different alphabet.
+By assigning different symbols to O's and 1's - A's and B's, say - we can keep track of which were 0' s and 1' s; if we wanted to come along tomorrow and use the file again, we could, only we would find it written in a different alphabet.
 
 Minsky's solution for a locating Turing machine is shown in Figure 3.16:
 
@@ -595,7 +595,7 @@ This is not a matter of fundamental principle; it is actually a practical matter
 
 The secret of sending the value of S is to approximate it.
 
-Then, all we need do is split the interval [0, l] up into one hundred slices (usually referred to as "bins"), and transmit information about which slice the value of S is in; in other words, a number between 0 and lOO.
+Then, all we need do is split the interval [0, 1] up into one hundred slices (usually referred to as "bins"), and transmit information about which slice the value of S is in; in other words, a number between 0 and 100.
 
 This is not uncommon. Usually, such a variable will have values that are not evenly distributed.
 
@@ -619,7 +619,7 @@ The basic idea for transmitting S in this general case is the same. We divide th
 ![RPFLecturesComputation_Chap4_4-8_Pag132][RPFLecturesComputation_Chap4_4-8_Pag132]{: width="50%"}
 </div>
 
-P(s) is just the cumulative probability function of S, the probability that S:::; s. It clearly satisfies the inequality (0:::; P:::; 1). One well-known statistical property of this function (as you can check) is that its own distribution is flat: that is, if we were to plot the probability distribution of P(s) as a function of s in Figure 4.6, we would see just a horizontal line.
+P(s) is just the cumulative probability function of S, the probability that S <= s. It clearly satisfies the inequality (0 <= P <= 1). One well-known statistical property of this function (as you can check) is that its own distribution is flat: that is, if we were to plot the probability distribution of P(s) as a function of s in Figure 4.6, we would see just a horizontal line.
 
 Consideration of such a problem will bring us on to consider the famous *Sampling Theorem*, another baby of Claude Shannon.
 
@@ -641,7 +641,7 @@ This is the Sampling Theorem.
 
 In other words, if we sampled the function at times spaced (Pi/v) time units apart, we could reconstruct the entire thing from the sample!
 
-Then, the sum (4.4l) is no longer infinite and we only need to take a finite number of sample points to enable us to reconstruct .f(t).
+Then, the sum (4.41) is no longer infinite and we only need to take a finite number of sample points to enable us to reconstruct f(t).
 
 Although I have skated over the mathematical proof of the Sampling Theorem, it is worth pausing to give you at least some feel for where it comes from.
 
@@ -651,7 +651,7 @@ Although I have skated over the mathematical proof of the Sampling Theorem, it i
 
 The Fourier transform of the sampled function, F(t), is obtained by the process of "convolution", which in crude graphical terms involves superposing the graph of <1> with that of X.
 
-There is as much information in one of the Fourier-transformed bumps in Figure 4.ll as there is in the whole of Figure 4.9! As the former transform comes solely from the sampled function F(t), we can see the basic idea of the Sampling Theorem emerging.
+There is as much information in one of the Fourier-transformed bumps in Figure 4.11 as there is in the whole of Figure 4.9! As the former transform comes solely from the sampled function F(t), we can see the basic idea of the Sampling Theorem emerging.
 
 Under such circumstances we get what is known as aliasing. The sampling interval will be too coarse to resolve high frequency components inf(t), instead mapping them into low frequency components - their "aliases".
 
@@ -673,6 +673,180 @@ It seems that the technological world progresses, but real humanistic culture sl
 ![RPFLecturesComputation_Cap5][RPFLecturesComputation_Cap5]{: width="40%"}
 </div>
 
+We want to address the question: how much energy must be used in carrying out a computation?
+
+what is the minimum energy required to carry out a computation?
+
+I am going to illustrate things by concentrating on a particular, very basic physical model of a message being sent.
+
+Since V 2 is smaller than VI' this quantity is negative, and this is just a result of the convention that work done on a gas, rather than by it, has a minus sign.
+
+We put some in to compress the gas, and conservation of energy says it had to go somewhere.
+
+From the viewpoint of thermodynamics, what we have effected is a "change of state", from a gas occupying volume V 1 to one occupying volume V 2.
+
+Note that as we are dealing with a finite change here, we have replaced the infinitesimal (gamma) with a finite (delta).
+
+For an irreversible process, the equality is replaced by an inequality, ensuring that the entropy of an isolated system can only remain constant or increase - this is the Second Law of Thermodynamics.
+
+The situation is more fun, too!
+
+What has happened, and this is very subtle, is that my knowledge of the possible locations of the molecule has changed.
+
+and we just average over everything.
+
+Unlike these, it is not a macroscopic property that arises from a sum of microscopic properties. Rather, it is directly related to the probability that the gas be in the configuration in which it is found.
+
+Entropy quantifies this notion.
+
+The gas with molecules going all one way has a W much less than that of the one with a more random - or more disordered - structure, and hence has a lower entropy.
+
+Working isothermally, the momenta of the molecules within the container remains the same (oU=O), but each molecule has access to fewer possible spatial positions.
+
+The fact that the entropy of our compressed gas has dropped is a reminder that the system is not isolated - we have been draining heat into a heat bath.
+
+You can see that if we compress the volume by a factor of 2, then we halve the number of spatial positions, and hence the number of configurations that the molecule can occupy.
+
+We can now return to the topic of information and see where all this weird physics fits in.
+
+Now if the message is a typical one, for some of these bits we will have no prior knowledge, whereas for others we will- either because we know them in advance, or because we can work them out from correlations with earlier bits that we have examined.
+
+Understanding why this is so is worth dwelling on, as it involves a style of argument often seen in the reversible computing world.
+
+Given our assumptions, it is possible to do so, although the downside is that we would have to take an eternity to do it!
+
+Then we must perform a compression, and this will take free energy, as we discussed earlier, as we are lessening our ignorance of the atom's position.
+
+The net result is zero work to power our machine.
+
+This realization, that it is the erasure of information, and not measurement, that is the source of entropy generation in the computational process, was a major breakthrough in the study of reversible computation.
+
+An interesting question is: How does the occurrence of an error in a message affect its information content?
+
+The first guess, and one that was a common belief for years, was that there was a minimum amount of energy required for each logical step taken by a machine.
+
+The energy required per step is less than kl1ogq, less than kl1og2, in fact less than any other number you might want to set - provided you carry out the computation carefully and slowly enough. Ideally, the computation can actually be done with no minimal loss of energy. Perhaps a good analogy is with friction.
+
+However, physicists are very fond of studying certain types of idealized engines, so-called Carnot heat engines in which heat energy is converted into work and back again, for which it is possible to calculate a certain maximum efficiency of operation.
+
+If your computer is reversible, and I'll say what I mean by that in a moment, then the energy loss could be made as small as you want, provided you work with care and slowly - as a rule, infinitesimally slowly.
+
+Now you can see why I think of this as an academic subject.
+
+When we come to design the Ultimate Computers of the far future, which might have "transistors" that are atom-sized, we will want to know how the fundamental physical laws will limit us.
+
+In such circumstances, the output carries no more information than the input - if we know the input, we can calculate the output and, moreover, the computation is "reversible".
+
+The fact that there is no gain in information in our abstract "computation" above is the fIrst clue that maybe there's no loss of entropy involved in a reversible computation. This is actually correct: reversible computers are rather like Caroot engines, where the reversible ones are the most efficient. It will turn out that the only entropy loss resulting from operating our abstract machine comes in resetting it for its next operation.
+
+We will later show that, in principle, such a calculation can be performed for zero energy cost.
+
+I would now like to take a look in more detail at some reversible computations and demonstrate the absence of a minimum energy requirement.
+
+This seems like a dumb sort of computation, as you're not getting anywhere, but it is a useful introduction to some of the ideas underlying issues of energy dissipation.
+
+In the second case, clearing the tape will cost free energy, but not for the copy:
+
+Simply, there is no more information in the (data plus copy) set than is in just the single data set. Clearing the system should not, therefore, require more free energy in the first case than the second. This is a common type of argument in the reversible computing world.
+
+The height of the hill, the amount of energy needed for the transition to occur, is called the barrier potential.
+
+To do this, we need to be able to manipulate the potential curve; we have to make the other trough energetically more favorable to the dot.
+
+Furthermore, we assume that the depths of the troughs can be altered by some force of interaction between the copier and the model. (Don't worry if this is all horribly confusing and abstract! All will become clear.) We'll call this a "tilt" force, since it tilts the graph.
+
+<div style="text-align:center" markdown="1">
+![RPFLecturesComputation_Chap5_5-2_Pag158_Fig5-14][RPFLecturesComputation_Chap5_5-2_Pag158_Fig5-14]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![RPFLecturesComputation_Chap5_5-2_Pag159_Fig5-16][RPFLecturesComputation_Chap5_5-2_Pag159_Fig5-16]{: width="50%"}
+</div>
+
+However, if the procedure is graceful enough, the lowering of the barrier, the tilting of the trough and the copying can be done for nothing.
+
+Also it's nice to work this sort of thing out for yourself: as I said in Chapter One - OK, you're not the first, but at least you understand it!
+
+The machine that does the copying is an enzyme called RNA polymerase.
+
+In an actual cell, the pyrophosphate concentration is kept low by hydrolysis, ensuring that only the copying process occurs, not its inverse.
+
+Still, 100kT per bit is considerably more efficient than the 10 8 kT thrown away by a typical transistor!
+
+To reiterate: The lesson of this section is that there is no absolute minimum amount of energy required to copy. There is a limit, however, if you want to copy at a certain speed.
+
+It occurs to me that maybe the devices in the machine could all be made reversible, and then we could notice the errors as we go.
+
+That would make this discussion more practical to you and since computing is engineering you might value this! In any case, I shouldn't make any more apologies for my wild academic interest in the far future.
+
+This will not be a general formula for energy dissipation during computation but it should show you how we go about calculating these things.
+
+The bigger the energy difference E1 - E 2 , the quicker the machine hops from E1 to E 2 , and the faster the computation.
+
+So we can envisage a computer designed so that it proceeds by diffusion, in the sense that it is more likely to move into a state with greater, rather than lower, availability.
+
+<div style="text-align:center" markdown="1">
+![RPFLecturesComputation_Chap5_5-3_Pag170_Fig5-24][RPFLecturesComputation_Chap5_5-3_Pag170_Fig5-24]{: width="50%"}
+</div>
+
+In other words, for this process the energy loss per step is equal to the entropy generated in that step, up to the usual temperature factor.
+
+We can provide a nice physical interpretation of this expression, although at the cost of mathematical inaccuracy.
+
+Generally, then, we will always need a certain amount of junk to remind us of the history of the logical operation.
+
+It is this latter feature that makes reversible computing radically different from ordinary, irreversible computing.
+
+This is your first problem in reversible computing - how to handle subroutines.
+
+The balls all move diagonally across a planar grid and obey the laws of idealized classical mechanics (i.e zero friction and perfectly elastic collisions).
+
+<div style="text-align:center" markdown="1">
+![RPFLecturesComputation_Chap5_5-5_Pag177_Fig5-29][RPFLecturesComputation_Chap5_5-5_Pag177_Fig5-29]{: width="50%"}
+</div>
+
+The first, which you would never invent if you were a logician, as it seems a damn silly thing to do, I'll call a collision gate;
+
+<div style="text-align:center" markdown="1">
+![RPFLecturesComputation_Chap5_5-5_Pag178_Fig5-30][RPFLecturesComputation_Chap5_5-5_Pag178_Fig5-30]{: width="50%"}
+</div>
+
+(You might find it an interesting exercise to consider the energy and momentum properties of this gate.)
+
+The second and more important device is a redirection gate.
+
+<div style="text-align:center" markdown="1">
+![RPFLecturesComputation_Chap5_5-5_Pag179_Fig5-32][RPFLecturesComputation_Chap5_5-5_Pag179_Fig5-32]{: width="50%"}
+</div>
+
+Note that if one ball is missing, the other just sails right through.
+
+<div style="text-align:center" markdown="1">
+![RPFLecturesComputation_Chap5_5-5_Pag179_Fig5-33][RPFLecturesComputation_Chap5_5-5_Pag179_Fig5-33]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![RPFLecturesComputation_Chap5_5-5_Pag180_Fig5-34][RPFLecturesComputation_Chap5_5-5_Pag180_Fig5-34]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![RPFLecturesComputation_Chap5_5-5_Pag180_Fig5-35][RPFLecturesComputation_Chap5_5-5_Pag180_Fig5-35]{: width="50%"}
+</div>
+
+In fact, even the tiniest effects of quantum mechanics get in the way. According to the Uncertainty Principle, we cannot know both the precise location and momentum of a ball, so we cannot drop one perfectly straight.
+
+Don't forget, even your hand will be shaking from Brownian motion!
+
+So how can we claim to have a physically implementable reversible computer?
+
+but we are here discussing questions of principle, not practicality.
+
+(It'll put some chemists out of a job, but that's progress).
+
+But the point is that there are no further limitations on size imposed by quantum mechanics, over and above those due to statistical and classical mechanics.
+
+say "up", which might correspond to an excited state, and "down", corresponding to a de-excited state.
+
 
 ## <span id="Chap6">[6. Quantum Mechanical Computers | Computadores mecanocuánticos](#Chap6)</span>
 
@@ -680,6 +854,152 @@ It seems that the technological world progresses, but real humanistic culture sl
 ![RPFLecturesComputation_Chap6][RPFLecturesComputation_Chap6]{: width="40%"}
 ![RPFLecturesComputation_Cap6][RPFLecturesComputation_Cap6]{: width="40%"}
 </div>
+
+We are here considering ideal machines; the effects of small imperfections will be considered later.
+
+Since the laws of quantum physics are reversible in time, we shall have to consider computing engines which obey such reversible laws.
+
+<div style="text-align:center" markdown="1">
+![RPFLecturesComputation_Chap6_6-1_Pag186_Fig6-1][RPFLecturesComputation_Chap6_6-1_Pag186_Fig6-1]{: width="50%"}
+</div>
+
+From a logical point of view, we must consider the wire in detail, for in other systems, and our quantum system in particular, we may not have wires as such.
+
+What is the minimum free energy that must be expended to operate an ideal computer made of such primitives?
+
+It could be greatly reduced if energy could be stored in an inductance, or other reactive element.
+
+it seems ridiculous to argue that even this is too high and the minimum is really essentially zero.
+
+What Bennett pointed out was that this former limit was wrong because it is not necessary to use irreversible primitives. Calculations can be done with reversible machines containing only reversible primitives. If this is done, the minimum free energy required is independent of the complexity or number of logical steps i!1 the calculation.
+
+This is a limit only achieved ideally if you compute with a reversible computer at infinitesimal speed.
+
+<div style="text-align:center" markdown="1">
+![RPFLecturesComputation_Chap6_6-2_Pag188_Fig6-3][RPFLecturesComputation_Chap6_6-2_Pag188_Fig6-3]{: width="50%"}
+</div>
+
+The action is reversed by simply repeating it.
+
+It is likewise the sum modulo two of a and b, and can be used to compare a and b, giving a 1 as a signal that they are different. Please notice that this function XOR is itself not reversible.
+
+The AND function is the carry bit for the sum of a and b.
+
+<div style="text-align:center" markdown="1">
+![RPFLecturesComputation_Chap6_6-2_Pag189_Fig6-4][RPFLecturesComputation_Chap6_6-2_Pag189_Fig6-4]{: width="50%"}
+</div>
+
+One is the a that we started with, and the other some intermediary quantity that we calculated en route:
+
+<div style="text-align:center" markdown="1">
+![RPFLecturesComputation_Chap6_6-2_Pag190_Fig6-5][RPFLecturesComputation_Chap6_6-2_Pag190_Fig6-5]{: width="50%"}
+</div>
+
+This is typical of these reversible systems; they produce not only what you want in output, but also a certain amount of garbage. In this particular case, and as it turns out in all cases, the garbage can be arranged to be, in fact, just the input.
+
+If the problem you are trying to do is reversible, then there might be no extra garbage, but in general, there are some extra lines needed to store up the information which you would need to reverse the operation. In other words, we can make any function that the conventional system can, plus garbage. The garbage contains the information you need to reverse the process. And how much garbage?
+
+This is reversible because knowing the output and the input permits you, of course, to undo everything. This proposition is always reversible.
+
+<div style="text-align:center" markdown="1">
+![RPFLecturesComputation_Chap6_6-2_Pag191_Fig6-6][RPFLecturesComputation_Chap6_6-2_Pag191_Fig6-6]{: width="50%"}
+</div>
+
+Overall, then, we have accomplished what we set out to do, and therefore garbage need never be any greater than a repetition of the input data.
+
+We are going to write a Hamiltonian, for a system of interacting parts, which will behave in the same way as a large system in serving as a universal computer.
+
+Our Hamiltonian will describe in detail all the internal computing actions but not, of course, those interactions with the exterior involved in entering the input (preparing the initial state) and reading the output.
+
+What we would have then is that the state, in the mathematical form la',b',c'> is simply some operation G operating on la,b,c>. In quantum mechanics, state changing operators are linear operators, and so we'll suppose that G is linear.
+
+<div style="text-align:center" markdown="1">
+![RPFLecturesComputation_Chap6_6-3_Pag193_Tbl6-1][RPFLecturesComputation_Chap6_6-3_Pag193_Tbl6-1]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![RPFLecturesComputation_Chap6_6-3_Pag194_Frm6-6][RPFLecturesComputation_Chap6_6-3_Pag194_Frm6-6]{: width="50%"}
+</div>
+
+It does not matter whether or not the cursor on the j site has arrived there by going directly from 0 to j, or going further and returning, or going back and forth in any pattern whatsoever, as long as it finally arrived at the state j.
+
+In other words, it represents just the waves which are familiar from the propagation of the tight binding electrons or spin waves in one dimension, and are very well known. There are waves that travel up and down the line, and you can have packets of waves and so forth.
+
+Thus the logical unit can act in a ballistic way.
+
+The line is so long that in a real calculation little irregularities would produce a small probability of scattering, and the waves would not travel exactly ballistically but would go back and forth.
+
+What one then could do, would be to pull the cursor along the program line with an external force.
+
+Under these circumstances we can calculate how much energy will be expended by this external force.
+
+That was the entropy lost per scattering.
+
+This is a formula that was first derived by Bennett.
+
+It is very much like a Carnot engine in which, in order to obtain reversibility, one must operate very slowly. For the ideal machine where p is 0, or where you allow an infinite time, the mean energy loss can be O.
+
+The Uncertainty Principle, which usually relates some energy and time uncertainty, is not directly a limitation.
+
+It's a question of probabilities, and so there is a considerable uncertainty in the time at which a calculation will be done. There is no loss associated with the uncertainty of cursor energy; at least no loss depending on the number of calculational steps.
+
+No further limitations are generated by the quantum nature of the computer per se; nothing that is proportional to the number of computational steps.
+
+In other words, there may be small terms in the Hamiltonian besides the ones we've written. Until we propose a complete implementation of this, it is very difficult to analyze.
+
+But until we find a specific implementation for this computer, I do not know how to proceed to analyze these effects.
+
+This computer seems to be very delicate and these imperfections may produce considerable havoc.
+
+The time needed to make a step of calculation depends on the strength or the energy of the interactions in the terms of the Hamiltonian.
+
+<div style="text-align:center" markdown="1">
+![RPFLecturesComputation_Chap6_6-5_Pag202_Fig6-7][RPFLecturesComputation_Chap6_6-5_Pag202_Fig6-7]{: width="50%"}
+</div>
+
+The complex conjugate reverses this.
+
+We shall build all our circuits and choose initial states so that this circumstance will not arise in normal operation, and the ideal ballistic mode will work.
+
+<div style="text-align:center" markdown="1">
+![RPFLecturesComputation_Chap6_6-5_Pag203_Fig6-8][RPFLecturesComputation_Chap6_6-5_Pag203_Fig6-8]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![RPFLecturesComputation_Chap6_6-5_Pag203_Frm6-12][RPFLecturesComputation_Chap6_6-5_Pag203_Frm6-12]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![RPFLecturesComputation_Chap6_6-5_Pag206_Fig6-11_Frm6-13][RPFLecturesComputation_Chap6_6-5_Pag206_Fig6-11_Frm6-13]{: width="50%"}
+</div>
+
+So therefore HM is the part of the Hamiltonian representing all the atoms in the box and their external start and terminator sites.
+
+<div style="text-align:center" markdown="1">
+![RPFLecturesComputation_Chap6_6-5_Pag206_Frm6-15][RPFLecturesComputation_Chap6_6-5_Pag206_Frm6-15]{: width="50%"}
+</div>
+
+So between sand t we have a new piece of equipment which has the following properties.
+
+<div style="text-align:center" markdown="1">
+![RPFLecturesComputation_Chap6_6-5_Pag208_Fig6-14][RPFLecturesComputation_Chap6_6-5_Pag208_Fig6-14]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![RPFLecturesComputation_Chap6_6-5_Pag208_Frm6-16][RPFLecturesComputation_Chap6_6-5_Pag208_Frm6-16]{: width="50%"}
+</div>
+
+These few examples should be enough to show that indeed we can construct all computer functions with our SWITCH and NOT.
+
+<div style="text-align:center" markdown="1">
+![RPFLecturesComputation_Chap6_6-5_Pag210_Fig6-16][RPFLecturesComputation_Chap6_6-5_Pag210_Fig6-16]{: width="50%"}
+</div>
+
+What we have done is only to try to imitate as closely as possible the digital machine of conventional sequential architecture.
+
+What can be done, in these reversible quantum systems, to gain the speed available by concurrent operation has not been studied here.
+
+At any rate, it seems that the laws of physics present no barrier to reducing the size of computers until bits are the size of atoms, and quantum behavior holds dominant sway.
 
 
 ## <span id="Chap7">[7. Physical Aspects of Computation | Aspectos físicos de la computación](#Chap7)</span>
@@ -689,6 +1009,262 @@ It seems that the technological world progresses, but real humanistic culture sl
 ![RPFLecturesComputation_Cap7][RPFLecturesComputation_Cap7]{: width="40%"}
 </div>
 
+In this way we hope that Feynman's unique ability to offer valuable physical insight into complex physical processes still comes through.
+
+The unifying theme of this course has been what we can and cannot do with computers, and why.
+
+However, we hope that our presentation will be intelligible to those with only a passing acquaintance with electricity and magnetism,
+
+We shall consider the physical phenomena involved in its operation, and how it works in the engineering context of a Field Effect Transistor.
+
+Our current understanding of the electrical properties of metals and other materials is based on the so-called "Band Theory" of solids.
+
+Typically, there will be a discrete energy gap between the filled and conduction bands. The size of this gap largely determines whether our material is to be classified as a conductor or an insulator, as we'll see.
+
+<div style="text-align:center" markdown="1">
+![RPFLecturesComputation_Chap7_7-1_Pag214_Fig7-1][RPFLecturesComputation_Chap7_7-1_Pag214_Fig7-1]{: width="50%"}
+</div>
+
+This minimum energy is called the "band gap energy" and its value largely determines the electrical properties of a substance, as I've said.
+
+Note that, due to the exponential in the formula, this transition rate rises rapidly with temperature. Nonetheless, for most insulators, this rate remains negligible right up to near the melting point.
+
+This forms the basis of a device called a diode.
+
+The central region is actually depleted of charge carriers and is referred to as the depletion region.
+
+We say that the voltage reverse-biases the junction: in the current flow condition, the junction is said to be forward-biased. We call this device a junction diode and it has the fundamental property that it conducts in one direction but not the other.
+
+<div style="text-align:center" markdown="1">
+![RPFLecturesComputation_Chap7_7-1_Pag222_Fig7-7][RPFLecturesComputation_Chap7_7-1_Pag222_Fig7-7]{: width="50%"}
+</div>
+
+If the doping is of the p-type, we are dealing with so-called nMOS technology; if the substrate is n-type, we have pMOS.
+
+So we have a fantastic device - a switch!
+
+We know that the current Ids is just the charge under the gate divided by the time it takes for the electrons to drift from the source to the drain. This is a standard result in electricity.
+
+we find that the current (charge divided by time) is given by
+
+However, we can see that as long as V ds is fairly small, the transistor has the interesting property that the current through it is proportional to the applied voltage. In other words, it effectively functions as a resistor (remember V = IR!), with the resistance proportional to (1/V gs )'
+
+<div style="text-align:center" markdown="1">
+![RPFLecturesComputation_Chap7_7-1_Pag226_Fig7-9][RPFLecturesComputation_Chap7_7-1_Pag226_Fig7-9]{: width="50%"}
+</div>
+
+In this situation the transistor is said to be "forward-biased".
+
+<div style="text-align:center" markdown="1">
+![RPFLecturesComputation_Chap7_7-1_Pag226_Fig7-10][RPFLecturesComputation_Chap7_7-1_Pag226_Fig7-10]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![RPFLecturesComputation_Chap7_7-1_Pag227_Fig7-11][RPFLecturesComputation_Chap7_7-1_Pag227_Fig7-11]{: width="50%"}
+</div>
+
+In this instance, where the level of the drain reservoir is below the level of the partition, the water from the source will simply "waterfall" into the drain, at a rate independent of the actual drain-level.
+
+At such a point, the current flow will become constant, irrespective of V ds.
+
+<div style="text-align:center" markdown="1">
+![RPFLecturesComputation_Chap7_7-1_Pag230_Fig7-14][RPFLecturesComputation_Chap7_7-1_Pag230_Fig7-14]{: width="50%"}
+</div>
+
+Thus, if we directly connect the source to the gate so that each is automatically at the same voltage, we find our transistor acting no longer as a switch but as a resistance
+
+<div style="text-align:center" markdown="1">
+![RPFLecturesComputation_Chap7_7-1_Pag231_Fig7-15][RPFLecturesComputation_Chap7_7-1_Pag231_Fig7-15]{: width="50%"}
+</div>
+
+Now you can see by comparison with the standard formula defining capacitance, Q = CV, that the capacitance of this system displays an extremely non-linear relationship with the plate voltage, V.
+
+<div style="text-align:center" markdown="1">
+![RPFLecturesComputation_Chap7_7-1_Pag233_Fig7-17][RPFLecturesComputation_Chap7_7-1_Pag233_Fig7-17]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![RPFLecturesComputation_Chap7_7-1_Pag234_Fig7-18][RPFLecturesComputation_Chap7_7-1_Pag234_Fig7-18]{: width="50%"}
+</div>
+
+Now there is another essential property of MOSFETs that is not evident from strictly logical considerations. This is their behavior as amplifiers.
+
+<div style="text-align:center" markdown="1">
+![RPFLecturesComputation_Chap7_7-1_Pag235_Fig7-20][RPFLecturesComputation_Chap7_7-1_Pag235_Fig7-20]{: width="50%"}
+</div>
+
+From a logical viewpoint, this is a pretty trivial operation - we have just produced the identity. We're not doing any computing.
+
+This would indeed be disastrous!
+
+In other words, the output will always represent a definite logical decision, being relatively insensitive to minor power fluctuations along the chain. This circuit is an extremely effective so-called "follower", which jacks up the power or impedance behind the line (if you like, it is a double amplifier). In a sense, we can control the whole dog just by controlling its tail.
+
+The presence of amplification is essential for any computing technology.
+
+If we can find how long the process takes, and maybe think up ways of speeding it up, we might be able to get better machines.
+
+<div style="text-align:center" markdown="1">
+![RPFLecturesComputation_Chap7_7-1_Pag236_Fig7-21][RPFLecturesComputation_Chap7_7-1_Pag236_Fig7-21]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![RPFLecturesComputation_Chap7_7-1_Pag237_Fig7-22][RPFLecturesComputation_Chap7_7-1_Pag237_Fig7-22]{: width="50%"}
+</div>
+
+<div style="text-align:center" markdown="1">
+![RPFLecturesComputation_Chap7_7-1_Pag237_Frm7-15][RPFLecturesComputation_Chap7_7-1_Pag237_Frm7-15]{: width="50%"}
+</div>
+
+This is a nice example of how Nature places limitations on our technology!
+
+A detailed analysis concluded that propeller-based machines would not work for speeds in excess of that of sound: there was a "sound barrier".
+
+So even if our transistors aren't doing anything, they're throwing away power!
+
+In the CMOS approach, we employ a mixture of n-type and p-type MOSFETs in our circuitry.
+
+<div style="text-align:center" markdown="1">
+![RPFLecturesComputation_Chap7_7-2_Pag239_Fig7-33][RPFLecturesComputation_Chap7_7-2_Pag239_Fig7-33]{: width="50%"}
+</div>
+
+Note that the nMOS depletion mode transistor has effectively been replaced by a conventional p-channel transistor.
+
+The route to - V is cut off by the insulating n-type MOSFET. (I'll leave it to the reader to see what happens when the input is switched back again.)
+
+This is a remarkable property. In a CMOS inverter, no energy is required to hold a state, just to change it 5 .
+
+The matter of how much energy is required for a logical process was considered in the abstract in Chapter Five, but it is obviously important to get a handle on the practicalities of the matter.
+
+Let's start by considering in more detail the electrical behavior of a CMOS inverter as part of a chain. This will enable us to examine also the amplification properties of CMOS devices.
+
+The output voltage is an extremely sensitive function of the input since small input changes are magnified many times at the output.
+
+<div style="text-align:center" markdown="1">
+![RPFLecturesComputation_Chap7_7-2_Pag243_Fig7-36][RPFLecturesComputation_Chap7_7-2_Pag243_Fig7-36]{: width="50%"}
+</div>
+
+(Remember our analysis in Chapter Five where we saw that kllog2 was theoretically attainable.)
+
+So we have done the stupid thing of getting from one energy condition to the same energy condition by dumping all the juice out of the circuit into the sewer, and then recharging from the power supply!
+
+We start off at sixty miles an hour, and we end up there, but we dissipate an awful lot of energy in the process.
+
+One suggestion is to store the energy in an inductance, the electrical analogue of inertia.
+
+In the process there is noise, friction, turbulence and whatnot, and energy is dissipated. There is a power loss.
+
+We are back where we started, but we have used up a heck of a lot of energy in getting there!
+
+In this case the pressure would be equalized but this finite time to stability results from the fact that water has inertia.
+
+But now if we want the energy of the water back, we just have to open up the adjoining valve to the adjoining tank when the right-hand tank is at a low ebb.
+
+To implement this in silicon we need the electrical analogue of this and that means we need the analogue of inertia. As I've said, for electricity this is inductance.
+
+<div style="text-align:center" markdown="1">
+![RPFLecturesComputation_Chap7_7-2_Pag247_Fig7-39][RPFLecturesComputation_Chap7_7-2_Pag247_Fig7-39]{: width="50%"}
+</div>
+
+However, that need not mean we have to abandon the basic idea
+
+If we do that, we will unavoidably lose energy.
+
+There is an analogous principle in electricity: Never open or close a switch when there's a voltage across it. But that's exactly what we've been doing!
+
+In actual circuits, the clocks are much slower than the transistors (e.g., a factor of fifty to one), and so clocking enables us to save a great deal of energy in our computations.
+
+<div style="text-align:center" markdown="1">
+![RPFLecturesComputation_Chap7_7-2_Pag251_Fig7-43][RPFLecturesComputation_Chap7_7-2_Pag251_Fig7-43]{: width="50%"}
+</div>
+
+Perhaps we could define two states, in phase with the power supply (logical one) and out of phase (logical zero).
+
+One of the central discoveries of the previous section, which might be general, is that the energy needed to do the switching, multiplied by the time used for this switching, is a constant - at least for resistive systems. We will call this constant the "dissipated action" (a new phrase I just made up).
+
+Does it have to be so tiny? Well, yes, if we want to go as fast as possible.
+
+- you can't have everything changing too quickly, or you'll get a jam.
+
+We want to know this to see if, by redesigning such devices, we can get it down a bit, and perhaps use less energy or less time.
+
+<div style="text-align:center" markdown="1">
+![RPFLecturesComputation_Chap7_7-2_Pag253_Fig7-44][RPFLecturesComputation_Chap7_7-2_Pag253_Fig7-44]{: width="50%"}
+</div>
+
+Maybe it will help us to understand what is going on here if we define the product of these terms to itself be a dissipated action - just that dissipated during a single collision. This isn't forced on us: we'll just see what happens.
+
+Now this is an awful amount, and we would certainly hope that we can improve things somehow!
+
+Firstly, is it completely silly to put things in parallel? Not at all: it's good for accuracy.
+
+Putting such parts in parallel and deciding the output on the basis of averaging, or by a majority vote, improves system reliability.
+
+And what about putting parts in series? Well, I've thought a lot about this, but have yet to come up with any resulting advantage. It wouldn't help with reliability - all it does is increase the lag. In fact, I can see no reason for having anything other than s = 1.
+
+Current hardware design stinks! The energy loss is huge and there is no physical reason why we shouldn't be able to get that down at the same time as speeding things up. So go for it - you're only up against your imagination not Nature.
+
+The (Et) ideas I've put forward here are my own way of looking at these things and might be wrong.
+
+How are transistors actually made? How do we, being so big, get all this stuff onto such tiny chips? The answer is: very, very cleverly - although the basic idea is conceptually quite simple. The whole VLSI approach is a triumph of engineering and industrial manufacture, and it's a pity that ordinary people in the street don't appreciate how marvelous and beautiful it all is! The accuracy and skill needed to make chips is quite fantastic. People talk about being able to write on the head of a pin as if it is still in the future, but they have no idea of what is possible today!
+
+We do this very cunningly.
+
+We next bombard the wafer with UV light (or X-rays).
+
+The transistor is just the crossing point of a poly silicon path and a diffusion path! Of course, the two paths do not cross in the sense of making physical contact - there is a layer of insulating oxide between them.
+
+<div style="text-align:center" markdown="1">
+![RPFLecturesComputation_Chap7_7-3_Pag262_Fig7-51][RPFLecturesComputation_Chap7_7-3_Pag262_Fig7-51]{: width="50%"}
+</div>
+
+Obviously, some kind of direct contact is needed; otherwise, we would find a capacitor or transistor where the lines cross.
+
+Let us begin by defining a certain unit of length, 'A., and express all lengths on the chip in terms of this variable.
+
+The metal wire, however, must be at least 3'A. across, to counter the possibility of what is known as "electromigration", a phenomenon whereby atoms of the metal tend to drift in the direction of the current.
+
+There is a standard heuristic technique for drawing out circuits, one which tells us the topology of the layout, but not its geometry - that is, it tells us what which paths are made of, and what is connected to where; but it does not inform us as to scale, i.e. the relevant lengths of paths and so on.
+
+Since the contents of this memory are to be fixed, we might as well store everything on a Read Only Memory (ROM) device. The only potential hitch in this otherwise straightforward procedure arises from timing: it is conceivable that some instructions could leave the ROM device before the rest, changing the state of the machine and confusing the sensing.
+
+This was how things were done in the early days, carefully building immensely complicated logic circuits, deploying theorems to find the minimum number of gates needed, and so forth, without a ROM in sight.
+
+This output is the set of "what next" instructions corresponding to the particular input.
+
+We now have a device that can manipulate each signal with NOT, AND and OR -- in other words, it can represent any logical function whatsoever.
+
+It is a general result that any Boolean function can be factorized in this way.
+
+Incidentally, note, from Figure 7.64 that the generic OR-plane is essentially the AND-plane rotated through a right angle.
+
+This sounds all very straightforward and simple.
+
+Metal, however, has such a low resistance that the load time is relatively much shorter - so if you want to send a signal any great distance, you should put it on metal.
+
+Let it tell us when it's ready! It carries out its computation, and then sends a signal saying it's ready to send the data. In this way, the timing is controlled by the computing elements themselves, and not a set of external clocks.
+
+The fact that a decision has to be made introduces the theoretical possibility of a hang-up caused by the data coming in at just such a time that the buffer is not quick enough to make a decision - it can't make its mind up.
+
+So as we build the machine bigger, the wiring problem becomes more serious.
+
+The problem with this sort of 3-D design, of course, is that for anyone to look at it - to see what's going on - they have to be able to get inside it, to get a hand or some tools in. At least with two dimensions we can look at our circuits from above!
+
+A natural question to ask is: if we pick a wire at random, what is the chance that is of a certain length? With Rent's Rule we can actually have a guess at this, after a fashion.
+
+However, if we just deal with orders of magnitude, we shall assume we can neglect this subtlety.
+
+Note that this quantity is divergent:
+
+If we space our cells a little further apart, the size of the machine must balloon out of proportion.
+
+It used to be said in the early eighties that a good designer, with a bit of ingenuity and hard work, could pack a circuit in such a way as to beat Rent's Rule.
+
+When it comes to the finished product, Rent's Rule holds sway, even though it can be beaten for specific circuits. Nowadays, we have "machine packing programs", semi-intelligent software which attempts to take the contents of a machine and arrange things so as to minimize the space it takes up.
+
+These lectures cover interesting topics such as the physics of optical fibers and the possibilities for optical computers.
+
+Moreover, these lectures, by his choice of topics, also demonstrate the subject areas that he felt were important for the fitture.
+
 
 ## <span id="Afterword">[Afterword: Memories of Richard Feynman | Epílogo: Recuerdo de Richard Feynman](#Afterword)</span>
 
@@ -696,6 +1272,64 @@ It seems that the technological world progresses, but real humanistic culture sl
 ![RPFLecturesComputation_Afterword][RPFLecturesComputation_Afterword]{: width="40%"}
 ![RPFLecturesComputation_Epilogo][RPFLecturesComputation_Epilogo]{: width="40%"}
 </div>
+
+This episode illustrates only a small part of the (healthy) culture shock I experienced in California.
+
+It was only after my wife and I were stopped by the police and asked why we were walking on the streets of Pasadena that I understood the paradox that, in California, you had to have a car to buy a car. Another 'chicken and egg' problem arose in connection with 'ID' - a term we had not encountered before. As a matter of routine, the police demanded to see our ID and of course the only acceptable ID in deepest Pasadena at that time was a California driver's license.
+
+I tracked Steve down to the seminar room where I saw he was engaged in a debate with a character who looked mildly reminiscent of the used car salesmen I had recently encountered.
+
+https://dle.rae.es/ethos m. Conjunto de rasgos y modos de comportamiento que conforman el carácter o la identidad de una persona o una comunidad.
+
+Unfortunately for me, my lecture just happened to be a handy vehicle for him to make this point!
+
+There was the obvious distaste of Gell-Mann for the whole approach but that would not have mattered if it had not been for the awkward fact of 'Feynman's notebooks'.
+
+Each time Feynman listened, commented and corrected - and then proceeded to derive my 'new' results several different ways, pulling in thermodynamics, rotational invariance or what have you, and using all sorts of alternative approaches. He explained to me that once he could derive the same result by a number of different physical approaches he felt more confidence in its correctness. Although this was very educational and stimulating, it was also somewhat dispiriting and frustrating.
+
+I looked at electron-proton scattering when both the electron and proton were 'polarized' - with their spins all lined up in the same direction.
+
+Obviously these stories get inflated in the telling but I did ask Feynman about this one since it seemed so out of character to the Feynman I knew.
+
+Certainly he enjoyed making a quick and amusing response.
+
+On one memorable occasion, the speaker started out by writing the title of his talk on the board: "Pomeron Bootstrap". Feynman shouted out: "Two absurdities" and the room dissolved into laughter.
+
+Feynman could be restrained: on the occasion of another seminar he leaned over to me and whispered "If this guy wasn't a regular visitor, I would destroy him!"
+
+Feynman credits his "knowing very early on the difference between knowing the name of something and knowing something" to these experiences with his father.
+
+Feynman' s advice to me on that occasion was: "Y ou read too many novels." He had started out very narrow and focused and only later in life had his interests broadened out.
+
+and in his unique ability to attack physics problems from many different angles.
+
+For me, it was Feynman's choice of words that made a Feynman lecture such a unique experience.
+
+In the talk he likened smashing two protons together to smashing two watches together: one could look at the gearwheels and all the other bits and pieces that resulted and try to figure out what was happening.
+
+At a summer school in Erice in Italy one summer he was asked a question about conservation laws. Feynman replied: "If a cat were to disappear in Pasadena and at the same time appear in Erice, that would be an example of global conservation of cats. This is not the way cats are conserved. Cats or charge or baryons are conserved in a much more continuous way."
+
+Instead, he tells us of all the blind alleys and wrong ideas that he had on the way to his great discoveries.
+
+And, like falling in love with a woman, it is only possible if you do not know too much about her, so you cannot see her faults. The faults will become apparent later, but after the love is strong enough to hold you to her.
+
+Later in the lecture Feynman writes: "1 suddenly realized what a stupid fellow I am; for what I had described and calculated was just ordinary reflected light, not radiation reaction. "
+
+lohannes Kepler - who was first to write down laws of physics as precise, verifiable statements expressed in mathematical terms.
+
+Kepler summed up his struggle with the words: "Ah, what a foolish old bird I have been!"
+
+That was my moment of triumph in which I realized I really had succeeded in working out something worthwhile."
+
+In the days when calculations like Slotnick's could take as much as six months, this was the incident that put 'Feynman's diagrams' on the map.
+
+As he says, "learning how to not fool ourselves is, I'm sorry to say, something that we haven't specifically included in any particular course that I know of. We just hope you've caught on by osmosis." He concludes with one wish for the new graduates: "the good luck to be somewhere where you are free to maintain the kind of integrity I have described, and where you do not feel forced by a need to maintain your position in the organization, or financial support, or so on, to lose your integrity."
+
+Feynman was never restricted to research in anyone particular field:
+
+It was Feynman's way of telling the doctor that even in a coma he could hear and think - and that you should always distrust what so-called 'experts' tell you!
+
+"He believed in the primacy of doubt, not as a blemish upon on our ability to know but as the essence of knowing. "
 
 
 
@@ -802,9 +1436,52 @@ It seems that the technological world progresses, but real humanistic culture sl
 [RPFLecturesComputation_Chap4_4-8_Pag134]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap4_4-8_Pag134.png "Feynman Lectures on Computation - Richard P. Feynman (4.8 pag 134)"
 [RPFLecturesComputation_Chap5]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap5.png "Conferencias sobre computación - Richard P. Feynman (Chapter 5)"
 [RPFLecturesComputation_Cap5]: {{ site.baseurl }}/assets/RPFLecturesComputation_Cap5.jpeg "Feynman Lectures on Computation - Richard P. Feynman (Capítulo 5)"
+[RPFLecturesComputation_Chap5_5-2_Pag158_Fig5-14]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap5_5-2_Pag158_Fig5-14.png "Feynman Lectures on Computation - Richard P. Feynman (5.2 pag 158)"
+[RPFLecturesComputation_Chap5_5-2_Pag159_Fig5-16]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap5_5-2_Pag159_Fig5-16.png "Feynman Lectures on Computation - Richard P. Feynman (5.2 pag 159)"
+[RPFLecturesComputation_Chap5_5-3_Pag170_Fig5-24]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap5_5-3_Pag170_Fig5-24.png "Feynman Lectures on Computation - Richard P. Feynman (5.3 pag 170)"
+[RPFLecturesComputation_Chap5_5-5_Pag177_Fig5-29]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap5_5-5_Pag177_Fig5-29.png "Feynman Lectures on Computation - Richard P. Feynman (5.5 pag 177)"
+[RPFLecturesComputation_Chap5_5-5_Pag178_Fig5-30]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap5_5-5_Pag178_Fig5-30.png "Feynman Lectures on Computation - Richard P. Feynman (5.5 pag 178)"
+[RPFLecturesComputation_Chap5_5-5_Pag179_Fig5-32]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap5_5-5_Pag179_Fig5-32.png "Feynman Lectures on Computation - Richard P. Feynman (5.5 pag 179)"
+[RPFLecturesComputation_Chap5_5-5_Pag179_Fig5-33]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap5_5-5_Pag179_Fig5-33.png "Feynman Lectures on Computation - Richard P. Feynman (5.5 pag 179)"
+[RPFLecturesComputation_Chap5_5-5_Pag180_Fig5-34]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap5_5-5_Pag180_Fig5-34.png "Feynman Lectures on Computation - Richard P. Feynman (5.5 pag 180)"
+[RPFLecturesComputation_Chap5_5-5_Pag180_Fig5-35]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap5_5-5_Pag180_Fig5-35.png "Feynman Lectures on Computation - Richard P. Feynman (5.5 pag 180)"
 [RPFLecturesComputation_Chap6]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap6.png "Conferencias sobre computación - Richard P. Feynman (Chapter 6)"
 [RPFLecturesComputation_Cap6]: {{ site.baseurl }}/assets/RPFLecturesComputation_Cap6.jpeg "Feynman Lectures on Computation - Richard P. Feynman (Capítulo 6)"
+[RPFLecturesComputation_Chap6_6-1_Pag186_Fig6-1]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap6_6-1_Pag186_Fig6-1.png "Feynman Lectures on Computation - Richard P. Feynman (6.1 pag 186)"
+[RPFLecturesComputation_Chap6_6-2_Pag188_Fig6-3]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap6_6-2_Pag188_Fig6-3.png "Feynman Lectures on Computation - Richard P. Feynman (6.2 pag 188)"
+[RPFLecturesComputation_Chap6_6-2_Pag189_Fig6-4]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap6_6-2_Pag189_Fig6-4.png "Feynman Lectures on Computation - Richard P. Feynman (6.2 pag 189)"
+[RPFLecturesComputation_Chap6_6-2_Pag190_Fig6-5]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap6_6-2_Pag190_Fig6-5.png "Feynman Lectures on Computation - Richard P. Feynman (6.2 pag 190)"
+[RPFLecturesComputation_Chap6_6-2_Pag191_Fig6-6]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap6_6-2_Pag191_Fig6-6.png "Feynman Lectures on Computation - Richard P. Feynman (6.2 pag 191)"
+[RPFLecturesComputation_Chap6_6-3_Pag193_Tbl6-1]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap6_6-3_Pag193_Tbl6-1.png "Feynman Lectures on Computation - Richard P. Feynman (6.3 pag 193)"
+[RPFLecturesComputation_Chap6_6-3_Pag194_Frm6-6]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap6_6-3_Pag194_Frm6-6.png "Feynman Lectures on Computation - Richard P. Feynman (6.3 pag 194)"
+[RPFLecturesComputation_Chap6_6-5_Pag202_Fig6-7]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap6_6-5_Pag202_Fig6-7.png "Feynman Lectures on Computation - Richard P. Feynman (6.5 pag 202)"
+[RPFLecturesComputation_Chap6_6-5_Pag203_Fig6-8]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap6_6-5_Pag203_Fig6-8.png "Feynman Lectures on Computation - Richard P. Feynman (6.5 pag 203)"
+[RPFLecturesComputation_Chap6_6-5_Pag203_Frm6-12]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap6_6-5_Pag203_Frm6-12.png "Feynman Lectures on Computation - Richard P. Feynman (6.5 pag 203)"
+[RPFLecturesComputation_Chap6_6-5_Pag206_Fig6-11_Frm6-13]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap6_6-5_Pag206_Fig6-11_Frm6-13.png "Feynman Lectures on Computation - Richard P. Feynman (6.5 pag 206)"
+[RPFLecturesComputation_Chap6_6-5_Pag206_Frm6-15]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap6_6-5_Pag206_Frm6-15.png "Feynman Lectures on Computation - Richard P. Feynman (6.5 pag 206)"
+[RPFLecturesComputation_Chap6_6-5_Pag208_Fig6-14]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap6_6-5_Pag208_Fig6-14.png "Feynman Lectures on Computation - Richard P. Feynman (6.5 pag 208)"
+[RPFLecturesComputation_Chap6_6-5_Pag208_Frm6-16]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap6_6-5_Pag208_Frm6-16.png "Feynman Lectures on Computation - Richard P. Feynman (6.5 pag 208)"
+[RPFLecturesComputation_Chap6_6-5_Pag210_Fig6-16]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap6_6-5_Pag210_Fig6-16.png "Feynman Lectures on Computation - Richard P. Feynman (6.5 pag 210)"
 [RPFLecturesComputation_Chap7]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap7.png "Conferencias sobre computación - Richard P. Feynman (Chapter 7)"
 [RPFLecturesComputation_Cap7]: {{ site.baseurl }}/assets/RPFLecturesComputation_Cap7.jpeg "Feynman Lectures on Computation - Richard P. Feynman (Capítulo 7)"
+[RPFLecturesComputation_Chap7_7-1_Pag214_Fig7-1]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap7_7-1_Pag214_Fig7-1.png "Feynman Lectures on Computation - Richard P. Feynman (7.1 pag 214)"
+[RPFLecturesComputation_Chap7_7-1_Pag222_Fig7-7]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap7_7-1_Pag222_Fig7-7.png "Feynman Lectures on Computation - Richard P. Feynman (7.1 pag 222)"
+[RPFLecturesComputation_Chap7_7-1_Pag226_Fig7-9]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap7_7-1_Pag226_Fig7-9.png "Feynman Lectures on Computation - Richard P. Feynman (7.1 pag 226)"
+[RPFLecturesComputation_Chap7_7-1_Pag226_Fig7-10]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap7_7-1_Pag226_Fig7-10.png "Feynman Lectures on Computation - Richard P. Feynman (7.1 pag 226)"
+[RPFLecturesComputation_Chap7_7-1_Pag227_Fig7-11]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap7_7-1_Pag227_Fig7-11.png "Feynman Lectures on Computation - Richard P. Feynman (7.1 pag 227)"
+[RPFLecturesComputation_Chap7_7-1_Pag230_Fig7-14]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap7_7-1_Pag230_Fig7-14.png "Feynman Lectures on Computation - Richard P. Feynman (7.1 pag 230)"
+[RPFLecturesComputation_Chap7_7-1_Pag231_Fig7-15]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap7_7-1_Pag231_Fig7-15.png "Feynman Lectures on Computation - Richard P. Feynman (7.1 pag 231)"
+[RPFLecturesComputation_Chap7_7-1_Pag233_Fig7-17]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap7_7-1_Pag233_Fig7-17.png "Feynman Lectures on Computation - Richard P. Feynman (7.1 pag 233)"
+[RPFLecturesComputation_Chap7_7-1_Pag234_Fig7-18]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap7_7-1_Pag234_Fig7-18.png "Feynman Lectures on Computation - Richard P. Feynman (7.1 pag 234)"
+[RPFLecturesComputation_Chap7_7-1_Pag235_Fig7-20]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap7_7-1_Pag235_Fig7-20.png "Feynman Lectures on Computation - Richard P. Feynman (7.1 pag 235)"
+[RPFLecturesComputation_Chap7_7-1_Pag236_Fig7-21]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap7_7-1_Pag236_Fig7-21.png "Feynman Lectures on Computation - Richard P. Feynman (7.1 pag 236)"
+[RPFLecturesComputation_Chap7_7-1_Pag237_Fig7-22]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap7_7-1_Pag237_Fig7-22.png "Feynman Lectures on Computation - Richard P. Feynman (7.1 pag 237)"
+[RPFLecturesComputation_Chap7_7-1_Pag237_Frm7-15]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap7_7-1_Pag237_Frm7-15.png "Feynman Lectures on Computation - Richard P. Feynman (7.1 pag 237)"
+[RPFLecturesComputation_Chap7_7-2_Pag239_Fig7-33]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap7_7-2_Pag239_Fig7-33.png "Feynman Lectures on Computation - Richard P. Feynman (7.2 pag 239)"
+[RPFLecturesComputation_Chap7_7-2_Pag243_Fig7-36]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap7_7-2_Pag243_Fig7-36.png "Feynman Lectures on Computation - Richard P. Feynman (7.2 pag 243)"
+[RPFLecturesComputation_Chap7_7-2_Pag247_Fig7-39]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap7_7-2_Pag247_Fig7-39.png "Feynman Lectures on Computation - Richard P. Feynman (7.2 pag 247)"
+[RPFLecturesComputation_Chap7_7-2_Pag251_Fig7-43]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap7_7-2_Pag251_Fig7-43.png "Feynman Lectures on Computation - Richard P. Feynman (7.2 pag 251)"
+[RPFLecturesComputation_Chap7_7-2_Pag253_Fig7-44]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap7_7-2_Pag253_Fig7-44.png "Feynman Lectures on Computation - Richard P. Feynman (7.2 pag 253)"
+[RPFLecturesComputation_Chap7_7-3_Pag262_Fig7-51]: {{ site.baseurl }}/assets/RPFLecturesComputation_Chap7_7-3_Pag262_Fig7-51.png "Feynman Lectures on Computation - Richard P. Feynman (7.3 pag 262)"
 [RPFLecturesComputation_Afterword]: {{ site.baseurl }}/assets/RPFLecturesComputation_Afterword.png "Feynman Lectures on Computation - Richard P. Feynman (Afterword)"
 [RPFLecturesComputation_Epilogo]: {{ site.baseurl }}/assets/RPFLecturesComputation_Epilogo.jpeg "Feynman Lectures on Computation - Richard P. Feynman (Epilogo)"

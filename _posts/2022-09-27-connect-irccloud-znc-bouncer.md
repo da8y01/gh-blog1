@@ -14,25 +14,25 @@ description: "Connect IRCCloud to ZNC bouncer"
 </div>
 
 ## Introduction
-When trying to connect to [IRC][4] networks from different devices, there are many options for the client software/program to use.
+When trying to connect to [IRC][1] networks from different devices, there are many options for the client software/program to use.
 
-In this case, there was a stable connection from web application client to the IRC networks through a connection to a pre-configured ([ZNC][2]) bouncer with its regular user registered and tested.
+In this case, there was a stable connection from web application client to the IRC networks through a connection to a pre-configured ([ZNC][5]) bouncer with its regular user registered and tested.
 
 But from a mobile device, the setup/configuration could'nt satisfactorily/acceptably be made/done with any of the available apps.
 
-The [IRCCloud mobile app][5] option worked just normal, but with the typical instability of the connection.
+The [IRCCloud mobile app][3] option worked just normal, but with the typical instability of the connection.
 
-Then a configuration/setup for/with the [www.irccloud.com][3] Web application client to connect to a IRC (ZNC) bouncer was tried, to later reproduce it in a mobile device, and the result was the succesfull connection working/mode/done.
+Then a configuration/setup for/with the [www.irccloud.com][2] Web application client to connect to a IRC (ZNC) bouncer was tried, to later reproduce it in a mobile device, and the result was the succesfull connection working/made/done.
 
 Next are the main instructions to achieve the configuration.
 
 
 ## Web
-Appropiate configure/setup a ([ZNC][2]) bouncer instance and regular user in some VPS or server.
+Appropiate configure/setup a ([ZNC][5]) bouncer instance and regular user in some VPS or server.
 
 Test if the connection to the (ZNC) bouncer with the user credentials registered can be done/is succesfull; one way to do it is testing the login against the web administrative panel of the (ZNC) bouncer, typically entering the complete/correct URL (with port if needed/necessary) in the address bar of the web browser program/client, then fulfilling the user credentials and log in; again, if the login is successfull/can be done, then these would be the credentials/user-password/data to be utilized/used in the next steps of the setup/configuration.
 
-Log in to the [www.irccloud.com][3] account to view the "Join a new network" page:
+Log in to the [www.irccloud.com][2] account to view the "Join a new network" page:
 
 <div style="text-align:center" markdown="1">
 ![IRCloudZNC_JoinNetwork][IRCloudZNC_JoinNetwork]{: width="40%"}
@@ -62,7 +62,7 @@ From here, just to chat from this client software configured to use the bouncer.
 
 
 ## Mobile
-Similar to the web client configuration/setup, once the [IRCCloud mobile app][5] is installed, just fulfill the form fields with the data of the pre-configured IRC (ZNC) bouncer.
+Similar to the web client configuration/setup, once the [IRCCloud mobile app][3] is installed, just fulfill the form fields with the data of the pre-configured IRC (ZNC) bouncer.
 
 <div style="text-align:center" markdown="1">
 ![IRCloudZNC_MobileServerSettings][IRCloudZNC_MobileServerSettings]{: width="40%"}
@@ -88,20 +88,19 @@ That's all, from that it is just matter of type the right IRC server commands, t
 
 
 ## References
-* [https://www.irccloud.com/][1]{: target="_blank"}
-* [https://play.google.com/store/apps/details?id=com.irccloud.android][5]{: target="_blank"}
-* [https://blog.irccloud.com/bouncer/][6]{: target="_blank"}
-* [https://wiki.znc.in/ZNC][2]{: target="_blank"}
-* [https://en.wikipedia.org/wiki/Internet_Relay_Chat][4]{: target="_blank"}
+* [https://en.wikipedia.org/wiki/Internet_Relay_Chat][1]{: target="_blank"}
+* [https://www.irccloud.com/][2]{: target="_blank"}
+* [https://play.google.com/store/apps/details?id=com.irccloud.android][3]{: target="_blank"}
+* [https://blog.irccloud.com/bouncer/][4]{: target="_blank"}
+* [https://wiki.znc.in/ZNC][5]{: target="_blank"}
 
 
 
-[1]: https://www.irccloud.com/
-[2]: https://wiki.znc.in/ZNC
-[3]: https://www.irccloud.com/?/addNetwork
-[4]: https://en.wikipedia.org/wiki/Internet_Relay_Chat
-[5]: https://play.google.com/store/apps/details?id=com.irccloud.android
-[6]: https://blog.irccloud.com/bouncer/
+[1]: https://en.wikipedia.org/wiki/Internet_Relay_Chat
+[2]: https://www.irccloud.com/?/addNetwork
+[3]: https://play.google.com/store/apps/details?id=com.irccloud.android
+[4]: https://blog.irccloud.com/bouncer/
+[5]: https://wiki.znc.in/ZNC
 
 [IRCloudZNC_LinkPreview]: {{ site.baseurl }}/assets/IRCloudZNC_LinkPreview.jpg "IRCloudZNC Link Preview"
 [IRCloudZNC_JoinNetwork]: {{ site.baseurl }}/assets/IRCloudZNC_JoinNetwork.png "IRCloudZNC Join Network"
