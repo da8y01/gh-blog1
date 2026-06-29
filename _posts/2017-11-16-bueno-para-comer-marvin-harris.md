@@ -121,15 +121,14 @@ Diferencia entre Optimización y Óptimo, el autor aclara que no es un doctor Pa
 * [https://www.alianzaeditorial.es/libro.php?id=2656986&id_col=100508][1]{: target="_blank"}
 * [https://es.wikipedia.org/wiki/Marvin_Harris][2]{: target="_blank"}
 * [http://depa.fquim.unam.mx/amyd/archivero/LibroBuenoparacomerMarvinHarris_30755.pdf][3]{: target="_blank"}
-* Libro con anotaciones de Adobe Acrobat: [http://depa.fquim.unam.mx/amyd/archivero/LibroBuenoparacomerMarvinHarris_30755_Annotations20250715.pdf][4]{: target="_blank"}
+* Libro con anotaciones de Adobe Acrobat: [https://da8y01.github.io/gh-blog1/assets/LibroBuenoparacomerMarvinHarris_30755_Annotations20250715.pdf][LibroBuenoparacomerMarvinHarris_pdf]{: target="_blank"}
 
 
 
 [1]: https://www.alianzaeditorial.es/libro.php?id=2656986&id_col=100508
 [2]: https://es.wikipedia.org/wiki/Marvin_Harris
 [3]: http://depa.fquim.unam.mx/amyd/archivero/LibroBuenoparacomerMarvinHarris_30755.pdf
-[4]: http://depa.fquim.unam.mx/amyd/archivero/LibroBuenoparacomerMarvinHarris_30755_Annotations20250715.pdf
-
+[LibroBuenoparacomerMarvinHarris_pdf]: {{ site.baseurl }}/assets/LibroBuenoparacomerMarvinHarris_30755_Annotations20250715.pdf
 
 
 [BuenoParaComer_MarvinHarris_portada]: {{ site.baseurl }}/assets/BuenoParaComer_MarvinHarris_portada.jpg "Bueno para comer - Marvin Harris (portada)"
